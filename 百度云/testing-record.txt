@@ -1,0 +1,18 @@
+测试时间:
+2015-12-14
+
+测试APP:
+百度云 版本？
+
+测试硬件环境:
+HASEE 战神笔记本
+MEM: 16GB
+CPU: i7-4710MQ
+
+软件测试环境：
+1 android-x86-5.1 with linux kernel 4.0.9
+2 android-x86-5.1 with linux kernel 4.4-rc4
+
+测试结果:
+在１软件环境中，百度云不能运行
+在２软件环境中，百度云不能运行
