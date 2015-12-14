@@ -1,0 +1,20 @@
+测试时间:
+2015-12-14
+
+测试APP:
+2048 version ??
+
+测试硬件环境:
+神舟笔记本
+MEM: 8GB
+CPU: i7
+
+软件测试环境：
+1 android-x86-5.1 with linux kernel 4.0.9
+2 android-x86-5.1 with linux kernel 4.4-rc4
+
+测试结果:
+在１软件环境中，2048能够运行
+在２软件环境中，2048不能运行
+
+测试分析:
