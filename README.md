@@ -7,7 +7,10 @@ Using app name as DIR name
 
 examples
 ```
-chrome DIR
+$ ls
+chrome
+firfox
+...
 ```
 ### Files in DIR
 
