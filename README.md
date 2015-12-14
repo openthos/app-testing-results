@@ -1,13 +1,17 @@
 # app-testing-results
 record the testing results of different applications.
 
-# format
-## using app name as DIR name
+## Format and Content
+### DIR name
+Using app name as DIR name
+
+examples
 ```
 chrome DIR
 ```
-## in each DIR
-### testing-record.txt
+### Files in DIR
+
+#### testing-record.txt
 the example of content in test-record.txt
 ```
 测试时间:
