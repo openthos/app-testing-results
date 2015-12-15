@@ -5,7 +5,7 @@
 WPS 版本？
 
 测试硬件环境:
-HASEE Master Pro笔记本
+Master Pro笔记本
 MEM: 16GB
 CPU: i7-6700
 

@@ -2,10 +2,10 @@
 2015-12-14
 
 测试APP:
-WPS 版本？
+ES 文件管理器
 
 测试硬件环境:
-HASEE Master Pro笔记本
+Master Pro笔记本
 MEM: 16GB
 CPU: i7-6700
 
