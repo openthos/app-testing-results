@@ -19,3 +19,35 @@ CPU: i7-6700K
 在２软件环境中，不能运行
 
 测试分析:
+通过对比1、2的log日志，在1的34089行和2的20115行之前，word进程的运行状态都是一致的。2中从20116行开始出现1中没有的错误，摘抄如下：
+12-14 06:55:47.723  2927  3020 W GraphicBufferMapper: registerBuffer(0xe1bb1380) failed -22 (Invalid argument)
+12-14 06:55:47.723  2927  3020 E GraphicBuffer: unflatten: registerBuffer failed: Invalid argument (-22)
+12-14 06:55:47.723  2927  3020 E Surface : dequeueBuffer: IGraphicBufferProducer::requestBuffer failed: -22
+--------- beginning of crash
+12-14 06:55:47.723  2927  3020 F libc    : Fatal signal 11 (SIGSEGV), code 1, fault addr 0x1a8 in tid 3020 (RenderThread)
+12-14 06:55:47.773  1795  1795 I DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+12-14 06:55:47.773  1795  1795 I DEBUG   : Build fingerprint: 'Android-x86/android_x86_64/x86_64:5.1.1/LVY48I/12080507:eng/test-keys'
+12-14 06:55:47.773  1795  1795 I DEBUG   : Revision: '0'
+12-14 06:55:47.773  1795  1795 I DEBUG   : ABI: 'x86'
+12-14 06:55:47.773  1795  1795 I DEBUG   : pid: 2927, tid: 3020, name: RenderThread  >>> com.microsoft.office.word <<<
+12-14 06:55:47.773  1795  1795 I DEBUG   : signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x1a8
+12-14 06:55:47.775  1795  1795 I DEBUG   :     eax 00000000  ebx e137dcec  ecx 00000001  edx e19b4400
+12-14 06:55:47.775  1795  1795 I DEBUG   :     esi e1ae6014  edi e19bfef0
+12-14 06:55:47.775  1795  1795 I DEBUG   :     xcs 00000023  xds 0000002b  xes 0000002b  xfs 000000b7  xss 0000002b
+12-14 06:55:47.775  1795  1795 I DEBUG   :     eip e0e1c52d  ebp e19bfe80  esp e14f9700  flags 00210246
+12-14 06:55:47.775  1795  1795 I DEBUG   : 
+12-14 06:55:47.775  1795  1795 I DEBUG   : backtrace:
+12-14 06:55:47.775  1795  1795 I DEBUG   :     #00 pc 000fc52d  /android/system/lib/dri/i965_dri.so
+12-14 06:55:47.775  1795  1795 I DEBUG   :     #01 pc 12345677  <unknown>
+12-14 06:55:47.798  1795  1795 I DEBUG   : 
+12-14 06:55:47.798  1795  1795 I DEBUG   : Tombstone written to: /data/tombstones/tombstone_06
+12-14 06:55:47.798  2065  2091 I BootReceiver: Copying /data/tombstones/tombstone_06 to DropBox (SYSTEM_TOMBSTONE)
+12-14 06:55:47.798  2065  3026 W ActivityManager:   Force finishing activity 1 com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity
+12-14 06:55:47.799  1791  1835 D PermissionCache: checking android.permission.READ_FRAME_BUFFER for uid=1000 => granted (81 us)
+12-14 06:55:47.810  2065  2108 W InputDispatcher: channel '447c1f4 com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-14 06:55:47.810  2065  2108 E InputDispatcher: channel '447c1f4 com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-14 06:55:47.810  2065  2108 W InputDispatcher: channel '33d80506 com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-14 06:55:47.810  2065  2108 E InputDispatcher: channel '33d80506 com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-14 06:55:47.810  1804  1804 I Zygote  : Process 2927 exited due to signal (11)
+------------
+错误原因有待进一步分析。

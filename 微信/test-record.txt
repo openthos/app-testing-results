@@ -19,3 +19,33 @@ CPU: i7-6700K
 在２软件环境中，不能运行
 
 测试分析:
+通过对比1、2的log日志，在1的2194行和2的2064行之前，excel进程的运行状态都是一致的。2中从2066行开始出现1中没有的错误，摘抄如下：
+12-14 08:37:40.528  2912  2954 W GraphicBufferMapper: registerBuffer(0xe171c400) failed -22 (Invalid argument)
+12-14 08:37:40.528  2912  2954 E GraphicBuffer: unflatten: registerBuffer failed: Invalid argument (-22)
+12-14 08:37:40.528  2912  2954 E Surface : dequeueBuffer: IGraphicBufferProducer::requestBuffer failed: -22
+--------- beginning of crash
+12-14 08:37:40.528  2912  2954 F libc    : Fatal signal 11 (SIGSEGV), code 1, fault addr 0x1a8 in tid 2954 (RenderThread)
+12-14 08:37:40.579  1792  1792 I DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+12-14 08:37:40.579  1792  1792 I DEBUG   : Build fingerprint: 'Android-x86/android_x86_64/x86_64:5.1.1/LVY48I/12080507:eng/test-keys'
+12-14 08:37:40.579  1792  1792 I DEBUG   : Revision: '0'
+12-14 08:37:40.579  1792  1792 I DEBUG   : ABI: 'x86'
+12-14 08:37:40.579  1792  1792 I DEBUG   : pid: 2912, tid: 2954, name: RenderThread  >>> com.tencent.mm <<<
+12-14 08:37:40.579  1792  1792 I DEBUG   : signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x1a8
+12-14 08:37:40.580  1792  1792 I DEBUG   :     eax 00000000  ebx df8fdcec  ecx 00000001  edx e1532180
+12-14 08:37:40.580  1792  1792 I DEBUG   :     esi e1675014  edi e15457f0
+12-14 08:37:40.580  1792  1792 I DEBUG   :     xcs 00000023  xds 0000002b  xes 0000002b  xfs 000000b7  xss 0000002b
+12-14 08:37:40.580  1792  1792 I DEBUG   :     eip df39c52d  ebp e1545780  esp dfa044a0  flags 00210246
+12-14 08:37:40.580  1792  1792 I DEBUG   : 
+12-14 08:37:40.580  1792  1792 I DEBUG   : backtrace:
+12-14 08:37:40.580  1792  1792 I DEBUG   :     #00 pc 000fc52d  /android/system/lib/dri/i965_dri.so
+12-14 08:37:40.580  1792  1792 I DEBUG   :     #01 pc 12345677  <unknown>
+12-14 08:37:40.605  1792  1792 I DEBUG   : 
+12-14 08:37:40.605  1792  1792 I DEBUG   : Tombstone written to: /data/tombstones/tombstone_07
+12-14 08:37:40.605  2063  2089 I BootReceiver: Copying /data/tombstones/tombstone_07 to DropBox (SYSTEM_TOMBSTONE)
+12-14 08:37:40.606  2063  2960 W ActivityManager:   Force finishing activity 1 com.tencent.mm/.ui.LauncherUI
+12-14 08:37:40.612  2063  2093 I WindowManager: Screen frozen for +286ms due to Window{2d946cc8 u0 com.tencent.mm/com.tencent.mm.ui.LauncherUI}
+12-14 08:37:40.616  2063  2105 W InputDispatcher: channel '2d946cc8 com.tencent.mm/com.tencent.mm.ui.LauncherUI (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-14 08:37:40.616  2063  2105 E InputDispatcher: channel '2d946cc8 com.tencent.mm/com.tencent.mm.ui.LauncherUI (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-14 08:37:40.616  1801  1801 I Zygote  : Process 2912 exited due to signal (11)
+------------
+错误原因有待进一步分析。
