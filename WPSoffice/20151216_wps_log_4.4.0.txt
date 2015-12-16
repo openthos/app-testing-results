@@ -1,0 +1,327 @@
+12-16 02:38:50.030  3548  3548 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:38:52.705  1891  1891 D SurfaceFlinger: Set power mode=2, type=0 flinger=0x7f1b31862000
+12-16 02:38:52.705  1891  2137 D GRALLOC-DRM: set master
+12-16 02:38:55.041  3549  3549 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:38:57.324  2166  2205 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-16 02:38:57.324  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:38:57.336  1899  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 02:38:58.587  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:38:58.592  2166  2315 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10012 on display 0
+12-16 02:38:58.595  2166  2315 V WindowManager: addAppToken: AppWindowToken{3de38ef4 token=Token{31cd08c7 ActivityRecord{3339ca06 u0 com.android.systemui/.recents.RecentsActivity t6}}} to stack=0 task=6 at 0
+12-16 02:38:58.603  2282  2282 D OpenGLRenderer: setting property ambientRatio to 1.5
+12-16 02:38:58.603  2282  2282 D OpenGLRenderer: ambientRatio = 1.50
+12-16 02:38:58.604  2166  2593 V WindowManager: Adding window Window{18b6c051 u0 com.android.systemui/com.android.systemui.recents.RecentsActivity} at 3 of 8 (after Window{426e7e6 u0 com.android.launcher3/com.android.launcher3.Launcher})
+12-16 02:38:58.631  2166  2196 I ActivityManager: Displayed com.android.systemui/.recents.RecentsActivity: +35ms
+12-16 02:39:00.054  3553  3553 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.707  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:00.745  3556  3556 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.750  3557  3557 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.756  3558  3558 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.761  3563  3563 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.867  3566  3566 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.871  3567  3567 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.874  3568  3568 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.908  3569  3569 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.911  3570  3570 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:00.913  3571  3571 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:02.283  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:02.289  2166  2470 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb1/moffice_cn00563.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10034 on display 0
+12-16 02:39:02.290  2166  2470 V WindowManager: addAppToken: AppWindowToken{33202889 token=Token{165e6790 ActivityRecord{2fd7b253 u0 com.android.packageinstaller/.PackageInstallerActivity t3}}} to stack=1 task=3 at 1
+12-16 02:39:02.328  3414  3414 W PackageParser: No actions in intent filter at /storage/usb1/moffice_cn00563.apk Binary XML file line #845
+12-16 02:39:02.395  3414  3414 I AppSecurityPermissions: Ignoring unknown permission:com.xiaomi.permission.AUTH_SERVICE
+12-16 02:39:02.396  3414  3414 I AppSecurityPermissions: Ignoring unknown permission:cn.wps.moffice_eng.permission.MIPUSH_RECEIVE
+12-16 02:39:02.402  2166  2593 V WindowManager: Adding window Window{1d2120af u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 4 of 9 (after Window{39a4c35a u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+12-16 02:39:02.435  2166  2196 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +141ms
+12-16 02:39:02.602  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:02.608  2166  2187 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb1/moffice_cn00563.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10034 on display 0
+12-16 02:39:02.616  2166  2187 V WindowManager: addAppToken: AppWindowToken{2ae918cb token=Token{8e3c79a ActivityRecord{d9c445 u0 com.android.packageinstaller/.PackageInstallerActivity t3}}} to stack=1 task=3 at 2
+12-16 02:39:02.651  3414  3414 W PackageParser: No actions in intent filter at /storage/usb1/moffice_cn00563.apk Binary XML file line #845
+12-16 02:39:02.714  3414  3414 I AppSecurityPermissions: Ignoring unknown permission:com.xiaomi.permission.AUTH_SERVICE
+12-16 02:39:02.714  3414  3414 I AppSecurityPermissions: Ignoring unknown permission:cn.wps.moffice_eng.permission.MIPUSH_RECEIVE
+12-16 02:39:02.717  2166  2470 V WindowManager: Adding window Window{2cd75fc1 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{1d2120af u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+12-16 02:39:02.729  2166  2196 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +111ms
+12-16 02:39:05.066  3576  3576 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:05.139  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:07.106  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:07.106  2166  2589 I ActivityManager: START u0 {dat=file:///storage/usb1/moffice_cn00563.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10025 on display 0
+12-16 02:39:07.111  2166  2589 V WindowManager: addAppToken: AppWindowToken{6d99754 token=Token{21ee76a7 ActivityRecord{726c366 u0 com.android.packageinstaller/.InstallAppProgress t3}}} to stack=1 task=3 at 3
+12-16 02:39:07.148  2166  2200 I ActivityManager: Start proc 3579:com.android.defcontainer/u0a7 for service com.android.defcontainer/.DefaultContainerService
+12-16 02:39:07.149  2166  2315 V WindowManager: Adding window Window{2660d93e u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 6 of 11 (after Window{2cd75fc1 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+12-16 02:39:07.152  2166  2589 I art     : DexFile_isDexOptNeeded file /system/priv-app/DefaultContainerService/x86_64/DefaultContainerService.odex needs to be relocated for /system/priv-app/DefaultContainerService/DefaultContainerService.apk
+12-16 02:39:07.152  2166  2589 I PackageManager: Running patchoat on: com.android.defcontainer
+12-16 02:39:07.152  3601  3601 E installd: Running /system/bin/patchoat isa=x86_64 in-fd=5 (/system/priv-app/DefaultContainerService/x86_64/DefaultContainerService.odex) out-fd=6 (/data/dalvik-cache/x86_64/system@priv-app@DefaultContainerService@DefaultContainerService.apk@classes.dex)
+12-16 02:39:07.155  3601  3601 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-16 02:39:07.156  3601  3601 E cutils-trace: Error opening trace file: Permission denied (13)
+12-16 02:39:07.189  2166  2196 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +64ms
+12-16 02:39:07.189  3579  3579 I ActivityThread: Switching default density from 160 to 240
+12-16 02:39:07.218  3414  3437 D OpenGLRenderer: endAllStagingAnimators on 0x7f0cf2e23c00 (RippleDrawable) with handle 0x7f0cf38975a0
+12-16 02:39:08.007  3579  3599 D DefContainer: Copying /storage/usb1/moffice_cn00563.apk to base.apk
+12-16 02:39:08.778  2166  2200 W PackageParser: No actions in intent filter at /data/app/vmdl385380371.tmp/base.apk Binary XML file line #845
+12-16 02:39:09.187  2166  2200 D PackageManager: Renaming /data/app/vmdl385380371.tmp to /data/app/cn.wps.moffice_eng-1
+12-16 02:39:09.293  2166  2200 I PackageManager: Running dexopt on: /data/app/cn.wps.moffice_eng-1/base.apk pkg=cn.wps.moffice_eng isa=x86 vmSafeMode=false
+12-16 02:39:09.362  3604  3604 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-16 02:39:09.364  3604  3604 E cutils-trace: Error opening trace file: Permission denied (13)
+12-16 02:39:09.364  3604  3604 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/cn.wps.moffice_eng-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@cn.wps.moffice_eng-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only --swap-fd=7
+12-16 02:39:09.744  3604  3604 I dex2oat : Accepted running with swap.
+12-16 02:39:10.072  3613  3613 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:11.577  3604  3604 I dex2oat : dex2oat took 2.192s (threads: 8) arena alloc=0B java alloc=45MB native alloc=2MB free=9MB swap=16MB
+12-16 02:39:11.659  2166  2200 W PackageManager: Unknown permission com.xiaomi.permission.AUTH_SERVICE in package cn.wps.moffice_eng
+12-16 02:39:11.734  2166  2200 V BackupManagerService: restoreAtInstall pkg=cn.wps.moffice_eng token=1 restoreSet=0
+12-16 02:39:11.734  2166  2200 V BackupManagerService: Finishing install immediately
+12-16 02:39:11.734  2166  2200 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+12-16 02:39:11.739  2166  2206 I InputReader: Reconfiguring input devices.  changes=0x00000010
+12-16 02:39:11.760  2166  2191 I ActivityManager: Start proc 3614:android.process.acore/u0a3 for broadcast com.android.providers.contacts/.PackageIntentReceiver
+12-16 02:39:11.763  2166  2166 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:cn.wps.moffice_eng flg=0x4000010 (has extras) }
+12-16 02:39:11.771  2166  2190 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+12-16 02:39:11.777  3614  3614 I ActivityThread: Switching default density from 160 to 240
+12-16 02:39:11.790  2166  2200 I art     : Explicit concurrent mark sweep GC freed 267664(13MB) AllocSpace objects, 13(2MB) LOS objects, 33% free, 13MB/20MB, paused 1.434ms total 54.923ms
+12-16 02:39:11.798  2457  2457 I Launcher: Deferring update until onResume
+12-16 02:39:11.801  3614  3637 I ContactLocale: AddressBook Labels [en-US]: [, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Α, Β, Γ, Δ, Ε, Ζ, Η, Θ, Ι, Κ, Λ, Μ, Ν, Ξ, Ο, Π, Ρ, Σ, Τ, Υ, Φ, Χ, Ψ, Ω, , А, Б, В, Г, Д, Ђ, Е, Є, Ж, З, И, І, Ї, Й, Ј, К, Л, Љ, М, Н, Њ, О, П, Р, С, Т, Ћ, У, Ф, Х, Ц, Ч, Џ, Ш, Щ, Ю, Я, , א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת, , ا, ب, ت, ث, ج, ح, خ, د, ذ, ر, ز, س, ش, ص, ض, ط, ظ, ع, غ, ف, ق, ك, ل, م, ن, ه, و, ي, , ก, ข, ฃ, ค, ฅ, ฆ, ง, จ, ฉ, ช, ซ, ฌ, ญ, ฎ, ฏ, ฐ, ฑ, ฒ, ณ, ด, ต, ถ, ท, ธ, น, บ, ป, ผ, ฝ, พ, ฟ, ภ, ม, ย, ร, ฤ, ล, ฦ, ว, ศ, ษ, ส, ห, ฬ, อ, ฮ, , ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ, ㅇ, ㅈ, ㅊ, ㅋ, ㅌ, ㅍ, ㅎ, , あ, か, さ, た, な, は, ま, や, ら, わ, #, ]
+12-16 02:39:11.814  2166  2589 I ActivityManager: Start proc 3641:com.android.gallery3d/u0a42 for broadcast com.android.gallery3d/.app.PackagesMonitor
+12-16 02:39:11.836  2457  2457 I Launcher: Deferring update until onResume
+12-16 02:39:11.898  2457  2457 I Launcher: Deferring update until onResume
+12-16 02:39:12.008  3641  3641 I ActivityThread: Switching default density from 160 to 240
+12-16 02:39:12.212  2166  2570 I ActivityManager: Start proc 3663:com.svox.pico/u0a50 for broadcast com.svox.pico/.VoiceDataInstallerReceiver
+12-16 02:39:12.214  1902  1902 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 39% free, 1950KB/3MB, paused 18us total 2.037ms
+12-16 02:39:12.216  1902  1902 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 39% free, 1950KB/3MB, paused 16us total 1.930ms
+12-16 02:39:12.218  1902  1902 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 39% free, 1950KB/3MB, paused 17us total 1.848ms
+12-16 02:39:12.219  2166  3065 I art     : DexFile_isDexOptNeeded file /system/app/PicoTts/x86_64/PicoTts.odex needs to be relocated for /system/app/PicoTts/PicoTts.apk
+12-16 02:39:12.219  2166  3065 I PackageManager: Running patchoat on: com.svox.pico
+12-16 02:39:12.219  3686  3686 E installd: Running /system/bin/patchoat isa=x86_64 in-fd=5 (/system/app/PicoTts/x86_64/PicoTts.odex) out-fd=6 (/data/dalvik-cache/x86_64/system@app@PicoTts@PicoTts.apk@classes.dex)
+12-16 02:39:12.221  3686  3686 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-16 02:39:12.222  3686  3686 E cutils-trace: Error opening trace file: Permission denied (13)
+12-16 02:39:12.247  3663  3663 I ActivityThread: Switching default density from 160 to 240
+12-16 02:39:12.301  2166  2186 I ActivityManager: Killing 2866:com.android.keychain/1000 (adj 15): empty #17
+12-16 02:39:14.594  3414  3414 I InstallAppProgress: Finished installing cn.wps.moffice_eng
+12-16 02:39:14.595  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:14.608  1899  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 02:39:14.634  3414  3437 D OpenGLRenderer: endAllStagingAnimators on 0x7f0cf2e29400 (RippleDrawable) with handle 0x7f0cfc3cc560
+12-16 02:39:15.084  3689  3689 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:17.235  2166  2691 D NetworkMonitor/NetworkAgentInfo [Ethernet () - 100]: OfflineState{ when=-100ms what=532488 arg2=1 target=com.android.internal.util.StateMachine$SmHandler }
+12-16 02:39:17.235  2166  2691 D NetworkMonitor/NetworkAgentInfo [Ethernet () - 100]: DefaultState{ when=-100ms what=532488 arg2=1 target=com.android.internal.util.StateMachine$SmHandler }
+12-16 02:39:17.235  2166  2691 D NetworkMonitor/NetworkAgentInfo [Ethernet () - 100]: Forcing reevaluation
+12-16 02:39:17.235  2166  2691 D NetworkMonitor/NetworkAgentInfo [Ethernet () - 100]: EvaluatingState{ when=0 what=532486 arg1=4 target=com.android.internal.util.StateMachine$SmHandler }
+12-16 02:39:17.235  2166  2691 D NetworkMonitor/NetworkAgentInfo [Ethernet () - 100]: Checking http://connectivitycheck.android.com/generate_204 on f8:32:e4:a0:24:6d
+12-16 02:39:17.788  2166  2186 I ActivityManager: Killing 2890:com.android.dialer/u0a9 (adj 15): empty #17
+12-16 02:39:18.800  2166  2570 I ActivityManager: Killing 2921:com.android.managedprovisioning/u0a0 (adj 15): empty #17
+12-16 02:39:20.095  3692  3692 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:20.707  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:20.707  2166  2205 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-16 02:39:20.720  1899  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 02:39:20.749  2457  2457 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+12-16 02:39:20.749  2457  2457 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+12-16 02:39:21.276  2457  2611 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-16 02:39:21.730  2282  2282 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-16 02:39:21.730  2282  2282 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+12-16 02:39:21.827  2166  2206 I InputReader: Reconfiguring input devices.  changes=0x00000010
+12-16 02:39:21.828  2166  2166 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.android.musicfx flg=0x4000010 (has extras) }
+12-16 02:39:21.828  2457  2457 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@307e3d4c new=com.android.launcher3.LauncherApplication@307e3d4c
+12-16 02:39:22.547  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:23.707  2166  2593 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity (has extras)} from uid 10052 on display 0
+12-16 02:39:23.708  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:23.716  2166  2593 V WindowManager: addAppToken: AppWindowToken{30cde299 token=Token{3b457fe0 ActivityRecord{1425b9e3 u0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity t7}}} to stack=1 task=7 at 0
+12-16 02:39:23.733  3699  3699 W libnb   : Native bridge is disabled
+12-16 02:39:23.734  2166  2187 I ActivityManager: Start proc 3699:cn.wps.moffice_eng/u0a53 for activity cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity
+12-16 02:39:23.738  3699  3699 I ActivityThread: Switching default density from 160 to 240
+12-16 02:39:23.752  2166  2593 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-16 02:39:23.781  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.781  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.783  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.783  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.783  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.784  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.784  1890  2132 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.785  3699  3699 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.787  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.787  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.788  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.788  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.789  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.789  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.790  1890  2132 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.790  3699  3699 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.797  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.798  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.799  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.799  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.800  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.800  3699  3699 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.801  1890  2132 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:23.801  3699  3699 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:23.983  3699  3699 I WebViewFactory: Loading com.android.webview version 39 (eng.-x86_64) (code 399998)
+12-16 02:39:23.984  2166  2315 I PackageManager: Running dexopt on: /system/app/webview/webview.apk pkg=com.android.webview isa=x86 vmSafeMode=false
+12-16 02:39:23.991  3728  3728 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-16 02:39:23.993  3728  3728 E cutils-trace: Error opening trace file: Permission denied (13)
+12-16 02:39:23.993  3728  3728 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/system/app/webview/webview.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/system@app@webview@webview.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only --swap-fd=7
+12-16 02:39:24.025  3728  3728 I dex2oat : Decided to run without swap.
+12-16 02:39:24.094  3728  3728 I dex2oat : dex2oat took 101.023ms (threads: 8) arena alloc=0B java alloc=1396KB native alloc=518KB free=7MB
+12-16 02:39:24.223  3699  3718 I art     : Background sticky concurrent mark sweep GC freed 1736(140KB) AllocSpace objects, 0(0B) LOS objects, 4% free, 4MB/4MB, paused 482us total 110.920ms
+12-16 02:39:24.318  3699  3699 I LibraryLoader: Time to load native libraries: 191 ms (timestamps 9521-9712)
+12-16 02:39:24.318  3699  3699 I LibraryLoader: Expected native library version number "",actual native library version number ""
+12-16 02:39:24.349  3699  3699 V WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {330235f3}
+12-16 02:39:24.350  3699  3699 I LibraryLoader: Expected native library version number "",actual native library version number ""
+12-16 02:39:24.361  3699  3699 I chromium: [INFO:library_loader_hooks.cc(104)] Chromium logging enabled: level = 0, default verbosity = 0
+12-16 02:39:24.364  3699  3699 I BrowserStartupController: Initializing chromium process, singleProcess=true
+12-16 02:39:24.365  3699  3699 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-16 02:39:24.408  3699  3743 W AudioManagerAndroid: Requires BLUETOOTH permission
+12-16 02:39:24.423  3699  3699 W chromium: [WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+12-16 02:39:24.424  3699  3699 I chromium: [INFO:aw_browser_main_parts.cc(65)] Load from apk succesful, fd=18 off=46184 len=3037
+12-16 02:39:24.430  3699  3699 I chromium: [INFO:aw_browser_main_parts.cc(78)] Loading webviewchromium.pak from, fd:28 off:229484 len:1089587
+12-16 02:39:24.446  3699  3699 I GRALLOC-DRM: create intel for driver i915
+12-16 02:39:24.496  3699  3699 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-16 02:39:24.496  3699  3699 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-16 02:39:24.538  3699  3699 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-16 02:39:24.538  3699  3699 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-16 02:39:24.538  3699  3699 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-16 02:39:24.725  3699  3699 W chromium: [WARNING:data_reduction_proxy_settings.cc(331)] SPDY proxy OFF at startup
+12-16 02:39:24.875  3699  3699 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-16 02:39:24.878  3699  3699 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+12-16 02:39:24.979  3699  3761 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-16 02:39:24.981  2166  2570 V WindowManager: Adding window Window{2cf84d72 u0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity} at 4 of 9 (after Window{39a4c35a u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+12-16 02:39:25.107  3766  3766 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:25.109  3699  3761 I OpenGLRenderer: Initialized EGL, version 1.4
+12-16 02:39:25.109  3699  3761 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-16 02:39:25.192  3699  3761 D OpenGLRenderer: Enabling debug mode 0
+12-16 02:39:25.222  2166  2186 I ActivityManager: Start proc 3769:cn.wps.moffice_eng:pushservice/u0a53 for service cn.wps.moffice_eng/com.xiaomi.push.service.XMPushService
+12-16 02:39:25.224  3769  3769 W libnb   : Native bridge is disabled
+12-16 02:39:25.240  3769  3769 I ActivityThread: Switching default density from 160 to 240
+12-16 02:39:25.276  2166  2470 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-16 02:39:25.277  3699  3761 W GraphicBufferMapper: registerBuffer(0xdf4d6d80) failed -22 (Invalid argument)
+12-16 02:39:25.277  3699  3761 E GraphicBuffer: unflatten: registerBuffer failed: Invalid argument (-22)
+12-16 02:39:25.277  3699  3761 E Surface : dequeueBuffer: IGraphicBufferProducer::requestBuffer failed: -22
+12-16 02:39:25.277  3699  3761 F libc    : Fatal signal 11 (SIGSEGV), code 1, fault addr 0x1a8 in tid 3761 (RenderThread)
+12-16 02:39:25.281  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:25.281  3769  3769 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:25.281  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:25.281  3769  3769 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:25.282  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:25.282  3769  3769 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:25.282  1890  2132 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:25.282  3769  3769 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:25.282  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:25.283  3769  3769 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:25.283  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:25.283  3769  3769 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:25.283  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:25.283  3769  3769 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:25.283  1890  2132 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:25.283  3769  3769 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:25.328  1895  1895 I DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+12-16 02:39:25.328  1895  1895 I DEBUG   : Build fingerprint: 'Android-x86/android_x86_64/x86_64:5.1.1/LVY48I/12080507:eng/test-keys'
+12-16 02:39:25.328  1895  1895 I DEBUG   : Revision: '0'
+12-16 02:39:25.328  1895  1895 I DEBUG   : ABI: 'x86'
+12-16 02:39:25.328  1895  1895 I DEBUG   : pid: 3699, tid: 3761, name: RenderThread  >>> cn.wps.moffice_eng <<<
+12-16 02:39:25.328  1895  1895 I DEBUG   : signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x1a8
+12-16 02:39:25.332  1895  1895 I DEBUG   :     eax 00000000  ebx e0199cec  ecx 00000001  edx f3998900
+12-16 02:39:25.332  1895  1895 I DEBUG   :     esi df46a014  edi f3bb5580
+12-16 02:39:25.332  1895  1895 I DEBUG   :     xcs 00000023  xds 0000002b  xes 0000002b  xfs 000000ff  xss 0000002b
+12-16 02:39:25.332  1895  1895 I DEBUG   :     eip dfc3852d  ebp f3bb5510  esp dedfb700  flags 00210246
+12-16 02:39:25.332  1895  1895 I DEBUG   : 
+12-16 02:39:25.332  1895  1895 I DEBUG   : backtrace:
+12-16 02:39:25.332  1895  1895 I DEBUG   :     #00 pc 000fc52d  /android/system/lib/dri/i965_dri.so
+12-16 02:39:25.332  1895  1895 I DEBUG   :     #01 pc 12345677  <unknown>
+12-16 02:39:25.358  3769  3769 V xiaomi  : [Thread:1] the job is pended, the controller is not ready.
+12-16 02:39:25.358  3769  3798 V xiaomi  : [Thread:36] executing the pending job.
+12-16 02:39:25.358  3769  3798 V xiaomi  : [Thread:36] JOB: prepare the mi push account.
+12-16 02:39:25.361  3769  3798 V xiaomi  : [Thread:36] JOB: register app
+12-16 02:39:25.395  1895  1895 W libbacktrace: virtual bool Backtrace::VerifyReadWordArgs(uintptr_t, word_t*): invalid pointer 0xe62f831e
+12-16 02:39:25.409  1895  1895 I DEBUG   : 
+12-16 02:39:25.409  1895  1895 I DEBUG   : Tombstone written to: /data/tombstones/tombstone_00
+12-16 02:39:25.412  2166  2205 W InputDispatcher: channel '2cf84d72 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-16 02:39:25.412  2166  2205 E InputDispatcher: channel '2cf84d72 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-16 02:39:25.414  2166  2589 I WindowState: WIN DEATH: Window{2cf84d72 u0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}
+12-16 02:39:25.414  2166  3802 W ActivityManager:   Force finishing activity 1 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity
+12-16 02:39:25.414  2166  2589 W InputDispatcher: Attempted to unregister already unregistered input channel '2cf84d72 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity (server)'
+12-16 02:39:25.415  2166  2315 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@2e0018ca attribute=null, token = android.os.BinderProxy@3fe74641
+12-16 02:39:25.419  1903  1903 I Zygote  : Process 3699 exited due to signal (11)
+12-16 02:39:25.715  2166  3802 I WindowManager: Screenshot max retries 4 of Token{3b457fe0 ActivityRecord{1425b9e3 u0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity t7 f}} appWin=Window{2cf84d72 u0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity EXITING} drawState=1
+12-16 02:39:25.716  2166  3802 W ActivityManager: Exception thrown during pause
+12-16 02:39:25.716  2166  3802 W ActivityManager: android.os.DeadObjectException
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at android.os.BinderProxy.transactNative(Native Method)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at android.os.BinderProxy.transact(Binder.java:496)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at android.app.ApplicationThreadProxy.schedulePauseActivity(ApplicationThreadNative.java:704)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.ActivityStack.startPausingLocked(ActivityStack.java:825)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.ActivityStack.finishActivityLocked(ActivityStack.java:2726)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.ActivityStack.finishTopRunningActivityLocked(ActivityStack.java:2583)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.ActivityStackSupervisor.finishTopRunningActivityLocked(ActivityStackSupervisor.java:2497)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.ActivityManagerService.handleAppCrashLocked(ActivityManagerService.java:11505)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.ActivityManagerService.makeAppCrashingLocked(ActivityManagerService.java:11402)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.ActivityManagerService.crashApplication(ActivityManagerService.java:12086)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.ActivityManagerService.handleApplicationCrashInner(ActivityManagerService.java:11597)
+12-16 02:39:25.716  2166  3802 W ActivityManager: 	at com.android.server.am.NativeCrashListener$NativeCrashReporter.run(NativeCrashListener.java:86)
+12-16 02:39:25.716  1888  1888 E lowmemorykiller: Error opening /proc/3699/oom_score_adj; errno=2
+12-16 02:39:25.725  2166  2593 I ActivityManager: Process cn.wps.moffice_eng (pid 3699) has died
+12-16 02:39:25.760  2166  3310 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-16 02:39:25.760  2166  3310 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-16 02:39:25.771  2166  3310 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-16 02:39:25.771  2166  3310 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-16 02:39:25.771  2166  3310 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-16 02:39:25.771  2166  3310 I OpenGLRenderer: Initialized EGL, version 1.4
+12-16 02:39:27.251  2166  2691 D NetworkMonitor/NetworkAgentInfo [Ethernet () - 100]: Probably not a portal: exception java.net.SocketTimeoutException: failed to connect to connectivitycheck.android.com/216.58.221.142 (port 80) after 10000ms
+12-16 02:39:27.251  2166  2220 D ConnectivityService: setProvNotificationVisibleIntent: E visible=false networkType=0 extraInfo=null
+12-16 02:39:28.873  2166  2191 I ActivityManager: Start proc 3806:cn.wps.moffice_eng/u0a53 for broadcast cn.wps.moffice_eng/cn.wps.moffice.common.readlater.push.PushReceiver
+12-16 02:39:28.875  1903  1903 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 32us total 2.216ms
+12-16 02:39:28.877  3806  3806 W libnb   : Native bridge is disabled
+12-16 02:39:28.877  1903  1903 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 29us total 2.078ms
+12-16 02:39:28.879  1903  1903 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 29us total 2.026ms
+12-16 02:39:28.881  3806  3806 I ActivityThread: Switching default density from 160 to 240
+12-16 02:39:28.894  2166  2187 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-16 02:39:28.897  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:28.897  3806  3806 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:28.897  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:28.897  3806  3806 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:28.898  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:28.898  3806  3806 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:28.898  1890  2132 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:28.898  3806  3806 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:28.898  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:28.898  3806  3806 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:28.899  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:28.899  3806  3806 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:28.899  1890  2132 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:28.899  3806  3806 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:28.899  1890  2132 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-16 02:39:28.899  3806  3806 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-16 02:39:28.904  2166  2470 I ActivityManager: Killing 2958:com.android.onetimeinitializer/u0a4 (adj 15): empty #17
+12-16 02:39:30.120  3834  3834 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:30.786  2166  2224 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 02:39:30.796  2166  3310 D OpenGLRenderer: endAllStagingAnimators on 0x7f0cfc33fc00 (RippleDrawable) with handle 0x7f0ced8a8f80
+12-16 02:39:30.798  2166  2593 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@27b2f64 attribute=null, token = android.os.BinderProxy@3fe74641
+12-16 02:39:30.799  1899  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 02:39:35.132  3836  3836 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:35.201  2166  2206 I InputReader: Reconfiguring input devices.  changes=0x00000010
+12-16 02:39:35.201  2166  2166 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:cn.wps.moffice_eng flg=0x4000010 (has extras) }
+12-16 02:39:35.231  2457  2457 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@307e3d4c new=com.android.launcher3.LauncherApplication@307e3d4c
+12-16 02:39:35.605  3769  3798 D com.xiaomi.common.Network: Http POST Response Code: 200
+12-16 02:39:35.622  3769  3798 V xiaomi  : [Thread:36] JOB: register app
+12-16 02:39:35.623  3769  3798 V xiaomi  : [Thread:36] JOB: do reconnect..
+12-16 02:39:35.624  3769  3798 V xiaomi  : [Thread:36] update the connection status. disconnected -> connecting : ERROR_OK 
+12-16 02:39:35.625  2166  2187 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-16 02:39:35.627  3769  3798 V xiaomi  : [Thread:36] begin to connect to 42.62.94.2
+12-16 02:39:35.646  3769  3842 V xiaomi  : [Thread:39] get bucket: 中国 北京  isp:教育网 Ethernet- hosts:{"app.chat.xiaomi.net":["42.62.94.2:5222","114.54.23.2:80","111.206.200.2:5222","120.134.33.29:5222"],"resolver.msg.xiaomi.net":["42.62.94.234:5222","42.62.94.234:80","120.134.33.157:5222","120.134.33.157:80"]}
+12-16 02:39:35.647  2166  2186 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-16 02:39:36.777  1891  1891 D SurfaceFlinger: Set power mode=0, type=0 flinger=0x7f1b31862000
+12-16 02:39:40.143  3844  3844 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 02:39:40.644  3769  3798 V xiaomi  : [Thread:36] connected to 42.62.94.2 in 5017
+12-16 02:39:40.644  2166  2187 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-16 02:39:40.648  3769  3845 V xiaomi  : [Thread:40] setChallenge hash = 0c952a1e
+12-16 02:39:40.648  3769  3845 V xiaomi  : [Thread:40] update the connection status. connecting -> connected : ERROR_OK 
+12-16 02:39:40.649  3769  3798 V xiaomi  : [Thread:36] JOB: bind the client. 5, 51365648725@xiaomi.com/anyH1g25
+12-16 02:39:40.649  3769  3798 V xiaomi  : [Thread:36] update the client 5 status. unbind->binding unknown ERROR_OK null null
+12-16 02:39:40.651  3769  3798 V xiaomi  : [Thread:36] SMACK: bind id=aJ63q-0
+12-16 02:39:40.660  3769  3798 V xiaomi  : [Thread:36] try send mi push message. packagename:cn.wps.moffice_eng action:Registration
+12-16 02:39:40.661  3769  3798 V xiaomi  : [Thread:36] update the client 5 status. binding->binded OPEN ERROR_OK null null
+12-16 02:39:40.661  3769  3798 V xiaomi  : [Thread:36] SMACK: channel bind succeeded, chid=5
+12-16 02:39:40.807  3769  3798 V xiaomi  : [Thread:36] receive a message, appid=2882303761517132502, msgid= dUkR1450233568918
+12-16 02:39:40.821  3806  3847 V xiaomi  : [Thread:43] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE
+12-16 02:39:40.822  3806  3847 V xiaomi  : [Thread:43] processing a message, action=Registration
+12-16 02:39:40.844  3806  3847 W System.err: java.lang.NullPointerException: Attempt to read from field 'java.util.List cn.wps.moffice.main.common.ServerParamsUtil$Params.extras' on a null object reference
+12-16 02:39:40.870  3806  3847 W System.err: 	at cn.wps.moffice.main.common.ServerParamsUtil.my(Unknown Source)
+12-16 02:39:40.870  3806  3847 W System.err: 	at duk.bdk(Unknown Source)
+12-16 02:39:40.870  3806  3847 W System.err: 	at cn.wps.moffice.MiPushMessageReceiver.onReceiveRegisterResult(Unknown Source)
+12-16 02:39:40.870  3806  3847 W System.err: 	at com.xiaomi.mipush.sdk.MessageHandleService.onHandleIntent(Unknown Source)
+12-16 02:39:40.870  3806  3847 W System.err: 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+12-16 02:39:40.870  3806  3847 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-16 02:39:40.870  3806  3847 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+12-16 02:39:40.870  3806  3847 W System.err: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+12-16 02:39:43.182  3849  3849 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
