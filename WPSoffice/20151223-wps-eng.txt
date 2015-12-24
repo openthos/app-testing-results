@@ -1,0 +1,337 @@
+12-23 08:16:32.625  5027  5075 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:16:32.625  5027  5075 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:16:32.625  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:16:32.625  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:16:32.625  5027  5075 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:16:32.625  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:16:32.625  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:16:32.625  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:16:32.625  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:16:32.625  5027  5075 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:16:32.625  5027  5075 W System.err: 	at com.tencent.beacon.event.p.a(SourceFile:79)
+12-23 08:16:32.625  5027  5075 W System.err: 	at com.tencent.beacon.event.q.run(SourceFile:36)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:16:32.625  5027  5075 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:16:32.625  5027  5075 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:16:32.625  5027  5075 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:16:32.625  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:16:32.625  5027  5075 W System.err: 	... 20 more
+12-23 08:16:32.626  5027  5075 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:16:33.959  2980  3037 V xiaomi  : [Thread:51] JOB: do reconnect..
+12-23 08:16:33.960  2980  3037 V xiaomi  : [Thread:51] update the connection status. disconnected -> connecting : ERROR_OK 
+12-23 08:16:33.961  2980  3037 V xiaomi  : [Thread:51] begin to connect to 42.62.94.2:5222
+12-23 08:16:35.131  6700  6700 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:36.068  1927  1927 D SurfaceFlinger: Set power mode=2, type=0 flinger=0x7f08f1462000
+12-23 08:16:36.069  1927  2171 D GRALLOC-DRM: set master
+12-23 08:16:38.934  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:16:38.946  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:16:40.095  2208  2534 W ActivityManager: getRunningAppProcesses: caller 10059 does not hold REAL_GET_TASKS; limiting output
+12-23 08:16:40.138  6704  6704 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:40.143  1935  2259 W AudioFlinger: write blocked for 1145 msecs, 4 delayed writes, thread 0xf5ca4000
+12-23 08:16:41.197  6706  6706 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:41.199  6708  6708 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:41.201  6710  6710 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:41.204  6715  6715 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:41.207  6716  6716 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:41.209  6719  6719 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:43.967  2980  3037 V xiaomi  : SMACK: Could not connect to:42.62.94.2:5222
+12-23 08:16:43.968  2980  3037 V xiaomi  : [Thread:51] begin to connect to 114.54.23.2:80
+12-23 08:16:45.145  6724  6724 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:50.158  6730  6730 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:52.537  2208  2353 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-23 08:16:53.978  2980  3037 V xiaomi  : SMACK: Could not connect to:114.54.23.2:80
+12-23 08:16:53.979  2980  3037 V xiaomi  : [Thread:51] begin to connect to 111.206.200.2:5222
+12-23 08:16:55.170  6731  6731 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:16:57.652  5027  5075 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:16:57.653  5027  5075 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:16:57.653  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:16:57.653  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:16:57.653  5027  5075 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:16:57.653  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:16:57.653  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:16:57.653  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:16:57.653  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:16:57.653  5027  5075 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:16:57.653  5027  5075 W System.err: 	at com.tencent.beacon.event.p.a(SourceFile:79)
+12-23 08:16:57.653  5027  5075 W System.err: 	at com.tencent.beacon.event.q.run(SourceFile:36)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:16:57.653  5027  5075 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:16:57.653  5027  5075 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:16:57.653  5027  5075 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:16:57.653  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:16:57.653  5027  5075 W System.err: 	... 20 more
+12-23 08:16:57.653  5027  5075 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:16:57.778  5027  5075 E beacon  :  req error  java.lang.Exception: 1:java.lang.Exception: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname 2:same 3:same 
+12-23 08:16:59.870  2208  4561 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity (has extras)} from uid 10020 on display 0
+12-23 08:16:59.870  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:16:59.879  2208  4561 V WindowManager: addAppToken: AppWindowToken{2f3ba427 token=Token{de36e6 ActivityRecord{10be7141 u0 cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity t70}}} to stack=1 task=70 at 0
+12-23 08:16:59.880  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=2277162, downTime=2228447, deviceId=15, source=0x101 }
+12-23 08:16:59.880  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=2277162, downTime=2228447, deviceId=15, source=0x101 }
+12-23 08:16:59.880  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=2277162, downTime=2228447, deviceId=15, source=0x101 }
+12-23 08:16:59.880  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=2277162, downTime=2228447, deviceId=15, source=0x101 }
+12-23 08:16:59.880  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=2277162, downTime=2228447, deviceId=15, source=0x101 }
+12-23 08:16:59.880  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=2277162, downTime=2228447, deviceId=15, source=0x101 }
+12-23 08:16:59.882  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:16:59.904  2208  4566 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=cn.wps.moffice_eng/cn.wps.moffice.main.StartPublicActivity (has extras)} from uid 10057 on display 0
+12-23 08:16:59.906  2208  4566 V WindowManager: addAppToken: AppWindowToken{3fc6db72 token=Token{2bfe07d ActivityRecord{2592f6d4 u0 cn.wps.moffice_eng/cn.wps.moffice.main.StartPublicActivity t71}}} to stack=1 task=71 at 0
+12-23 08:16:59.955  2208  2353 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x20000000 cmp=cn.wps.moffice_eng/cn.wps.moffice.main.local.home.PadHomeActivity (has extras)} from uid 10057 on display 0
+12-23 08:16:59.958  2208  2353 V WindowManager: addAppToken: AppWindowToken{1a233cbe token=Token{2e6f0779 ActivityRecord{1e92ac40 u0 cn.wps.moffice_eng/cn.wps.moffice.main.local.home.PadHomeActivity t71}}} to stack=1 task=71 at 1
+12-23 08:17:00.092  2208  2264 D WifiService: New client listening to asynchronous messages
+12-23 08:17:00.177  6757  6757 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:00.230  2901  6762 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-23 08:17:00.231  2208  3464 V WindowManager: Based on layer: Adding window Window{2c4600f u0 cn.wps.moffice_eng/cn.wps.moffice.main.local.home.PadHomeActivity} at 13 of 18
+12-23 08:17:00.247  2901  2901 V NFC     : this device does not have NFC support
+12-23 08:17:00.330  2901  6762 I GRALLOC-DRM: create intel for driver i915
+12-23 08:17:00.332  2901  6762 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-23 08:17:00.332  2901  6762 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-23 08:17:00.344  2901  6762 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-23 08:17:00.344  2901  6762 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-23 08:17:00.344  2901  6762 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-23 08:17:00.345  2901  6762 I OpenGLRenderer: Initialized EGL, version 1.4
+12-23 08:17:00.345  2901  6762 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-23 08:17:00.348  2901  6762 D OpenGLRenderer: Enabling debug mode 0
+12-23 08:17:00.370  4267  4267 I ntfs-3g : ntfs_mst_post_read_fixup_warn: magic: 0x00000000  size: 1024   usa_ofs: 0  usa_count: 65535: Invalid argument
+12-23 08:17:00.465  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:00.465  2901  2901 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:00.465  4267  4267 I ntfs-3g : ntfs_mst_post_read_fixup_warn: magic: 0x00000000  size: 1024   usa_ofs: 0  usa_count: 65535: Invalid argument
+12-23 08:17:00.465  2208  2238 I ActivityManager: Displayed cn.wps.moffice_eng/cn.wps.moffice.main.local.home.PadHomeActivity: +505ms (total +585ms)
+12-23 08:17:00.465  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:00.466  2901  2901 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:00.466  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:00.466  2901  2901 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:00.466  1926  2166 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:00.466  2901  2901 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:00.884  2208  6351 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:01.005  2901  6762 W OpenGLRenderer: Incorrectly called buildLayer on View: bxy, destroying layer...
+12-23 08:17:01.005  2901  6762 W OpenGLRenderer: Incorrectly called buildLayer on View: bxy, destroying layer...
+12-23 08:17:01.005  2901  6762 W OpenGLRenderer: Incorrectly called buildLayer on View: bxy, destroying layer...
+12-23 08:17:01.005  2901  6762 W OpenGLRenderer: Incorrectly called buildLayer on View: bxy, destroying layer...
+12-23 08:17:03.939  2208  2280 D TaskPersister: removeObsoleteFile: deleting file=44_task.xml
+12-23 08:17:03.939  2208  2280 D TaskPersister: removeObsoleteFile: deleting file=44_task_thumbnail.png
+12-23 08:17:03.987  2980  3037 V xiaomi  : SMACK: Could not connect to:111.206.200.2:5222
+12-23 08:17:03.988  2980  3037 V xiaomi  : [Thread:51] begin to connect to 120.134.33.29:5222
+12-23 08:17:05.185  6791  6791 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:07.382  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:17:07.395  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:17:09.290  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:17:09.505  2208  2353 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:09.510  2208  4561 I ActivityManager: START u0 {cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1 (has extras)} from uid 10057 on display 0
+12-23 08:17:09.512  2208  4561 V WindowManager: addAppToken: AppWindowToken{28dfe7c9 token=Token{4d49bd0 ActivityRecord{8b10f93 u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1 t72}}} to stack=1 task=72 at 0
+12-23 08:17:09.530  2208  2229 V WindowManager: not Base app: Adding window Window{85311ef u0 cn.wps.moffice_eng/cn.wps.moffice.main.local.home.PadHomeActivity} at 14 of 19
+12-23 08:17:09.792  5903  5903 I createWeakExpressKey: Start:  00000000113bd6d10033c5d7cdf3cfdf  guid
+12-23 08:17:09.792  5903  5903 I createWeakExpressKey: qqmusic_createTstreamKey  uuid:  00000000113bd6d10033c5d7cdf3cfdf
+12-23 08:17:09.793  5903  5903 I createWeakExpressKey: qqmusic_createTstreamKey: cookie_time 86400
+12-23 08:17:10.023  2208  2233 W ActivityManager: Activity pause timeout for ActivityRecord{1e92ac40 u0 cn.wps.moffice_eng/cn.wps.moffice.main.local.home.PadHomeActivity t71}
+12-23 08:17:10.042  6808  6808 D houdini : [6808] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+12-23 08:17:10.043  2208  2233 I ActivityManager: Start proc 6808:cn.wps.moffice_eng:writer1/u0a57 for activity cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1
+12-23 08:17:10.047  6808  6808 I ActivityThread: Switching default density from 160 to 240
+12-23 08:17:10.062  2208  2353 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:10.095  2208  4561 W ActivityManager: getRunningAppProcesses: caller 10059 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:10.108  2208  2250 I InputDispatcher: Dropping event because there is no touchable window at (688, 193).
+12-23 08:17:10.198  6830  6830 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:10.252  2208  2250 I InputDispatcher: Dropping event because there is no touchable window at (688, 193).
+12-23 08:17:10.332  2208  2250 I InputDispatcher: Dropping event because there is no touchable window at (688, 193).
+12-23 08:17:10.388  2901  2901 I Choreographer: Skipped 52 frames!  The application may be doing too much work on its main thread.
+12-23 08:17:10.390  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:10.390  6808  6808 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:10.391  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:10.391  6808  6808 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:10.391  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:10.392  6808  6808 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:10.392  1926  2166 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:10.392  6808  6808 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:10.394  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:10.395  6808  6808 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:10.395  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:10.396  6808  6808 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:10.396  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:10.397  6808  6808 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:10.397  1926  2166 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache/
+12-23 08:17:10.397  6808  6808 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/cn.wps.moffice_eng/cache
+12-23 08:17:10.458  6808  6827 W art     : Suspending all threads took: 29.589ms
+12-23 08:17:10.460  6808  6827 I art     : Background sticky concurrent mark sweep GC freed 4143(243KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 3MB/3MB, paused 31.167ms total 44.916ms
+12-23 08:17:10.484  2208  2250 I InputDispatcher: Dropping event because there is no touchable window at (688, 193).
+12-23 08:17:10.716  6808  6846 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-23 08:17:10.717  2208  2533 V WindowManager: Adding window Window{17b55539 u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1} at 15 of 20 (after Window{85311ef u0 cn.wps.moffice_eng})
+12-23 08:17:10.720  2208  4566 V WindowManager: Adding window Window{39ef7271 u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1} at 15 of 21 (before Window{17b55539 u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1})
+12-23 08:17:10.742  6808  6846 I GRALLOC-DRM: create intel for driver i915
+12-23 08:17:10.742  6808  6846 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-23 08:17:10.742  6808  6846 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-23 08:17:10.750  6808  6846 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-23 08:17:10.750  6808  6846 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-23 08:17:10.750  6808  6846 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-23 08:17:10.750  6808  6846 I OpenGLRenderer: Initialized EGL, version 1.4
+12-23 08:17:10.750  6808  6846 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-23 08:17:10.751  6808  6846 D OpenGLRenderer: Enabling debug mode 0
+12-23 08:17:10.759  6808  6854 W System.err: java.io.IOException: File not exists: /storage/emulated/0/Fonts/.wps-fonts.db
+12-23 08:17:10.759  6808  6854 W System.err: 	at cvg.a(Unknown Source)
+12-23 08:17:10.759  6808  6854 W System.err: 	at cuw.C(Unknown Source)
+12-23 08:17:10.759  6808  6854 W System.err: 	at cuw.aLi(Unknown Source)
+12-23 08:17:10.759  6808  6854 W System.err: 	at amb.JA(Unknown Source)
+12-23 08:17:10.759  6808  6854 W System.err: 	at grs.run(Unknown Source)
+12-23 08:17:10.764  2208  2353 V WindowManager: Adding window Window{27f9a3e2 u0 SurfaceView} at 15 of 22 (before Window{39ef7271 u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1})
+12-23 08:17:10.775  6808  6854 D houdini : [6854] Added shared library /data/app/cn.wps.moffice_eng-1/lib/arm/libfreetype-jni.so for ClassLoader by Native Bridge.
+12-23 08:17:10.809  2208  2238 I ActivityManager: Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1: +786ms
+12-23 08:17:10.879  6808  6808 V NFC     : this device does not have NFC support
+12-23 08:17:10.887  2208  2264 D WifiService: New client listening to asynchronous messages
+12-23 08:17:11.045  2327  2327 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-23 08:17:11.045  2327  2327 W PackageManager: Failure retrieving resources for cn.wps.moffice_eng: Resource ID #0x0
+12-23 08:17:13.383  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:17:13.395  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:17:13.466  2208  2533 I ActivityManager: START u0 {flg=0x4000 cmp=cn.wps.moffice_eng/cn.wps.moffice.main.StartPublicActivity (has extras)} from uid 10057 on display 0
+12-23 08:17:13.486  2208  2533 V WindowManager: addAppToken: AppWindowToken{339baebf token=Token{1c53ecde ActivityRecord{471e419 u0 cn.wps.moffice_eng/cn.wps.moffice.main.StartPublicActivity t71}}} to stack=1 task=71 at 1
+12-23 08:17:13.508  6808  6808 D InputEventConsistencyVerifier: TouchEvent: Source was not SOURCE_CLASS_POINTER.
+12-23 08:17:13.508  6808  6808 D InputEventConsistencyVerifier:   in android.view.GestureDetector@34d19b03
+12-23 08:17:13.508  6808  6808 D InputEventConsistencyVerifier:   0: sent at 0, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=0, downTime=0, deviceId=0, source=0x0 }
+12-23 08:17:13.536  2208  2250 I InputDispatcher: Dropping event because there is no touchable window at (1875, 55).
+12-23 08:17:13.536  2208  2250 I InputDispatcher: Dropping event because there is no touchable window at (1875, 56).
+12-23 08:17:13.538  2208  3464 I ActivityManager: moveTaskToBack: TaskRecord{f41c98c #72 A=cn.wps.moffice_eng.writer1 U=0 sz=1}
+12-23 08:17:13.599  6808  6846 D OpenGLRenderer: endAllStagingAnimators on 0xe2a72c80 (LayerDrawable) with handle 0xdf40a3a0
+12-23 08:17:13.998  2980  3037 V xiaomi  : SMACK: Could not connect to:120.134.33.29:5222
+12-23 08:17:13.999  2980  3037 V xiaomi  : [Thread:51] begin to connect to app.chat.xiaomi.net
+12-23 08:17:15.210  6888  6888 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:17.954  5604  6428 I GeckoWebappsUpdateTimer: periodic check for webapp updates
+12-23 08:17:17.954  5604  6428 D GeckoWebappManager: checkForUpdates
+12-23 08:17:17.954  5604  6428 D GeckoWebapps: getAll
+12-23 08:17:17.960  5604  6428 D GeckoWebapps: Saving /data/data/org.mozilla.firefox/files/mozilla/webapps/webapps.json
+12-23 08:17:17.969  5604  6428 D GeckoWebapps: Success saving /data/data/org.mozilla.firefox/files/mozilla/webapps/webapps.json
+12-23 08:17:20.223  6890  6890 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:22.537  2208  4566 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:24.960  2901  6786 W System.err: java.net.UnknownHostException: Unable to resolve host "cloudservice13.kingsoft-office-service.com": No address associated with hostname
+12-23 08:17:24.960  2901  6786 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:17:24.960  2901  6786 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:17:24.960  2901  6786 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:17:24.960  2901  6786 W System.err: 	at com.android.okhttp.HostResolver$1.getAllByName(HostResolver.java:29)
+12-23 08:17:24.960  2901  6786 W System.err: 	at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:232)
+12-23 08:17:24.960  2901  6786 W System.err: 	at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:124)
+12-23 08:17:24.960  2901  6786 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:272)
+12-23 08:17:24.960  2901  6786 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:211)
+12-23 08:17:24.960  2901  6786 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:382)
+12-23 08:17:24.960  2901  6786 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:106)
+12-23 08:17:24.960  2901  6786 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.getOutputStream(HttpURLConnectionImpl.java:217)
+12-23 08:17:24.960  2901  6786 W System.err: 	at glb.d(Unknown Source)
+12-23 08:17:24.960  2901  6786 W System.err: 	at glb.c(Unknown Source)
+12-23 08:17:24.960  2901  6786 W System.err: 	at cn.wps.moffice.main.common.ServerParamsUtil$a.aKF(Unknown Source)
+12-23 08:17:24.960  2901  6786 W System.err: 	at cn.wps.moffice.main.common.ServerParamsUtil$a.doInBackground(Unknown Source)
+12-23 08:17:24.960  2901  6786 W System.err: 	at android.os.AsyncTask$2.call(AsyncTask.java:292)
+12-23 08:17:24.960  2901  6786 W System.err: 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+12-23 08:17:24.960  2901  6786 W System.err: 	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+12-23 08:17:24.960  2901  6786 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:17:24.960  2901  6786 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:17:24.960  2901  6786 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:17:24.960  2901  6786 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:17:24.960  2901  6786 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:17:24.960  2901  6786 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:17:24.960  2901  6786 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:17:24.960  2901  6786 W System.err: 	... 20 more
+12-23 08:17:25.234  6894  6894 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:30.246  6896  6896 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:30.262  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:17:30.274  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:17:30.477  2208  2228 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:30.479  2208  2229 I ActivityManager: START u0 {cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1 (has extras)} from uid 10057 on display 0
+12-23 08:17:30.480  2208  2229 V WindowManager: addAppToken: AppWindowToken{29e677db token=Token{badf8ea ActivityRecord{38b3a8d5 u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1 t73}}} to stack=1 task=73 at 0
+12-23 08:17:30.495  2208  4561 V WindowManager: not Base app: Adding window Window{3612fd51 u0 cn.wps.moffice_eng/cn.wps.moffice.main.local.home.PadHomeActivity} at 14 of 19
+12-23 08:17:30.629  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:17:30.629  2208  2533 V WindowManager: Adding window Window{3e270589 u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1} at 15 of 20 (after Window{3612fd51 u0 cn.wps.moffice_eng})
+12-23 08:17:30.634  2208  4566 V WindowManager: Adding window Window{14ae709a u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1} at 15 of 21 (before Window{3e270589 u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1})
+12-23 08:17:30.664  2208  2649 V WindowManager: Adding window Window{39c0bba7 u0 SurfaceView} at 15 of 22 (before Window{14ae709a u0 cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1})
+12-23 08:17:30.680  2208  2238 I ActivityManager: Displayed cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1: +86ms (total +17s147ms)
+12-23 08:17:30.694  2901  6762 D OpenGLRenderer: endAllStagingAnimators on 0xdf067080 (AnimListView) with handle 0xdf017b60
+12-23 08:17:30.840  2208  4561 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:30.841  2208  3464 I ActivityManager: START u0 {cmp=cn.wps.moffice_eng/cn.wps.moffice.writer.multiactivity.Writer1 (has extras)} from uid 10057 on display 0
+12-23 08:17:30.883  2208  6351 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:30.884  2208  4566 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:30.886  2208  2649 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:31.601  2327  2327 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-23 08:17:31.601  2327  2327 W PackageManager: Failure retrieving resources for cn.wps.moffice_eng: Resource ID #0x0
+12-23 08:17:31.639  2901  2901 I Choreographer: Skipped 47 frames!  The application may be doing too much work on its main thread.
+12-23 08:17:32.329  6944  6944 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.333  6947  6947 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.372  6956  6956 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.379  6960  6960 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.386  6964  6964 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.392  6965  6965 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.403  6972  6972 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.409  6973  6973 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.413  6978  6978 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.417  6979  6979 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.420  6981  6981 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.423  6984  6984 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.427  6991  6991 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.429  6993  6993 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:32.534  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:17:32.686  2208  2353 I ActivityManager: START u0 {flg=0x4000 cmp=cn.wps.moffice_eng/cn.wps.moffice.main.StartPublicActivity (has extras)} from uid 10057 on display 0
+12-23 08:17:32.705  2208  2353 V WindowManager: addAppToken: AppWindowToken{2ef9dc97 token=Token{2da94b16 ActivityRecord{1f157831 u0 cn.wps.moffice_eng/cn.wps.moffice.main.StartPublicActivity t71}}} to stack=1 task=71 at 1
+12-23 08:17:32.730  2208  2533 I ActivityManager: moveTaskToBack: TaskRecord{15631e84 #73 A=cn.wps.moffice_eng.writer1 U=0 sz=1}
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier: KeyEvent: ACTION_UP but key was not down.
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier:   in android.view.ViewRootImpl@23b03493
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier:   0: sent at 2309815000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier:   -- recent events --
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier:   1: sent at 2308735254000, MotionEvent { action=ACTION_HOVER_EXIT, id[0]=0, x[0]=793.80286, y[0]=521.5215, toolType[0]=TOOL_TYPE_MOUSE, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2308735, downTime=2307583, deviceId=16, source=0x2002 }
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier:   2: sent at 2307719251000, MotionEvent { action=ACTION_HOVER_MOVE, id[0]=0, x[0]=793.80286, y[0]=520.5215, toolType[0]=TOOL_TYPE_MOUSE, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2307719, downTime=2307583, deviceId=16, source=0x2002 }
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier:   3: sent at 2307719251000, MotionEvent { action=ACTION_HOVER_ENTER, id[0]=0, x[0]=793.80286, y[0]=520.5215, toolType[0]=TOOL_TYPE_MOUSE, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2307719, downTime=2307583, deviceId=16, source=0x2002 }
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier:   4: sent at 2307719251000, MotionEvent { action=ACTION_UP, id[0]=0, x[0]=793.80286, y[0]=520.5215, toolType[0]=TOOL_TYPE_MOUSE, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2307719, downTime=2307583, deviceId=16, source=0x2002 }
+12-23 08:17:32.766  2901  2901 D InputEventConsistencyVerifier:   5: sent at 2307583259000, MotionEvent { action=ACTION_DOWN, id[0]=0, x[0]=793.80286, y[0]=520.5215, toolType[0]=TOOL_TYPE_MOUSE, buttonState=BUTTON_PRIMARY, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2307583, downTime=2307583, deviceId=16, source=0x2002 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:32.766  2901  2901 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x80000068, repeatCount=0, eventTime=2309815, downTime=2309679, deviceId=-1, source=0x101 }
+12-23 08:17:33.638  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:17:33.639  2208  2250 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-23 08:17:34.021  2980  3037 V xiaomi  : SMACK: Could not connect to:app.chat.xiaomi.net
+12-23 08:17:34.022  2208  6351 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:34.025  2980  3037 V xiaomi  : fail to create xmpp connection
+12-23 08:17:34.025  2980  3037 V xiaomi  : SMACK: Could not connect to 42.62.94.2:5222 port:5222 failed to connect to /42.62.94.2 (port 5222) after 10000ms
+12-23 08:17:34.025  2980  3037 V xiaomi  : SMACK: Could not connect to 114.54.23.2:80 port:5222 failed to connect to /114.54.23.2 (port 80) after 10000ms
+12-23 08:17:34.025  2980  3037 V xiaomi  : SMACK: Could not connect to 111.206.200.2:5222 port:5222 failed to connect to /111.206.200.2 (port 5222) after 10000ms
+12-23 08:17:34.025  2980  3037 V xiaomi  : SMACK: Could not connect to 120.134.33.29:5222 port:5222 failed to connect to /120.134.33.29 (port 5222) after 10000ms
+12-23 08:17:34.025  2980  3037 V xiaomi  : SMACK: Could not connect to app.chat.xiaomi.net port:5222 Host is unresolved: app.chat.xiaomi.net
+12-23 08:17:34.025  2980  3037 V xiaomi  : : 
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.smack.l.a(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.smack.l.a(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.smack.l.r(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService.l(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService.k(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService.h(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService$c.a(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService$e.c(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.e.handleMessage(Unknown Source)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at android.os.Looper.loop(Looper.java:135)
+12-23 08:17:34.025  2980  3037 V xiaomi  : 	at android.os.HandlerThread.run(HandlerThread.java:61)
+12-23 08:17:34.025  2980  3037 V xiaomi  : [Thread:51] update the connection status. connecting -> disconnected : ERROR_NETWORK_FAILED 
+12-23 08:17:34.090  2980  3037 V xiaomi  : [Thread:51] schedule reconnect in 300s
+12-23 08:17:34.268  2535  2716 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-23 08:17:34.718  2327  2327 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-23 08:17:34.719  2327  2327 W PackageManager: Failure retrieving resources for cn.wps.moffice_eng: Resource ID #0x0
+12-23 08:17:35.258  7009  7009 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:36.631  2208  2280 D TaskPersister: removeObsoleteFile: deleting file=72_task.xml
+12-23 08:17:36.631  2208  2280 D TaskPersister: removeObsoleteFile: deleting file=72_task_thumbnail.png
+12-23 08:17:36.828  1927  1927 D SurfaceFlinger: Set power mode=0, type=0 flinger=0x7f08f1462000
+12-23 08:17:40.095  2208  4566 W ActivityManager: getRunningAppProcesses: caller 10059 does not hold REAL_GET_TASKS; limiting output
+12-23 08:17:40.265  7010  7010 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:17:44.458  7011  7011 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
