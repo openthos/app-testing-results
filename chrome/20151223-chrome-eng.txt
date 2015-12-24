@@ -1,0 +1,1203 @@
+12-23 08:10:29.650  5539  5539 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:30.883  2208  2533 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:10:30.884  2208  4566 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:10:33.436  1927  1927 D SurfaceFlinger: Set power mode=2, type=0 flinger=0x7f08f1462000
+12-23 08:10:33.436  1927  2171 D GRALLOC-DRM: set master
+12-23 08:10:33.824  2980  3037 V xiaomi  : [Thread:51] JOB: do reconnect..
+12-23 08:10:33.826  2980  3037 V xiaomi  : [Thread:51] update the connection status. disconnected -> connecting : ERROR_OK 
+12-23 08:10:33.826  2980  3037 V xiaomi  : [Thread:51] begin to connect to 42.62.94.2:5222
+12-23 08:10:34.662  5540  5540 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:35.266  5027  5073 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:10:35.266  5027  5073 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:10:35.266  5027  5073 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:10:35.266  5027  5073 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:10:35.266  5027  5073 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:10:35.266  5027  5073 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:10:35.266  5027  5073 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:10:35.266  5027  5073 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:10:35.266  5027  5073 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:10:35.266  5027  5073 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:10:35.266  5027  5073 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:10:35.266  5027  5073 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:10:35.266  5027  5073 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:10:35.266  5027  5073 W System.err: 	at com.tencent.beacon.event.s.b(SourceFile:175)
+12-23 08:10:35.266  5027  5073 W System.err: 	at com.tencent.beacon.event.t.run(SourceFile:38)
+12-23 08:10:35.266  5027  5073 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:10:35.266  5027  5073 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:10:35.266  5027  5073 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:10:35.267  5027  5073 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:10:35.267  5027  5073 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:10:35.267  5027  5073 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:10:35.267  5027  5073 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:10:35.267  5027  5073 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:10:35.267  5027  5073 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:10:35.267  5027  5073 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:10:35.267  5027  5073 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:10:35.267  5027  5073 W System.err: 	... 20 more
+12-23 08:10:35.267  5027  5073 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:10:35.392  5027  5073 E beacon  : ChannelID: 72280
+12-23 08:10:35.392  5027  5073 E beacon  :  req error  java.lang.Exception: 1:java.lang.Exception: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname 2:same 3:same 
+12-23 08:10:35.397  5027  5073 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:427)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:10:35.397  5027  5073 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:10:35.397  5027  5073 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:10:35.397  5027  5073 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:10:35.397  5027  5073 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:10:35.397  5027  5073 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:10:35.397  5027  5073 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:10:35.397  5027  5073 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:10:35.397  5027  5073 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:10:35.397  5027  5073 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:10:35.397  5027  5073 W System.err: 	at com.tencent.beacon.event.s.b(SourceFile:175)
+12-23 08:10:35.397  5027  5073 W System.err: 	at com.tencent.beacon.event.t.run(SourceFile:38)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:10:35.397  5027  5073 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:10:35.397  5027  5073 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:10:36.366  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:10:36.378  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:10:36.641  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:10:38.453  2208  4566 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.cyanogenmod.filemanager/.activities.NavigationActivity (has extras)} from uid 10020 on display 0
+12-23 08:10:38.453  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:10:38.460  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=1895738, downTime=1713975, deviceId=15, source=0x101 }
+12-23 08:10:38.460  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=1895738, downTime=1713975, deviceId=15, source=0x101 }
+12-23 08:10:38.460  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=1895738, downTime=1713975, deviceId=15, source=0x101 }
+12-23 08:10:38.461  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=1895738, downTime=1713975, deviceId=15, source=0x101 }
+12-23 08:10:38.461  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=1895738, downTime=1713975, deviceId=15, source=0x101 }
+12-23 08:10:38.461  2535  2535 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_F1, scanCode=59, metaState=META_ALT_ON|META_ALT_LEFT_ON|META_CTRL_ON|META_CTRL_LEFT_ON, flags=0x28, repeatCount=0, eventTime=1895738, downTime=1713975, deviceId=15, source=0x101 }
+12-23 08:10:38.474  5546  5546 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.479  5547  5547 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.484  5548  5548 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.492  5549  5549 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.605  5552  5552 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.610  5553  5553 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.613  5554  5554 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.656  5555  5555 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.658  5556  5556 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.659  5557  5557 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:38.822  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:10:38.828  2208  3464 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/Android-APK/chrome.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10048 on display 0
+12-23 08:10:38.830  2208  3464 V WindowManager: addAppToken: AppWindowToken{2b3f0bb9 token=Token{22cb1980 ActivityRecord{14813603 u0 com.android.packageinstaller/.PackageInstallerActivity t64}}} to stack=1 task=64 at 1
+12-23 08:10:38.858  4867  4867 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /storage/usb0/Android-APK/chrome.apk Binary XML file line #33
+12-23 08:10:38.858  4867  4867 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /storage/usb0/Android-APK/chrome.apk Binary XML file line #34
+12-23 08:10:38.918  4867  4867 I AppSecurityPermissions: Ignoring unknown permission:com.chrome.permission.DEVICE_EXTRAS
+12-23 08:10:38.918  4867  4867 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.c2dm.permission.RECEIVE
+12-23 08:10:38.918  4867  4867 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.providers.gsf.permission.READ_GSERVICES
+12-23 08:10:38.918  4867  4867 I AppSecurityPermissions: Ignoring unknown permission:com.sec.enterprise.knox.MDM_CONTENT_PROVIDER
+12-23 08:10:38.928  2208  2228 V WindowManager: Adding window Window{1ad72f5f u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 8 of 13 (after Window{7a09b85 u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+12-23 08:10:38.964  2208  2238 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +128ms
+12-23 08:10:39.673  5562  5562 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:40.095  2208  2649 W ActivityManager: getRunningAppProcesses: caller 10059 does not hold REAL_GET_TASKS; limiting output
+12-23 08:10:41.423  5027  5075 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:10:41.423  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:10:41.423  5027  5075 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:10:41.423  5027  5075 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:10:41.423  5027  5075 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:10:41.423  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:10:41.423  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:10:41.423  5027  5075 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:10:41.423  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:10:41.423  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:10:41.423  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:10:41.423  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:10:41.423  5027  5075 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:10:41.423  5027  5075 W System.err: 	at com.tencent.beacon.event.p.a(SourceFile:79)
+12-23 08:10:41.423  5027  5075 W System.err: 	at com.tencent.beacon.event.q.run(SourceFile:36)
+12-23 08:10:41.423  5027  5075 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:10:41.423  5027  5075 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:10:41.423  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:10:41.424  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:10:41.424  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:10:41.424  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:10:41.424  5027  5075 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:10:41.424  5027  5075 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:10:41.424  5027  5075 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:10:41.424  5027  5075 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:10:41.424  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:10:41.424  5027  5075 W System.err: 	... 20 more
+12-23 08:10:41.424  5027  5075 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:10:43.837  2980  3037 V xiaomi  : SMACK: Could not connect to:42.62.94.2:5222
+12-23 08:10:43.838  2980  3037 V xiaomi  : [Thread:51] begin to connect to 114.54.23.2:80
+12-23 08:10:44.685  5564  5564 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:46.029  2208  2649 I ActivityManager: START u0 {dat=file:///storage/usb0/Android-APK/chrome.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10016 on display 0
+12-23 08:10:46.030  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:10:46.031  2208  2649 V WindowManager: addAppToken: AppWindowToken{d69627b token=Token{9556a0a ActivityRecord{bbaa75 u0 com.android.packageinstaller/.InstallAppProgress t64}}} to stack=1 task=64 at 2
+12-23 08:10:46.036  2208  3464 I ActivityManager: Killing 3508:org.mozilla.firefox/u0a54 (adj 15): empty for 1805s
+12-23 08:10:46.042  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:10:46.045  2208  2266 D NsdService: Client disconnected
+12-23 08:10:46.045  2208  2266 D NsdService: stopMDnsDaemon
+12-23 08:10:46.046  1930  2193 D MDnsDS  : Stopping MDNSD
+12-23 08:10:46.067  4867  4867 W InstallAppProgress: Replacing package:com.android.chrome
+12-23 08:10:46.076  2208  2649 V WindowManager: Adding window Window{3bd4a644 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 9 of 14 (after Window{1ad72f5f u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+12-23 08:10:46.099  2208  2238 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +63ms
+12-23 08:10:46.127  4867  4889 D OpenGLRenderer: endAllStagingAnimators on 0x7f22c6e9e400 (RippleDrawable) with handle 0x7f22c6d75e60
+12-23 08:10:46.320  4904  4925 D DefContainer: Copying /storage/usb0/Android-APK/chrome.apk to base.apk
+12-23 08:10:47.740  2208  2243 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /data/app/vmdl212907888.tmp/base.apk Binary XML file line #33
+12-23 08:10:47.740  2208  2243 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /data/app/vmdl212907888.tmp/base.apk Binary XML file line #34
+12-23 08:10:48.114  2208  2243 D PackageManager: Renaming /data/app/vmdl212907888.tmp to /data/app/com.android.chrome-2
+12-23 08:10:48.114  2208  2233 I ActivityManager: Force stopping com.android.chrome appid=10053 user=-1: uninstall pkg
+12-23 08:10:48.114  2208  2233 I ActivityManager: Killing 4212:com.android.chrome/u0a53 (adj 13): stop com.android.chrome
+12-23 08:10:48.121  2208  2649 W ActivityManager: Spurious death for ProcessRecord{51079dc 4212:com.android.chrome/u0a53}, curProc for 4212: null
+12-23 08:10:48.171  2208  2243 I PackageManager: Package com.android.chrome codePath changed from /data/app/com.android.chrome-1 to /data/app/com.android.chrome-2; Retaining data and using new
+12-23 08:10:48.357  2208  2243 I PackageManager: Running dexopt on: /data/app/com.android.chrome-2/base.apk pkg=com.android.chrome isa=x86 vmSafeMode=false
+12-23 08:10:48.360  5569  5569 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-23 08:10:48.361  5569  5569 E cutils-trace: Error opening trace file: Permission denied (13)
+12-23 08:10:48.361  5569  5569 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.android.chrome-2/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.android.chrome-2@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only --swap-fd=7
+12-23 08:10:48.445  5569  5569 I dex2oat : Decided to run without swap.
+12-23 08:10:48.765  5569  5569 I dex2oat : dex2oat took 404.378ms (threads: 8) arena alloc=0B java alloc=11MB native alloc=1172KB free=10MB
+12-23 08:10:48.769  2208  2243 W PackageManager: Code path for pkg : com.android.chrome changing from /data/app/com.android.chrome-1 to /data/app/com.android.chrome-2
+12-23 08:10:48.769  2208  2243 W PackageManager: Resource path for pkg : com.android.chrome changing from /data/app/com.android.chrome-1 to /data/app/com.android.chrome-2
+12-23 08:10:48.769  2208  2233 I ActivityManager: Force stopping com.android.chrome appid=10053 user=-1: update pkg
+12-23 08:10:48.818  2208  2243 W PackageManager: Unknown permission com.chrome.permission.DEVICE_EXTRAS in package com.android.chrome
+12-23 08:10:48.818  2208  2243 W PackageManager: Unknown permission com.google.android.c2dm.permission.RECEIVE in package com.android.chrome
+12-23 08:10:48.818  2208  2243 W PackageManager: Unknown permission com.google.android.providers.gsf.permission.READ_GSERVICES in package com.android.chrome
+12-23 08:10:48.818  2208  2243 W PackageManager: Unknown permission com.sec.enterprise.knox.MDM_CONTENT_PROVIDER in package com.android.chrome
+12-23 08:10:48.874  2208  2243 I ActivityManager: Force stopping com.android.chrome appid=10053 user=0: pkg removed
+12-23 08:10:48.876  2208  2243 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+12-23 08:10:48.876  2208  2208 D JobSchedulerService: Receieved: android.intent.action.PACKAGE_REMOVED
+12-23 08:10:48.876  2208  2208 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.chrome flg=0x4000010 (has extras) }
+12-23 08:10:48.880  2208  2251 I InputReader: Reconfiguring input devices.  changes=0x00000010
+12-23 08:10:48.882  2208  2251 I InputReader: Reconfiguring input devices.  changes=0x00000010
+12-23 08:10:48.883  2535  2535 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@20a5065a new=com.android.launcher3.LauncherApplication@20a5065a
+12-23 08:10:48.884  2208  2251 I InputReader: Reconfiguring input devices.  changes=0x00000010
+12-23 08:10:48.910  2208  2229 I ActivityManager: Start proc 5580:com.android.keychain/1000 for broadcast com.android.keychain/.KeyChainBroadcastReceiver
+12-23 08:10:48.911  2208  2280 D TaskPersister: removeObsoleteFile: deleting file=22_task.xml
+12-23 08:10:48.911  2208  2280 D TaskPersister: removeObsoleteFile: deleting file=22_task_thumbnail.png
+12-23 08:10:48.924  5580  5580 I ActivityThread: Switching default density from 160 to 240
+12-23 08:10:48.926  2208  2243 I art     : Explicit concurrent mark sweep GC freed 68637(3MB) AllocSpace objects, 11(333KB) LOS objects, 33% free, 16MB/24MB, paused 1.263ms total 50.058ms
+12-23 08:10:48.927  5580  5580 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1692 android.content.ContextWrapper.startService:516 android.content.ContextWrapper.startService:516 com.android.keychain.KeyChainBroadcastReceiver.onReceive:12 android.app.ActivityThread.handleReceiver:2609 
+12-23 08:10:48.947  2208  2208 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.chrome flg=0x4000010 (has extras) }
+12-23 08:10:48.947  2208  2208 W BackupManagerService: Removing schedule queue dupe of com.android.chrome
+12-23 08:10:49.001  2208  2228 I ActivityManager: Start proc 5604:org.mozilla.firefox/u0a54 for broadcast org.mozilla.firefox/org.mozilla.gecko.webapp.UninstallListener
+12-23 08:10:49.002  2208  2232 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+12-23 08:10:49.020  5604  5604 I ActivityThread: Switching default density from 160 to 240
+12-23 08:10:49.053  5627  5627 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:49.064  2208  2266 D NsdService: startMDnsDaemon
+12-23 08:10:49.064  1930  2193 D MDnsDS  : Starting MDNSD
+12-23 08:10:49.096  2535  2535 I Launcher: Deferring update until onResume
+12-23 08:10:49.096  2535  2535 I Launcher: Deferring update until onResume
+12-23 08:10:49.265  2208  2266 D NsdService: New client listening to asynchronous messages
+12-23 08:10:49.265  2208  2266 D NsdService: New client, channel: com.android.internal.util.AsyncChannel@144b0a46 messenger: android.os.Messenger@3938e407
+12-23 08:10:49.266  5604  5604 I GeckoWebappUninstallListener: Package is being replaced; ignoring removal intent
+12-23 08:10:49.277  2535  2535 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@20a5065a new=com.android.launcher3.LauncherApplication@20a5065a
+12-23 08:10:49.280  5604  5604 I FxAccounts: firefox :: FxAccountUpgradeReceiver :: Upgrade broadcast received.
+12-23 08:10:49.282  5604  5634 I FxAccounts: firefox :: FxAccountUpgradeReceiver :: Trying to unpickle any pickled Firefox Account.
+12-23 08:10:49.284  5604  5634 I FxAccounts: firefox :: FxAccountUpgradeReceiver :: Trying to advance 0 existing Firefox Accounts from the Doghouse to Separated (if necessary).
+12-23 08:10:49.301  5604  5604 I FxAccounts: firefox :: UpgradeReceiver :: No Sync Accounts found; not upgrading anything.
+12-23 08:10:51.253  2208  2649 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.chrome cmp=com.android.chrome/com.google.android.apps.chrome.Main} from uid 10016 on display 0
+12-23 08:10:51.254  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:10:51.258  2208  2649 V WindowManager: addAppToken: AppWindowToken{3af74859 token=Token{5c1e4a0 ActivityRecord{3675b9a3 u0 com.android.chrome/com.google.android.apps.chrome.Main t66}}} to stack=1 task=66 at 0
+12-23 08:10:51.267  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:10:51.298  5637  5637 D houdini : [5637] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+12-23 08:10:51.300  2208  4566 I ActivityManager: Start proc 5637:com.android.chrome/u0a53 for activity com.android.chrome/com.google.android.apps.chrome.Main
+12-23 08:10:51.324  5637  5637 I ActivityThread: Switching default density from 160 to 240
+12-23 08:10:51.357  2208  2353 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x14002000 pkg=com.android.chrome cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity (has extras)} from uid 10053 on display 0
+12-23 08:10:51.360  2208  2353 V WindowManager: addAppToken: AppWindowToken{470aacc token=Token{3f204cff ActivityRecord{12b1c1e u0 com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity t66}}} to stack=1 task=66 at 1
+12-23 08:10:51.427  5637  5662 I cr_LibraryLoader: Using linker: org.chromium.base.library_loader.LegacyLinker
+12-23 08:10:51.429  5637  5662 D houdini : [5662] Added shared library /data/app/com.android.chrome-2/lib/arm/libchromium_android_linker.so for ClassLoader by Native Bridge.
+12-23 08:10:51.432  5637  5667 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-23 08:10:51.432  2208  2228 V WindowManager: Based on layer: Adding window Window{3ad8a991 u0 com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity} at 9 of 14
+12-23 08:10:51.437  5637  5662 I cr_LibraryLoader: Loading chrome
+12-23 08:10:51.451  5637  5667 I GRALLOC-DRM: create intel for driver i915
+12-23 08:10:51.452  5637  5667 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-23 08:10:51.452  5637  5667 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-23 08:10:51.455  5637  5667 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-23 08:10:51.455  5637  5667 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-23 08:10:51.455  5637  5667 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-23 08:10:51.455  5637  5667 I OpenGLRenderer: Initialized EGL, version 1.4
+12-23 08:10:51.455  5637  5667 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-23 08:10:51.456  5637  5667 D OpenGLRenderer: Enabling debug mode 0
+12-23 08:10:51.457  5637  5662 I cr_LibraryLoader: Time to load native libraries: 30 ms (timestamps 8709-8739)
+12-23 08:10:51.457  5637  5662 I cr_LibraryLoader: Expected native library version number "47.0.2526.83", actual native library version number "47.0.2526.83"
+12-23 08:10:51.457  2208  4561 V WindowManager: Adding window Window{3c7cdcf7 u0 SurfaceView} at 9 of 15 (before Window{3ad8a991 u0 com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity})
+12-23 08:10:51.458  5637  5662 I chromium: [INFO:library_loader_hooks.cc(122)] Chromium logging enabled: level = 0, default verbosity = 0
+12-23 08:10:51.473  2208  2649 I ActivityManager: Start proc 5669:com.android.chrome:sandboxed_process0/u0i0 for service com.android.chrome/org.chromium.content.app.SandboxedProcessService0
+12-23 08:10:51.473  5669  5669 D houdini : [5669] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+12-23 08:10:51.475  5637  5663 I cr_base : Extracting resource /data/data/com.android.chrome/app_chrome/paks/en-GB.pak
+12-23 08:10:51.475  5637  5663 I cr_base : Extracting resource /data/data/com.android.chrome/app_chrome/paks/en-US.pak
+12-23 08:10:51.478  5669  5669 I ActivityThread: Switching default density from 160 to 240
+12-23 08:10:51.482  5669  5669 I cr_ChildProcessService: Creating new ChildProcessService pid=5669
+12-23 08:10:51.487  2208  2238 I ActivityManager: Displayed com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity: +124ms (total +213ms)
+12-23 08:10:51.492  5637  5637 W KnoxSettingsProvider: Permission to read device policy denied.
+12-23 08:10:51.493  5637  5637 I cr_BrowserStartup: Initializing chromium process, singleProcess=false
+12-23 08:10:51.502  4867  4889 D OpenGLRenderer: endAllStagingAnimators on 0x7f22c6eab800 (RippleDrawable) with handle 0x7f22be0163e0
+12-23 08:10:51.550  5078  5255 W System.err: java.net.SocketTimeoutException: failed to connect to /182.254.116.117 (port 80) after 10000ms
+12-23 08:10:51.550  5078  5255 W System.err: 	at libcore.io.IoBridge.connectErrno(IoBridge.java:169)
+12-23 08:10:51.550  5078  5255 W System.err: 	at libcore.io.IoBridge.connect(IoBridge.java:122)
+12-23 08:10:51.550  5078  5255 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:183)
+12-23 08:10:51.550  5078  5255 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:456)
+12-23 08:10:51.550  5078  5255 W System.err: 	at java.net.Socket.connect(Socket.java:882)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:174)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.android.okhttp.Connection.connect(Connection.java:152)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:276)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:211)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:382)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:106)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.tencent.component.network.module.common.a$b.a(SourceFile:427)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.tencent.component.network.module.common.a$b.b(SourceFile:488)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.tencent.component.network.utils.thread.j$f.run(SourceFile:133)
+12-23 08:10:51.550  5078  5255 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:10:51.550  5078  5255 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:10:51.550  5078  5255 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:10:51.550  5078  5255 W System.err: 	at com.tencent.component.network.utils.thread.h.run(SourceFile:23)
+12-23 08:10:51.593  5637  5711 W cr_media: Requires BLUETOOTH permission
+12-23 08:10:51.604  5637  5709 W GooglePlayServicesUtil: Google Play services is missing.
+12-23 08:10:51.649  5715  5715 D houdini : [5715] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+12-23 08:10:51.649  2208  2534 I ActivityManager: Start proc 5715:com.android.chrome:privileged_process0/u0a53 for service com.android.chrome/org.chromium.content.app.PrivilegedProcessService0
+12-23 08:10:51.655  5715  5715 I ActivityThread: Switching default density from 160 to 240
+12-23 08:10:51.658  5715  5715 I cr_ChildProcessService: Creating new ChildProcessService pid=5715
+12-23 08:10:51.658  5715  5738 I cr_LibraryLoader: Using linker: org.chromium.base.library_loader.LegacyLinker
+12-23 08:10:51.661  5715  5738 D houdini : [5738] Added shared library /data/app/com.android.chrome-2/lib/arm/libchromium_android_linker.so for ClassLoader by Native Bridge.
+12-23 08:10:51.672  5715  5738 I cr_LibraryLoader: Loading chrome
+12-23 08:10:51.716  5715  5738 I cr_LibraryLoader: Time to load native libraries: 44 ms (timestamps 8955-8999)
+12-23 08:10:51.716  5715  5738 I cr_LibraryLoader: Expected native library version number "47.0.2526.83", actual native library version number "47.0.2526.83"
+12-23 08:10:51.719  5715  5738 I chromium: [INFO:library_loader_hooks.cc(122)] Chromium logging enabled: level = 0, default verbosity = 0
+12-23 08:10:51.964  5637  5637 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-23 08:10:51.981  5715  5738 E libEGL  : validate_display:255 error 3008 (EGL_BAD_DISPLAY)
+12-23 08:10:51.983  5715  5738 I GRALLOC-DRM: create intel for driver i915
+12-23 08:10:51.985  5715  5738 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-23 08:10:51.985  5715  5738 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-23 08:10:52.004  5715  5738 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-23 08:10:52.004  5715  5738 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-23 08:10:52.004  5715  5738 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-23 08:10:52.105  5637  5637 I art     : Rejecting re-init on previously-failed class java.lang.Class<org.chromium.content.browser.FloatingWebActionModeCallback>
+12-23 08:10:52.105  5637  5637 I art     : Rejecting re-init on previously-failed class java.lang.Class<org.chromium.content.browser.FloatingWebActionModeCallback>
+12-23 08:10:52.131  5669  5689 I cr_LibraryLoader: Using linker: org.chromium.base.library_loader.LegacyLinker
+12-23 08:10:52.134  5669  5694 D houdini : [5694] Added shared library /data/app/com.android.chrome-2/lib/arm/libchromium_android_linker.so for ClassLoader by Native Bridge.
+12-23 08:10:52.140  5669  5694 I cr_LibraryLoader: Loading chrome
+12-23 08:10:52.156  5669  5694 I cr_LibraryLoader: Time to load native libraries: 16 ms (timestamps 9423-9439)
+12-23 08:10:52.156  5669  5694 I cr_LibraryLoader: Expected native library version number "47.0.2526.83", actual native library version number "47.0.2526.83"
+12-23 08:10:52.159  5669  5694 I chromium: [INFO:library_loader_hooks.cc(122)] Chromium logging enabled: level = 0, default verbosity = 0
+12-23 08:10:52.161  5715  5755 I OMXClient: Using client-side OMX mux.
+12-23 08:10:52.174  5637  5637 I cr_ChromeTabbedActivity: begin FirstRunFlowSequencer.checkIfFirstRunIsNecessary
+12-23 08:10:52.174  5637  5637 I cr_ChromeTabbedActivity: end FirstRunFlowSequencer.checkIfFirstRunIsNecessary
+12-23 08:10:52.174  5637  5637 I cr_ChromeTabbedActivity: in refreshSignIn before starting the sign-in processor
+12-23 08:10:52.256  5715  5738 E chromium: [ERROR:gl_context_egl.cc(194)] eglSwapInterval failed with error EGL_SUCCESS
+12-23 08:10:52.277  5637  5637 E chromium: [ERROR:layer_tree_host_impl.cc(2131)] Forcing zero-copy tile initialization as worker context is missing
+12-23 08:10:52.297  5637  5708 E chromium: [ERROR:simple_version_upgrade.cc(153)] File structure does not match the disk cache backend.
+12-23 08:10:52.297  5637  5708 E chromium: [ERROR:simple_backend_impl.cc(574)] Simple Cache Backend: wrong file structure on disk: /data/data/com.android.chrome/app_chrome/Default/GPUCache
+12-23 08:10:52.365  5637  5708 E chromium: [ERROR:simple_version_upgrade.cc(153)] File structure does not match the disk cache backend.
+12-23 08:10:52.365  5637  5708 E chromium: [ERROR:simple_backend_impl.cc(574)] Simple Cache Backend: wrong file structure on disk: /data/data/com.android.chrome/cache/Cache
+12-23 08:10:52.366  2327  2327 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-23 08:10:52.366  2327  2327 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+12-23 08:10:52.537  2208  4566 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-23 08:10:53.845  2980  3037 V xiaomi  : SMACK: Could not connect to:114.54.23.2:80
+12-23 08:10:53.846  2980  3037 V xiaomi  : [Thread:51] begin to connect to 111.206.200.2:5222
+12-23 08:10:54.076  5772  5772 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:10:57.265  5637  5778 E ActivityThread: Failed to find provider info for com.google.android.gsf.gservices
+12-23 08:10:59.084  5791  5791 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:00.474  5027  5073 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:11:00.474  5027  5073 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:11:00.474  5027  5073 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:11:00.474  5027  5073 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:11:00.474  5027  5073 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:11:00.474  5027  5073 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:11:00.474  5027  5073 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:11:00.474  5027  5073 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:11:00.474  5027  5073 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:11:00.474  5027  5073 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:11:00.474  5027  5073 W System.err: 	at com.tencent.beacon.event.s.b(SourceFile:175)
+12-23 08:11:00.474  5027  5073 W System.err: 	at com.tencent.beacon.event.t.run(SourceFile:38)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:00.474  5027  5073 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:11:00.474  5027  5073 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:11:00.474  5027  5073 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:11:00.474  5027  5073 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:11:00.474  5027  5073 W System.err: 	... 20 more
+12-23 08:11:00.474  5027  5073 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:00.884  2208  2534 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:01.571  5078  5255 W System.err: java.net.SocketTimeoutException: failed to connect to /182.254.116.116 (port 80) after 10000ms
+12-23 08:11:01.571  5078  5255 W System.err: 	at libcore.io.IoBridge.connectErrno(IoBridge.java:169)
+12-23 08:11:01.571  5078  5255 W System.err: 	at libcore.io.IoBridge.connect(IoBridge.java:122)
+12-23 08:11:01.571  5078  5255 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:183)
+12-23 08:11:01.571  5078  5255 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:456)
+12-23 08:11:01.571  5078  5255 W System.err: 	at java.net.Socket.connect(Socket.java:882)
+12-23 08:11:01.571  5078  5255 W System.err: 	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:174)
+12-23 08:11:01.571  5078  5255 W System.err: 	at com.android.okhttp.Connection.connect(Connection.java:152)
+12-23 08:11:01.572  5078  5255 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:276)
+12-23 08:11:01.572  5078  5255 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:211)
+12-23 08:11:01.572  5078  5255 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:382)
+12-23 08:11:01.572  5078  5255 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:106)
+12-23 08:11:01.572  5078  5255 W System.err: 	at com.tencent.component.network.module.common.a$b.a(SourceFile:427)
+12-23 08:11:01.572  5078  5255 W System.err: 	at com.tencent.component.network.module.common.a$b.b(SourceFile:490)
+12-23 08:11:01.572  5078  5255 W System.err: 	at com.tencent.component.network.utils.thread.j$f.run(SourceFile:133)
+12-23 08:11:01.572  5078  5255 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:01.572  5078  5255 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:01.572  5078  5255 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:01.572  5078  5255 W System.err: 	at com.tencent.component.network.utils.thread.h.run(SourceFile:23)
+12-23 08:11:03.165  2208  2228 I ActivityManager: Start proc 5800:com.android.chrome:sandboxed_process1/u0i1 for service com.android.chrome/org.chromium.content.app.SandboxedProcessService1
+12-23 08:11:03.166  5800  5800 D houdini : [5800] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+12-23 08:11:03.170  5800  5800 I ActivityThread: Switching default density from 160 to 240
+12-23 08:11:03.173  5800  5800 I cr_ChildProcessService: Creating new ChildProcessService pid=5800
+12-23 08:11:03.174  5800  5823 I cr_LibraryLoader: Using linker: org.chromium.base.library_loader.LegacyLinker
+12-23 08:11:03.175  5800  5823 D houdini : [5823] Added shared library /data/app/com.android.chrome-2/lib/arm/libchromium_android_linker.so for ClassLoader by Native Bridge.
+12-23 08:11:03.183  5800  5823 I cr_LibraryLoader: Loading chrome
+12-23 08:11:03.206  5800  5823 I cr_LibraryLoader: Time to load native libraries: 23 ms (timestamps 466-489)
+12-23 08:11:03.206  5800  5823 I cr_LibraryLoader: Expected native library version number "47.0.2526.83", actual native library version number "47.0.2526.83"
+12-23 08:11:03.209  5800  5823 I chromium: [INFO:library_loader_hooks.cc(122)] Chromium logging enabled: level = 0, default verbosity = 0
+12-23 08:11:03.848  2980  3037 V xiaomi  : SMACK: Could not connect to:111.206.200.2:5222
+12-23 08:11:03.849  2980  3037 V xiaomi  : [Thread:51] begin to connect to 120.134.33.29:5222
+12-23 08:11:04.097  5839  5839 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:04.342  5637  5637 W GooglePlayServicesUtil: Google Play services is missing.
+12-23 08:11:04.350  5637  5637 D DelegatedPKCS11Manager: initialize
+12-23 08:11:04.352  5637  5637 W GooglePlayServicesUtil: Google Play services is missing.
+12-23 08:11:04.357  5637  5637 I cr_BindingManager: Moderate binding enabled: maxSize=20 lowReduceRatio=0.250000 highReduceRatio=0.500000
+12-23 08:11:04.358  5637  5637 V NFC     : this device does not have NFC support
+12-23 08:11:04.359  5637  5637 D StrictMode: StrictMode policy violation; ~duration=16 ms: android.os.StrictMode$StrictModeDiskReadViolation: policy=2847 violation=2
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1137)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at libcore.io.BlockGuardOs.access(BlockGuardOs.java:67)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.io.File.doAccess(File.java:283)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.io.File.exists(File.java:363)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.util.AtomicFile.openRead(AtomicFile.java:195)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.readApplicationRestrictionsLocked(UserManagerService.java:1664)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.getApplicationRestrictionsForUser(UserManagerService.java:1448)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.getApplicationRestrictions(UserManagerService.java:1437)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.IUserManager$Stub.onTransact(IUserManager.java:297)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Binder.execTransact(Binder.java:446)
+12-23 08:11:04.359  5637  5637 D StrictMode: # via Binder call with stack:
+12-23 08:11:04.359  5637  5637 D StrictMode: android.os.StrictMode$LogStackTrace
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.StrictMode.readAndHandleBinderCallViolations(StrictMode.java:1717)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Parcel.readExceptionCode(Parcel.java:1527)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Parcel.readException(Parcel.java:1496)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.IUserManager$Stub$Proxy.getApplicationRestrictions(IUserManager.java:792)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.UserManager.getApplicationRestrictions(UserManager.java:1174)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.aG.a(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.aG.b(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.h.a(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.checkGooglePlayServicesAvailable(ExternalAuthUtils.java:241)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.canUseGooglePlayServices(ExternalAuthUtils.java:178)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.canUseFirstPartyGooglePlayServices(ExternalAuthUtils.java:217)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.icing.IcingProvider.init(IcingProvider.java:172)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.icing.IcingProvider.start(IcingProvider.java:102)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.icing.GsaHelperInternal.startSync(GsaHelperInternal.java:34)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.DeferredStartupHandler.onDeferredStartup(DeferredStartupHandler.java:108)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeActivity.onDeferredStartup(ChromeActivity.java:645)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeTabbedActivity.onDeferredStartup(ChromeTabbedActivity.java:853)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeActivity$12$1.queueIdle(ChromeActivity.java:1496)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.MessageQueue.next(MessageQueue.java:211)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Looper.loop(Looper.java:122)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.lang.reflect.Method.invoke(Native Method)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-23 08:11:04.359  5637  5637 D StrictMode: StrictMode policy violation; ~duration=16 ms: android.os.StrictMode$StrictModeDiskReadViolation: policy=2847 violation=2
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1137)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:182)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.util.AtomicFile.openRead(AtomicFile.java:199)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.readApplicationRestrictionsLocked(UserManagerService.java:1664)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.getApplicationRestrictionsForUser(UserManagerService.java:1448)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.getApplicationRestrictions(UserManagerService.java:1437)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.IUserManager$Stub.onTransact(IUserManager.java:297)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Binder.execTransact(Binder.java:446)
+12-23 08:11:04.359  5637  5637 D StrictMode: # via Binder call with stack:
+12-23 08:11:04.359  5637  5637 D StrictMode: android.os.StrictMode$LogStackTrace
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.StrictMode.readAndHandleBinderCallViolations(StrictMode.java:1717)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Parcel.readExceptionCode(Parcel.java:1527)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Parcel.readException(Parcel.java:1496)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.IUserManager$Stub$Proxy.getApplicationRestrictions(IUserManager.java:792)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.UserManager.getApplicationRestrictions(UserManager.java:1174)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.aG.a(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.aG.b(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.h.a(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.checkGooglePlayServicesAvailable(ExternalAuthUtils.java:241)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.canUseGooglePlayServices(ExternalAuthUtils.java:178)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.canUseFirstPartyGooglePlayServices(ExternalAuthUtils.java:217)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.icing.IcingProvider.init(IcingProvider.java:172)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.icing.IcingProvider.start(IcingProvider.java:102)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.icing.GsaHelperInternal.startSync(GsaHelperInternal.java:34)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.DeferredStartupHandler.onDeferredStartup(DeferredStartupHandler.java:108)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeActivity.onDeferredStartup(ChromeActivity.java:645)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeTabbedActivity.onDeferredStartup(ChromeTabbedActivity.java:853)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeActivity$12$1.queueIdle(ChromeActivity.java:1496)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.MessageQueue.next(MessageQueue.java:211)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Looper.loop(Looper.java:122)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.lang.reflect.Method.invoke(Native Method)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-23 08:11:04.359  5637  5637 D StrictMode: StrictMode policy violation; ~duration=7 ms: android.os.StrictMode$StrictModeDiskReadViolation: policy=2847 violation=2
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1137)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at libcore.io.BlockGuardOs.access(BlockGuardOs.java:67)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.io.File.doAccess(File.java:283)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.io.File.exists(File.java:363)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.util.AtomicFile.openRead(AtomicFile.java:195)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.readApplicationRestrictionsLocked(UserManagerService.java:1664)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.getApplicationRestrictionsForUser(UserManagerService.java:1448)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.getApplicationRestrictions(UserManagerService.java:1437)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.IUserManager$Stub.onTransact(IUserManager.java:297)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Binder.execTransact(Binder.java:446)
+12-23 08:11:04.359  5637  5637 D StrictMode: # via Binder call with stack:
+12-23 08:11:04.359  5637  5637 D StrictMode: android.os.StrictMode$LogStackTrace
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.StrictMode.readAndHandleBinderCallViolations(StrictMode.java:1717)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Parcel.readExceptionCode(Parcel.java:1527)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Parcel.readException(Parcel.java:1496)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.IUserManager$Stub$Proxy.getApplicationRestrictions(IUserManager.java:792)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.UserManager.getApplicationRestrictions(UserManager.java:1174)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.aG.a(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.aG.b(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.h.a(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.checkGooglePlayServicesAvailable(ExternalAuthUtils.java:241)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.canUseGooglePlayServices(ExternalAuthUtils.java:178)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.canUseFirstPartyGooglePlayServices(ExternalAuthUtils.java:217)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.playlog.PlayLogTrackerInternal.createPlayLogger(PlayLogTrackerInternal.java:35)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.ChromeApplicationInternal.startApplicationActivityTracker(ChromeApplicationInternal.java:132)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeApplication.initializeSharedClasses(ChromeApplication.java:456)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.ChromeApplicationInternal.initializeSharedClasses(ChromeApplicationInternal.java:72)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.DeferredStartupHandler.onDeferredStartup(DeferredStartupHandler.java:113)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeActivity.onDeferredStartup(ChromeActivity.java:645)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeTabbedActivity.onDeferredStartup(ChromeTabbedActivity.java:853)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeActivity$12$1.queueIdle(ChromeActivity.java:1496)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.MessageQueue.next(MessageQueue.java:211)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Looper.loop(Looper.java:122)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.lang.reflect.Method.invoke(Native Method)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-23 08:11:04.359  5637  5637 D StrictMode: StrictMode policy violation; ~duration=7 ms: android.os.StrictMode$StrictModeDiskReadViolation: policy=2847 violation=2
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1137)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:182)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.util.AtomicFile.openRead(AtomicFile.java:199)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.readApplicationRestrictionsLocked(UserManagerService.java:1664)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.getApplicationRestrictionsForUser(UserManagerService.java:1448)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.server.pm.UserManagerService.getApplicationRestrictions(UserManagerService.java:1437)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.IUserManager$Stub.onTransact(IUserManager.java:297)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Binder.execTransact(Binder.java:446)
+12-23 08:11:04.359  5637  5637 D StrictMode: # via Binder call with stack:
+12-23 08:11:04.359  5637  5637 D StrictMode: android.os.StrictMode$LogStackTrace
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.StrictMode.readAndHandleBinderCallViolations(StrictMode.java:1717)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Parcel.readExceptionCode(Parcel.java:1527)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Parcel.readException(Parcel.java:1496)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.IUserManager$Stub$Proxy.getApplicationRestrictions(IUserManager.java:792)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.UserManager.getApplicationRestrictions(UserManager.java:1174)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.aG.a(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.aG.b(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.gms.common.h.a(Unknown Source)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.checkGooglePlayServicesAvailable(ExternalAuthUtils.java:241)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.canUseGooglePlayServices(ExternalAuthUtils.java:178)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.externalauth.ExternalAuthUtils.canUseFirstPartyGooglePlayServices(ExternalAuthUtils.java:217)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.playlog.PlayLogTrackerInternal.createPlayLogger(PlayLogTrackerInternal.java:35)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.ChromeApplicationInternal.startApplicationActivityTracker(ChromeApplicationInternal.java:132)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeApplication.initializeSharedClasses(ChromeApplication.java:456)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.google.android.apps.chrome.ChromeApplicationInternal.initializeSharedClasses(ChromeApplicationInternal.java:72)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.DeferredStartupHandler.onDeferredStartup(DeferredStartupHandler.java:113)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeActivity.onDeferredStartup(ChromeActivity.java:645)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeTabbedActivity.onDeferredStartup(ChromeTabbedActivity.java:853)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at org.chromium.chrome.browser.ChromeActivity$12$1.queueIdle(ChromeActivity.java:1496)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.MessageQueue.next(MessageQueue.java:211)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.os.Looper.loop(Looper.java:122)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.lang.reflect.Method.invoke(Native Method)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-23 08:11:04.359  5637  5637 D StrictMode: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-23 08:11:04.362  5637  5841 I MinidumpUploadService: Attempting to upload accumulated crash dumps.
+12-23 08:11:06.451  5027  5075 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:11:06.451  5027  5075 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:11:06.451  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:11:06.451  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:11:06.451  5027  5075 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:11:06.451  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:11:06.451  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:11:06.451  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:11:06.451  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:11:06.451  5027  5075 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:11:06.451  5027  5075 W System.err: 	at com.tencent.beacon.event.p.a(SourceFile:79)
+12-23 08:11:06.451  5027  5075 W System.err: 	at com.tencent.beacon.event.q.run(SourceFile:36)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:06.451  5027  5075 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:06.451  5027  5075 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:11:06.452  5027  5075 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:11:06.452  5027  5075 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:11:06.452  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:11:06.452  5027  5075 W System.err: 	... 20 more
+12-23 08:11:06.452  5027  5075 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:06.545  5027  5075 E beacon  :  req error  java.lang.Exception: 1:java.lang.Exception: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname 2:same 3:same 
+12-23 08:11:06.549  5027  5075 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:06.549  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:427)
+12-23 08:11:06.549  5027  5075 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:11:06.549  5027  5075 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:11:06.549  5027  5075 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:11:06.549  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:11:06.549  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:11:06.549  5027  5075 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:11:06.549  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:11:06.549  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:11:06.549  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:11:06.549  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:11:06.549  5027  5075 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:11:06.549  5027  5075 W System.err: 	at com.tencent.beacon.event.p.a(SourceFile:79)
+12-23 08:11:06.549  5027  5075 W System.err: 	at com.tencent.beacon.event.q.run(SourceFile:36)
+12-23 08:11:06.549  5027  5075 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:11:06.549  5027  5075 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:11:06.550  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:11:06.550  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:11:06.550  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:06.550  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:06.550  5027  5075 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:06.550  5027  5075 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:09.109  5847  5847 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:10.095  2208  2353 W ActivityManager: getRunningAppProcesses: caller 10059 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:13.859  2980  3037 V xiaomi  : SMACK: Could not connect to:120.134.33.29:5222
+12-23 08:11:13.860  2980  3037 V xiaomi  : [Thread:51] begin to connect to app.chat.xiaomi.net
+12-23 08:11:14.123  5860  5860 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:17.297  5637  5778 E cr_omaha: Failed to contact server: 
+12-23 08:11:18.215  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:11:18.227  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:11:19.135  5872  5872 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:20.176  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.cyanogenmod.filemanager/cache/
+12-23 08:11:20.176  4773  5873 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.cyanogenmod.filemanager/cache
+12-23 08:11:20.177  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.cyanogenmod.filemanager/cache/
+12-23 08:11:20.177  4773  5873 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.cyanogenmod.filemanager/cache
+12-23 08:11:20.178  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.cyanogenmod.filemanager/cache/
+12-23 08:11:20.178  4773  5873 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.cyanogenmod.filemanager/cache
+12-23 08:11:20.179  1926  2166 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.cyanogenmod.filemanager/cache/
+12-23 08:11:20.179  4773  5873 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.cyanogenmod.filemanager/cache
+12-23 08:11:22.247  5669  5750 D houdini : [5750] Warning error (ID:0x014004bb).
+12-23 08:11:22.537  2208  2533 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:24.148  5880  5880 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:25.500  5027  5073 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:11:25.500  5027  5073 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:11:25.500  5027  5073 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:11:25.500  5027  5073 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:11:25.500  5027  5073 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:11:25.500  5027  5073 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:11:25.500  5027  5073 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:11:25.500  5027  5073 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:11:25.500  5027  5073 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:11:25.500  5027  5073 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:11:25.500  5027  5073 W System.err: 	at com.tencent.beacon.event.s.b(SourceFile:175)
+12-23 08:11:25.500  5027  5073 W System.err: 	at com.tencent.beacon.event.t.run(SourceFile:38)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:25.500  5027  5073 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:25.500  5027  5073 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:11:25.501  5027  5073 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:11:25.501  5027  5073 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:11:25.501  5027  5073 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:11:25.501  5027  5073 W System.err: 	... 20 more
+12-23 08:11:25.501  5027  5073 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:25.614  5027  5073 E beacon  :  req error  java.lang.Exception: 1:java.lang.Exception: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname 2:same 3:same 
+12-23 08:11:25.633  5669  5750 D houdini : [5750] Warning error (ID:0x014004bb).
+12-23 08:11:25.645  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:11:25.656  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:11:28.723  5669  5750 D houdini : [5750] Warning error (ID:0x014004bb).
+12-23 08:11:29.160  5886  5886 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:30.883  2208  2228 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:30.884  2208  3464 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:31.577  5027  5075 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:11:31.577  5027  5075 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:11:31.577  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:11:31.577  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:11:31.577  5027  5075 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:11:31.577  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:11:31.577  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:11:31.577  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:11:31.577  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:11:31.577  5027  5075 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:11:31.577  5027  5075 W System.err: 	at com.tencent.beacon.event.p.a(SourceFile:79)
+12-23 08:11:31.577  5027  5075 W System.err: 	at com.tencent.beacon.event.q.run(SourceFile:36)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:31.577  5027  5075 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:11:31.577  5027  5075 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:11:31.577  5027  5075 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:11:31.577  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:11:31.577  5027  5075 W System.err: 	... 20 more
+12-23 08:11:31.577  5027  5075 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:32.350  2327  2327 D PhoneStatusBar: disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock search >
+12-23 08:11:32.952  2327  2327 D PhoneStatusBar: disable: < expand icons* alerts system_info* back home recent clock search >
+12-23 08:11:32.974  2208  2228 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@2f9cdfc0 attribute=null, token = android.os.BinderProxy@2f63a7b8
+12-23 08:11:33.884  2980  3037 V xiaomi  : SMACK: Could not connect to:app.chat.xiaomi.net
+12-23 08:11:33.885  2208  2649 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:33.888  2980  3037 V xiaomi  : fail to create xmpp connection
+12-23 08:11:33.888  2980  3037 V xiaomi  : SMACK: Could not connect to 42.62.94.2:5222 port:5222 failed to connect to /42.62.94.2 (port 5222) after 10000ms
+12-23 08:11:33.888  2980  3037 V xiaomi  : SMACK: Could not connect to 114.54.23.2:80 port:5222 failed to connect to /114.54.23.2 (port 80) after 10000ms
+12-23 08:11:33.888  2980  3037 V xiaomi  : SMACK: Could not connect to 111.206.200.2:5222 port:5222 failed to connect to /111.206.200.2 (port 5222) after 10000ms
+12-23 08:11:33.888  2980  3037 V xiaomi  : SMACK: Could not connect to 120.134.33.29:5222 port:5222 failed to connect to /120.134.33.29 (port 5222) after 10000ms
+12-23 08:11:33.888  2980  3037 V xiaomi  : SMACK: Could not connect to app.chat.xiaomi.net port:5222 Host is unresolved: app.chat.xiaomi.net
+12-23 08:11:33.888  2980  3037 V xiaomi  : : 
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.smack.l.a(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.smack.l.a(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.smack.l.r(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService.l(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService.k(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService.h(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService$c.a(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.XMPushService$e.c(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at com.xiaomi.push.service.e.handleMessage(Unknown Source)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at android.os.Looper.loop(Looper.java:135)
+12-23 08:11:33.888  2980  3037 V xiaomi  : 	at android.os.HandlerThread.run(HandlerThread.java:61)
+12-23 08:11:33.888  2980  3037 V xiaomi  : [Thread:51] update the connection status. connecting -> disconnected : ERROR_NETWORK_FAILED 
+12-23 08:11:33.889  2980  3037 V xiaomi  : [Thread:51] schedule reconnect in 300s
+12-23 08:11:34.170  5891  5891 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:35.345  2208  2649 V WindowManager: Adding window Window{114d5c3e u0 PopupWindow:1571db73} at 10 of 15 (after Window{3ad8a991 u0 com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity})
+12-23 08:11:36.757  5800  5824 D houdini : [5824] Warning error (ID:0x014004bb).
+12-23 08:11:39.063  5637  5637 W cr_ScreenOrientation: Removing an inexistent observer!
+12-23 08:11:39.073  5637  5637 W cr_ScreenOrientation: Removing an inexistent observer!
+12-23 08:11:39.078  2208  3464 W libprocessgroup: failed to open /acct/uid_10053/pid_5800/cgroup.procs: No such file or directory
+12-23 08:11:39.078  2208  3464 I ActivityManager: Process com.android.chrome:sandboxed_process1 (pid 5800) has died
+12-23 08:11:39.078  2208  3464 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService1 in 1000ms
+12-23 08:11:39.078  5637  5637 W cr_ChildProcessConnect: onServiceDisconnected (crash or killed by oom): pid=5800
+12-23 08:11:39.082  2208  4561 W libprocessgroup: failed to open /acct/uid_10053/pid_5669/cgroup.procs: No such file or directory
+12-23 08:11:39.082  2208  4561 I ActivityManager: Process com.android.chrome:sandboxed_process0 (pid 5669) has died
+12-23 08:11:39.082  5637  5637 W cr_ChildProcessConnect: onServiceDisconnected (crash or killed by oom): pid=5669
+12-23 08:11:39.082  2208  4561 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService0 in 1000ms
+12-23 08:11:39.183  5895  5895 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:40.014  2208  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 08:11:40.015  2208  2250 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-23 08:11:40.027  1935  2205 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 08:11:40.095  2208  2229 W ActivityManager: getRunningAppProcesses: caller 10059 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:40.178  2208  2233 W ActivityManager: Timeout executing service: ServiceRecord{30c34953 u0 com.tencent.qqmusic/.business.unicom.TrafficStatisticsService}
+12-23 08:11:40.179  2208  2233 I Process : Sending signal. PID: 5078 SIG: 3
+12-23 08:11:40.179  5078  5091 I art     : Thread[9,tid=5091,WaitingInMainSignalCatcherLoop,Thread*=0xf3c32800,peer=0x12c0a0a0,"Signal Catcher"]: reacting to signal 3
+12-23 08:11:40.209  5637  5874 E cr_omaha: Failed to contact server: 
+12-23 08:11:40.377  5078  5091 I art     : Wrote stack traces to '/data/anr/traces.txt'
+12-23 08:11:40.378  2208  2233 I Process : Sending signal. PID: 2208 SIG: 3
+12-23 08:11:40.378  2208  2221 I art     : Thread[9,tid=2221,WaitingInMainSignalCatcherLoop,Thread*=0x7f22d18a1000,peer=0x12c020a0,"Signal Catcher"]: reacting to signal 3
+12-23 08:11:40.564  2208  2221 I art     : Wrote stack traces to '/data/anr/traces.txt'
+12-23 08:11:40.564  2208  2233 I Process : Sending signal. PID: 2510 SIG: 3
+12-23 08:11:40.564  2510  2523 I art     : Thread[9,tid=2523,WaitingInMainSignalCatcherLoop,Thread*=0x7f22d18a0000,peer=0x12c000a0,"Signal Catcher"]: reacting to signal 3
+12-23 08:11:40.627  2510  2523 I art     : Wrote stack traces to '/data/anr/traces.txt'
+12-23 08:11:40.627  2208  2233 I Process : Sending signal. PID: 2327 SIG: 3
+12-23 08:11:40.627  2327  2341 I art     : Thread[9,tid=2341,WaitingInMainSignalCatcherLoop,Thread*=0x7f22d18a0000,peer=0x12c000a0,"Signal Catcher"]: reacting to signal 3
+12-23 08:11:40.635  2535  2716 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-23 08:11:40.718  2327  2341 I art     : Wrote stack traces to '/data/anr/traces.txt'
+12-23 08:11:41.233  1935  2259 W AudioFlinger: write blocked for 1156 msecs, 2 delayed writes, thread 0xf5ca4000
+12-23 08:11:41.731  1935  2205 W audio_hw_primary: out_write underrun: -32
+12-23 08:11:42.327  2208  2233 I art     : Explicit concurrent mark sweep GC freed 57572(2MB) AllocSpace objects, 9(144KB) LOS objects, 33% free, 20MB/30MB, paused 248us total 9.774ms
+12-23 08:11:42.835  2208  2233 I Process : Sending signal. PID: 3065 SIG: 3
+12-23 08:11:42.835  3065  3078 I art     : Thread[9,tid=3078,WaitingInMainSignalCatcherLoop,Thread*=0xf3c32c00,peer=0x32c070a0,"Signal Catcher"]: reacting to signal 3
+12-23 08:11:42.894  3065  3078 I art     : Wrote stack traces to '/data/anr/traces.txt'
+12-23 08:11:42.894  2208  2233 I Process : Sending signal. PID: 4867 SIG: 3
+12-23 08:11:42.894  4867  4880 I art     : Thread[9,tid=4880,WaitingInMainSignalCatcherLoop,Thread*=0x7f22d18a1000,peer=0x12c070a0,"Signal Catcher"]: reacting to signal 3
+12-23 08:11:42.944  4867  4880 I art     : Wrote stack traces to '/data/anr/traces.txt'
+12-23 08:11:42.947  2208  2233 E ActivityManager: ANR in com.tencent.qqmusic:QQPlayerService
+12-23 08:11:42.947  2208  2233 E ActivityManager: PID: 5078
+12-23 08:11:42.947  2208  2233 E ActivityManager: Reason: executing service com.tencent.qqmusic/.business.unicom.TrafficStatisticsService
+12-23 08:11:42.947  2208  2233 E ActivityManager: Load: 0.54 / 0.56 / 0.34
+12-23 08:11:42.947  2208  2233 E ActivityManager: CPU usage from 3569ms to -2765ms ago:
+12-23 08:11:42.947  2208  2233 E ActivityManager:   8.3% 1927/surfaceflinger: 4.2% user + 4.1% kernel / faults: 218 minor 1 major
+12-23 08:11:42.947  2208  2233 E ActivityManager:   8.2% 2208/system_server: 5.3% user + 2.8% kernel / faults: 2030 minor 5 major
+12-23 08:11:42.947  2208  2233 E ActivityManager:   3.4% 2327/com.android.systemui: 2.2% user + 1.2% kernel / faults: 539 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   2.8% 5637/com.android.chrome: 2.3% user + 0.4% kernel / faults: 76 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   2.2% 5078/com.tencent.qqmusic:QQPlayerService: 1.2% user + 0.9% kernel / faults: 614 minor 4 major
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.2% 2535/com.android.launcher3: 0.1% user + 0% kernel / faults: 242 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.4% 1935/mediaserver: 0.1% user + 0.3% kernel / faults: 2 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.9% 3122/com.tencent.mtt.x86: 0.6% user + 0.3% kernel / faults: 5 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.9% 4762/kworker/0:1: 0% user + 0.9% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0% 1932/debuggerd64: 0% user + 0% kernel / faults: 370 minor 1 major
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.6% 3065/com.tencent.mm:push: 0.3% user + 0.3% kernel / faults: 582 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.4% 8/rcu_sched: 0% user + 0.4% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0% 2510/com.android.phone: 0% user + 0% kernel / faults: 518 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.4% 4031/kworker/1:0: 0% user + 0.4% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0% 4867/com.android.packageinstaller: 0% user + 0% kernel / faults: 227 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.4% 5715/com.android.chrome:privileged_process0: 0.4% user + 0% kernel / faults: 9 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.3% 7/rcu_preempt: 0% user + 0.3% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.3% 1667/kworker/2:2: 0% user + 0.3% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0% 1//init: 0% user + 0% kernel / faults: 327 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.1% 779/kworker/4:1: 0% user + 0.1% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.1% 1922/logd: 0.1% user + 0% kernel / faults: 5 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.1% 1930/netd: 0.1% user + 0% kernel / faults: 36 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0% 1941/sdcard: 0% user + 0% kernel / faults: 7 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0% 2364/com.android.inputmethod.latin: 0% user + 0% kernel / faults: 242 minor 1 major
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.1% 2980/cn.wps.moffice_eng:pushservice: 0.1% user + 0% kernel / faults: 851 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0% 3988/com.tencent.mobileqq: 0% user + 0% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.1% 4174/kworker/u16:70: 0% user + 0.1% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0.1% 4187/kworker/3:0: 0% user + 0.1% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   0% 4188/kworker/5:0: 0% user + 0% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:  +0% 5899/kworker/6:2: 0% user + 0% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager: 5% TOTAL: 2.3% user + 1.6% kernel + 1% iowait + 0% softirq
+12-23 08:11:42.947  2208  2233 E ActivityManager: CPU usage from 2149ms to 2651ms later:
+12-23 08:11:42.947  2208  2233 E ActivityManager:   2% 2208/system_server: 2% user + 0% kernel / faults: 9 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:     2% 2224/FinalizerDaemon: 2% user + 0% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:     2% 2233/ActivityManager: 0% user + 2% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:     2% 2534/Binder_5: 2% user + 0% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   1.8% 3065/com.tencent.mm:push: 1.8% user + 0% kernel / faults: 99 minor
+12-23 08:11:42.947  2208  2233 E ActivityManager:     1.8% 3065/tencent.mm:push: 1.8% user + 0% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager:   1.9% 4867/com.android.packageinstaller: 1.9% user + 0% kernel
+12-23 08:11:42.947  2208  2233 E ActivityManager: 0.7% TOTAL: 0.7% user + 0% kernel
+12-23 08:11:42.947  2208  2233 I ActivityManager: Killing 5078:com.tencent.qqmusic:QQPlayerService/u0a62 (adj 0): bg anr
+12-23 08:11:42.961  2208  2264 D WifiService: Client connection lost with reason: 4
+12-23 08:11:42.962  2208  2228 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/.business.unicom.TrafficStatisticsService in 45582ms
+12-23 08:11:42.962  2208  2228 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.wns.service.WnsMain in 1000ms
+12-23 08:11:42.962  2208  2228 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.servicenew.QQPlayerServiceNew in 11000ms
+12-23 08:11:42.962  2208  2228 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.network.NetworkService in 21000ms
+12-23 08:11:42.962  2208  2228 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.qplayauto.QPlayAutoService in 31000ms
+12-23 08:11:42.962  2208  2228 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.qqmusicdlna.QPlayService in 55582ms
+12-23 08:11:42.967  2327  2327 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-23 08:11:42.967  2327  2327 W PackageManager: Failure retrieving resources for com.android.chrome: Resource ID #0x0
+12-23 08:11:42.995  5637  5637 I cr_BindingManager: onTrimMemory: level=20, size=0
+12-23 08:11:43.540  1927  1927 D SurfaceFlinger: Set power mode=0, type=0 flinger=0x7f08f1462000
+12-23 08:11:43.989  5903  5903 D houdini : [5903] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+12-23 08:11:43.990  2208  2233 I ActivityManager: Start proc 5903:com.tencent.qqmusic:QQPlayerService/u0a62 for service com.tencent.qqmusic/com.tencent.wns.service.WnsMain
+12-23 08:11:44.000  1939  1939 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 157us total 9.573ms
+12-23 08:11:44.007  5903  5903 I ActivityThread: Switching default density from 160 to 240
+12-23 08:11:44.009  1939  1939 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 131us total 9.026ms
+12-23 08:11:44.018  1939  1939 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 89us total 8.625ms
+12-23 08:11:44.018  5903  5925 D QQMusicPatchManager: patch_check_update_thread is running
+12-23 08:11:44.018  5903  5903 D HotfixManager: installVerifyDex start
+12-23 08:11:44.019  5903  5903 D HotfixManager: dexPath = /data/data/com.tencent.qqmusic/files/hotfix/verify.jar,odexPath = /data/data/com.tencent.qqmusic/files/odex_hotfix/
+12-23 08:11:44.102  5903  5903 D DexUtil : load clas com.tencent.NotDoVerifyClasses success 
+12-23 08:11:44.102  5903  5903 D HotfixManager: installHotfixDexImpl result = true,dexPath = /data/data/com.tencent.qqmusic/files/hotfix/verify.jar
+12-23 08:11:44.102  5903  5903 D HotfixManager: installVerifyDex result = true
+12-23 08:11:44.102  5903  5903 D QQMusicPatchManager: initAndInstallPatch 
+12-23 08:11:44.104  5903  5903 D HotfixManager: initAndInstallPatch start
+12-23 08:11:44.104  5903  5903 D PatchPreferences: getPatch success PatchConfig:,version:null,describe:null,length:0,md5:null,url:null,downloadFilePath:null,downloadDirPath:null,score:0,isClose:false,versionCode:0
+12-23 08:11:44.104  5903  5903 D Patch   : verify simpleCheck = false
+12-23 08:11:44.105  5903  5903 D HotfixManager: initAndInstallPatch verify = false,patch = PatchConfig:,version:null,describe:null,length:0,md5:null,url:null,downloadFilePath:null,downloadDirPath:null,score:0,isClose:false,versionCode:0
+12-23 08:11:44.105  5903  5903 D QQMusicPatchManager: initAndInstallPatch result = false
+12-23 08:11:44.105  5903  5903 D PatchPreferences: getPatch success PatchConfig:,version:null,describe:null,length:0,md5:null,url:null,downloadFilePath:null,downloadDirPath:null,score:0,isClose:false,versionCode:0
+12-23 08:11:44.106  5903  5903 I MultiDex: VM with version 2.1.0 has multidex support
+12-23 08:11:44.106  5903  5903 I MultiDex: install
+12-23 08:11:44.106  5903  5903 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-23 08:11:44.107  2208  2353 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.108  5903  5903 I LogPoint4Test: 加载分dex耗时-->94
+12-23 08:11:44.108  5903  5903 I Delta   : [+0] Start , total: 0
+12-23 08:11:44.109  2208  2534 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.112  5903  5903 D LogPoint: app#start-0|app start|<1961395034407>
+12-23 08:11:44.113  5903  5903 I Delta   : [+5] programInit 1  , total: 5
+12-23 08:11:44.114  2208  3464 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.115  2208  2228 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.126  5903  5929 W NetworkObserver: LAST -> null
+12-23 08:11:44.126  5903  5929 W NetworkObserver: CURR -> NetworkState [connected=true, apnName=f8:32:e4:a0:24:6d, type=ETHERNET, accessPoint=NEVER_HEARD]
+12-23 08:11:44.128  2208  2229 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.129  5903  5929 V NetworkDash: isDeviceIdBySlot:0
+12-23 08:11:44.131  5903  5929 V NetworkDash: isDeviceIdBySlot:1
+12-23 08:11:44.131  5903  5929 I NetworkDash: imsi: null
+12-23 08:11:44.131  5903  5929 W NetworkObserver: null => N/A
+12-23 08:11:44.144  5903  5903 I WnsApiManager: wns inited:mAppBackground:true
+12-23 08:11:44.144  5903  5903 W tyrael  : dispatchApplicationEnterBackground:com.tencent.wns.ipcclient.b@13f596b6
+12-23 08:11:44.145  5903  5903 I WnsUidBindManager: sIsWnsReady:false
+12-23 08:11:44.149  5903  5903 W eup     : 'setLogAble(boolean)' is true , so running in debug model , close it when you release!
+12-23 08:11:44.149  5903  5903 D eup     : rqdp{  init cominfo}
+12-23 08:11:44.150  5903  5903 I eup     : rqdp{  version:} 5.8.0.18
+12-23 08:11:44.150  2208  4566 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.150  5903  5903 D eup     : set sha1 5.8.0.18294
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libvad.so armeabi ea891f09f33b0340fead5b0c7a87265804a3307c
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libwtecdh.so armeabi c7063df20f11590003ceac47581347dac3938ea6
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libfilescanner.so armeabi e0a424fddd78fb1ee51cfe7eb47f861e9566f651
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libfingerprintV2jni.so armeabi a565c837fc539e7e8de98eb9e9c31af7fa26aa44
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libdalvik_patch.so armeabi c00fedfc2d2791227579cf6c2ccf45abddf97e1a
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libsta_jni.so armeabi c481725f3c498bb59d2b1b5578775687777a7d2c
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libfingerprintjni.so armeabi 13c223e315a7edd34ff27a48dfd82da8a508a3bf
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libNativeRQD.so armeabi de7770d2256ec71a458afdd58344a85c9784e518
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libimage_filter_common.so armeabi f9b5df2a273f934f299ee62f6865f3df11e8bd96
+12-23 08:11:44.150  5903  5903 D eup     : setsofile libinh.so armeabi 4a0937f2e5c11003e6dd5447473c677f84cf139e
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libWXVoice.so armeabi 52dd89487aea3289b5c06837f9d32c8496a31660
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libQPlayAuto.so armeabi fdf2e6603ad9ade63d6a754ad2ea99e15d60a072
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libsearch.so armeabi 205ebffad915fe3fe809fa60a120d5e8bfa862f6
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libTUpdateService.so armeabi da8492ebfd84b7aaa5665cd3ab3a0c7255e2116d
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libmresearch.so armeabi 7399f79660db8aafd028113d65060480373813bd
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libQQMMANDKSignature.so armeabi b836a03cf5bec21e3e1d59c59090502603f1c280
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libwnsnetwork.so armeabi 9dc03eb11972e16db00f227d96338950086fcf6b
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libupnp-jni.so armeabi aa52904393f0970773505d6679f93518fceaa74f
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libnetworkbase.so armeabi a0e8db20a0c33ab4ec13a667431ff64ba5f4f52c
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libpbpinyin.so armeabi 8671c35252282defa7f80e555b636fe91dc7e5d8
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libtmfe30.so armeabi bdaf4a86046b9a43948106f013e931857c689cd3
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libPlayerCore_neon.so armeabi ca1dfffe4214c18df6f511c12b125e1345e16d31
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libdesdecrypt.so armeabi 945d63ce54c8fce706811314eedd1090db91656d
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libexpress_verify.so armeabi a51c6f53042524b6b39105ba8501caa99f2eb828
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libimage_filter_gpu.so armeabi f4ab2a1bfc308442d5350e9390b85720e6f4625a
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libckey.so armeabi d800c5f033823b739b41a67cca48824c6822d7a1
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libckeygenerator.so armeabi 52795e793ff5d1ae9596263f9b990e493c3a3bf1
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libSongUrlFactory.so armeabi 372fe054c2427076f2970f8a446aaa8801846806
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libh.so armeabi ba2ff2c65d7aac33aa94abc40ea0af796b43ba05
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libTxCodec_neon.so armeabi c47ee08f2acb9afe9d6f386f3b923516b05468f8
+12-23 08:11:44.151  5903  5903 D eup     : setsofile libFormatDetector.so armeabi ce98b51d1a1f882572e3acaa0039d4d1c1ddf143
+12-23 08:11:44.151  5903  5903 D eup     : setted so count 31
+12-23 08:11:44.155  5903  5940 D eup     : rqdp{  create uphandler up:}true
+12-23 08:11:44.155  5903  5940 I eup     : rqdp{  eup create instance}
+12-23 08:11:44.156  5903  5940 D eup     : rqdp{  cus eupstrategy} [MSNum:10 ,Wifi:10,GPRS:3,ODay:10,isMerged:true,AfQ:false,Silent:true,mLog:300,tag:null,assert:false, interval:50, limit:60]
+12-23 08:11:44.156  5903  5940 I eup     : rqdp{  mid:}3 rqdp{  change user switch} true
+12-23 08:11:44.156  5903  5940 I eup     : rqdp{ eup regist}
+12-23 08:11:44.159  2208  2264 D WifiService: New client listening to asynchronous messages
+12-23 08:11:44.163  5903  5941 I eup     : rqdp{  onlaunch}
+12-23 08:11:44.163  5903  5941 D eup     : rqdp{  step }1
+12-23 08:11:44.164  5903  5941 D eup     : rqdp{  FileDAO.query() start query name:}/data/app/com.tencent.qqmusic-1/base.apk rqdp{   , type}:0 rqdp{  , num:}10 
+12-23 08:11:44.165  5903  5940 D houdini : [5940] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libNativeRQD.so for ClassLoader by Native Bridge.
+12-23 08:11:44.165  5903  5940 I eup     : load lib sucess default!
+12-23 08:11:44.166  5903  5940 I eup     : add clean task to query listener
+12-23 08:11:44.166  5903  5940 E art     : No implementation found for java.lang.String com.tencent.feedback.eup.jni.NativeExceptionUpload.registNativeExceptionHandler2(java.lang.String, java.lang.String, int, int) (tried Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2 and Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2__Ljava_lang_String_2Ljava_lang_String_2II)
+12-23 08:11:44.166  5903  5940 W eup     : regist fail:No implementation found for java.lang.String com.tencent.feedback.eup.jni.NativeExceptionUpload.registNativeExceptionHandler2(java.lang.String, java.lang.String, int, int) (tried Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2 and Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2__Ljava_lang_String_2Ljava_lang_String_2II) , try old regist
+12-23 08:11:44.166  5903  5941 D eup     : rqdp{  queryFile: n:}/data/app/com.tencent.qqmusic-1/base.apk rqdp{  , sha:}5.8.0.18294 rqdp{  , tp:}0 rqdp{  ,arh:}5.8.0.18
+12-23 08:11:44.167  5903  5941 D eup     : rqdp{  FileDAO.query() end success} 1
+12-23 08:11:44.167  5903  5941 D eup     : rqdp{  queryFile result num } 1
+12-23 08:11:44.167  5903  5941 D eup     : rqdp{  on Query Start}
+12-23 08:11:44.167  5903  5941 D eup     : rqdp{  step }2
+12-23 08:11:44.167  5903  5941 D eup     : rqdp{  notify Query Start}
+12-23 08:11:44.167  5903  5941 D eup     : rqdp{  com query start }class com.tencent.feedback.eup.n
+12-23 08:11:44.167  2208  2353 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.167  5903  5940 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler start
+12-23 08:11:44.168  5903  5941 D eup     : rqdp{ next day 56896000}
+12-23 08:11:44.168  5903  5940 I native_eup: found native exception upload!
+12-23 08:11:44.168  5903  5940 I native_eup: found native exception handler!
+12-23 08:11:44.168  2208  2229 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.168  5903  5941 D eup     : rqdp{  AnalyticsDAO.querySum() start}
+12-23 08:11:44.168  5903  5941 D eup     : rqdp{  query where: }_time >= -1 and _time <= 9223372036854775807 and ( _type = 9 ) and ( _key = 'com.tencent.qqmusic:QQPlayerService' )
+12-23 08:11:44.169  5903  5940 I native_eup: regist handler start procType 1 , level 22 , tombDir:/storage/emulated/0/qqmusic/eup/
+12-23 08:11:44.169  5903  5940 I native_eup: registSignal start
+12-23 08:11:44.169  5903  5940 I native_eup: registSignal end
+12-23 08:11:44.169  5903  5940 I native_eup: regist handler end
+12-23 08:11:44.169  5903  5940 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler end
+12-23 08:11:44.169  5903  5940 I native_eup: NativeRQDVersion:NRQD_1.7
+12-23 08:11:44.169  5903  5940 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_enableHandler start
+12-23 08:11:44.169  5903  5940 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_enableHandler end
+12-23 08:11:44.169  5903  5940 I native_eup: setLogMode 3 current 4
+12-23 08:11:44.170  5903  5941 D eup     : rqdp{  query sum: }0
+12-23 08:11:44.170  5903  5941 D eup     : rqdp{  AnalyticsDAO.querySum() end}
+12-23 08:11:44.170  5903  5941 D eup     : rqdp{  wait lanch record:} 500
+12-23 08:11:44.175  5903  5903 I art     : Explicit concurrent mark sweep GC freed 3034(191KB) AllocSpace objects, 1(16KB) LOS objects, 25% free, 3MB/4MB, paused 135us total 14.076ms
+12-23 08:11:44.176  5903  5903 W beacon  : API Level: 22
+12-23 08:11:44.179  5903  5903 I Delta   : [+66] App create end , total: 71
+12-23 08:11:44.186  2208  2229 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.186  2208  3464 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.186  2208  2228 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.191  5959  5959 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:44.195  5903  5952 D LibraryLoader: try to load library: networkbase from system lib
+12-23 08:11:44.195  5903  5952 D houdini : [5952] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libnetworkbase.so for ClassLoader by Native Bridge.
+12-23 08:11:44.195  5903  5952 D LibraryLoader: try to load library: wnsnetwork from system lib
+12-23 08:11:44.195  5903  5952 D houdini : [5952] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libwnsnetwork.so for ClassLoader by Native Bridge.
+12-23 08:11:44.195  5903  5952 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-23 08:11:44.202  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.tencent.qqmusic/files/
+12-23 08:11:44.202  5903  5903 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.tencent.qqmusic/files
+12-23 08:11:44.203  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/files/
+12-23 08:11:44.203  5903  5903 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/files
+12-23 08:11:44.203  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/files/
+12-23 08:11:44.203  5903  5903 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/files
+12-23 08:11:44.203  1926  2166 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/files/
+12-23 08:11:44.203  5903  5903 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/files
+12-23 08:11:44.208  2208  2237 D BluetoothManagerService: Message: 20
+12-23 08:11:44.208  2208  2237 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@e0e9bae:true
+12-23 08:11:44.208  2208  2237 D BluetoothManagerService: Message: 30
+12-23 08:11:44.209  2208  2237 D BluetoothManagerService: Message: 30
+12-23 08:11:44.209  2208  3464 D BluetoothManagerService: Trying to bind to profile: 1, while Bluetooth was disabled
+12-23 08:11:44.212  5903  5924 W System.err: java.lang.NumberFormatException: Invalid long: "UnknownUserId"
+12-23 08:11:44.212  5903  5924 W System.err: 	at java.lang.Long.invalidLong(Long.java:124)
+12-23 08:11:44.212  5903  5924 W System.err: 	at java.lang.Long.parse(Long.java:363)
+12-23 08:11:44.212  5903  5924 W System.err: 	at java.lang.Long.parseLong(Long.java:353)
+12-23 08:11:44.212  5903  5924 W System.err: 	at java.lang.Long.parseLong(Long.java:321)
+12-23 08:11:44.212  5903  5924 W System.err: 	at com.tencent.qqmusicplayerprocess.session.Session.l(SourceFile:595)
+12-23 08:11:44.212  5903  5924 W System.err: 	at com.tencent.qqmusicplayerprocess.session.c.a(SourceFile:667)
+12-23 08:11:44.212  5903  5924 W System.err: 	at com.tencent.qqmusicplayerprocess.session.c.h(SourceFile:658)
+12-23 08:11:44.212  5903  5924 W System.err: 	at com.tencent.qqmusicplayerprocess.servicenew.p.a(SourceFile:880)
+12-23 08:11:44.212  5903  5924 W System.err: 	at com.tencent.qqmusicplayerprocess.servicenew.b$a.onTransact(SourceFile:1368)
+12-23 08:11:44.212  5903  5924 W System.err: 	at android.os.Binder.execTransact(Binder.java:446)
+12-23 08:11:44.213  5903  5924 D houdini : [5924] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libexpress_verify.so for ClassLoader by Native Bridge.
+12-23 08:11:44.213  5903  5903 D houdini : [5903] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libQPlayAuto.so for ClassLoader by Native Bridge.
+12-23 08:11:44.213  5903  5903 I QPlay_Auto_JNI: [QPlayAuto] JNI_OnLoad
+12-23 08:11:44.213  5903  5903 I QPlay_Auto_JNI: [QPlayAuto] QPlay auto stop!!!
+12-23 08:11:44.213  5903  5903 I QPlay_Auto_JNI: [QPlayAuto] QPlay auto Start!
+12-23 08:11:44.214  5903  5982 I QPlay_Auto_JNI: [QPlayAuto] Discover socket(type:1) create ID: 81
+12-23 08:11:44.214  5903  5982 I QPlay_Auto_JNI: [QPlayAuto] Discover socket(type:4) create ID: 82
+12-23 08:11:44.219  5988  5988 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:44.223  6004  6004 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:44.226  5903  5990 I createWeakExpressKey: Start:  00000000113bd6d10033c5d7cdf3cfdf  guid
+12-23 08:11:44.226  5903  5990 I createWeakExpressKey: qqmusic_createTstreamKey  uuid:  00000000113bd6d10033c5d7cdf3cfdf
+12-23 08:11:44.227  5903  5990 I createWeakExpressKey: qqmusic_createTstreamKey: cookie_time 86400
+12-23 08:11:44.230  2208  2534 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.231  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.tencent.qqmusic/cache/
+12-23 08:11:44.231  5903  6015 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.tencent.qqmusic/cache
+12-23 08:11:44.231  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-23 08:11:44.231  5903  6015 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-23 08:11:44.232  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-23 08:11:44.232  5903  6015 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-23 08:11:44.232  1926  2166 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-23 08:11:44.232  5903  6015 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-23 08:11:44.232  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.tencent.qqmusic/cache/
+12-23 08:11:44.232  5903  6016 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.tencent.qqmusic/cache
+12-23 08:11:44.232  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-23 08:11:44.232  5903  6016 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-23 08:11:44.233  1926  2166 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-23 08:11:44.233  5903  6016 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-23 08:11:44.233  1926  2166 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-23 08:11:44.233  5903  6016 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-23 08:11:44.671  2208  2649 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:44.671  5903  5941 D eup     : rqdp{  in AnalyticsDAO.query() start}
+12-23 08:11:44.671  5903  5941 D eup     : rqdp{  query}  ( _type = 9 )  and _key = 'com.tencent.qqmusic:QQPlayerService'  and _time <= 9223372036854775807 
+12-23 08:11:44.673  5903  5941 D eup     : rqdp{  in AnalyticsDAO.query() end}
+12-23 08:11:44.674  5903  5941 D eup     : rqdp{  in AnalyticsDAO.query() start}
+12-23 08:11:44.674  5903  5941 D eup     : rqdp{  query}  ( _type = 7 )  and _time <= 9223372036854775807 
+12-23 08:11:44.676  5903  5941 I eup     : rqdp{  cids num :}2
+12-23 08:11:44.676  5903  5941 D eup     : rqdp{  in AnalyticsDAO.paserCursor() start}
+12-23 08:11:44.677  5903  5941 D eup     : rqdp{  in AnalyticsDAO.paserCursor() end}
+12-23 08:11:44.677  5903  5941 D eup     : rqdp{  current addNum: }0
+12-23 08:11:44.677  5903  5941 I eup     : rqdp{  total num: }2
+12-23 08:11:44.677  5903  5941 D eup     : rqdp{  in AnalyticsDAO.query() end}
+12-23 08:11:44.677  5903  5941 D eup     : rqdp{  de byte 2 obj}
+12-23 08:11:44.678  5903  5941 D eup     : rqdp{  de byte 2 obj}
+12-23 08:11:44.678  5903  5941 D eup     : rqdp{  start upload cmd:}200 rqdp{  url:}http://monitor.uu.qq.com/analytics/upload rqdp{  datas:}class com.tencent.feedback.proguard.as
+12-23 08:11:44.678  5903  5941 D eup     : rqdp{  en2Req }
+12-23 08:11:44.679  5903  5941 D eup     : rqdp{AppInfo.getUUID() Start}
+12-23 08:11:44.679  5903  5941 D rqdp{ RDMUUID }:%s: 4fbc81ec-aab9-4f24-a5e0-467d6163af17
+12-23 08:11:44.679  5903  5941 D eup     : rqdp{  [pid:}0S200D3PKF1UFLJI rqdp{  
+12-23 08:11:44.679  5903  5941 D eup     : bid:}com.tencent.qqmusic_5.8.0.18 rqdp{  
+12-23 08:11:44.679  5903  5941 D eup     : sid:}com.tencent.feedback_1.9.6 
+12-23 08:11:44.679  5903  5941 D eup     : ]
+12-23 08:11:44.681  5903  5941 D eup     : rqdp{  start req} http://monitor.uu.qq.com/analytics/upload rqdp{  sz:}227
+12-23 08:11:44.681  5903  5941 D eup     : rqdp{  send:}http://monitor.uu.qq.com/analytics/upload rqdp{  sz:}227 rqdp{  apn:}f8:32:e4:a0:24:6d
+12-23 08:11:44.710  5903  5903 E LibUpnp : Try to load LibUpnp so!
+12-23 08:11:44.710  5903  5903 E LibUpnp : dalvik.system.VMStack.getThreadStackTrace(Native Method)
+12-23 08:11:44.710  5903  5903 E LibUpnp : java.lang.Thread.getStackTrace(Thread.java:580)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusiccommon.a.k.e(SourceFile:251)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusicplayerprocess.qqmusicdlna.LibUpnp.<clinit>(SourceFile:29)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusicplayerprocess.qqmusicdlna.DLNAManager.isDLNARuning(SourceFile:1296)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusicplayerprocess.qqmusicdlna.DLNAManager.hasCurrentRenderer(SourceFile:1310)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusicplayerprocess.qqmusicdlna.QPlayService$1.hasCurrentRenderer(SourceFile:139)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusicplayerprocess.audio.playlist.MusicListManager.u(SourceFile:2595)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusicplayerprocess.servicenew.p.f(SourceFile:574)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusiccommon.util.e.e.h(SourceFile:151)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.tencent.qqmusicplayerprocess.audio.b.c.handleMessage(SourceFile:76)
+12-23 08:11:44.710  5903  5903 E LibUpnp : android.os.Handler.dispatchMessage(Handler.java:102)
+12-23 08:11:44.710  5903  5903 E LibUpnp : android.os.Looper.loop(Looper.java:135)
+12-23 08:11:44.710  5903  5903 E LibUpnp : android.app.ActivityThread.main(ActivityThread.java:5254)
+12-23 08:11:44.710  5903  5903 E LibUpnp : java.lang.reflect.Method.invoke(Native Method)
+12-23 08:11:44.710  5903  5903 E LibUpnp : java.lang.reflect.Method.invoke(Method.java:372)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-23 08:11:44.710  5903  5903 E LibUpnp : com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-23 08:11:44.713  5903  5903 D houdini : [5903] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libupnp-jni.so for ClassLoader by Native Bridge.
+12-23 08:11:44.713  5903  5903 I LibUpnp_Jni: JNI_OnLoad
+12-23 08:11:47.236  5027  5302 D Profiler: perf.PlayEventBus.begin 1450858307236
+12-23 08:11:47.236  5027  5027 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=203, mContext=com.tencent.qqmusic.MusicApplication@b6c6324, mIntent=Intent { act=com.tencent.qqmusic.ACTION_PLAYMODE_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 0.0
+12-23 08:11:47.237  5027  5027 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=203, mContext=com.tencent.qqmusic.MusicApplication@b6c6324, mIntent=Intent { act=com.tencent.qqmusic.ACTION_PLAYMODE_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 0.0
+12-23 08:11:49.202  6026  6026 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:52.537  2208  2533 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-23 08:11:54.214  6027  6027 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:11:54.258  5903  6021 W System.err: java.net.SocketTimeoutException: failed to connect to /182.254.116.117 (port 80) after 10000ms
+12-23 08:11:54.259  5903  6021 W System.err: 	at libcore.io.IoBridge.connectErrno(IoBridge.java:169)
+12-23 08:11:54.259  5903  6021 W System.err: 	at libcore.io.IoBridge.connect(IoBridge.java:122)
+12-23 08:11:54.259  5903  6021 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:183)
+12-23 08:11:54.259  5903  6021 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:456)
+12-23 08:11:54.259  5903  6021 W System.err: 	at java.net.Socket.connect(Socket.java:882)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:174)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.android.okhttp.Connection.connect(Connection.java:152)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:276)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:211)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:382)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:106)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.tencent.component.network.module.common.a$b.a(SourceFile:427)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.tencent.component.network.module.common.a$b.b(SourceFile:488)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.tencent.component.network.utils.thread.j$f.run(SourceFile:133)
+12-23 08:11:54.259  5903  6021 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:54.259  5903  6021 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:54.259  5903  6021 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:54.259  5903  6021 W System.err: 	at com.tencent.component.network.utils.thread.h.run(SourceFile:23)
+12-23 08:11:54.282  5903  6022 W System.err: java.net.SocketTimeoutException: failed to connect to /182.254.116.117 (port 80) after 10000ms
+12-23 08:11:54.282  5903  6022 W System.err: 	at libcore.io.IoBridge.connectErrno(IoBridge.java:169)
+12-23 08:11:54.282  5903  6022 W System.err: 	at libcore.io.IoBridge.connect(IoBridge.java:122)
+12-23 08:11:54.282  5903  6022 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:183)
+12-23 08:11:54.282  5903  6022 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:456)
+12-23 08:11:54.282  5903  6022 W System.err: 	at java.net.Socket.connect(Socket.java:882)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:174)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.android.okhttp.Connection.connect(Connection.java:152)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:276)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:211)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:382)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:106)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.tencent.component.network.module.common.a$b.a(SourceFile:427)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.tencent.component.network.module.common.a$b.b(SourceFile:488)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.tencent.component.network.utils.thread.j$f.run(SourceFile:133)
+12-23 08:11:54.282  5903  6022 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:54.282  5903  6022 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:54.282  5903  6022 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:54.282  5903  6022 W System.err: 	at com.tencent.component.network.utils.thread.h.run(SourceFile:23)
+12-23 08:11:56.595  5027  5075 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:56.595  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:11:56.595  5027  5075 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:11:56.595  5027  5075 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:11:56.595  5027  5075 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:11:56.595  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:11:56.595  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:11:56.595  5027  5075 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:11:56.595  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:11:56.595  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:11:56.595  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:11:56.595  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:11:56.595  5027  5075 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:11:56.595  5027  5075 W System.err: 	at com.tencent.beacon.event.p.a(SourceFile:79)
+12-23 08:11:56.596  5027  5075 W System.err: 	at com.tencent.beacon.event.q.run(SourceFile:36)
+12-23 08:11:56.596  5027  5075 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:11:56.596  5027  5075 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:11:56.596  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:11:56.596  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:11:56.596  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:56.596  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:56.596  5027  5075 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:56.596  5027  5075 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:11:56.596  5027  5075 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:11:56.596  5027  5075 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:11:56.596  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:11:56.596  5027  5075 W System.err: 	... 20 more
+12-23 08:11:56.596  5027  5075 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:56.721  5027  5075 E beacon  :  req error  java.lang.Exception: 1:java.lang.Exception: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname 2:same 3:same 
+12-23 08:11:56.725  5027  5075 W System.err: java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:427)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:11:56.725  5027  5075 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:11:56.725  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:11:56.725  5027  5075 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:11:56.725  5027  5075 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:11:56.725  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:11:56.725  5027  5075 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:11:56.725  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:11:56.725  5027  5075 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:11:56.725  5027  5075 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:11:56.725  5027  5075 W System.err: 	at com.tencent.beacon.event.p.a(SourceFile:79)
+12-23 08:11:56.725  5027  5075 W System.err: 	at com.tencent.beacon.event.q.run(SourceFile:36)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:152)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:266)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:11:56.725  5027  5075 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:11:56.725  5027  5075 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "eventlog.beacon.qq.com": No address associated with hostname
+12-23 08:11:59.222  6029  6029 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:12:00.884  2208  4561 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+12-23 08:12:04.208  6033  6033 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:12:04.211  6036  6036 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:12:04.216  5903  5946 W System.err: java.net.UnknownHostException: Unable to resolve host "strategy.beacon.qq.com": No address associated with hostname
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:12:04.216  5903  5946 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:12:04.216  5903  5946 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:12:04.216  5903  5946 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:12:04.216  5903  5946 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:12:04.216  5903  5946 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:12:04.216  5903  5946 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:12:04.216  5903  5946 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:236)
+12-23 08:12:04.216  5903  5946 W System.err: 	at com.tencent.beacon.g.h$a.a(SourceFile:120)
+12-23 08:12:04.216  5903  5946 W System.err: 	at com.tencent.beacon.g.l.a(SourceFile:215)
+12-23 08:12:04.216  5903  5946 W System.err: 	at com.tencent.beacon.a.b.f.run(SourceFile:223)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:152)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:265)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:12:04.216  5903  5946 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:12:04.216  5903  5946 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:12:04.216  5903  5946 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:12:04.216  5903  5946 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:12:04.216  5903  5946 W System.err: 	... 19 more
+12-23 08:12:04.216  5903  5946 E beacon  : execute error:java.net.UnknownHostException: Unable to resolve host "strategy.beacon.qq.com": No address associated with hostname
+12-23 08:12:04.233  6038  6038 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:12:04.268  5903  6021 W System.err: java.net.SocketTimeoutException: failed to connect to /182.254.116.116 (port 80) after 10000ms
+12-23 08:12:04.268  5903  6021 W System.err: 	at libcore.io.IoBridge.connectErrno(IoBridge.java:169)
+12-23 08:12:04.268  5903  6021 W System.err: 	at libcore.io.IoBridge.connect(IoBridge.java:122)
+12-23 08:12:04.268  5903  6021 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:183)
+12-23 08:12:04.268  5903  6021 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:456)
+12-23 08:12:04.268  5903  6021 W System.err: 	at java.net.Socket.connect(Socket.java:882)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:174)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.android.okhttp.Connection.connect(Connection.java:152)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:276)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:211)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:382)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:106)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.tencent.component.network.module.common.a$b.a(SourceFile:427)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.tencent.component.network.module.common.a$b.b(SourceFile:490)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.tencent.component.network.utils.thread.j$f.run(SourceFile:133)
+12-23 08:12:04.268  5903  6021 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:12:04.268  5903  6021 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:12:04.268  5903  6021 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:12:04.268  5903  6021 W System.err: 	at com.tencent.component.network.utils.thread.h.run(SourceFile:23)
+12-23 08:12:04.329  5903  6022 W System.err: java.net.SocketTimeoutException: failed to connect to /182.254.116.116 (port 80) after 10000ms
+12-23 08:12:04.329  5903  6022 W System.err: 	at libcore.io.IoBridge.connectErrno(IoBridge.java:169)
+12-23 08:12:04.329  5903  6022 W System.err: 	at libcore.io.IoBridge.connect(IoBridge.java:122)
+12-23 08:12:04.329  5903  6022 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:183)
+12-23 08:12:04.329  5903  6022 W System.err: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:456)
+12-23 08:12:04.329  5903  6022 W System.err: 	at java.net.Socket.connect(Socket.java:882)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:174)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.android.okhttp.Connection.connect(Connection.java:152)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:276)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:211)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:382)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:106)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.tencent.component.network.module.common.a$b.a(SourceFile:427)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.tencent.component.network.module.common.a$b.b(SourceFile:490)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.tencent.component.network.utils.thread.j$f.run(SourceFile:133)
+12-23 08:12:04.329  5903  6022 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:12:04.329  5903  6022 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:12:04.329  5903  6022 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:12:04.329  5903  6022 W System.err: 	at com.tencent.component.network.utils.thread.h.run(SourceFile:23)
+12-23 08:12:04.551  6045  6045 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:12:04.563  6048  6048 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 08:12:04.706  5903  5941 W eup     : java.net.UnknownHostException: Unable to resolve host "monitor.uu.qq.com": No address associated with hostname
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-23 08:12:04.706  5903  5941 W eup     : 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:142)
+12-23 08:12:04.706  5903  5941 W eup     : 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:169)
+12-23 08:12:04.706  5903  5941 W eup     : 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:124)
+12-23 08:12:04.706  5903  5941 W eup     : 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:365)
+12-23 08:12:04.706  5903  5941 W eup     : 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:560)
+12-23 08:12:04.706  5903  5941 W eup     : 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:492)
+12-23 08:12:04.706  5903  5941 W eup     : 	at com.tencent.feedback.b.e$a.a(SourceFile:213)
+12-23 08:12:04.706  5903  5941 W eup     : 	at com.tencent.feedback.b.e$a.a(SourceFile:113)
+12-23 08:12:04.706  5903  5941 W eup     : 	at com.tencent.feedback.b.i.a(SourceFile:233)
+12-23 08:12:04.706  5903  5941 W eup     : 	at com.tencent.feedback.proguard.ar.a(SourceFile:259)
+12-23 08:12:04.706  5903  5941 W eup     : 	at com.tencent.feedback.proguard.ar.run(SourceFile:406)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:152)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:265)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.lang.Thread.run(Thread.java:818)
+12-23 08:12:04.706  5903  5941 W eup     : Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-23 08:12:04.706  5903  5941 W eup     : 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-23 08:12:04.706  5903  5941 W eup     : 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-23 08:12:04.706  5903  5941 W eup     : 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-23 08:12:04.706  5903  5941 W eup     : 	... 20 more
+12-23 08:12:04.706  5903  5941 E eup     : rqdp{  execute error }java.net.UnknownHostException: Unable to resolve host "monitor.uu.qq.com": No address associated with hostname
+12-23 08:12:04.706  5903  5941 D eup     : rqdp{  recevied:}0
+12-23 08:12:04.706  5903  5941 D eup     : rqdp{  try time} 2
+12-23 08:12:06.642  6050  6050 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
