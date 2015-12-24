@@ -1,0 +1,113 @@
+12-23 09:24:57.303  9858  9858 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:24:59.088  1925  1925 D SurfaceFlinger: Set power mode=2, type=0 flinger=0x7fadac462000
+12-23 09:24:59.088  1925  2177 D GRALLOC-DRM: set master
+12-23 09:25:01.121  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:25:01.133  1933  2203 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 09:25:01.365  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:25:02.312  9863  9863 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:25:04.241  2207  4404 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.sohu.inputmethod.sogou/.SogouIMELauncher (has extras)} from uid 10020 on display 0
+12-23 09:25:04.241  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:25:04.243  2207  4404 V WindowManager: addAppToken: AppWindowToken{303b3e70 token=Token{251818b3 ActivityRecord{100b622 u0 com.sohu.inputmethod.sogou/.SogouIMELauncher t156}}} to stack=1 task=156 at 0
+12-23 09:25:04.249  2207  2238 V WindowManager: Adding window Window{24656921 u0 Starting com.sohu.inputmethod.sogou} at 3 of 8 (after Window{243d58d2 u0 com.android.launcher3/com.android.launcher3.Launcher})
+12-23 09:25:04.295  2207  2264 D WifiService: New client listening to asynchronous messages
+12-23 09:25:04.307  2207  2655 I ActivityManager: START u0 {cmp=com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.guide.SettingGuideActivity (has extras)} from uid 10071 on display 0
+12-23 09:25:04.311  2207  2655 V WindowManager: addAppToken: AppWindowToken{149323a0 token=Token{2ad894a3 ActivityRecord{2826ebd2 u0 com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.guide.SettingGuideActivity t156}}} to stack=1 task=156 at 1
+12-23 09:25:04.312  2207  2655 V WindowManager: Based on layer: Adding window Window{24656921 u0 Starting com.sohu.inputmethod.sogou} at 3 of 8
+12-23 09:25:04.370  2207  2656 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v dpad/v s.30}
+12-23 09:25:04.374  2207  2207 V ActivityManager: Display changed displayId=0
+12-23 09:25:04.374  9593  9593 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-23 09:25:04.374  9593  9593 D GeckoLocales: No selected locale. No correction needed.
+12-23 09:25:04.389  2207  2254 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-23 09:25:04.423  9560  9579 W art     : Suspending all threads took: 9.946ms
+12-23 09:25:04.424  9560  9579 I art     : Background sticky concurrent mark sweep GC freed 2424(190KB) AllocSpace objects, 2(32KB) LOS objects, 15% free, 3MB/3MB, paused 10.507ms total 13.820ms
+12-23 09:25:04.431  9560  9870 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-23 09:25:04.431  2207  2228 V WindowManager: Adding window Window{2d78c7f7 u0 com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.guide.SettingGuideActivity} at 3 of 9 (before Window{24656921 u0 Starting com.sohu.inputmethod.sogou})
+12-23 09:25:04.483  9560  9870 I GRALLOC-DRM: create intel for driver i915
+12-23 09:25:04.484  9560  9870 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-23 09:25:04.484  9560  9870 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-23 09:25:04.493  9560  9870 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-23 09:25:04.493  9560  9870 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-23 09:25:04.493  9560  9870 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-23 09:25:04.493  9560  9870 I OpenGLRenderer: Initialized EGL, version 1.4
+12-23 09:25:04.493  9560  9870 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-23 09:25:04.496  9560  9870 D OpenGLRenderer: Enabling debug mode 0
+12-23 09:25:04.534  2207  2238 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.534  2207  2238 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+12-23 09:25:04.534  2207  2238 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.534  2207  2238 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.534  2207  2238 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.534  2207  2238 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+12-23 09:25:04.534  2207  2238 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.535  2207  2238 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.535  2207  2238 E WindowManager: Performed 6 layouts in a row. Skipping
+12-23 09:25:04.535  2501  2501 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-23 09:25:04.542  2207  2658 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.542  2207  2658 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+12-23 09:25:04.542  2207  2658 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.542  2207  2658 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.542  2207  2658 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.542  2207  2658 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+12-23 09:25:04.542  2207  2658 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.542  2207  2658 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.542  2207  2658 E WindowManager: Performed 6 layouts in a row. Skipping
+12-23 09:25:04.543  2207  2229 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.543  2207  2229 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+12-23 09:25:04.543  2207  2229 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.543  2207  2229 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.543  2207  2229 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.543  2207  2229 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+12-23 09:25:04.544  2207  2229 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.544  2207  2229 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.544  2207  2229 E WindowManager: Performed 6 layouts in a row. Skipping
+12-23 09:25:04.546  2207  2238 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.546  2207  2238 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+12-23 09:25:04.546  2207  2238 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.546  2207  2238 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.546  2207  2238 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.546  2207  2238 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+12-23 09:25:04.546  2207  2238 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.546  2207  2238 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.546  2207  2238 E WindowManager: Performed 6 layouts in a row. Skipping
+12-23 09:25:04.547  2207  4367 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.547  2207  4367 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+12-23 09:25:04.547  2207  4367 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.547  2207  4367 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.547  2207  4367 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:25:04.547  2207  4367 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+12-23 09:25:04.547  2207  4367 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:25:04.547  2207  4367 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:25:04.548  2207  4367 E WindowManager: Performed 6 layouts in a row. Skipping
+12-23 09:25:04.548  2207  2238 I ActivityManager: Displayed com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.guide.SettingGuideActivity: +233ms (total +2m51s143ms)
+12-23 09:25:04.589  2207  2238 I WindowManager: Screen frozen for +274ms due to Window{24656921 u0 Starting com.sohu.inputmethod.sogou}
+12-23 09:25:04.592  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1685, 159).
+12-23 09:25:06.634  2207  2238 I art     : Explicit concurrent mark sweep GC freed 8258(639KB) AllocSpace objects, 20(1854KB) LOS objects, 33% free, 15MB/23MB, paused 784us total 32.745ms
+12-23 09:25:07.114  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:25:07.114  2207  2253 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-23 09:25:07.170  2207  4367 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v dpad/v s.31}
+12-23 09:25:07.172  2207  2254 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-23 09:25:07.175  9593  9593 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-23 09:25:07.175  9593  9593 D GeckoLocales: No selected locale. No correction needed.
+12-23 09:25:07.194  2207  2207 V ActivityManager: Display changed displayId=0
+12-23 09:25:07.286  9560  9560 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-23 09:25:07.322  9874  9874 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:25:07.380  2207  2238 I WindowManager: Screen frozen for +246ms due to Window{a9795a u0 com.android.systemui.ImageWallpaper}
+12-23 09:25:07.765  2501  2680 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-23 09:25:08.858  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:25:08.866  2207  2358 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10004 on display 0
+12-23 09:25:08.912  2207  4404 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@1026c696 (uid=10020 pid=2501)
+12-23 09:25:09.433  2207  2238 I art     : Explicit concurrent mark sweep GC freed 4804(270KB) AllocSpace objects, 7(4MB) LOS objects, 33% free, 12MB/18MB, paused 366us total 13.217ms
+12-23 09:25:09.538  2207  4405 W ActivityManager: getRunningAppProcesses: caller 10059 does not hold REAL_GET_TASKS; limiting output
+12-23 09:25:10.546  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:25:10.567  2207  2229 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 10004 on display 0
+12-23 09:25:11.148  2501  2680 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-23 09:25:12.332  9878  9878 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:25:12.752  1925  1925 D SurfaceFlinger: Set power mode=0, type=0 flinger=0x7fadac462000
+12-23 09:25:17.341  9879  9879 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:25:19.451  2207  2656 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-23 09:25:21.414  4685  5560 D bo      : onHandlerHeart-->[currentTime：1450862721414][mLastSendDataTime:1450862511413][checkHeartInterval:210000]
+12-23 09:25:21.414  4685  5560 D bo      : onHandlerHeart-->[send heart]
+12-23 09:25:21.451  4685  5580 D SpdyClient: spdyPingRecvCallback[11]
+12-23 09:25:21.451  4685  5580 D bo      : heart-->[init_connect_1287][client_receive]
+12-23 09:25:22.353  9882  9882 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:25:27.365  9883  9883 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:25:28.059  9884  9884 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
