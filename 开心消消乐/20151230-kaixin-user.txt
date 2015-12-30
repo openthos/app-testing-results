@@ -1,0 +1,1194 @@
+12-30 01:58:30.540  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:31.075 13460 13460 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:58:31.543  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:32.048 13461 13461 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:58:32.545  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:33.473  2172  2252 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:58:33.473  2172  2219 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-30 01:58:33.485  1905  2169 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 01:58:33.548  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:34.491  2308  2308 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-30 01:58:34.491  2308  2308 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-30 01:58:34.550  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:34.896  2172  2252 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:58:35.552  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:36.553  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:37.059 13465 13465 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:58:37.554  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:38.556  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:39.559  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:40.561  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:41.564  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:42.070 13466 13466 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:58:42.565  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:43.567  2172  2334 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:44.569  2172  2191 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:45.571  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:46.574  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:47.081 13467 13467 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:58:47.576  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:48.579  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:49.238  2172  2334 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:49.580  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:50.583  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:51.586  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:52.092 13468 13468 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:58:52.588  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:53.590  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:54.593  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:55.595  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:56.598  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:57.104 13469 13469 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:58:57.601  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:58.603  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:58.999  2172  2514 W ActivityManager: getRunningAppProcesses: caller 10064 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:59.093  2172  2334 W ActivityManager: getRunningAppProcesses: caller 10064 does not hold REAL_GET_TASKS; limiting output
+12-30 01:58:59.605  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:00.608  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:01.611  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:02.111 13470 13470 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:02.614  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:03.616  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:04.431  2172  4162 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.happyelements.AndroidAnimal.wdj/com.happyelements.hellolua.MainActivity (has extras)} from uid 10036 on display 0
+12-30 01:59:04.431  2172  2252 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:04.434  2172  4162 V WindowManager: addAppToken: AppWindowToken{18020a5e token=Token{36b80799 ActivityRecord{3d9d18e0 u0 com.happyelements.AndroidAnimal.wdj/com.happyelements.hellolua.MainActivity t322}}} to stack=1 task=322 at 0
+12-30 01:59:04.434  2172  2202 V WindowManager: Adding window Window{282f7f5b u0 Starting com.happyelements.AndroidAnimal.wdj} at 4 of 9 (after Window{99261d3 u0 jackpal.androidterm/jackpal.androidterm.Term})
+12-30 01:59:04.443  1905  2169 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 01:59:04.462  2172  4161 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.12}
+12-30 01:59:04.484  2172  2172 V ActivityManager: Display changed displayId=0
+12-30 01:59:04.503  2172  2220 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-30 01:59:04.593  3303  3303 D houdini : [3303] Added shared library /data/data/com.happyelements.AndroidAnimal.wdj/external_lib/libhegame.so for ClassLoader by Native Bridge.
+12-30 01:59:04.593  3303  3303 I log_service: [Java_com_happyelements_android_ApplicationHelper_registerAssetsManager|INFO]:registerAssetsManager success
+12-30 01:59:04.618  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:04.632  3303  3303 D Cocos2dxActivity: model=H170-PRO
+12-30 01:59:04.632  3303  3303 D Cocos2dxActivity: product=android_x86_64
+12-30 01:59:04.632  3303  3303 D Cocos2dxActivity: isEmulator=false
+12-30 01:59:04.734  3303  3303 I com.happyelements.android.gsp.GspProxy: Get Instance-----
+12-30 01:59:04.734  3303  3303 I com.happyelements.android.gsp.GspProxy: init gsp Begin.platform:CUCM
+12-30 01:59:04.737 13480 13480 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:04.739  3303  3303 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+12-30 01:59:04.739  3303  3303 I GSP_LOADER: find module config: NOTIFICATION
+12-30 01:59:04.739  3303  3303 I GSP_LOADER: find module config: CUSTOMERSUPPORT
+12-30 01:59:04.739  3303  3303 I GSP_LOADER: find module config: DC
+12-30 01:59:04.740  2172  4162 W ActivityManager: Unable to start service Intent { cmp=com.happyelements.AndroidAnimal.wdj/com.wandoujia.mariosdk.plugin.apk.message_push.MessagePushService } U=0: not found
+12-30 01:59:04.793  3303  3303 V MicroMsg.SDK.WXApiImplV10.ActivityLifecycleCb: com.happyelements.hellolua.MainActivity  onActivityResumed
+12-30 01:59:04.793  3303  3303 D CMCCDataStatisticsProxy: onActivityResume
+12-30 01:59:04.797  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.798  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.798  3303  3303 W ResourceType: For resource 0x7f090104, entry index(260) is beyond type entryCount(45)
+12-30 01:59:04.798  3303  3303 W ResourceType: Failure getting entry for 0x7f090104 (t=8 e=260) (error -75)
+12-30 01:59:04.841  3303  3303 W ResourceType: For resource 0x7f090105, entry index(261) is beyond type entryCount(45)
+12-30 01:59:04.841  3303  3303 W ResourceType: Failure getting entry for 0x7f090105 (t=8 e=261) (error -75)
+12-30 01:59:04.848  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.848  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.848  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.848  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.849  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.849  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.849  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.849  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.850  3303 13479 I MID     : read mid from Settings.System
+12-30 01:59:04.853  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.853  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.853  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.853  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.853  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.853  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.853  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.853  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.854  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.854  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.854  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.854  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.854  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.854  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.854  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.854  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.855  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.855  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.855  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.855  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.855  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.855  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.856  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.856  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.859  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.859  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.860  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.860  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.860  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.860  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.860  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.860  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.861  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.861  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.861  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.861  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.862  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.862  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.862  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.862  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.863  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.863  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.863  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.863  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.863  3303  3303 W ResourceType: For resource 0x7f0900d5, entry index(213) is beyond type entryCount(45)
+12-30 01:59:04.863  3303  3303 W ResourceType: Failure getting entry for 0x7f0900d5 (t=8 e=213) (error -75)
+12-30 01:59:04.863  3303  3303 W ResourceType: For resource 0x7f09007e, entry index(126) is beyond type entryCount(45)
+12-30 01:59:04.863  3303  3303 W ResourceType: Failure getting entry for 0x7f09007e (t=8 e=126) (error -75)
+12-30 01:59:04.866 13483 13483 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:04.872  3303  3303 E Socket  : start
+12-30 01:59:04.874  3303  3303 D houdini : [3303] Added shared library /data/app/com.happyelements.AndroidAnimal.wdj-1/lib/arm/libiconv.so for ClassLoader by Native Bridge.
+12-30 01:59:04.876 13485 13485 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:04.876  3303 13488 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-30 01:59:04.877  2172  2334 V WindowManager: Adding window Window{320af54b u0 com.happyelements.AndroidAnimal.wdj/com.happyelements.hellolua.MainActivity} at 4 of 13 (before Window{282f7f5b u0 Starting com.happyelements.AndroidAnimal.wdj})
+12-30 01:59:04.879  3303  3303 D GLSurfaceView: HideSoftInput
+12-30 01:59:04.881  3303 13491 D HTTP    : http://mario.sdk.wandoujia.com//api/v1/gamesdk/msg/pull?content=%7B%22gameVersionCode%22%3A%2229%22%2C%22sdkVersion%22%3A%224.0.1%22%2C%22appkey%22%3A100001263%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%2C%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%221.29%22%2C%22showPos%22%3A%22ENTERGAME%22%7D&sign=a52207f50e04004dcf38c105b6352259
+12-30 01:59:04.881  2172  2334 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:04.893  3303  3443 W System.err: java.util.concurrent.ExecutionException: java.net.UnknownHostException: Unable to resolve host "io.wandoujia.com": No address associated with hostname
+12-30 01:59:04.893  3303  3443 W System.err: 	at o.ᵅ.ͺ(:46)
+12-30 01:59:04.893  3303  3443 W System.err: 	at o.ᵅ.get(:41)
+12-30 01:59:04.893  3303  3443 W System.err: 	at o.vk.ᐝ(:227)
+12-30 01:59:04.893  3303  3443 W System.err: 	at o.vk.ˎ(:97)
+12-30 01:59:04.893  3303  3443 W System.err: 	at o.vk.ˊ(:42)
+12-30 01:59:04.893  3303  3443 W System.err: 	at o.vl.run(:83)
+12-30 01:59:04.893  3303  3443 W System.err: 	at android.os.Handler.handleCallback(Handler.java:739)
+12-30 01:59:04.893  3303  3443 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-30 01:59:04.893  3303  3443 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+12-30 01:59:04.893  3303  3443 W System.err: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+12-30 01:59:04.893  3303  3443 W System.err: Caused by: java.net.UnknownHostException: Unable to resolve host "io.wandoujia.com": No address associated with hostname
+12-30 01:59:04.893  3303  3443 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:457)
+12-30 01:59:04.893  3303  3443 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:252)
+12-30 01:59:04.893  3303  3443 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:215)
+12-30 01:59:04.893  3303  3443 W System.err: 	at o.ϊ.run(:396)
+12-30 01:59:04.893  3303  3443 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-30 01:59:04.894  3303  3443 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-30 01:59:04.894  3303  3443 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-30 01:59:04.894  3303  3443 W System.err: Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-30 01:59:04.894  3303  3443 W System.err: 	at libcore.io.Posix.android_getaddrinfo(Native Method)
+12-30 01:59:04.894  3303  3443 W System.err: 	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:55)
+12-30 01:59:04.894  3303  3443 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:438)
+12-30 01:59:04.894  3303  3443 W System.err: 	... 6 more
+12-30 01:59:04.931  3303 13488 I GRALLOC-DRM: create intel for driver i915
+12-30 01:59:04.933  3303 13488 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-30 01:59:04.933  3303 13488 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-30 01:59:04.935  3303 13491 D Wandoujia-PaySdk_message_push: got response PullResponse{content=ResponseContent{msgList=[], pullRule=PullRule{frequencyInMin=300}}}
+12-30 01:59:04.945  3303 13488 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-30 01:59:04.945  3303 13488 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-30 01:59:04.945  3303 13488 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-30 01:59:04.945  3303 13488 I OpenGLRenderer: Initialized EGL, version 1.4
+12-30 01:59:04.945  3303 13488 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-30 01:59:04.949  3303 13488 D OpenGLRenderer: Enabling debug mode 0
+12-30 01:59:04.951  2172  7767 V WindowManager: Adding window Window{15fd041 u0 SurfaceView} at 4 of 14 (before Window{320af54b u0 com.happyelements.AndroidAnimal.wdj/com.happyelements.hellolua.MainActivity})
+12-30 01:59:04.951  3303 13481 E com.happyelements.gsp.android.config.GspConfigParseHelper: 解析xiaomi时出现异常，Value  at xiaomi of type java.lang.String cannot be converted to JSONObject
+12-30 01:59:04.965  3303  3303 E Socket  : onConnectFailed:1
+12-30 01:59:04.966  3303 13473 I MainActivity: onSurfaceCreated
+12-30 01:59:04.966  3303 13473 I MainActivity: Cocos2dxRenderer.nativeInit
+12-30 01:59:05.004 13504 13504 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:05.006  3303 13473 I log_service: [initProxy|INFO]:Proxy set to :0
+12-30 01:59:05.007  3303 13473 I log_service: [init|INFO]:HeResFileLocator init
+12-30 01:59:05.019  2172  2202 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-30 01:59:05.019  2172  2202 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+12-30 01:59:05.019  2172  2202 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-30 01:59:05.019  2172  2202 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-30 01:59:05.019  2172  2202 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-30 01:59:05.019  2172  2202 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+12-30 01:59:05.020  2172  2202 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-30 01:59:05.020  2172  2202 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-30 01:59:05.020  2172  2202 E WindowManager: Performed 6 layouts in a row. Skipping
+12-30 01:59:05.028  2172  2202 I ActivityManager: Displayed com.happyelements.AndroidAnimal.wdj/com.happyelements.hellolua.MainActivity: +593ms
+12-30 01:59:05.061  3303  3303 I com.happyelements.android.gsp.GspProxy: init gsp module NOTIFICATION success
+12-30 01:59:05.061  3303  3303 E com.happyelements.android.gsp.GspProxy: init gsp module PAYMENT fail MODULE_ERROR module PAYMENT not load at this app, please check module settings
+12-30 01:59:05.061  2172  2202 I WindowManager: Screen frozen for +627ms due to Window{282f7f5b u0 Starting com.happyelements.AndroidAnimal.wdj}
+12-30 01:59:05.079  3303  3303 I com.happyelements.android.gsp.GspProxy: init gsp module DC success
+12-30 01:59:05.079  3303  3303 I com.happyelements.android.gsp.GspProxy: init gsp module CUSTOMERSUPPORT success
+12-30 01:59:05.123  3303 13473 I log_service: [init_crash_reporter|INFO]:Current Working Directory: /data/data/com.happyelements.AndroidAnimal.wdj/errorlogs/
+12-30 01:59:05.123  3303 13473 I log_service: 
+12-30 01:59:05.123  3303 13473 I log_service: [init_crash_reporter|INFO]:==========Google breakpad exception handler initialized==========
+12-30 01:59:05.124  3303 13473 I log_service: [HeThreadPool|INFO]:create thread pool 1
+12-30 01:59:05.124  3303 13473 I log_service: [HeDCLog|INFO]:create he_dc_log instance
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: <dict>
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	cocos2d.x.version: cocos2d-x 2.2.6
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	cocos2d.x.compiled_with_profiler: false
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	cocos2d.x.compiled_with_gl_state_cache: true
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.vendor: Intel Open Source Technology Center
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.renderer: Mesa DRI Intel(R) Skylake DT  GT2 
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.version: OpenGL ES 3.0 Mesa 11.0.7 (git-3cff491)
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.max_texture_size: 8192
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.max_texture_units: 96
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.supports_PVRTC: false
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.supports_S3TC: true
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.supports_NPOT: true
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.supports_BGRA8888: false
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.supports_discard_framebuffer: true
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: 	gl.supports_vertex_array_object: true
+12-30 01:59:05.126  3303 13473 D cocos2d-x debug info: </dict>
+12-30 01:59:05.128  3303 13473 I log_service: [HeThreadPool|INFO]:create thread pool 2
+12-30 01:59:05.129  3303 13473 I log_service: [HeThreadPool|INFO]:create thread pool 3
+12-30 01:59:05.130  3303 13473 I log_service: [ResManager|INFO]:create res mgr instance
+12-30 01:59:05.138  3303  3303 I NotificationService: onStartCommand start,flags=0,startId=3,isStart=true
+12-30 01:59:05.183  3303 13473 I log_service: [startGame|INFO]:device lang: zh_CN
+12-30 01:59:05.183  3303 13473 I log_service: [startGame|INFO]:device resolution 1920 1008
+12-30 01:59:05.199  3303 13473 I log_service: [matchLang|INFO]:match lang: zh_CN
+12-30 01:59:05.199  3303 13473 I log_service: [matchResolution|INFO]:match resolution: 720.1280
+12-30 01:59:05.213  3303 13473 I log_service: [setCurConfig|INFO]:static config loaded, version: 23e6837e064642cd91e9a63b323ba253
+12-30 01:59:05.293  3303 13473 D com.happyelements.android.LuaHelper: initLuaEnv successfully
+12-30 01:59:05.300  3303 13473 D cocos2d-x debug info: [LUA-print] jit.off
+12-30 01:59:05.306  3303 13473 I com.happyelements.android.gsp.GspProxy: Get Instance-----
+12-30 01:59:05.424  3303 13473 I MainActivity: ~Cocos2dxRenderer.nativeInit
+12-30 01:59:05.424  3303 13473 I MainActivity: onSurfaceChanged
+12-30 01:59:05.477  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:05.478  3303 13512 I log_service: [loadResSettings|INFO]:get static settings error, http status: 0, curl_code: 6, error: Couldn't resolve host name
+12-30 01:59:05.515  3303 13473 W log_service: [lua|WARNING]:used in code ?
+12-30 01:59:05.521  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 6, entryID: 1
+12-30 01:59:05.551  3303 13473 W log_service: [lua|WARNING]:In Func @hecore/ui/LayoutBuilder.lua: | redesign LayoutBuilder !
+12-30 01:59:05.598  3303  3303 V MicroMsg.SDK.WXApiImplV10.ActivityLifecycleCb: WXStat trigger onForeground
+12-30 01:59:05.619  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:05.744  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/panel/component/startGamePanel/LevelInfoPanel.lua: | Debug Item Scale 9 Bg Group Bounds !
+12-30 01:59:05.745  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/scenes/component/HomeScene/WorldSceneScroller.lua: | ??
+12-30 01:59:05.747  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/scenes/component/HomeScene/item/CloudButton.lua: | Class CloudButton Is Used To Move To Screen Side / Restore To Origianl Pos When Trunk Is Scrolling !
+12-30 01:59:05.747  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/scenes/component/HomeScene/item/CloudButton.lua: | This Function Is Cutted Now !
+12-30 01:59:05.796  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/panel/component/enterInviteCodePanel/InvitedFriendItem.lua: | duplicate code, need reform later !!!
+12-30 01:59:06.075  3303 13473 I log_service: [HeThreadPool|INFO]:create thread pool 4
+12-30 01:59:06.078  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:06.094  1900 13518 W SocketClient: write error (Broken pipe)
+12-30 01:59:06.094  1900 13518 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:06.094  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:06.095  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 32, entryID: 4
+12-30 01:59:06.095  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 33, entryID: 5
+12-30 01:59:06.099  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 36, entryID: 6
+12-30 01:59:06.099  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 38, entryID: 7
+12-30 01:59:06.099  1900 13519 W SocketClient: write error (Broken pipe)
+12-30 01:59:06.099  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:06.099  1900 13519 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:06.100  1900 13520 W SocketClient: write error (Broken pipe)
+12-30 01:59:06.100  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:06.100  1900 13520 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:06.110  1900 13521 W SocketClient: write error (Broken pipe)
+12-30 01:59:06.110  1900 13521 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:06.110  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:06.110  3303 13511 I log_service: [doPostData|INFO]:dc call error, http_code: 0, error_code: 6, error_msg: Couldn't resolve host name, content: 
+12-30 01:59:06.110  3303 13511 I log_service: 
+12-30 01:59:06.134  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/loader/DynamicUpdateProcessor.lua:callback | silent load res error, errorCode: 2007, item: static_settings
+12-30 01:59:06.134  3303 13473 I log_service: [~RequiredResCallback|INFO]:delete RequiredResCallback
+12-30 01:59:06.152  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 13
+12-30 01:59:06.155  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 12
+12-30 01:59:06.518  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 36, entryID: 6
+12-30 01:59:06.620  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:06.773  3303 13473 D Device Model: H170-PRO
+12-30 01:59:06.776  3303 13473 E MediaPlayer: Should have subtitle controller already set
+12-30 01:59:06.778  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:06.778  1905 13524 I GenericSource: start
+12-30 01:59:06.778  3303  3303 E MediaPlayer: Should have subtitle controller already set
+12-30 01:59:06.778  1905 13525 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.782  1905 13525 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.783  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:06.783  1905 13524 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:06.784  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:06.784  1905 13531 I GenericSource: start
+12-30 01:59:06.784  1905 13532 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.786  1905 13532 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.786  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:06.786  1905 13531 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:06.798  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:06.798  1905 13538 I GenericSource: start
+12-30 01:59:06.802  1905 13539 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.807  1905 13539 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.807  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:06.807  1905 13538 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:06.820  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:06.820  1905 13545 I GenericSource: start
+12-30 01:59:06.821  1905 13546 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.840  1905 13546 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.841  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:06.842  1905 13545 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:06.847  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:06.847  1905 13552 I GenericSource: start
+12-30 01:59:06.848  1905 13553 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.857  1905 13553 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.857  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:06.858  1905 13552 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:06.860  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:06.860  1905 13559 I GenericSource: start
+12-30 01:59:06.869  1905 13560 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.872  1905 13560 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.872  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:06.873  1905 13559 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:06.874  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:06.874  1905 13566 I GenericSource: start
+12-30 01:59:06.880  1905 13567 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.881  1905 13567 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.881  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:06.882  1905 13566 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:06.886  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:06.886  1905 13573 I GenericSource: start
+12-30 01:59:06.886  1905 13574 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.890  1905 13574 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.890  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:06.890  1905 13573 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:06.897  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:06.897  1905 13580 I GenericSource: start
+12-30 01:59:06.899  1905 13581 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.903  1905 13581 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.903  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:06.903  1905 13580 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:06.922  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:06.922  1905 13587 I GenericSource: start
+12-30 01:59:06.923  1905 13588 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.931  1905 13588 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.932  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:06.934  1905 13587 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:06.938  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:06.939  1905 13594 I GenericSource: start
+12-30 01:59:06.940  1905 13595 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.953  1905 13595 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.954  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:06.956  1905 13594 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:06.960  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:06.960  1905 13601 I GenericSource: start
+12-30 01:59:06.960  1905 13602 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.965  1905 13602 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.968  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:06.970  1905 13601 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:06.975  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:06.975  1905 13608 I GenericSource: start
+12-30 01:59:06.976  1905 13609 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.982  1905 13609 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.983  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:06.984  1905 13608 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:06.987  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:06.987  1905 13615 I GenericSource: start
+12-30 01:59:06.987  1905 13616 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.990  1905 13616 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:06.991  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:06.992  1905 13615 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.004  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.004  1905 13622 I GenericSource: start
+12-30 01:59:07.025  1905 13623 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.029  1905 13623 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.030  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.031  1905 13622 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.034  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.034  1905 13629 I GenericSource: start
+12-30 01:59:07.035  1905 13630 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.045  1905 13630 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.047  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.048  1905 13629 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.051  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:07.051  1905 13636 I GenericSource: start
+12-30 01:59:07.055  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:07.056  1905 13636 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:07.057  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.057  1905 13643 I GenericSource: start
+12-30 01:59:07.061  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.062  1905 13643 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.072  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.072  1905 13650 I GenericSource: start
+12-30 01:59:07.072  1905 13651 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.078  1905 13651 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.078  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.078  1905 13650 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.081  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.081  1905 13657 I GenericSource: start
+12-30 01:59:07.100  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.100  1905 13657 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.103  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:07.103  1905 13664 I GenericSource: start
+12-30 01:59:07.118  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:07.118  1905 13664 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:07.119 13671 13671 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:07.120  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.120  1905 13672 I GenericSource: start
+12-30 01:59:07.144  1905 13674 E AudioCache: Heap size overflow! req size: 1053116, max size: 1048576
+12-30 01:59:07.144  1905 13674 W NuPlayerRenderer: AudioSink write short frame count 68 < 4608
+12-30 01:59:07.144  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.144  1905 13674 E AudioCache: Heap size overflow! req size: 1053116, max size: 1048576
+12-30 01:59:07.144  1905 13674 W NuPlayerRenderer: AudioSink write short frame count 0 < 4540
+12-30 01:59:07.144  1905 13674 E AudioCache: Heap size overflow! req size: 1053116, max size: 1048576
+12-30 01:59:07.144  1905 13674 W NuPlayerRenderer: AudioSink write short frame count 0 < 4540
+12-30 01:59:07.144  1905 13674 E AudioCache: Heap size overflow! req size: 1053116, max size: 1048576
+12-30 01:59:07.144  1905 13674 W NuPlayerRenderer: AudioSink write short frame count 0 < 4540
+12-30 01:59:07.145  1905 13672 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.146  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.146  1905 13679 I GenericSource: start
+12-30 01:59:07.148  2172  2202 I art     : Explicit concurrent mark sweep GC freed 14777(852KB) AllocSpace objects, 10(160KB) LOS objects, 33% free, 20MB/30MB, paused 308us total 10.955ms
+12-30 01:59:07.154  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.155  1905 13679 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.156  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.156  1905 13686 I GenericSource: start
+12-30 01:59:07.166  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.167  1905 13686 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.168  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.168  1905 13693 I GenericSource: start
+12-30 01:59:07.176  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.176  1905 13693 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.184  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:07.184  1905 13700 I GenericSource: start
+12-30 01:59:07.184  1905 13701 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.187  1905 13701 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.188  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:07.188  1905 13700 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:07.197  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.197  1905 13707 I GenericSource: start
+12-30 01:59:07.197  1905 13708 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.200  1905 13708 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.200  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.201  1905 13707 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.222  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.222  1905 13714 I GenericSource: start
+12-30 01:59:07.223  1905 13715 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.239  1905 13715 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.240  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.241  1905 13714 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.245  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.245  1905 13721 I GenericSource: start
+12-30 01:59:07.247  1905 13722 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.261  1905 13722 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.262  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.265  1905 13721 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.269  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:07.269  1905 13728 I GenericSource: start
+12-30 01:59:07.270  1905 13729 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.291  1905 13729 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.292  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:07.293  1905 13728 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:07.295  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.295  1905 13735 I GenericSource: start
+12-30 01:59:07.296  1905 13736 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.302  1905 13736 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.303  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.303  1905 13735 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.305  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.305  1905 13742 I GenericSource: start
+12-30 01:59:07.306  1905 13743 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.312  1905 13743 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.313  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.314  1905 13742 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.316  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.316  1905 13749 I GenericSource: start
+12-30 01:59:07.319  1905 13750 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.326  1905 13750 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.326  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.327  1905 13749 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.329  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:07.329  1905 13756 I GenericSource: start
+12-30 01:59:07.329  1905 13757 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.335  1905 13757 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.336  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:07.337  1905 13756 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:07.338  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.338  1905 13763 I GenericSource: start
+12-30 01:59:07.339  1905 13764 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.344  1905 13764 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.344  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.345  1905 13763 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.355  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.355  1905 13770 I GenericSource: start
+12-30 01:59:07.356  1905 13771 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.369  1905 13771 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.371  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.372  1905 13770 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.376  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.376  1905 13777 I GenericSource: start
+12-30 01:59:07.377  1905 13778 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.389  1905 13778 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.391  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.392  1905 13777 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.396  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:07.396  1905 13784 I GenericSource: start
+12-30 01:59:07.397  1905 13785 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.411  1905 13785 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.412  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:07.413  1905 13784 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:07.416  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.416  1905 13791 I GenericSource: start
+12-30 01:59:07.416  1905 13792 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.424  1905 13792 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.424  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.425  1905 13791 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.427  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.427  1905 13798 I GenericSource: start
+12-30 01:59:07.443  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.444  1905 13798 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.445  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.445  1905 13805 I GenericSource: start
+12-30 01:59:07.450  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.451  1905 13805 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.452  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:07.452  1905 13812 I GenericSource: start
+12-30 01:59:07.456  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:07.457  1905 13812 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:07.469  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.469  1905 13819 I GenericSource: start
+12-30 01:59:07.472  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.473  1905 13819 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.481  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.481  1905 13826 I GenericSource: start
+12-30 01:59:07.486  1905 13827 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.486  1905 13827 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.486  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.487  1905 13826 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.502  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.502  1905 13833 I GenericSource: start
+12-30 01:59:07.502  1905 13834 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.507  1905 13834 E MP3Extractor: Unable to resync. Signalling end of stream.
+12-30 01:59:07.507  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.508  1905 13833 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.514  1905  1905 D NuPlayerDriver: start(0xf584eca0)
+12-30 01:59:07.514  1905 13840 I GenericSource: start
+12-30 01:59:07.528  1905  1905 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:07.529  1905 13840 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:07.535  1905  2224 D NuPlayerDriver: start(0xf5963040)
+12-30 01:59:07.535  1905 13847 I GenericSource: start
+12-30 01:59:07.541  1905  2224 D NuPlayerDriver: reset(0xf5963040)
+12-30 01:59:07.541  1905 13847 D NuPlayerDriver: notifyResetComplete(0xf5963040)
+12-30 01:59:07.548  1905  4232 D NuPlayerDriver: start(0xf5963340)
+12-30 01:59:07.548  1905 13854 I GenericSource: start
+12-30 01:59:07.561  1905  4232 D NuPlayerDriver: reset(0xf5963340)
+12-30 01:59:07.562  1905 13854 D NuPlayerDriver: notifyResetComplete(0xf5963340)
+12-30 01:59:07.568  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:07.569  1905 13861 I GenericSource: start
+12-30 01:59:07.580  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : flash/scenes/homeScene/home.json
+12-30 01:59:07.580  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : flash/gameguide/guideelem.json
+12-30 01:59:07.581  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : flash/scenes/flowers/ladybug.json
+12-30 01:59:07.581  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : flash/scenes/flowers/target_helper.json
+12-30 01:59:07.581  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : ui/common_ui.json
+12-30 01:59:07.581  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : ui/panel_game_start.json
+12-30 01:59:07.581  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : flash/common/properties.json
+12-30 01:59:07.581  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : flash/scenes/homeScene/homeScene.json
+12-30 01:59:07.581  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : flash/scenes/homeScene/home_icon.json
+12-30 01:59:07.582  3303 13473 I log_service: [lua|INFO]:@zoo/ResourceManager.lua:addJsonFile | ADD Json File : flash/scenes/gamePlaySceneUI/gamePlaySceneUI.json
+12-30 01:59:07.582  1905  1905 D NuPlayerDriver: reset(0xf5963220)
+12-30 01:59:07.582  1905 13522 D NuPlayerDriver: notifyResetComplete(0xf5963220)
+12-30 01:59:07.583  3303 13473 E MediaPlayer: Should have subtitle controller already set
+12-30 01:59:07.583  3303  3303 E MediaPlayer: Should have subtitle controller already set
+12-30 01:59:07.584  1905  1905 D NuPlayerDriver: start(0xf5963220)
+12-30 01:59:07.584  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:07.584  1905 13868 I GenericSource: start
+12-30 01:59:07.584  1905 13861 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:07.586  1905  2224 D NuPlayerDriver: start(0xf5963400)
+12-30 01:59:07.586  1905 13871 I GenericSource: start
+12-30 01:59:07.587  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:07.598  1905  2224 D NuPlayerDriver: reset(0xf5963400)
+12-30 01:59:07.599  1905 13871 D NuPlayerDriver: notifyResetComplete(0xf5963400)
+12-30 01:59:07.610  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 56
+12-30 01:59:07.610  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:07.679  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 60
+12-30 01:59:07.693  3303 13473 I log_service: [lua|INFO]:@zoo/loader/PreloadingScene.lua:buildAuthUI | auto_test_apk_start_success
+12-30 01:59:07.695  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 32, entryID: 4
+12-30 01:59:07.702  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 33, entryID: 5
+12-30 01:59:10.487  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:11.031  1900 13884 W SocketClient: write error (Broken pipe)
+12-30 01:59:11.031  1900 13884 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:11.031  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:11.045  3303 13473 E log_service: [lua|ERROR]:
+12-30 01:59:11.045  3303 13473 E log_service: ========== index: 1 =============
+12-30 01:59:11.045  3303 13473 E log_service: msg:userid should not nil
+12-30 01:59:11.045  3303 13473 E log_service: stack traceback:
+12-30 01:59:11.045  3303 13473 E log_service: 	hecore/WrapAssert.lua:32: in function 'assert'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/net/Localhost.lua:135: in function 'getUserLocalKeyByUserID'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/net/Localhost.lua:142: in function 'readCurrentUserData'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/data/UserManager.lua:767: in function 'sendOfflineExpiredPropDC'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/data/UserManager.lua:781: in function 'timePropsFromServer'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/data/UserManager.lua:329: in function 'initFromLua'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/data/UserManager.lua:167: in function 'decode'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/net/LoginLogic.lua:274: in function 'onLoadingError'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/net/LoginLogic.lua:17: in function 'execute'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/loader/PreloadingScene.lua:892: in function 'loginOffline'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/loader/PreloadingScene.lua:727: in function <zoo/loader/PreloadingScene.lua:725>
+12-30 01:59:11.045  3303 13473 E log_service: 	hecore/EventDispatcher.lua:145: in function 'dispatchEvent'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/loader/RegisterNewUserProcessor.lua:14: in function <zoo/loader/RegisterNewUserProcessor.lua:11>
+12-30 01:59:11.045  3303 13473 E log_service: 	hecore/EventDispatcher.lua:145: in function 'dispatchEvent'
+12-30 01:59:11.045  3303 13473 E log_service: 	zoo/net/Http.lua:555: in funct
+12-30 01:59:11.096  3303 13473 I com.happyelements.android.gsp.GspProxy: set game user id=[f7265993dcee5ca7]
+12-30 01:59:11.096  3303 13473 I com.happyelements.android.gsp.GspProxy: set game user id=f7265993dcee5ca7
+12-30 01:59:11.096  3303  3303 I NotificationService: onStartCommand start,flags=0,startId=4,isStart=true
+12-30 01:59:11.102  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 81, entryID: 10
+12-30 01:59:11.134  3303  3303 I GcnBroadcastReceiver: onReceive start ... action=null
+12-30 01:59:11.134  3303  3303 I GcnBroadcastReceiver: is_open=true,service_type=gcn,sender_id=502050078214,loop_period=300000,push_url=http://gcn.happyelements.cn/apis/l
+12-30 01:59:11.134  3303  3303 I GcnBroadcastReceiver: gameUserId=f7265993dcee5ca7,gspAppId=7800105600,gspAppKey=d2516d2ecf89cebde3f13cbfe2e55770
+12-30 01:59:11.134  3303  3303 I NotificationService: onStartCommand start,flags=0,startId=5,isStart=true
+12-30 01:59:11.156  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+12-30 01:59:11.157  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
+12-30 01:59:11.161  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:11.168  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+12-30 01:59:11.171  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
+12-30 01:59:11.174  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [54] to [73].
+12-30 01:59:11.177  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [73] to [98].
+12-30 01:59:11.178  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [100] to [134].
+12-30 01:59:11.182  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [134] to [180].
+12-30 01:59:11.183  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [98] to [132].
+12-30 01:59:11.188  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [180] to [241].
+12-30 01:59:11.189  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [132] to [177].
+12-30 01:59:11.195  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [241] to [322].
+12-30 01:59:11.196  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [177] to [237].
+12-30 01:59:11.203  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [322] to [430].
+12-30 01:59:11.207  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [237] to [317].
+12-30 01:59:11.212  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [430] to [574].
+12-30 01:59:11.221  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [317] to [424].
+12-30 01:59:11.225  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [574] to [766].
+12-30 01:59:11.239  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [424] to [566].
+12-30 01:59:11.241  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [766] to [1022].
+12-30 01:59:11.264  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [1022] to [1364].
+12-30 01:59:11.264  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [566] to [756].
+12-30 01:59:11.294  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [1364] to [1820].
+12-30 01:59:11.297  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [756] to [1009].
+12-30 01:59:11.334  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [1820] to [2428].
+12-30 01:59:11.341  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [1009] to [1346].
+12-30 01:59:11.388  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+12-30 01:59:11.389  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
+12-30 01:59:11.390  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [54] to [73].
+12-30 01:59:11.392  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [73] to [98].
+12-30 01:59:11.393  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [98] to [132].
+12-30 01:59:11.396  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [132] to [177].
+12-30 01:59:11.399  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [177] to [237].
+12-30 01:59:11.401  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:11.403  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:11.404  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/scenes/component/HomeScene/item/EnergyButton.lua:init | Note: EnergyButton Total Energy Is Hard Coded 30 !
+12-30 01:59:11.406  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:11.408  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2408, entryID: 14
+12-30 01:59:11.414  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:11.416  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/scenes/component/HomeScene/item/GoldButton.lua:init | mock gold number !
+12-30 01:59:11.416  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2493, entryID: 19
+12-30 01:59:11.422  3303 13473 I log_service: [lua|INFO]:@zoo/scenes/HomeScene.lua:onInit | auto_test_tap_login
+12-30 01:59:11.423  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2532, entryID: 24
+12-30 01:59:11.423  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2533, entryID: 25
+12-30 01:59:11.423  3303 13473 D WandoujiaAuthorizeDelegate: isLogin ? openId=null
+12-30 01:59:11.424  1900 13886 W SocketClient: write error (Broken pipe)
+12-30 01:59:11.424  1900 13886 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:11.424  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:11.428  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 13
+12-30 01:59:11.428  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 60
+12-30 01:59:11.428  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 56
+12-30 01:59:11.429  3303 13473 D account : sdk get default auth
+12-30 01:59:11.431  1900 13887 W SocketClient: write error (Broken pipe)
+12-30 01:59:11.431  1900 13887 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:11.431  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:11.432  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2541, entryID: 26
+12-30 01:59:11.432  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2542, entryID: 27
+12-30 01:59:11.432  1900 13888 W SocketClient: write error (Broken pipe)
+12-30 01:59:11.433  1900 13888 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:11.433  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:11.434  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:init | RecallManager====init
+12-30 01:59:11.445  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:decode | RecallVO.lastLeaveTime===============>1451372191
+12-30 01:59:11.446  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:decode | RecallVO.lastTopLevel================>1
+12-30 01:59:11.446  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:decode | RecallVO.stayForLastLevel============>0
+12-30 01:59:11.446  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:checkServerRewardState | Warning:RecallManager******get nil recallRewardState from server
+12-30 01:59:11.446  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:getFinalRewardState | RecallManager****currentRewardState=========>0
+12-30 01:59:11.448  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 85
+12-30 01:59:11.449  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2374
+12-30 01:59:11.455  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2409
+12-30 01:59:11.455  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2431
+12-30 01:59:11.455  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2472
+12-30 01:59:11.456  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2483
+12-30 01:59:11.456  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2501
+12-30 01:59:11.456  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2510
+12-30 01:59:11.456  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2509
+12-30 01:59:11.456  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2529
+12-30 01:59:11.478  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 84
+12-30 01:59:11.485  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 2541, entryID: 26
+12-30 01:59:11.490  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:11.533  3303 13473 D cocos2d-x debug info: cocos2d: CCTextureCache: removing unused texture: apk:/resource/skeleton/energy_animation/texture.f570aca4e99614f30a126da75f4c4036.pkm
+12-30 01:59:11.533  3303 13473 D cocos2d-x debug info: cocos2d: CCTextureCache: removing unused texture: apk:/resource/fnt/loading_button.64ce5a673888c7aa7f28f30a8fc7d36e.pkm
+12-30 01:59:11.533  3303 13473 D cocos2d-x debug info: cocos2d: CCTextureCache: removing unused texture: apk:/resource/fnt/green_button.3cf20fc9a7168f1d1848d7a59dd1a728.pkm
+12-30 01:59:11.553  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 2533, entryID: 25
+12-30 01:59:11.802  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 2532, entryID: 24
+12-30 01:59:12.132 13889 13889 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:12.492  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:13.494  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:14.496  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:15.499  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:16.204  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:16.257  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:16.276  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/panel/component/startGamePanel/rankList/RankList.lua:init | use mock data !
+12-30 01:59:16.277  3303 13473 W log_service: [lua|WARNING]:In Func @hecore/display/CocosObject.lua:setToParentCenterVertical | this method to get group bounds, is the size in parent space !
+12-30 01:59:16.277  3303 13473 W log_service: [lua|WARNING]:In Func @hecore/display/CocosObject.lua:setToParentCenterVertical | this method to get group bounds, is the size in parent space !
+12-30 01:59:16.278  3303 13473 W log_service: [lua|WARNING]:In Func @hecore/display/CocosObject.lua:setToParentCenterVertical | this method to get group bounds, is the size in parent space !
+12-30 01:59:16.279  3303 13473 W log_service: [lua|WARNING]:In Func @hecore/display/CocosObject.lua:setToParentCenterVertical | this method to get group bounds, is the size in parent space !
+12-30 01:59:16.279  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/panel/component/startGamePanel/rankList/RankListCache.lua: | comment on send get level top message failed code !
+12-30 01:59:16.285  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/config/ui/StartGamePanelConfig.lua:topPanelExpanY | because rank list panel has use table view, so can't use the getGroupBounds() function ! hard coded the rankList height
+12-30 01:59:16.287  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2743
+12-30 01:59:16.290  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2739
+12-30 01:59:16.290  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2730
+12-30 01:59:16.290  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2732
+12-30 01:59:16.290  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2637
+12-30 01:59:16.290  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2750, entryID: 38
+12-30 01:59:16.290  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2678
+12-30 01:59:16.290  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2677
+12-30 01:59:16.291  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2676
+12-30 01:59:16.291  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2675
+12-30 01:59:16.291  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2679
+12-30 01:59:16.293  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2762, entryID: 39
+12-30 01:59:16.294  1905  2253 D NuPlayerDriver: start(0xf5963100)
+12-30 01:59:16.294  1905 13891 I GenericSource: start
+12-30 01:59:16.299  1905  2253 D NuPlayerDriver: reset(0xf5963100)
+12-30 01:59:16.299  1905 13891 D NuPlayerDriver: notifyResetComplete(0xf5963100)
+12-30 01:59:16.299  3303  3303 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:16.454  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 2762, entryID: 39
+12-30 01:59:16.501  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:17.140  3303 13473 I log_service: [lua|INFO]:@zoo/panel/StartGamePanel.lua:animFinishCallback | auto_test_tap_level
+12-30 01:59:17.145 13899 13899 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:17.438  1900 13900 W SocketClient: write error (Broken pipe)
+12-30 01:59:17.438  1900 13900 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:17.438  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:17.438  3303 13511 I log_service: [doPostData|INFO]:dc call error, http_code: 0, error_code: 6, error_msg: Couldn't resolve host name, content: 
+12-30 01:59:17.438  3303 13511 I log_service: 
+12-30 01:59:17.481  1900 13901 W SocketClient: write error (Broken pipe)
+12-30 01:59:17.481  1900 13901 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:17.481  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:17.482  3303 13511 I log_service: [doPostData|INFO]:dc call error, http_code: 0, error_code: 6, error_msg: Couldn't resolve host name, content: 
+12-30 01:59:17.482  3303 13511 I log_service: 
+12-30 01:59:17.503  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:18.506  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:19.238  2172  7767 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:19.508  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:19.771  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:checkServerRewardState | Warning:RecallManager******get nil recallRewardState from server
+12-30 01:59:19.771  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:getFinalRewardState | RecallManager****currentRewardState=========>0
+12-30 01:59:19.771  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:checkServerRewardState | Warning:RecallManager******get nil recallRewardState from server
+12-30 01:59:19.771  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:getFinalRewardState | RecallManager****currentRewardState=========>0
+12-30 01:59:19.771  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:checkServerRewardState | Warning:RecallManager******get nil recallRewardState from server
+12-30 01:59:19.771  3303 13473 I log_service: [lua|INFO]:@zoo/data/RecallManager.lua:getFinalRewardState | RecallManager****currentRewardState=========>0
+12-30 01:59:19.780  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2774, entryID: 40
+12-30 01:59:19.782  1905  1905 D NuPlayerDriver: start(0xf584ed60)
+12-30 01:59:19.782  1905 13902 I GenericSource: start
+12-30 01:59:19.788  1905  1905 D NuPlayerDriver: reset(0xf584ed60)
+12-30 01:59:19.788  1905 13902 D NuPlayerDriver: notifyResetComplete(0xf584ed60)
+12-30 01:59:19.789  3303  3303 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:19.901  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 2774, entryID: 40
+12-30 01:59:20.284  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 2791, entryID: 41
+12-30 01:59:20.287  1905  1905 D NuPlayerDriver: start(0xf584ed60)
+12-30 01:59:20.287  1905 13910 I GenericSource: start
+12-30 01:59:20.299  1905  1905 D NuPlayerDriver: reset(0xf584ed60)
+12-30 01:59:20.299  1905 13910 D NuPlayerDriver: notifyResetComplete(0xf584ed60)
+12-30 01:59:20.299  3303  3303 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:20.411  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 2791, entryID: 41
+12-30 01:59:20.510  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:20.514  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2739
+12-30 01:59:20.514  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2730
+12-30 01:59:20.515  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2732
+12-30 01:59:20.516  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2743
+12-30 01:59:20.517  3303 13473 W log_service: [lua|WARNING]:In Func @zoo/scenes/GamePlaySceneUI.lua:init | use MetaModel, replace it with MetaManager !
+12-30 01:59:20.520  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+12-30 01:59:20.522  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:20.527  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:20.533  3303 13473 I log_service: [lua|INFO]:@zoo/gamePlay/GameBoardLogic.lua:initByConfig | GameBoardLogic:initByConfig level 1
+12-30 01:59:20.545  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3026, entryID: 49
+12-30 01:59:20.545  3303 13473 I log_service: [lua|INFO]:@zoo/scenes/GamePlayScene.lua:onInit | auto_test_enter_play_scene
+12-30 01:59:20.548  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:20.568  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3358, entryID: 52
+12-30 01:59:20.568  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2679
+12-30 01:59:20.568  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2675
+12-30 01:59:20.568  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2676
+12-30 01:59:20.568  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2677
+12-30 01:59:20.569  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2678
+12-30 01:59:20.569  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2637
+12-30 01:59:20.569  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 2750, entryID: 38
+12-30 01:59:20.580  1905  2253 D NuPlayerDriver: reset(0xf5963220)
+12-30 01:59:20.581  1905 13868 D NuPlayerDriver: notifyResetComplete(0xf5963220)
+12-30 01:59:20.582  3303 13473 E MediaPlayer: Should have subtitle controller already set
+12-30 01:59:20.582  3303  3303 E MediaPlayer: Should have subtitle controller already set
+12-30 01:59:20.582  1905  4232 D NuPlayerDriver: reset(0xf584eca0)
+12-30 01:59:20.582  1905 13918 D NuPlayerDriver: notifyResetComplete(0xf584eca0)
+12-30 01:59:20.583  3303 13473 E MediaPlayer: Should have subtitle controller already set
+12-30 01:59:20.583  3303  3303 E MediaPlayer: Should have subtitle controller already set
+12-30 01:59:20.583  1905  1905 D NuPlayerDriver: start(0xf584ee80)
+12-30 01:59:20.583  1905 13920 I GenericSource: start
+12-30 01:59:20.585  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+12-30 01:59:20.585  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
+12-30 01:59:20.586  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [54] to [73].
+12-30 01:59:20.587  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:20.590  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2800
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2860
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2877
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 2882
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3025
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3037
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3457
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3419
+12-30 01:59:20.595  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3356
+12-30 01:59:20.597  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2881
+12-30 01:59:20.597  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 2799
+12-30 01:59:20.869  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3358, entryID: 52
+12-30 01:59:20.981  4134  4134 V xiaomi  : [Thread:1] Service called on timer
+12-30 01:59:21.511  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:21.516  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 2542, entryID: 27
+12-30 01:59:22.158 13927 13927 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:22.514  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:22.671  3303  4460 I NotificationService: receiveNotification start...
+12-30 01:59:22.671  3303  4460 D NotificationService: paraStr={u=f7265993dcee5ca7, a=7800105600, s=598a63f3e9, t=1451440762}
+12-30 01:59:23.516  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:24.518  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:25.116  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 3457
+12-30 01:59:25.521  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:25.562  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:25.639  3303 13473 D cocos2d-x debug info: cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+12-30 01:59:25.681  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3517
+12-30 01:59:25.681  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3540
+12-30 01:59:25.681  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 3356
+12-30 01:59:25.689  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3542, entryID: 57
+12-30 01:59:25.689  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3543, entryID: 58
+12-30 01:59:25.689  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3544, entryID: 59
+12-30 01:59:25.689  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3545, entryID: 60
+12-30 01:59:26.524  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:27.170 13930 13930 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:27.526  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:27.957  2172  2197 I ActivityManager: Start proc 13931:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-30 01:59:27.972 13931 13931 I ActivityThread: Switching default density from 160 to 240
+12-30 01:59:27.991 13931 13931 V PluginFrameworkInitor: need install plugins:[]
+12-30 01:59:27.991 13931 13931 I System.out: start plugin is = mario-sdk-plugin
+12-30 01:59:27.991 13931 13931 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-30 01:59:28.006 13955 13955 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:28.009 13931 13957 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-30 01:59:28.009 13931 13957 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-30 01:59:28.009 13931 13957 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-30 01:59:28.009 13931 13957 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-30 01:59:28.009 13931 13957 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-30 01:59:28.009 13931 13957 W System.err: 	at o.vi.run(:257)
+12-30 01:59:28.009 13931 13957 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-30 01:59:28.009 13931 13957 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-30 01:59:28.010 13931 13957 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-30 01:59:28.010 13931 13957 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-30 01:59:28.010 13931 13957 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-30 01:59:28.010 13931 13957 W System.err: 	... 5 more
+12-30 01:59:28.010 13959 13959 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:28.023 13931 13964 D account : cost time = 3
+12-30 01:59:28.026  2172  7767 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:28.027 13931 13931 I Wandoujia-PaySdk_GameApi: init,100029127
+12-30 01:59:28.027 13931 13931 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-30 01:59:28.027 13931 13931 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-30 01:59:28.028 13931 13931 D account : sdk get default auth
+12-30 01:59:28.031  2172  4162 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:28.033 13931 13973 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-30 01:59:28.034 13931 13972 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-30 01:59:28.175 13931 13931 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 13931 (baba.kunlun.wdj)
+12-30 01:59:28.175 13931 13931 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-30 01:59:28.176  1909  1909 I Zygote  : Process 13931 exited due to signal (11)
+12-30 01:59:28.185  2172  2660 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 13931) has died
+12-30 01:59:28.185  2172  2660 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:28.185  2172  2660 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:28.185  2172  2660 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 1024000ms
+12-30 01:59:28.528  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:28.702  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3570, entryID: 61
+12-30 01:59:28.717  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3545, entryID: 60
+12-30 01:59:28.999  2172  2660 W ActivityManager: getRunningAppProcesses: caller 10064 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:29.529  2172  2191 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:30.532  2172  2334 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:31.514  1900 13989 W SocketClient: write error (Broken pipe)
+12-30 01:59:31.514  1900 13989 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:31.514  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:31.515  3303 13511 I log_service: [doPostData|INFO]:dc call error, http_code: 0, error_code: 6, error_msg: Couldn't resolve host name, content: 
+12-30 01:59:31.515  3303 13511 I log_service: 
+12-30 01:59:31.533  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:31.553  1900 13990 W SocketClient: write error (Broken pipe)
+12-30 01:59:31.553  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:31.553  1900 13990 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:31.554  3303 13511 I log_service: [doPostData|INFO]:dc call error, http_code: 0, error_code: 6, error_msg: Couldn't resolve host name, content: 
+12-30 01:59:31.554  3303 13511 I log_service: 
+12-30 01:59:32.195 13991 13991 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:32.536  2172  2191 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:33.539  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:34.056  2172  2218 I ActivityManager: Start proc 13992:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-30 01:59:34.065  1909  1909 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 141us total 9.810ms
+12-30 01:59:34.070 13992 13992 I ActivityThread: Switching default density from 160 to 240
+12-30 01:59:34.075  1909  1909 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 90us total 9.034ms
+12-30 01:59:34.082  1909  1909 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 106us total 6.463ms
+12-30 01:59:34.083 13992 13992 V PluginFrameworkInitor: need install plugins:[]
+12-30 01:59:34.083 13992 13992 I System.out: start plugin is = mario-sdk-plugin
+12-30 01:59:34.083 13992 13992 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-30 01:59:34.097 14016 14016 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:34.101 13992 14018 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-30 01:59:34.102 13992 14018 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-30 01:59:34.102 13992 14018 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-30 01:59:34.102 13992 14018 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-30 01:59:34.102 13992 14018 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-30 01:59:34.102 13992 14018 W System.err: 	at o.vi.run(:257)
+12-30 01:59:34.102 13992 14018 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-30 01:59:34.102 13992 14018 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-30 01:59:34.102 13992 14018 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-30 01:59:34.102 13992 14018 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-30 01:59:34.102 13992 14018 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-30 01:59:34.102 13992 14018 W System.err: 	... 5 more
+12-30 01:59:34.103 14020 14020 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:34.116 13992 14024 D account : cost time = 3
+12-30 01:59:34.121  2172  2191 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:34.122 13992 13992 I Wandoujia-PaySdk_GameApi: init,100029127
+12-30 01:59:34.122 13992 13992 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-30 01:59:34.122 13992 13992 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-30 01:59:34.123 13992 13992 D account : sdk get default auth
+12-30 01:59:34.125  2172  4161 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:34.127 13992 14033 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-30 01:59:34.127 13992 14032 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-30 01:59:34.202  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3619, entryID: 62
+12-30 01:59:34.202  3303 13473 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:34.268 13992 13992 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 13992 (baba.kunlun.wdj)
+12-30 01:59:34.268 13992 13992 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-30 01:59:34.270  1909  1909 I Zygote  : Process 13992 exited due to signal (11)
+12-30 01:59:34.283  2172  2192 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 13992) has died
+12-30 01:59:34.284  2172  2192 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:34.284  2172  2192 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:34.284  2172  2192 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 1000ms
+12-30 01:59:34.336  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3619, entryID: 62
+12-30 01:59:34.541  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:35.312  2172  2197 I ActivityManager: Start proc 14050:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-30 01:59:35.326 14050 14050 I ActivityThread: Switching default density from 160 to 240
+12-30 01:59:35.343 14050 14050 V PluginFrameworkInitor: need install plugins:[]
+12-30 01:59:35.343 14050 14050 I System.out: start plugin is = mario-sdk-plugin
+12-30 01:59:35.343 14050 14050 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-30 01:59:35.356 14074 14074 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:35.359 14050 14077 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-30 01:59:35.359 14050 14077 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-30 01:59:35.359 14050 14077 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-30 01:59:35.359 14050 14077 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-30 01:59:35.359 14050 14077 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-30 01:59:35.359 14050 14077 W System.err: 	at o.vi.run(:257)
+12-30 01:59:35.359 14050 14077 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-30 01:59:35.359 14050 14077 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-30 01:59:35.359 14050 14077 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-30 01:59:35.359 14050 14077 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-30 01:59:35.359 14050 14077 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-30 01:59:35.359 14050 14077 W System.err: 	... 5 more
+12-30 01:59:35.360 14079 14079 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:35.371 14050 14084 D account : cost time = 2
+12-30 01:59:35.375  2172  9103 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:35.376 14050 14050 I Wandoujia-PaySdk_GameApi: init,100029127
+12-30 01:59:35.376 14050 14050 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-30 01:59:35.376 14050 14050 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-30 01:59:35.377 14050 14050 D account : sdk get default auth
+12-30 01:59:35.380  2172  4161 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:35.383 14050 14093 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-30 01:59:35.383 14050 14092 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-30 01:59:35.522 14050 14050 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 14050 (baba.kunlun.wdj)
+12-30 01:59:35.522 14050 14050 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-30 01:59:35.524  1909  1909 I Zygote  : Process 14050 exited due to signal (11)
+12-30 01:59:35.532  2172  4162 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 14050) has died
+12-30 01:59:35.532  2172  4162 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:35.532  2172  4162 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:35.533  2172  4162 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 4000ms
+12-30 01:59:35.543  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:35.996  4134  4217 V xiaomi  : [Thread:173] JOB: check the ping-pong.
+12-30 01:59:36.544  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:37.542 14109 14109 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:37.547  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:38.549  2172  2334 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:39.560  2172  2197 I ActivityManager: Start proc 14110:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-30 01:59:39.560  2172  2191 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:39.575 14110 14110 I ActivityThread: Switching default density from 160 to 240
+12-30 01:59:39.592 14110 14110 V PluginFrameworkInitor: need install plugins:[]
+12-30 01:59:39.592 14110 14110 I System.out: start plugin is = mario-sdk-plugin
+12-30 01:59:39.592 14110 14110 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-30 01:59:39.607 14134 14134 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:39.611 14110 14137 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-30 01:59:39.611 14110 14137 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-30 01:59:39.611 14110 14137 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-30 01:59:39.611 14110 14137 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-30 01:59:39.611 14110 14137 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-30 01:59:39.611 14110 14137 W System.err: 	at o.vi.run(:257)
+12-30 01:59:39.611 14110 14137 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-30 01:59:39.611 14110 14137 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-30 01:59:39.611 14110 14137 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-30 01:59:39.611 14110 14137 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-30 01:59:39.611 14110 14137 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-30 01:59:39.611 14110 14137 W System.err: 	... 5 more
+12-30 01:59:39.613 14139 14139 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:39.630 14110 14144 D account : cost time = 4
+12-30 01:59:39.637  2172  2660 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:39.639 14110 14110 I Wandoujia-PaySdk_GameApi: init,100029127
+12-30 01:59:39.639 14110 14110 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-30 01:59:39.639 14110 14110 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-30 01:59:39.641 14110 14110 D account : sdk get default auth
+12-30 01:59:39.646  2172  4161 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:39.649 14110 14153 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-30 01:59:39.650 14110 14152 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-30 01:59:39.797 14110 14110 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 14110 (baba.kunlun.wdj)
+12-30 01:59:39.797 14110 14110 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-30 01:59:39.799  1909  1909 I Zygote  : Process 14110 exited due to signal (11)
+12-30 01:59:39.807  2172  9103 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 14110) has died
+12-30 01:59:39.807  2172  9103 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:39.807  2172  9103 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:39.807  2172  9103 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push flg=0x4 cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService (has extras) } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:39.807  2172  9103 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 16000ms
+12-30 01:59:40.563  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:41.038  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3675, entryID: 63
+12-30 01:59:41.039  3303 13473 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:41.168  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3675, entryID: 63
+12-30 01:59:41.565  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:42.566  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:42.717  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3693, entryID: 64
+12-30 01:59:42.718  3303 13473 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:42.817 14171 14171 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:42.867  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3693, entryID: 64
+12-30 01:59:43.568  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:44.571  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:45.573  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:46.068  3303 13473 E log_service: [lua|ERROR]:
+12-30 01:59:46.068  3303 13473 E log_service: ========== index: 2 =============
+12-30 01:59:46.068  3303 13473 E log_service: msg:NormalSwapInteraction state error
+12-30 01:59:46.068  3303 13473 E log_service: stack traceback:
+12-30 01:59:46.068  3303 13473 E log_service: 	hecore/WrapAssert.lua:32: in function 'assert'
+12-30 01:59:46.068  3303 13473 E log_service: 	zoo/gamePlay/propInteractions/NormalSwapInteraction.lua:62: in function 'handleTouchBegin'
+12-30 01:59:46.068  3303 13473 E log_service: 	zoo/gamePlay/GameBoardView.lua:312: in function <zoo/gamePlay/GameBoardView.lua:310>
+12-30 01:59:46.068  3303 13473 E log_service: 	hecore/EventDispatcher.lua:145: in function 'dispatchEvent'
+12-30 01:59:46.068  3303 13473 E log_service: 	hecore/display/Layer.lua:235: in function <hecore/display/Layer.lua:212>
+12-30 01:59:46.576  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:46.719  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3728, entryID: 65
+12-30 01:59:46.720  3303 13473 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:46.722  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3570, entryID: 61
+12-30 01:59:46.722  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3544, entryID: 59
+12-30 01:59:46.722  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3543, entryID: 58
+12-30 01:59:46.722  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3542, entryID: 57
+12-30 01:59:46.851  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3728, entryID: 65
+12-30 01:59:46.983  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 3517
+12-30 01:59:46.984  3303 13473 D cocos2d-x debug info: [LUA] Remove touch event handler: 3540
+12-30 01:59:46.997  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3741, entryID: 66
+12-30 01:59:46.998  3303 13473 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:47.002  3303 13473 D cocos2d-x debug info: cocos2d: padding: 0,0,0,0
+12-30 01:59:47.004  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3768, entryID: 67
+12-30 01:59:47.134  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3741, entryID: 66
+12-30 01:59:47.233  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3768, entryID: 67
+12-30 01:59:47.578  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:47.702  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3828, entryID: 68
+12-30 01:59:47.703  3303 13473 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:47.779  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3833
+12-30 01:59:47.779  3303 13473 D cocos2d-x debug info: [LUA] Add touch event handler: 3854
+12-30 01:59:47.787  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3856, entryID: 71
+12-30 01:59:47.787  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3857, entryID: 72
+12-30 01:59:47.826 14176 14176 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:47.832  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3828, entryID: 68
+12-30 01:59:48.579  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:49.238  2172  2662 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:49.582  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:50.584  2172  2334 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:50.800  3303 13473 D cocos2d-x debug info: [LUA] ADD script schedule: 3882, entryID: 73
+12-30 01:59:50.816  3303 13473 D cocos2d-x debug info: [LUA] DEL script schedule 3857, entryID: 72
+12-30 01:59:51.586  2172  2191 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:52.589  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:52.838 14177 14177 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:53.592  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:54.408  2172  2252 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 01:59:54.595  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:55.596  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:55.837  2172  2197 I ActivityManager: Start proc 14179:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-30 01:59:55.852 14179 14179 I ActivityThread: Switching default density from 160 to 240
+12-30 01:59:55.870 14179 14179 V PluginFrameworkInitor: need install plugins:[]
+12-30 01:59:55.870 14179 14179 I System.out: start plugin is = mario-sdk-plugin
+12-30 01:59:55.871 14179 14179 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-30 01:59:55.885 14203 14203 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:55.889 14179 14206 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-30 01:59:55.889 14179 14206 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-30 01:59:55.889 14179 14206 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-30 01:59:55.889 14179 14206 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-30 01:59:55.889 14179 14206 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-30 01:59:55.889 14179 14206 W System.err: 	at o.vi.run(:257)
+12-30 01:59:55.889 14179 14206 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-30 01:59:55.889 14179 14206 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-30 01:59:55.889 14179 14206 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-30 01:59:55.889 14179 14206 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-30 01:59:55.889 14179 14206 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-30 01:59:55.889 14179 14206 W System.err: 	... 5 more
+12-30 01:59:55.890 14208 14208 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:55.901 14179 14212 D account : cost time = 3
+12-30 01:59:55.905  2172  2334 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:55.906 14179 14179 I Wandoujia-PaySdk_GameApi: init,100029127
+12-30 01:59:55.906 14179 14179 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-30 01:59:55.906 14179 14179 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-30 01:59:55.907 14179 14179 D account : sdk get default auth
+12-30 01:59:55.910  2172  2514 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:55.913 14179 14221 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-30 01:59:55.913 14179 14220 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-30 01:59:56.055 14179 14179 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 14179 (baba.kunlun.wdj)
+12-30 01:59:56.055 14179 14179 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-30 01:59:56.057  1909  1909 I Zygote  : Process 14179 exited due to signal (11)
+12-30 01:59:56.067  2172  9214 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 14179) has died
+12-30 01:59:56.067  2172  9214 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:56.067  2172  9214 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-30 01:59:56.067  2172  9214 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 64000ms
+12-30 01:59:56.598  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:57.076 14236 14236 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 01:59:57.601  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:57.988  1900 14237 W SocketClient: write error (Broken pipe)
+12-30 01:59:57.988  1900 14237 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:57.988  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:57.989  3303 13511 I log_service: [doPostData|INFO]:dc call error, http_code: 0, error_code: 6, error_msg: Couldn't resolve host name, content: 
+12-30 01:59:57.989  3303 13511 I log_service: 
+12-30 01:59:58.023  1900 14238 W SocketClient: write error (Broken pipe)
+12-30 01:59:58.023  1900 14238 W DnsProxyListener: Error writing DNS result to client
+12-30 01:59:58.023  1900  2135 E FrameworkListener: read() failed (Connection reset by peer)
+12-30 01:59:58.023  3303 13511 I log_service: [doPostData|INFO]:dc call error, http_code: 0, error_code: 6, error_msg: Couldn't resolve host name, content: 
+12-30 01:59:58.023  3303 13511 I log_service: 
+12-30 01:59:58.603  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:58.999  2172  2514 W ActivityManager: getRunningAppProcesses: caller 10064 does not hold REAL_GET_TASKS; limiting output
+12-30 01:59:59.606  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:00.168  2172  2252 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 02:00:00.168  2172  2219 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-30 02:00:00.188  3303  3303 V MicroMsg.SDK.WXApiImplV10.ActivityLifecycleCb: com.happyelements.hellolua.MainActivity  onActivityPaused
+12-30 02:00:00.189  3303  3303 D CMCCDataStatisticsProxy: onActivityPause
+12-30 02:00:00.191  1905  2253 D NuPlayerDriver: reset(0xf584ee80)
+12-30 02:00:00.192  1905 13920 D NuPlayerDriver: notifyResetComplete(0xf584ee80)
+12-30 02:00:00.198  3303 13473 E MediaPlayer: Should have subtitle controller already set
+12-30 02:00:00.198  1905  2224 D NuPlayerDriver: reset(0xf584ef40)
+12-30 02:00:00.199  1905 14240 D NuPlayerDriver: notifyResetComplete(0xf584ef40)
+12-30 02:00:00.203  3303 13473 E MediaPlayer: Should have subtitle controller already set
+12-30 02:00:00.205  3303 13473 I log_service: [lua|INFO]:@zoo/data/LocalNotificationManager.lua:pocessRecallNotification | LocalNotificationManager********cancelAllLeaveNotification()
+12-30 02:00:00.232  2172  2172 V ActivityManager: Display changed displayId=0
+12-30 02:00:00.246  2172  2660 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.13}
+12-30 02:00:00.247  2172  2220 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-30 02:00:00.282  3303  3303 W MediaPlayer: mediaplayer went away with unhandled events
+12-30 02:00:00.282  3303  3303 E MediaPlayer: Should have subtitle controller already set
+12-30 02:00:00.428  2172  2202 I WindowManager: Screen frozen for +238ms due to Window{20598298 u0 com.android.systemui.ImageWallpaper}
+12-30 02:00:00.608  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:00.613  3303  3303 D CMCCDataStatisticsProxy: onActivityStop
+12-30 02:00:00.829  2484  2664 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-30 02:00:00.989  3303  3303 V MicroMsg.SDK.WXApiImplV10.ActivityLifecycleCb: WXStat trigger onBackground
+12-30 02:00:01.611  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:02.087 14244 14244 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 02:00:02.500  2172  2202 I art     : Explicit concurrent mark sweep GC freed 12337(656KB) AllocSpace objects, 11(6MB) LOS objects, 33% free, 14MB/22MB, paused 678us total 33.629ms
+12-30 02:00:02.613  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:03.616  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:03.624  2172  2252 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 02:00:03.630  2172  3084 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-30 02:00:03.635  1905  2169 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 02:00:04.619  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:05.183  2172  2252 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 02:00:05.231 11001 11001 I Term    : Bound to TermService
+12-30 02:00:05.231 11001 11001 I TermService: Activity binding to service
+12-30 02:00:05.621  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:06.623  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:07.099 14254 14254 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 02:00:10.486  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:11.489  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:12.108 14255 14255 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 02:00:12.491  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:13.493  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:14.495  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:15.497  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:16.500  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:17.120 14256 14256 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 02:00:17.503  2172  9103 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:18.505  2172  2660 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:19.238  2172  2662 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:19.507  2172  2191 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:20.509  2172  2334 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:21.511  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:22.130 14257 14257 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 02:00:22.513  2172  4161 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:23.517  2172  9214 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:24.519  2172  2662 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:25.522  2172  2192 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:26.524  2172  2514 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:27.140 14259 14259 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 02:00:27.527  2172  3084 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:28.530  2172  7767 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:28.999  2172  4162 W ActivityManager: getRunningAppProcesses: caller 10064 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:29.533  2172  4162 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-30 02:00:30.407 10634 14261 V CommonParams: cast to int com.baidu.pushservice.sd Exception. 
+12-30 02:00:30.408 10634 10634 V CommonParams: cast to Long com.baidu.pushservice.clt Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-30 02:00:30.409 10634 14261 V CommonParams: cast to Long com.baidu.pushservice.cst Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-30 02:00:30.409 10634 10634 V CommonParams: cast to int com.baidu.pushservice.lsi Exception. 
+12-30 02:00:30.410  3303  3303 I GcnBroadcastReceiver: onReceive start ... action=null
+12-30 02:00:30.410  3303  3303 I GcnBroadcastReceiver: is_open=true,service_type=gcn,sender_id=502050078214,loop_period=300000,push_url=http://gcn.happyelements.cn/apis/l
+12-30 02:00:30.410  3303  3303 I GcnBroadcastReceiver: gameUserId=f7265993dcee5ca7,gspAppId=7800105600,gspAppKey=d2516d2ecf89cebde3f13cbfe2e55770
+12-30 02:00:30.410  3303  3303 I NotificationService: onStartCommand start,flags=0,startId=6,isStart=true
+12-30 02:00:30.411 10634 14261 V CommonParams: cast to Long com.baidu.pushservice.st Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-30 02:00:30.418 14262 14262 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
