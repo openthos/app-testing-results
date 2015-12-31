@@ -1,0 +1,476 @@
+12-30 07:08:11.411 11629 11629 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:12.729  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:08:12.741  2550  2550 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-30 07:08:12.741  2550  2550 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-30 07:08:12.742  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:08:12.743  2176  2478 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-30 07:08:12.819  4062  4062 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-30 07:08:13.756  2550  2550 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-30 07:08:13.757  2550  2550 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-30 07:08:14.554  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:08:14.823  2176  2476 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 10013 on display 0
+12-30 07:08:15.390  3074  3148 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-30 07:08:16.420 11639 11639 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:17.545  2176  2201 I ActivityManager: START u0 {act=android.intent.action.MAIN flg=0x10000000 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity bnds=[327,158][538,294] (has extras)} from uid 10036 on display 0
+12-30 07:08:17.545  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:08:17.553  2176  2201 V WindowManager: addAppToken: AppWindowToken{30fc6f25 token=Token{1d3771c ActivityRecord{2e78588f u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity t59}}} to stack=1 task=59 at 0
+12-30 07:08:17.554  2176  2210 V WindowManager: Adding window Window{354d8db4 u0 Starting com.wandoujia.phoenix2} at 10 of 15 (after Window{5a0110e u0 jackpal.androidterm/jackpal.androidterm.Term})
+12-30 07:08:17.589  2176  2817 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.24}
+12-30 07:08:17.591  6905  6905 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+12-30 07:08:17.592  6905  6905 D GeckoLocales: No selected locale. No correction needed.
+12-30 07:08:17.616  2176  2176 V ActivityManager: Display changed displayId=0
+12-30 07:08:17.629  2176  2279 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-30 07:08:17.683 11221 11648 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-30 07:08:17.683  2176  2824 V WindowManager: Adding window Window{1af0df4c u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity} at 10 of 17 (before Window{354d8db4 u0 Starting com.wandoujia.phoenix2})
+12-30 07:08:17.707 11221 11648 I GRALLOC-DRM: create intel for driver i915
+12-30 07:08:17.707 11221 11648 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-30 07:08:17.707 11221 11648 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-30 07:08:17.711 11221 11648 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-30 07:08:17.711 11221 11648 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-30 07:08:17.711 11221 11648 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-30 07:08:17.711 11221 11648 I OpenGLRenderer: Initialized EGL, version 1.4
+12-30 07:08:17.711 11221 11648 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-30 07:08:17.712 11221 11648 D OpenGLRenderer: Enabling debug mode 0
+12-30 07:08:17.718  3074  3074 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-30 07:08:17.762  2176  2210 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-30 07:08:17.762  2176  2210 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+12-30 07:08:17.762  2176  2210 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-30 07:08:17.762  2176  2210 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-30 07:08:17.763  2176  2210 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-30 07:08:17.763  2176  2210 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+12-30 07:08:17.763  2176  2210 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-30 07:08:17.763  2176  2210 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-30 07:08:17.763  2176  2210 E WindowManager: Performed 6 layouts in a row. Skipping
+12-30 07:08:17.777  2176  2210 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity: +223ms
+12-30 07:08:17.812  2176  2210 I WindowManager: Screen frozen for +257ms due to Window{354d8db4 u0 Starting com.wandoujia.phoenix2}
+12-30 07:08:17.843 11221 11297 W GAv4    : Error getting advertiser id: com.google.android.gms.common.GooglePlayServicesNotAvailableException
+12-30 07:08:17.981  2176  2476 W ActivityManager: Unable to start service Intent { act=com.google.android.gms.analytics.service.START cmp=com.google.android.gms/.analytics.service.AnalyticsService (has extras) } U=0: not found
+12-30 07:08:18.062  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:08:19.857  2176  2210 I art     : Explicit concurrent mark sweep GC freed 16902(860KB) AllocSpace objects, 8(3MB) LOS objects, 33% free, 17MB/25MB, paused 355us total 13.736ms
+12-30 07:08:20.777  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:08:20.777  2176  2476 I ActivityManager: START u0 {flg=0x10000000 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity (has extras)} from uid 10058 on display 0
+12-30 07:08:20.785  2176  2476 V WindowManager: addAppToken: AppWindowToken{17c9c250 token=Token{2040c013 ActivityRecord{1e0fdf02 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity t59}}} to stack=1 task=59 at 1
+12-30 07:08:20.797  2176  2478 V WindowManager: Adding window Window{b20e94e u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity} at 11 of 16 (after Window{1af0df4c u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity})
+12-30 07:08:20.827  2176  2210 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity: +40ms
+12-30 07:08:21.431 11683 11683 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:23.003  2176  2476 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 07:08:26.442 11686 11686 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:26.518  2176  2477 V WindowManager: Adding window Window{21420cb2 u0 PopupWindow:25b6e8ab} at 12 of 17 (after Window{b20e94e u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity})
+12-30 07:08:27.725  1901  1908 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.wandoujia.phoenix2/cache/
+12-30 07:08:27.725 11359 11359 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.wandoujia.phoenix2/cache
+12-30 07:08:27.728  1901  1908 E cutils  : Failed to mkdirat(/storage/usb1/Android/data/com.wandoujia.phoenix2): I/O error
+12-30 07:08:27.729 11359 11359 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.wandoujia.phoenix2/cache
+12-30 07:08:27.729  1901  1908 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.wandoujia.phoenix2/cache/
+12-30 07:08:27.730 11359 11359 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.wandoujia.phoenix2/cache
+12-30 07:08:27.731  1901  1908 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.wandoujia.phoenix2/cache/
+12-30 07:08:27.731 11359 11359 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.wandoujia.phoenix2/cache
+12-30 07:08:27.732  1901  1908 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.wandoujia.phoenix2/cache/
+12-30 07:08:27.732 11359 11359 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.wandoujia.phoenix2/cache
+12-30 07:08:31.454 11693 11693 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:33.520  2176  2477 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+12-30 07:08:36.465 11694 11694 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:37.074  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:08:37.087  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:08:37.184 11221 11221 D InputEventConsistencyVerifier: KeyEvent: ACTION_UP but key was not down.
+12-30 07:08:37.184 11221 11221 D InputEventConsistencyVerifier:   in com.wandoujia.ripple_framework.view.RecyclerViewAutoLoadingLayout{270ac275 V..D.... ........ 0,136-1080,1848 #7f0c0357 app:id/loadable_recycler_view}
+12-30 07:08:37.184 11221 11221 D InputEventConsistencyVerifier:   0: sent at 5724178000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_NUMPAD_2, scanCode=80, metaState=0, flags=0x8, repeatCount=0, eventTime=5724178, downTime=5724066, deviceId=16, source=0x101 }
+12-30 07:08:37.185 11221 11221 D InputEventConsistencyVerifier: KeyEvent: ACTION_UP but key was not down.
+12-30 07:08:37.185 11221 11221 D InputEventConsistencyVerifier:   in com.wandoujia.ripple_framework.view.RecyclerViewAutoLoadingLayout{270ac275 V..D.... ........ 0,136-1080,1848 #7f0c0357 app:id/loadable_recycler_view}
+12-30 07:08:37.185 11221 11221 D InputEventConsistencyVerifier:   0: sent at 5724178000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_DPAD_DOWN, scanCode=80, metaState=0, flags=0x8, repeatCount=0, eventTime=5724178, downTime=5724066, deviceId=16, source=0x101 }
+12-30 07:08:37.185 11221 11221 D InputEventConsistencyVerifier:   -- recent events --
+12-30 07:08:37.185 11221 11221 D InputEventConsistencyVerifier:   1: sent at 5724178000000, (unhandled) KeyEvent { action=ACTION_UP, keyCode=KEYCODE_NUMPAD_2, scanCode=80, metaState=0, flags=0x80000008, repeatCount=0, eventTime=5724178, downTime=5724066, deviceId=16, source=0x101 }
+12-30 07:08:41.477 11696 11696 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:46.488 11697 11697 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:47.759  2176  2824 V WindowManager: Adding window Window{35a800a u0 PopupWindow:25b6e8ab} at 12 of 17 (after Window{b20e94e u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity})
+12-30 07:08:48.031  2176  2339 V WindowManager: Adding window Window{3f549e98 u0 PopupWindow:25b6e8ab} at 13 of 18 (after Window{35a800a u0 PopupWindow:25b6e8ab EXITING})
+12-30 07:08:48.898  2176  6715 V WindowManager: Adding window Window{12892d6 u0 PopupWindow:25b6e8ab} at 13 of 18 (after Window{3f549e98 u0 PopupWindow:25b6e8ab EXITING})
+12-30 07:08:49.135  2176  2200 V WindowManager: Adding window Window{d410c44 u0 PopupWindow:25b6e8ab} at 13 of 18 (after Window{12892d6 u0 PopupWindow:25b6e8ab EXITING})
+12-30 07:08:51.499 11703 11703 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:08:53.003  2176  2477 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 07:08:53.337  2176  2477 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=wdj://search/result cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity (has extras)} from uid 10058 on display 0
+12-30 07:08:53.337  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:08:53.342  2176  2477 V WindowManager: addAppToken: AppWindowToken{837c3f3 token=Token{2ff30662 ActivityRecord{3707212d u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity t59}}} to stack=1 task=59 at 2
+12-30 07:08:53.349  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:08:53.351  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (335, 181).
+12-30 07:08:53.429  2176  2826 V WindowManager: Adding window Window{2461a329 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity} at 13 of 18 (after Window{d410c44 u0 PopupWindow:25b6e8ab EXITING})
+12-30 07:08:53.478  2176  2210 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity: +132ms
+12-30 07:08:53.506  1902  1902 W SurfaceFlinger: couldn't log to binary event log: overflow.
+12-30 07:08:56.508 11711 11711 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:01.519 11712 11712 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:03.520  2176  6715 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:05.593  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:05.595  2176  2825 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=wdj://apps/com.sinelife.theone?pos=m/search/result/2048/2 pkg=com.wandoujia.phoenix2 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.DetailActivity (has extras)} from uid 10058 on display 0
+12-30 07:09:05.597  2176  2825 V WindowManager: addAppToken: AppWindowToken{3ee39fdc token=Token{e00ac4f ActivityRecord{17ff26ae u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.DetailActivity t59}}} to stack=1 task=59 at 2
+12-30 07:09:05.606  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:09:05.633  2176  2480 V WindowManager: Adding window Window{2e9affba u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.DetailActivity} at 12 of 17 (after Window{2461a329 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity})
+12-30 07:09:05.693  2176  2210 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.DetailActivity: +93ms
+12-30 07:09:06.531 11715 11715 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:09.890  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:09.901  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:09:09.903  2176  6715 I ActivityManager: START u0 {flg=0x10010000 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity (has extras)} from uid 10058 on display 0
+12-30 07:09:09.903  2176  6715 V WindowManager: addAppToken: AppWindowToken{c398e61 token=Token{36f8ddc8 ActivityRecord{15c5be6b u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity t60}}} to stack=1 task=60 at 0
+12-30 07:09:09.970  2176  2826 V WindowManager: Adding window Window{127fd647 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity} at 13 of 18 (after Window{2e9affba u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.DetailActivity})
+12-30 07:09:09.996  2176  2210 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity: +51ms
+12-30 07:09:11.543 11718 11718 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:12.257  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:12.287  2176  2200 W ActivityManager: Finishing task with all activities already finished
+12-30 07:09:12.287  2176  2200 W ActivityManager: Duplicate finish request for ActivityRecord{15c5be6b u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity t60 f}
+12-30 07:09:12.543  1902  1902 W SurfaceFlinger: couldn't log to binary event log: overflow.
+12-30 07:09:12.788 11728 11728 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:12.795 11732 11732 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:12.799 11733 11733 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:12.839 11729 11729 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:12.841 11729 11729 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+12-30 07:09:12.841 11729 11729 D AndroidRuntime: CheckJNI is ON
+12-30 07:09:12.841 11733 11733 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:12.842 11733 11733 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+12-30 07:09:12.843 11733 11733 D AndroidRuntime: CheckJNI is ON
+12-30 07:09:12.858 11733 11733 W         : Failed to bind-mount /system/lib64/x86_64/cpuinfo as /proc/cpuinfo: No such file or directory
+12-30 07:09:12.858 11733 11733 E         : Cannot create code cache directory ./code_cache: Read-only file system.
+12-30 07:09:12.858 11729 11729 W         : Failed to bind-mount /system/lib64/x86_64/cpuinfo as /proc/cpuinfo: No such file or directory
+12-30 07:09:12.858 11729 11729 E         : Cannot create code cache directory ./code_cache: Read-only file system.
+12-30 07:09:12.866 11733 11733 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-30 07:09:12.866 11733 11733 E android.os.Debug: failed to load memtrack module: -2
+12-30 07:09:12.866 11729 11729 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-30 07:09:12.866 11729 11729 E android.os.Debug: failed to load memtrack module: -2
+12-30 07:09:12.871 11733 11733 D AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+12-30 07:09:12.871 11729 11729 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+12-30 07:09:12.874  3965  7320 D DefContainer: Copying /storage/emulated/0/wandoujia/app/2048_1451459352259.apk to base.apk
+12-30 07:09:12.883  2176  2214 D PackageManager: Renaming /data/app/vmdl1257479941.tmp to /data/app/com.sinelife.theone-1
+12-30 07:09:12.917  2176  2214 I PackageManager: Running dexopt on: /data/app/com.sinelife.theone-1/base.apk pkg=com.sinelife.theone isa=x86 vmSafeMode=false
+12-30 07:09:12.920 11767 11767 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-30 07:09:12.921 11767 11767 E cutils-trace: Error opening trace file: Permission denied (13)
+12-30 07:09:12.921 11767 11767 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.sinelife.theone-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.sinelife.theone-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only --swap-fd=7
+12-30 07:09:12.934 11767 11767 I dex2oat : Decided to run without swap.
+12-30 07:09:12.953 11729 11729 D AndroidRuntime: Shutting down VM
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager: onResult result = {
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:    "msg" : 0,
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:    "patchs" : [
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:       {
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:          "describe" : "微信登陆后无法分享到空间 ",
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:          "filters" : [
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:             {
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:                "filterName" : "QQMusicVersionFilter",
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:                "versionList" : [ 5080018 ]
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:             }
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:          ],
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:          "length" : 15903,
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:          "md5" : "b9bcfd2d17a2ac90e56b3e6bf780d375",
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:          "url" : "http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip",
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:          "version" : "110"
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:       }
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager:    ]
+12-30 07:09:12.969 11395 11416 D QQMusicPatchManager: }
+12-30 07:09:12.969 11395 11416 E PatchUpdateManager: handleNewPatchs add patch =  PatchConfig:,version:110,describe:微信登陆后无法分享到空间 ,length:15903,md5:b9bcfd2d17a2ac90e56b3e6bf780d375,url:http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip,score:10,isClose:false,versionCode:294
+12-30 07:09:12.969 11395 11416 E PatchUpdateManager: is same patch,don't update 
+12-30 07:09:13.018 11767 11767 I dex2oat : dex2oat took 96.967ms (threads: 8) arena alloc=0B java alloc=1122KB native alloc=427KB free=7MB
+12-30 07:09:13.118  2176  2214 W PackageManager: Not granting permission android.permission.MOUNT_UNMOUNT_FILESYSTEMS to package com.sinelife.theone (protectionLevel=18 flags=0x8be44)
+12-30 07:09:13.236  2176  2214 V BackupManagerService: restoreAtInstall pkg=com.sinelife.theone token=1a restoreSet=0
+12-30 07:09:13.236  2176  2214 V BackupManagerService: Finishing install immediately
+12-30 07:09:13.236  2176  2214 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+12-30 07:09:13.245  2176  2279 I InputReader: Reconfiguring input devices.  changes=0x00000010
+12-30 07:09:13.261  2176  2200 I ActivityManager: Start proc 11781:com.baidu.netdisk/u0a53 for broadcast com.baidu.netdisk/.module.toolbox.AppInfoBroadcatReceiver
+12-30 07:09:13.275 11781 11781 I ActivityThread: Switching default density from 160 to 240
+12-30 07:09:13.275  2176  2214 I art     : Explicit concurrent mark sweep GC freed 29323(1975KB) AllocSpace objects, 16(2008KB) LOS objects, 33% free, 18MB/27MB, paused 789us total 38.912ms
+12-30 07:09:13.276 11781 11781 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:09:13.278 11733 11733 I art     : System.exit called, status: 0
+12-30 07:09:13.278 11733 11733 I AndroidRuntime: VM exiting with result code 0.
+12-30 07:09:13.279 11781 11781 I MultiDex: VM with version 2.1.0 has multidex support
+12-30 07:09:13.279 11781 11781 I MultiDex: install
+12-30 07:09:13.279 11781 11781 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-30 07:09:13.282 11781 11781 D ActivityThread: Loading provider com.baidu.netdisk.account: com.baidu.netdisk.account.storage.AccountProvider
+12-30 07:09:13.285  2176  2176 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.sinelife.theone flg=0x4000010 (has extras) }
+12-30 07:09:13.288  2176  2204 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+12-30 07:09:13.383  3074  3074 I Launcher: Deferring update until onResume
+12-30 07:09:13.486  3074  3095 E DatabaseUtils: Writing exception to parcel
+12-30 07:09:13.486  3074  3095 E DatabaseUtils: java.lang.SecurityException: Permission Denial: writing com.android.launcher3.LauncherProvider uri content://com.android.launcher3.settings/favorites/8?notify=true from pid=11221, uid=10058 requires com.android.launcher3.permission.WRITE_SETTINGS, or grantUriPermission()
+12-30 07:09:13.486  3074  3095 E DatabaseUtils: 	at android.content.ContentProvider.enforceWritePermissionInner(ContentProvider.java:604)
+12-30 07:09:13.486  3074  3095 E DatabaseUtils: 	at android.content.ContentProvider$Transport.enforceWritePermission(ContentProvider.java:461)
+12-30 07:09:13.486  3074  3095 E DatabaseUtils: 	at android.content.ContentProvider$Transport.update(ContentProvider.java:323)
+12-30 07:09:13.486  3074  3095 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:222)
+12-30 07:09:13.486  3074  3095 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+12-30 07:09:13.509  3074  3074 I Launcher: Deferring update until onResume
+12-30 07:09:13.543  2176  2825 I ActivityManager: Start proc 11816:com.baidu.netdisk:bdservice_v1/u0a53 for service com.baidu.netdisk/com.baidu.android.pushservice.PushService
+12-30 07:09:13.545 11781 11781 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+12-30 07:09:13.559 11816 11816 I ActivityThread: Switching default density from 160 to 240
+12-30 07:09:13.560 11816 11816 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:09:13.565 11816 11816 I MultiDex: VM with version 2.1.0 has multidex support
+12-30 07:09:13.565 11816 11816 I MultiDex: install
+12-30 07:09:13.565 11816 11816 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-30 07:09:13.565  2176  2339 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:13.570 11816 11816 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+12-30 07:09:13.579 11816 11816 E BaiduAppSSOJni: Native library not found! Please copy libbdpush_V2_4.so into your project!
+12-30 07:09:13.579 11816 11816 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:13.579 11816 11816 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:13.582 11816 11816 E socket  : Native library not found! Please copy libbdpush_V2_4.so into your project!
+12-30 07:09:13.587 11816 11816 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:13.587 11816 11816 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:13.590 11816 11816 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:13.590 11816 11816 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:13.592 11816 11816 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:13.592 11816 11816 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:13.593 11816 11816 I Process : Sending signal. PID: 11816 SIG: 9
+12-30 07:09:13.596 11781 11781 I System  : Loaded time zone names for "zh_CN" in 7ms (7ms in ICU)
+12-30 07:09:13.601  2176  2824 I ActivityManager: Process com.baidu.netdisk:bdservice_v1 (pid 11816) has died
+12-30 07:09:13.628 11781 11781 D AndroidRuntime: Shutting down VM
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: FATAL EXCEPTION: main
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: Process: com.baidu.netdisk, PID: 11781
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/data/app/com.baidu.netdisk-1/base.apk"],nativeLibraryDirectories=[/data/app/com.baidu.netdisk-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libBaiduMapSDK_v3_2_0_15.so"
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at com.baidu.mapapi.a.<clinit>(Unknown Source)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at com.baidu.mapapi.a.a(Unknown Source)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at com.baidu.netdisk.NetDiskApplication.onCreate(SourceFile:234)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-30 07:09:13.628 11781 11781 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-30 07:09:13.630  2176  2205 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:09:13.632  2176  6715 W BroadcastQueue: Unable to launch app com.popcap.pvz2cthdbddk/10057 for broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.sinelife.theone flg=0x4000010 (has extras) }: process is bad
+12-30 07:09:13.635  2176  2480 W ActivityManager: getTasks: caller 10054 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:13.635  2176  2817 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10054 on display 0
+12-30 07:09:13.636  2176  2817 V WindowManager: addAppToken: AppWindowToken{16679c82 token=Token{25f5bbcd ActivityRecord{16f4ed64 u0 com.estrongs.android.pop/.app.InstallMonitorActivity t61}}} to stack=1 task=61 at 0
+12-30 07:09:13.662  2176  5203 I OpenGLRenderer: Initialized EGL, version 1.4
+12-30 07:09:13.669  2176  2201 W ActivityManager: getRunningAppProcesses: caller 10054 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:13.669  2176  2476 W ActivityManager: getRunningAppProcesses: caller 10054 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:13.733  2176  2817 W ActivityManager: getRunningAppProcesses: caller 10054 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:13.750 11887 11887 W libnb   : Native bridge is disabled
+12-30 07:09:13.751  2176  2201 I ActivityManager: Start proc 11887:sogou.mobile.explorer.hotwords/u0a65 for broadcast com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.browser.SogouBrowserInstallReceiver
+12-30 07:09:13.760 11887 11887 I ActivityThread: Switching default density from 160 to 240
+12-30 07:09:13.765  2176  2824 W ActivityManager: getRunningAppProcesses: caller 10065 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:13.793 11909 11909 W libnb   : Native bridge is disabled
+12-30 07:09:13.795  2176  2480 I ActivityManager: Start proc 11909:com.tencent.mm/u0a63 for broadcast com.tencent.mm/.plugin.base.stub.WXEntryActivity$EntryReceiver
+12-30 07:09:13.811 11909 11909 I ActivityThread: Switching default density from 160 to 240
+12-30 07:09:13.819  2176  2480 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:13.853 11909 11909 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:09:13.854 11909 11909 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:09:13.860 11909 11909 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:09:13.860 11909 11909 D AndroidRuntime: Shutting down VM
+12-30 07:09:13.862 11909 11909 I Process : Sending signal. PID: 11909 SIG: 9
+12-30 07:09:13.877  2176  6715 I ActivityManager: Process com.tencent.mm (pid 11909) has died
+12-30 07:09:13.878  3074  3074 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@38ca55a new=com.android.launcher3.LauncherApplication@38ca55a
+12-30 07:09:13.879  3074  3074 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@38ca55a new=com.android.launcher3.LauncherApplication@38ca55a
+12-30 07:09:14.075  2176  2201 W ActivityManager: getRunningAppProcesses: caller 10054 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:16.554 11940 11940 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:16.921  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:16.923 11781 11781 I Process : Sending signal. PID: 11781 SIG: 9
+12-30 07:09:16.927  2176  5203 D OpenGLRenderer: endAllStagingAnimators on 0x7fc1d6176c00 (RippleDrawable) with handle 0x7fc1d6c46b40
+12-30 07:09:16.929  2176  6715 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@2c0d6383 attribute=null, token = android.os.BinderProxy@21c848e5
+12-30 07:09:16.933  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:09:16.935  2176  2200 I ActivityManager: Process com.baidu.netdisk (pid 11781) has died
+12-30 07:09:16.935  2176  2200 W ActivityManager: Scheduling restart of crashed service com.baidu.netdisk/.service.NetdiskService in 6838ms
+12-30 07:09:21.258  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:21.258  2176  2201 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.sinelife.theone cmp=com.sinelife.theone/com.example.a2048.MainActivity} from uid 10058 on display 0
+12-30 07:09:21.264  2176  2201 V WindowManager: addAppToken: AppWindowToken{3886b77e token=Token{321cb539 ActivityRecord{10577900 u0 com.sinelife.theone/com.example.a2048.MainActivity t62}}} to stack=1 task=62 at 0
+12-30 07:09:21.270  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:09:21.275  2176  2210 V WindowManager: Adding window Window{5fe60d7 u0 Starting com.sinelife.theone} at 13 of 18 (after Window{2e9affba u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.DetailActivity})
+12-30 07:09:21.335 11944 11944 W libnb   : Native bridge is disabled
+12-30 07:09:21.338  2176  2200 I ActivityManager: Start proc 11944:com.sinelife.theone/u0a66 for activity com.sinelife.theone/com.example.a2048.MainActivity
+12-30 07:09:21.363 11944 11944 I ActivityThread: Switching default density from 160 to 240
+12-30 07:09:21.372 11944 11944 I 2048    : numNullnum==16     rannum=13
+12-30 07:09:21.372 11944 11944 I 2048    : x==3   y==1
+12-30 07:09:21.372 11944 11944 I 2048    : newNum==0
+12-30 07:09:21.372 11944 11944 I 2048    : numNullnum==15     rannum=8
+12-30 07:09:21.372 11944 11944 I 2048    : x==2   y==0
+12-30 07:09:21.372 11944 11944 I 2048    : newNum==1
+12-30 07:09:21.372 11944 11944 I 2048    : numNullnum==14     rannum=0
+12-30 07:09:21.372 11944 11944 I 2048    : x==0   y==0
+12-30 07:09:21.372 11944 11944 I 2048    : newNum==0
+12-30 07:09:21.372 11944 11944 I 2048    : error 0 
+12-30 07:09:21.372 11944 11944 W System.err: java.io.FileNotFoundException: /data/data/com.sinelife.theone/files/gamedata.sav: open failed: ENOENT (No such file or directory)
+12-30 07:09:21.373 11944 11944 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-30 07:09:21.373 11944 11944 W System.err: 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.app.ContextImpl.openFileInput(ContextImpl.java:961)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.content.ContextWrapper.openFileInput(ContextWrapper.java:176)
+12-30 07:09:21.373 11944 11944 W System.err: 	at com.example.a2048.Gamemanager.LoadGameData(Gamemanager.java:819)
+12-30 07:09:21.373 11944 11944 W System.err: 	at com.example.a2048.GameView.<init>(GameView.java:43)
+12-30 07:09:21.373 11944 11944 W System.err: 	at com.example.a2048.MainActivity.onCreate(MainActivity.java:64)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.app.Activity.performCreate(Activity.java:5990)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1106)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2278)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2387)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.app.ActivityThread.access$800(ActivityThread.java:151)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1303)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+12-30 07:09:21.373 11944 11944 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-30 07:09:21.373 11944 11944 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+12-30 07:09:21.373 11944 11944 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-30 07:09:21.373 11944 11944 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-30 07:09:21.373 11944 11944 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-30 07:09:21.373 11944 11944 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-30 07:09:21.373 11944 11944 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-30 07:09:21.373 11944 11944 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-30 07:09:21.373 11944 11944 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-30 07:09:21.373 11944 11944 W System.err: 	... 19 more
+12-30 07:09:21.380 11944 11967 E url     : http://139.129.13.5/phpcms/check2048.php?&pkn=com.sinelife.theone&pknver=4.5.6&cn=baidu
+12-30 07:09:21.399 11944 11971 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-30 07:09:21.413  2176  2201 V WindowManager: Adding window Window{3c01ad3a u0 com.sinelife.theone/com.example.a2048.MainActivity} at 13 of 19 (before Window{5fe60d7 u0 Starting com.sinelife.theone})
+12-30 07:09:21.451 11944 11971 I GRALLOC-DRM: create intel for driver i915
+12-30 07:09:21.453 11944 11971 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-30 07:09:21.453 11944 11971 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-30 07:09:21.467 11944 11971 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-30 07:09:21.467 11944 11971 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-30 07:09:21.467 11944 11971 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-30 07:09:21.467 11944 11971 I OpenGLRenderer: Initialized EGL, version 1.4
+12-30 07:09:21.467 11944 11971 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-30 07:09:21.470 11944 11971 D OpenGLRenderer: Enabling debug mode 0
+12-30 07:09:21.510  2176  2478 V WindowManager: Adding window Window{5750748 u0 SurfaceView} at 13 of 20 (before Window{3c01ad3a u0 com.sinelife.theone/com.example.a2048.MainActivity})
+12-30 07:09:21.564 11976 11976 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:21.694  2176  2210 I ActivityManager: Displayed com.sinelife.theone/com.example.a2048.MainActivity: +382ms (total +8s31ms)
+12-30 07:09:21.712 11944 11944 E adid    : b743be46 2012744
+12-30 07:09:21.716 11944 11944 I Mobads Proxy: >>>local/cache core 3.98 0.0 
+12-30 07:09:21.727 11978 11978 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-30 07:09:21.728 11978 11978 E cutils-trace: Error opening trace file: Permission denied (13)
+12-30 07:09:21.728 11978 11978 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.sinelife.theone/files/__pasys_remote_banner.jar --oat-fd=25 --oat-location=/data/data/com.sinelife.theone/files/__pasys_remote_banner.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only
+12-30 07:09:21.779 11978 11978 I dex2oat : dex2oat took 50.953ms (threads: 8) arena alloc=0B java alloc=528KB native alloc=494KB free=7MB
+12-30 07:09:21.805 11944 11944 I WebViewFactory: Loading com.android.webview version 39 (eng.-x86_64) (code 399998)
+12-30 07:09:21.812 11944 11944 I LibraryLoader: Time to load native libraries: 1 ms (timestamps 8805-8806)
+12-30 07:09:21.812 11944 11944 I LibraryLoader: Expected native library version number "",actual native library version number ""
+12-30 07:09:21.817 11944 11944 V WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {ed1edcb}
+12-30 07:09:21.817 11944 11944 I LibraryLoader: Expected native library version number "",actual native library version number ""
+12-30 07:09:21.817 11944 11944 I chromium: [INFO:library_loader_hooks.cc(104)] Chromium logging enabled: level = 0, default verbosity = 0
+12-30 07:09:21.820 11944 11944 I BrowserStartupController: Initializing chromium process, singleProcess=true
+12-30 07:09:21.820 11944 11944 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-30 07:09:21.824 11944 11995 W AudioManagerAndroid: Requires BLUETOOTH permission
+12-30 07:09:21.824 11944 11944 W chromium: [WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+12-30 07:09:21.825 11944 11944 I chromium: [INFO:aw_browser_main_parts.cc(65)] Load from apk succesful, fd=40 off=1319120 len=3050
+12-30 07:09:21.825 11944 11944 I chromium: [INFO:aw_browser_main_parts.cc(78)] Loading webviewchromium.pak from, fd:41 off:229484 len:1089587
+12-30 07:09:21.848 11944 11944 W chromium: [WARNING:data_reduction_proxy_settings.cc(331)] SPDY proxy OFF at startup
+12-30 07:09:21.851 11944 11944 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-30 07:09:21.852 11944 11944 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+12-30 07:09:21.856 11944 11944 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-30 07:09:21.856 11944 11944 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-30 07:09:21.858 11944 12012 I Mobads SDK: Baidu Mobads SDK Core Version:  3.98 
+12-30 07:09:22.340  2550  2550 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-30 07:09:22.340  2550  2550 W PackageManager: Failure retrieving resources for com.wandoujia.phoenix2: Resource ID #0x0
+12-30 07:09:22.606 11944 12021 W chromium: [WARNING:simple_index_file.cc(337)] Could not map Simple Index file.
+12-30 07:09:23.003  2176  2826 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:23.245 11944 11944 I chromium: [INFO:CONSOLE(0)] "Creating Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:23.245 11944 11944 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:23.462 11944 11944 I chromium: [INFO:CONSOLE(0)] "Application Cache Downloading event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:23.463 11944 12021 W chromium: [WARNING:simple_index_file.cc(337)] Could not map Simple Index file.
+12-30 07:09:23.798  2176  2205 I ActivityManager: Start proc 12026:com.baidu.netdisk/u0a53 for service com.baidu.netdisk/.service.NetdiskService
+12-30 07:09:23.806 12026 12026 I ActivityThread: Switching default density from 160 to 240
+12-30 07:09:23.807 12026 12026 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:09:23.811 12026 12026 I MultiDex: VM with version 2.1.0 has multidex support
+12-30 07:09:23.811 12026 12026 I MultiDex: install
+12-30 07:09:23.811 12026 12026 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-30 07:09:23.816 12026 12026 D ActivityThread: Loading provider com.baidu.netdisk.account: com.baidu.netdisk.account.storage.AccountProvider
+12-30 07:09:23.849  2176  2825 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:23.960  2176  2200 I ActivityManager: Start proc 12058:com.baidu.netdisk:bdservice_v1/u0a53 for service com.baidu.netdisk/com.baidu.android.pushservice.PushService
+12-30 07:09:23.961 12026 12026 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+12-30 07:09:23.965 12058 12058 I ActivityThread: Switching default density from 160 to 240
+12-30 07:09:23.965 12058 12058 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:09:23.967 12058 12058 I MultiDex: VM with version 2.1.0 has multidex support
+12-30 07:09:23.967 12058 12058 I MultiDex: install
+12-30 07:09:23.967 12058 12058 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-30 07:09:23.968  2176  2478 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:23.990 12092 12092 W libnb   : Native bridge is disabled
+12-30 07:09:23.993  2176  2205 I ActivityManager: Start proc 12092:com.tencent.mm/u0a63 for broadcast com.tencent.mm/.plugin.base.stub.WXEntryActivity$EntryReceiver
+12-30 07:09:23.999 12058 12058 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+12-30 07:09:24.006 12092 12092 I ActivityThread: Switching default density from 160 to 240
+12-30 07:09:24.009 12058 12058 E BaiduAppSSOJni: Native library not found! Please copy libbdpush_V2_4.so into your project!
+12-30 07:09:24.009 12058 12058 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:24.009 12058 12058 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:24.012 12058 12058 E socket  : Native library not found! Please copy libbdpush_V2_4.so into your project!
+12-30 07:09:24.013  2176  2339 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:24.018 12058 12058 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:24.018 12058 12058 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:24.021 12058 12058 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:24.021 12058 12058 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:24.024 12058 12058 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:24.024 12058 12058 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:09:24.026 12058 12058 I Process : Sending signal. PID: 12058 SIG: 9
+12-30 07:09:24.030 12026 12026 I System  : Loaded time zone names for "zh_CN" in 9ms (9ms in ICU)
+12-30 07:09:24.041  2176  6715 I ActivityManager: Process com.baidu.netdisk:bdservice_v1 (pid 12058) has died
+12-30 07:09:24.042 12092 12092 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:09:24.042 12092 12092 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:09:24.048 12092 12092 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:09:24.049 12092 12092 D AndroidRuntime: Shutting down VM
+12-30 07:09:24.049 12026 12026 D AndroidRuntime: Shutting down VM
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: FATAL EXCEPTION: main
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: Process: com.baidu.netdisk, PID: 12026
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/data/app/com.baidu.netdisk-1/base.apk"],nativeLibraryDirectories=[/data/app/com.baidu.netdisk-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libBaiduMapSDK_v3_2_0_15.so"
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at com.baidu.mapapi.a.<clinit>(Unknown Source)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at com.baidu.mapapi.a.a(Unknown Source)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at com.baidu.netdisk.NetDiskApplication.onCreate(SourceFile:234)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-30 07:09:24.049 12026 12026 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-30 07:09:24.050 12092 12092 I Process : Sending signal. PID: 12092 SIG: 9
+12-30 07:09:24.058  2176  2826 I ActivityManager: Process com.tencent.mm (pid 12092) has died
+12-30 07:09:24.073  2176  5203 I OpenGLRenderer: Initialized EGL, version 1.4
+12-30 07:09:24.074  3074  3074 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@38ca55a new=com.android.launcher3.LauncherApplication@38ca55a
+12-30 07:09:24.075  3074  3074 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@38ca55a new=com.android.launcher3.LauncherApplication@38ca55a
+12-30 07:09:24.103 11944 11944 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (0 of 4) http://mobads.baidu.com/ads/js/c.js", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:24.197 11944 11944 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-30 07:09:24.197 11944 11944 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-30 07:09:24.299 11944 11944 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (1 of 4) http://mobads.baidu.com/ads/js/ads.trunk.js", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:24.306 11944 11944 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (2 of 4) http://mobads.baidu.com/ads/css/min/main.css", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:24.629  2176  6715 W ActivityManager: getRunningAppProcesses: caller 10066 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:24.697 11944 11944 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (3 of 4) http://mobads.baidu.com/ads/js/sdk.ios.js", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:25.041 12169 12169 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-30 07:09:25.043 12169 12169 E cutils-trace: Error opening trace file: Permission denied (13)
+12-30 07:09:25.043 12169 12169 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.sinelife.theone/files/__pasys.apk --oat-fd=103 --oat-location=/data/data/com.sinelife.theone/files/__pasys.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only
+12-30 07:09:25.112 12169 12169 I dex2oat : dex2oat took 68.369ms (threads: 8) arena alloc=0B java alloc=22KB native alloc=266KB free=7MB
+12-30 07:09:25.333 11944 11944 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (4 of 4) ", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:25.333 11944 11944 I chromium: [INFO:CONSOLE(0)] "Application Cache Cached event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-30 07:09:26.576 12182 12182 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:26.721  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:26.723 12026 12026 I Process : Sending signal. PID: 12026 SIG: 9
+12-30 07:09:26.725  2176  5203 D OpenGLRenderer: endAllStagingAnimators on 0x7fc1e6709800 (RippleDrawable) with handle 0x7fc1db58b2e0
+12-30 07:09:26.727  2176  2817 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@8d6144a attribute=null, token = android.os.BinderProxy@e0f3c65
+12-30 07:09:26.733  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:09:26.734  2176  2201 I ActivityManager: Process com.baidu.netdisk (pid 12026) has died
+12-30 07:09:26.734  2176  2201 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{17e2c00f u0 com.baidu.netdisk/.service.NetdiskService}
+12-30 07:09:31.588 12187 12187 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:32.074  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:32.074  2176  2278 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-30 07:09:32.086  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:09:32.110  2176  2339 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.25}
+12-30 07:09:32.111  2176  2176 V ActivityManager: Display changed displayId=0
+12-30 07:09:32.113  2176  2279 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-30 07:09:32.115  6905  6905 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+12-30 07:09:32.115  6905  6905 D GeckoLocales: No selected locale. No correction needed.
+12-30 07:09:32.131  3074  3074 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+12-30 07:09:32.131  3074  3074 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+12-30 07:09:32.182 11944 11944 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-30 07:09:32.277  2176  2210 I WindowManager: Screen frozen for +194ms due to Window{31f3d951 u0 com.android.systemui.ImageWallpaper}
+12-30 07:09:32.689  3074  3148 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-30 07:09:33.135  2550  2550 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-30 07:09:33.135  2550  2550 W PackageManager: Failure retrieving resources for com.sinelife.theone: Resource ID #0x0
+12-30 07:09:33.520  2176  2201 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:34.329  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:34.341  2176  2478 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-30 07:09:35.801  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:09:35.866  4062  4062 I Term    : Bound to TermService
+12-30 07:09:35.866  4062  4062 I TermService: Activity binding to service
+12-30 07:09:36.360  2176  2210 I art     : Explicit concurrent mark sweep GC freed 28996(1846KB) AllocSpace objects, 14(3MB) LOS objects, 33% free, 20MB/30MB, paused 447us total 14.116ms
+12-30 07:09:36.601 12198 12198 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:41.614 12199 12199 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:46.626 12200 12200 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:51.637 12201 12201 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:09:53.003  2176  2201 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 07:09:56.649 12202 12202 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
