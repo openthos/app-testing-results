@@ -1,0 +1,206 @@
+12-30 07:32:02.978  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:32:02.978  2176  2278 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-30 07:32:02.990  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:32:03.049  4062  4062 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-30 07:32:03.194 13762 13762 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:32:03.520  2176  2825 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+12-30 07:32:03.994  2550  2550 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-30 07:32:03.994  2550  2550 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-30 07:32:05.009  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:32:06.424  2176  2200 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.baidu.netdisk/.ui.Navigate (has extras)} from uid 10036 on display 0
+12-30 07:32:06.424  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:32:06.425  2176  2200 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:32:06.427  2176  2200 V WindowManager: addAppToken: AppWindowToken{107fdb32 token=Token{42073d ActivityRecord{243e8094 u0 com.baidu.netdisk/.ui.Navigate t67}}} to stack=1 task=67 at 0
+12-30 07:32:06.435  2176  2210 V WindowManager: Adding window Window{16f14e2c u0 Starting com.baidu.netdisk} at 10 of 15 (after Window{5a0110e u0 jackpal.androidterm/jackpal.androidterm.Term})
+12-30 07:32:06.440  2176  2339 I ActivityManager: Start proc 13767:com.baidu.netdisk/u0a53 for activity com.baidu.netdisk/.ui.Navigate
+12-30 07:32:06.495  2176  2477 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.28}
+12-30 07:32:06.498  6905  6905 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+12-30 07:32:06.498  6905  6905 D GeckoLocales: No selected locale. No correction needed.
+12-30 07:32:06.518  2176  2176 V ActivityManager: Display changed displayId=0
+12-30 07:32:06.519  2176  2279 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-30 07:32:06.521 13767 13767 I ActivityThread: Switching default density from 160 to 240
+12-30 07:32:06.522 13767 13767 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:32:06.529  1902  1902 E SurfaceFlinger: rejecting buffer: bufWidth=1920, bufHeight=1008, front.active.{w=1, h=1}
+12-30 07:32:06.529 13767 13767 I MultiDex: VM with version 2.1.0 has multidex support
+12-30 07:32:06.529 13767 13767 I MultiDex: install
+12-30 07:32:06.530 13767 13767 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-30 07:32:06.537 13767 13767 D ActivityThread: Loading provider com.baidu.netdisk.account: com.baidu.netdisk.account.storage.AccountProvider
+12-30 07:32:06.683  2176  2200 I ActivityManager: Start proc 13800:com.baidu.netdisk:bdservice_v1/u0a53 for service com.baidu.netdisk/com.baidu.android.pushservice.PushService
+12-30 07:32:06.684 13767 13767 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+12-30 07:32:06.691  2176  2478 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-30 07:32:06.704  2176  2205 I ActivityManager: Start proc 13834:com.tencent.mm/u0a63 for broadcast com.tencent.mm/.plugin.base.stub.WXEntryActivity$EntryReceiver
+12-30 07:32:06.706 13800 13800 I ActivityThread: Switching default density from 160 to 240
+12-30 07:32:06.706 13800 13800 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:32:06.708 13834 13834 W libnb   : Native bridge is disabled
+12-30 07:32:06.709 13800 13800 I MultiDex: VM with version 2.1.0 has multidex support
+12-30 07:32:06.709 13800 13800 I MultiDex: install
+12-30 07:32:06.709 13800 13800 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-30 07:32:06.711 13800 13800 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+12-30 07:32:06.713 13834 13834 I ActivityThread: Switching default density from 160 to 240
+12-30 07:32:06.715 13800 13800 E BaiduAppSSOJni: Native library not found! Please copy libbdpush_V2_4.so into your project!
+12-30 07:32:06.715 13800 13800 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:06.716 13800 13800 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:06.716  2176  2478 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+12-30 07:32:06.718 13800 13800 E socket  : Native library not found! Please copy libbdpush_V2_4.so into your project!
+12-30 07:32:06.721 13800 13800 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:06.721 13800 13800 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:06.724 13767 13767 I System  : Loaded time zone names for "zh_CN" in 5ms (5ms in ICU)
+12-30 07:32:06.725 13800 13800 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:06.725 13800 13800 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:06.727 13800 13800 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:06.727 13800 13800 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:06.728 13800 13800 I Process : Sending signal. PID: 13800 SIG: 9
+12-30 07:32:06.737 13834 13834 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:32:06.737 13834 13834 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:32:06.740  2176  2478 I ActivityManager: Process com.baidu.netdisk:bdservice_v1 (pid 13800) has died
+12-30 07:32:06.744 13834 13834 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:32:06.744 13834 13834 D AndroidRuntime: Shutting down VM
+12-30 07:32:06.745 13834 13834 I Process : Sending signal. PID: 13834 SIG: 9
+12-30 07:32:06.749 13767 13767 D AndroidRuntime: Shutting down VM
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: FATAL EXCEPTION: main
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: Process: com.baidu.netdisk, PID: 13767
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/data/app/com.baidu.netdisk-1/base.apk"],nativeLibraryDirectories=[/data/app/com.baidu.netdisk-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libBaiduMapSDK_v3_2_0_15.so"
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at com.baidu.mapapi.a.<clinit>(Unknown Source)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at com.baidu.mapapi.a.a(Unknown Source)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at com.baidu.netdisk.NetDiskApplication.onCreate(SourceFile:234)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-30 07:32:06.749 13767 13767 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-30 07:32:06.750  2176  2817 W ActivityManager:   Force finishing activity 1 com.baidu.netdisk/.ui.Navigate
+12-30 07:32:06.851  2176  2339 I ActivityManager: Process com.tencent.mm (pid 13834) has died
+12-30 07:32:06.851  2176  2210 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.29}
+12-30 07:32:06.852  6905  6905 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+12-30 07:32:06.852  6905  6905 D GeckoLocales: No selected locale. No correction needed.
+12-30 07:32:06.856  2176  2176 V ActivityManager: Display changed displayId=0
+12-30 07:32:06.857  2176  2279 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-30 07:32:06.859  3074  3074 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@38ca55a new=com.android.launcher3.LauncherApplication@38ca55a
+12-30 07:32:06.859  3074  3074 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@38ca55a new=com.android.launcher3.LauncherApplication@38ca55a
+12-30 07:32:06.872  2176  2210 I WindowManager: Screen frozen for +415ms due to Window{16f14e2c u0 Starting com.baidu.netdisk}
+12-30 07:32:06.879  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (947, 557).
+12-30 07:32:06.879  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (945, 560).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (944, 563).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (943, 565).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (942, 568).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (940, 571).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (940, 575).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (940, 579).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (939, 583).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (939, 588).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (939, 591).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (938, 594).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (938, 597).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (938, 600).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (938, 601).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (938, 602).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (938, 603).
+12-30 07:32:06.880  2176  2278 I InputDispatcher: Dropping event because there is no touchable window at (937, 603).
+12-30 07:32:06.889  2176  5203 I OpenGLRenderer: Initialized EGL, version 1.4
+12-30 07:32:07.350  2176  2205 W ActivityManager: Activity pause timeout for ActivityRecord{243e8094 u0 com.baidu.netdisk/.ui.Navigate t67 f}
+12-30 07:32:08.204 13896 13896 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:32:08.355  2550  2550 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-30 07:32:08.355  2550  2550 W PackageManager: Failure retrieving resources for com.baidu.netdisk: Resource ID #0x0
+12-30 07:32:08.473 13767 13767 I Process : Sending signal. PID: 13767 SIG: 9
+12-30 07:32:08.474  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:32:08.478  2176  2476 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3b7baa8e attribute=android.view.inputmethod.EditorInfo@397312af, token = android.os.BinderProxy@34025798
+12-30 07:32:08.485  2176  2201 I ActivityManager: Process com.baidu.netdisk (pid 13767) has died
+12-30 07:32:08.485  2176  2201 W ActivityManager: Scheduling restart of crashed service com.baidu.netdisk/.service.NetdiskService in 3646ms
+12-30 07:32:08.893  2176  2210 I art     : Explicit concurrent mark sweep GC freed 17610(830KB) AllocSpace objects, 9(3MB) LOS objects, 33% free, 15MB/23MB, paused 453us total 13.707ms
+12-30 07:32:10.466  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:32:10.475  2176  2339 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-30 07:32:11.329  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:32:11.382  4062  4062 I Term    : Bound to TermService
+12-30 07:32:11.382  4062  4062 I TermService: Activity binding to service
+12-30 07:32:12.016  2176  2314 D TaskPersister: removeObsoleteFile: deleting file=67_task.xml
+12-30 07:32:12.151  2176  2205 I ActivityManager: Start proc 13904:com.baidu.netdisk/u0a53 for service com.baidu.netdisk/.service.NetdiskService
+12-30 07:32:12.162 13904 13904 I ActivityThread: Switching default density from 160 to 240
+12-30 07:32:12.162 13904 13904 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:32:12.164 13904 13904 I MultiDex: VM with version 2.1.0 has multidex support
+12-30 07:32:12.164 13904 13904 I MultiDex: install
+12-30 07:32:12.164 13904 13904 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-30 07:32:12.166 13904 13904 D ActivityThread: Loading provider com.baidu.netdisk.account: com.baidu.netdisk.account.storage.AccountProvider
+12-30 07:32:12.326  2176  6715 I ActivityManager: Start proc 13936:com.baidu.netdisk:bdservice_v1/u0a53 for service com.baidu.netdisk/com.baidu.android.pushservice.PushService
+12-30 07:32:12.327 13904 13904 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+12-30 07:32:12.338  2176  2476 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+12-30 07:32:12.338 13936 13936 I ActivityThread: Switching default density from 160 to 240
+12-30 07:32:12.339 13936 13936 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:32:12.342 13936 13936 I MultiDex: VM with version 2.1.0 has multidex support
+12-30 07:32:12.342 13936 13936 I MultiDex: install
+12-30 07:32:12.342 13936 13936 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+12-30 07:32:12.356  2176  2205 I ActivityManager: Start proc 13970:com.tencent.mm/u0a63 for broadcast com.tencent.mm/.plugin.base.stub.WXEntryActivity$EntryReceiver
+12-30 07:32:12.360 13936 13936 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+12-30 07:32:12.360 13970 13970 W libnb   : Native bridge is disabled
+12-30 07:32:12.362  1923  1923 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 86us total 5.703ms
+12-30 07:32:12.367  1923  1923 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 77us total 5.465ms
+12-30 07:32:12.370 13936 13936 E BaiduAppSSOJni: Native library not found! Please copy libbdpush_V2_4.so into your project!
+12-30 07:32:12.370 13936 13936 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:12.370 13936 13936 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:12.372 13970 13970 I ActivityThread: Switching default density from 160 to 240
+12-30 07:32:12.374  1923  1923 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 79us total 5.956ms
+12-30 07:32:12.375 13936 13936 E socket  : Native library not found! Please copy libbdpush_V2_4.so into your project!
+12-30 07:32:12.377  2176  2201 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+12-30 07:32:12.381 13936 13936 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:12.381 13936 13936 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:12.385 13936 13936 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:12.385 13936 13936 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:12.390 13936 13936 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:12.390 13936 13936 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+12-30 07:32:12.392 13936 13936 I Process : Sending signal. PID: 13936 SIG: 9
+12-30 07:32:12.395 13904 13904 I System  : Loaded time zone names for "zh_CN" in 8ms (8ms in ICU)
+12-30 07:32:12.401  2176  2817 I ActivityManager: Process com.baidu.netdisk:bdservice_v1 (pid 13936) has died
+12-30 07:32:12.403 13970 13970 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:32:12.404 13970 13970 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:32:12.412 13970 13970 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+12-30 07:32:12.412 13970 13970 D AndroidRuntime: Shutting down VM
+12-30 07:32:12.413 13970 13970 I Process : Sending signal. PID: 13970 SIG: 9
+12-30 07:32:12.421  2176  2201 I ActivityManager: Process com.tencent.mm (pid 13970) has died
+12-30 07:32:12.421  3074  3074 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@38ca55a new=com.android.launcher3.LauncherApplication@38ca55a
+12-30 07:32:12.422 13904 13904 D AndroidRuntime: Shutting down VM
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: FATAL EXCEPTION: main
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: Process: com.baidu.netdisk, PID: 13904
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/data/app/com.baidu.netdisk-1/base.apk"],nativeLibraryDirectories=[/data/app/com.baidu.netdisk-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libBaiduMapSDK_v3_2_0_15.so"
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at com.baidu.mapapi.a.<clinit>(Unknown Source)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at com.baidu.mapapi.a.a(Unknown Source)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at com.baidu.netdisk.NetDiskApplication.onCreate(SourceFile:234)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-30 07:32:12.422 13904 13904 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-30 07:32:12.422  3074  3074 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@38ca55a new=com.android.launcher3.LauncherApplication@38ca55a
+12-30 07:32:12.422  2176  2205 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+12-30 07:32:12.461  2176  5203 I OpenGLRenderer: Initialized EGL, version 1.4
+12-30 07:32:13.217 14032 14032 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:32:14.593  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 07:32:14.606  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 07:32:14.607 13904 13904 I Process : Sending signal. PID: 13904 SIG: 9
+12-30 07:32:14.612  2176  5203 D OpenGLRenderer: endAllStagingAnimators on 0x7fc1d6179400 (RippleDrawable) with handle 0x7fc1dacd7d40
+12-30 07:32:14.615  2176  2200 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3defd49b attribute=null, token = android.os.BinderProxy@3b643b09
+12-30 07:32:14.620  2176  2477 I ActivityManager: Process com.baidu.netdisk (pid 13904) has died
+12-30 07:32:14.620  2176  2477 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{84bcfb u0 com.baidu.netdisk/.service.NetdiskService}
+12-30 07:32:18.226 14034 14034 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:32:23.003  2176  2476 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 07:32:23.238 14035 14035 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:32:28.246 14036 14036 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 07:32:29.205 14037 14037 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
