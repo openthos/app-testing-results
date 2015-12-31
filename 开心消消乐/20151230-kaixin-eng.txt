@@ -1,0 +1,92 @@
+12-30 08:22:24.368 15863 15863 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:22:29.380 15864 15864 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:22:30.702  2176  2817 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 08:22:34.392 15865 15865 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:22:39.403 15866 15866 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:22:41.219  2176  2476 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+12-30 08:22:44.415 15867 15867 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:22:47.492  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 08:22:47.493  2176  2278 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-30 08:22:47.505  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 08:22:47.623  4062  4062 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-30 08:22:48.513  2550  2550 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-30 08:22:48.513  2550  2550 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-30 08:22:48.527  2176  2825 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 08:22:49.426 15871 15871 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:22:51.820  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 08:22:51.832  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 08:22:54.438 15873 15873 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:22:59.451 15874 15874 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:00.702  2176  2477 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 08:23:04.462 15875 15875 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:09.474 15876 15876 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:11.219  2176  6715 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+12-30 08:23:14.486 15877 15877 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:19.497 15878 15878 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:24.509 15879 15879 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:29.520 15880 15880 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:29.845  2176 14796 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity (has extras)} from uid 10036 on display 0
+12-30 08:23:29.845  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 08:23:29.848  2176 14796 V WindowManager: addAppToken: AppWindowToken{8f775c3 token=Token{131e1d72 ActivityRecord{2fc2ea7d u0 com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity t73}}} to stack=1 task=73 at 0
+12-30 08:23:29.850  2176  2210 V WindowManager: Adding window Window{1a637e6c u0 Starting com.happyelements.AndroidAnimal} at 10 of 15 (after Window{5a0110e u0 jackpal.androidterm/jackpal.androidterm.Term})
+12-30 08:23:29.857  1919  2163 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-30 08:23:29.868  2176  2825 I ActivityManager: Start proc 15882:com.happyelements.AndroidAnimal/u0a59 for activity com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity
+12-30 08:23:29.870  1923  1923 I art     : Explicit concurrent mark sweep GC freed 707(30KB) AllocSpace objects, 0(0B) LOS objects, 39% free, 1904KB/3MB, paused 32us total 2.228ms
+12-30 08:23:29.873  1923  1923 I art     : Explicit concurrent mark sweep GC freed 7(240B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 40us total 2.313ms
+12-30 08:23:29.873 15882 15882 W libnb   : Native bridge is disabled
+12-30 08:23:29.875  1923  1923 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 35us total 2.447ms
+12-30 08:23:29.909  2176  2817 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.34}
+12-30 08:23:29.913  6905  6905 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+12-30 08:23:29.913  6905  6905 D GeckoLocales: No selected locale. No correction needed.
+12-30 08:23:29.926  1902  1902 E SurfaceFlinger: rejecting buffer: bufWidth=1920, bufHeight=1008, front.active.{w=1, h=1}
+12-30 08:23:29.927  2176  2176 V ActivityManager: Display changed displayId=0
+12-30 08:23:29.927  2176  2279 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-30 08:23:29.929 15882 15882 I ActivityThread: Switching default density from 160 to 240
+12-30 08:23:29.931 15882 15882 E art     : dlopen("/data/app/com.happyelements.AndroidAnimal-1/lib/arm/libmem.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.happyelements.AndroidAnimal-1/lib/arm/libmem.so" has unexpected e_machine: 40
+12-30 08:23:29.931 15882 15882 D AndroidRuntime: Shutting down VM
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: FATAL EXCEPTION: main
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: Process: com.happyelements.AndroidAnimal, PID: 15882
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/app/com.happyelements.AndroidAnimal-1/lib/arm/libmem.so" has unexpected e_machine: 40
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:371)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at com.happyelements.security.shellguard.ShellApplication.<clinit>(ShellApplication.java:62)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at java.lang.reflect.Constructor.newInstance(Native Method)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at java.lang.Class.newInstance(Class.java:1606)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.app.Instrumentation.newApplication(Instrumentation.java:995)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.app.Instrumentation.newApplication(Instrumentation.java:980)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.app.LoadedApk.makeApplication(LoadedApk.java:558)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4526)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-30 08:23:29.932 15882 15882 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-30 08:23:29.932  2176  2826 W ActivityManager:   Force finishing activity 1 com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity
+12-30 08:23:30.033  2176  2210 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.35}
+12-30 08:23:30.034  6905  6905 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+12-30 08:23:30.034  6905  6905 D GeckoLocales: No selected locale. No correction needed.
+12-30 08:23:30.040  2176  2176 V ActivityManager: Display changed displayId=0
+12-30 08:23:30.042  2176  2279 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-30 08:23:30.077  2176  5203 I OpenGLRenderer: Initialized EGL, version 1.4
+12-30 08:23:30.138  2176  2210 I WindowManager: Screen frozen for +260ms due to Window{1c419a0f u0 Application Error: com.happyelements.AndroidAnimal}
+12-30 08:23:30.533  2176  2205 W ActivityManager: Activity pause timeout for ActivityRecord{2fc2ea7d u0 com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity t73 f}
+12-30 08:23:30.702  2176  2824 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-30 08:23:32.157  2176  2210 I art     : Explicit concurrent mark sweep GC freed 24308(1142KB) AllocSpace objects, 10(160KB) LOS objects, 33% free, 15MB/23MB, paused 302us total 14.156ms
+12-30 08:23:32.164  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 08:23:32.172 15882 15882 I Process : Sending signal. PID: 15882 SIG: 9
+12-30 08:23:32.174  2176  5203 D OpenGLRenderer: endAllStagingAnimators on 0x7fc1dad40c00 (RippleDrawable) with handle 0x7fc1d4cb52e0
+12-30 08:23:32.176  2176  6715 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@81b11a3 attribute=android.view.inputmethod.EditorInfo@39f85ca0, token = android.os.BinderProxy@34025798
+12-30 08:23:32.185  2176  2825 I ActivityManager: Process com.happyelements.AndroidAnimal (pid 15882) has died
+12-30 08:23:33.460  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 08:23:33.474  2176  2201 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-30 08:23:34.300  2176  2294 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-30 08:23:34.362  4062  4062 I Term    : Bound to TermService
+12-30 08:23:34.362  4062  4062 I TermService: Activity binding to service
+12-30 08:23:34.532 15914 15914 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:39.545 15915 15915 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-30 08:23:41.219  2176  2825 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+12-30 08:23:44.557 15916 15916 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
