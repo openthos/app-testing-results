@@ -15,7 +15,6 @@ android-x86-5.1 with linux kernel 4.4-rc7-eng
 测试结果:
 ES文件管理器能够运行
 
-测试分析:
 
 
 测试时间:
