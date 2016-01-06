@@ -1,4 +1,23 @@
 测试时间:
+2015-12-30
+
+测试APP:
+ES 文件管理器
+
+测试硬件环境:
+清华同方PC
+MEM: 16GB
+CPU: 8 processor
+
+软件测试环境：
+android-x86-5.1 with linux kernel 4.4-rc7-eng
+
+测试结果:
+ES文件管理器能够运行
+
+
+
+测试时间:
 2015-12-14
 
 测试APP:
