@@ -2,7 +2,7 @@
 - cpu:skylake
 - os: android-x86-5.1+kernel-4.4.0-rc8 eng版本
 
-#app列表
+#app测试结果列表
 
 名称 | 运行情况|　备注
 ----- | ---- | ----
@@ -23,8 +23,8 @@ seafile| PASS| 使用正常
 搜狗输入法| PASS| 使用正常
 植物大战僵尸| FAIL| https://github.com/openthos/app-testing-results/issues/14
 水果忍者| FAIL| https://github.com/openthos/app-testing-results/issues/22
-百度云| FAIL|安装后无法打开
+百度云| FAIL|https://github.com/openthos/app-testing-results/issues/10
 豌豆荚| PASS| 屏幕旋转90度，不方便操作
-Microsoft Excel| PASS| 
-Microsoft Word| PASS| 
-Microsoft Powerpoint| PASS| 
+Microsoft Excel| NE| 未下载到x86版Microsoft Excel版本，手机版安装不成功
+Microsoft Word| NE| 未下载到x86版Microsoft Word版本，手机版安装不成功
+Microsoft Powerpoint| NE| 未下载到x86版Microsoft Powerpoint版本，手机版安装不成功
