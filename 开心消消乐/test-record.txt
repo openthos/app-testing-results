@@ -1,4 +1,21 @@
 测试时间:
+2016-01-06
+
+测试APP:
+开心消消乐
+
+测试硬件环境:
+清华同方PC
+MEM: 16GB
+CPU: 8 processor
+
+软件测试环境：
+android-x86-5.1 with linux kernel 4.4-rc8-eng
+
+测试结果:
+开心消消乐利用APK包或豌豆夾安装后均提示“your current game version is illegal.please download the offical version.” 
+------------------------------------------------------------
+测试时间:
 2015-12-14
 
 测试APP:
