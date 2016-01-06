@@ -1,0 +1,724 @@
+01-06 06:01:31.194  2149  2169 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:32.197  2149 17057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:33.150  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:01:33.163  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:01:33.164  2267  2267 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-06 06:01:33.164  2267  2267 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-06 06:01:33.167  2149  3042 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10000 on display 0
+01-06 06:01:33.199  2149 17057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:33.229  9354  9354 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-06 06:01:34.073  2149  2295 W ActivityManager: getRunningAppProcesses: caller 10121 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:34.181  2267  2267 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-06 06:01:34.181  2267  2267 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-06 06:01:34.202  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:34.704 17714 17714 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:01:35.205  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:35.864  2149  2394 I ActivityManager: Killing 14254:com.android.gallery3d/u0a24 (adj 15): empty #17
+01-06 06:01:35.891  2149  2394 I ActivityManager: Killing 9508:com.cyanogenmod.filemanager/u0a27 (adj 9): remove task
+01-06 06:01:35.891  2149  2394 I libprocessgroup: Killing pid 16133 in uid 10027 as part of process group 9508
+01-06 06:01:35.891  2149  2394 I libprocessgroup: Killing pid 16147 in uid 10027 as part of process group 9508
+01-06 06:01:35.892  2149  2394 I libprocessgroup: Killing pid 16133 in uid 10027 as part of process group 9508
+01-06 06:01:35.910  2149  2190 W InputDispatcher: channel '6a6e91e com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+01-06 06:01:35.910  2149  2190 E InputDispatcher: channel '6a6e91e com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+01-06 06:01:35.910  2149  2295 I WindowState: WIN DEATH: Window{6a6e91e u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}
+01-06 06:01:35.910  2149  2295 W InputDispatcher: Attempted to unregister already unregistered input channel '6a6e91e com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity (server)'
+01-06 06:01:36.013  2149  2220 D TaskPersister: removeObsoleteFile: deleting file=1079_task.xml
+01-06 06:01:36.013  2149  2220 D TaskPersister: removeObsoleteFile: deleting file=1079_task_thumbnail.png
+01-06 06:01:36.207  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:37.210  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:37.847  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:01:37.860  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:01:38.113  2149 15843 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 10000 on display 0
+01-06 06:01:38.213  2149  2169 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:38.696  2349  2609 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+01-06 06:01:38.918 17718 17718 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:01:39.216  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:40.219  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:41.222  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:42.225  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:42.947  2149  2295 I ActivityManager: START u0 {act=android.intent.action.MAIN flg=0x10000000 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity bnds=[538,158][749,294] (has extras)} from uid 10033 on display 0
+01-06 06:01:42.947  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:01:42.961  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:01:42.969  2149  2295 V WindowManager: addAppToken: AppWindowToken{1e9ed54 token=Token{145264a7 ActivityRecord{220da966 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity t1109}}} to stack=1 task=1109 at 0
+01-06 06:01:42.972  2149  2180 V WindowManager: Adding window Window{1e95419f u0 Starting com.wandoujia.phoenix2} at 5 of 10 (after Window{14aecc22 u0 jackpal.androidterm/jackpal.androidterm.Term})
+01-06 06:01:43.007  2149  2170 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.35}
+01-06 06:01:43.011 16415 16415 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+01-06 06:01:43.012 16415 16415 D GeckoLocales: No selected locale. No correction needed.
+01-06 06:01:43.030  2149  2149 V ActivityManager: Display changed displayId=0
+01-06 06:01:43.052  2149  2191 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-06 06:01:43.115  2149  8057 I art     : Explicit concurrent mark sweep GC freed 87549(4MB) AllocSpace objects, 16(1868KB) LOS objects, 33% free, 20MB/30MB, paused 1.081ms total 47.577ms
+01-06 06:01:43.162 17124 17729 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-06 06:01:43.163  2149 15843 V WindowManager: Adding window Window{39c7c597 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity} at 5 of 12 (before Window{1e95419f u0 Starting com.wandoujia.phoenix2})
+01-06 06:01:43.196 17124 17729 I GRALLOC-DRM: create intel for driver i915
+01-06 06:01:43.197 17124 17729 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 06:01:43.197 17124 17729 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 06:01:43.200 17124 17729 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 06:01:43.200 17124 17729 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 06:01:43.200 17124 17729 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 06:01:43.200 17124 17729 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 06:01:43.200 17124 17729 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-06 06:01:43.201 17124 17729 D OpenGLRenderer: Enabling debug mode 0
+01-06 06:01:43.227  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:43.237  2349  2349 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-06 06:01:43.247 17124 17180 W GAv4    : Error getting advertiser id: com.google.android.gms.common.GooglePlayServicesNotAvailableException
+01-06 06:01:43.283  2149  2180 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+01-06 06:01:43.283  2149  2180 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+01-06 06:01:43.283  2149  2180 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+01-06 06:01:43.283  2149  2180 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+01-06 06:01:43.283  2149  2180 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+01-06 06:01:43.283  2149  2180 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+01-06 06:01:43.283  2149  2180 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+01-06 06:01:43.283  2149  2180 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+01-06 06:01:43.283  2149  2180 E WindowManager: Performed 6 layouts in a row. Skipping
+01-06 06:01:43.300  2149  2180 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity: +327ms
+01-06 06:01:43.329  2149  2180 I WindowManager: Screen frozen for +356ms due to Window{1e95419f u0 Starting com.wandoujia.phoenix2}
+01-06 06:01:43.352  2149  3042 W ActivityManager: getRunningAppProcesses: caller 10120 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:43.931 17759 17759 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:01:44.228  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:45.231  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:45.375  2149  2180 I art     : Explicit concurrent mark sweep GC freed 7837(372KB) AllocSpace objects, 8(7MB) LOS objects, 33% free, 12MB/19MB, paused 704us total 32.930ms
+01-06 06:01:46.234  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:47.182  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:01:47.182  2149  2170 I ActivityManager: START u0 {flg=0x10000000 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity (has extras)} from uid 10124 on display 0
+01-06 06:01:47.191  2149  2170 V WindowManager: addAppToken: AppWindowToken{30ae6ab token=Token{1d16a0fa ActivityRecord{3cd4a725 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity t1109}}} to stack=1 task=1109 at 1
+01-06 06:01:47.194  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:01:47.202  2149  2394 V WindowManager: Adding window Window{304d90a1 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity} at 6 of 11 (after Window{39c7c597 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity})
+01-06 06:01:47.237  2149 15843 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:47.238  2149  2180 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity: +47ms
+01-06 06:01:48.239  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:48.539  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:01:48.629 17124 17124 D InputEventConsistencyVerifier: KeyEvent: ACTION_UP but key was not down.
+01-06 06:01:48.629 17124 17124 D InputEventConsistencyVerifier:   in com.wandoujia.ripple_framework.view.RecyclerViewAutoLoadingLayout{3554ce8c V..D.... ........ 0,136-1080,1848 #7f0c0357 app:id/loadable_recycler_view}
+01-06 06:01:48.629 17124 17124 D InputEventConsistencyVerifier:   0: sent at 13907766000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_NUMPAD_2, scanCode=80, metaState=0, flags=0x8, repeatCount=0, eventTime=13907766, downTime=13907670, deviceId=16, source=0x101 }
+01-06 06:01:48.630 17124 17124 D InputEventConsistencyVerifier: KeyEvent: ACTION_UP but key was not down.
+01-06 06:01:48.630 17124 17124 D InputEventConsistencyVerifier:   in com.wandoujia.ripple_framework.view.RecyclerViewAutoLoadingLayout{3554ce8c V..D.... ........ 0,136-1080,1848 #7f0c0357 app:id/loadable_recycler_view}
+01-06 06:01:48.630 17124 17124 D InputEventConsistencyVerifier:   0: sent at 13907766000000, KeyEvent { action=ACTION_UP, keyCode=KEYCODE_DPAD_DOWN, scanCode=80, metaState=0, flags=0x8, repeatCount=0, eventTime=13907766, downTime=13907670, deviceId=16, source=0x101 }
+01-06 06:01:48.630 17124 17124 D InputEventConsistencyVerifier:   -- recent events --
+01-06 06:01:48.630 17124 17124 D InputEventConsistencyVerifier:   1: sent at 13907766000000, (unhandled) KeyEvent { action=ACTION_UP, keyCode=KEYCODE_NUMPAD_2, scanCode=80, metaState=0, flags=0x80000008, repeatCount=0, eventTime=13907766, downTime=13907670, deviceId=16, source=0x101 }
+01-06 06:01:48.940 17767 17767 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:01:49.241  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:50.244  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:53.176  1867  2115 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.wandoujia.phoenix2/cache/
+01-06 06:01:53.176 17235 17235 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.wandoujia.phoenix2/cache
+01-06 06:01:53.177  1867  2115 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.wandoujia.phoenix2/cache/
+01-06 06:01:53.177 17235 17235 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.wandoujia.phoenix2/cache
+01-06 06:01:53.178  1867  2115 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.wandoujia.phoenix2/cache/
+01-06 06:01:53.178 17235 17235 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.wandoujia.phoenix2/cache
+01-06 06:01:53.179  1867  2115 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.wandoujia.phoenix2/cache/
+01-06 06:01:53.179 17235 17235 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.wandoujia.phoenix2/cache
+01-06 06:01:53.952 17770 17770 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:01:54.102  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:54.811  2149  9351 V WindowManager: Adding window Window{2e76d09b u0 PopupWindow:33c4d433} at 7 of 12 (after Window{304d90a1 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity})
+01-06 06:01:55.104  2149 15843 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:55.184  2149  3042 V WindowManager: Adding window Window{1ac8b04d u0 PopupWindow:33c4d433} at 8 of 13 (after Window{2e76d09b u0 PopupWindow:33c4d433 EXITING})
+01-06 06:01:55.970  2149  4763 V WindowManager: Adding window Window{34f4b813 u0 PopupWindow:33c4d433} at 8 of 13 (after Window{1ac8b04d u0 PopupWindow:33c4d433 EXITING})
+01-06 06:01:56.106  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:56.254  2149 17057 V WindowManager: Adding window Window{24fd0449 u0 PopupWindow:33c4d433} at 8 of 13 (after Window{34f4b813 u0 PopupWindow:33c4d433 EXITING})
+01-06 06:01:56.646  2303 17779 I LatinIME:LogUtils: Dictionary info: dictionary = spellcheck_userunigram.en_US ; version = 1452060116 ; date = ?
+01-06 06:01:56.648  2303 17780 I LatinIME:LogUtils: Dictionary info: dictionary = spellcheck_contacts.en_US ; version = 1452060116 ; date = ?
+01-06 06:01:56.650  2303  2605 I LatinIME:LogUtils: Dictionary info: dictionary = main:en ; version = 47 ; date = 1402373178
+01-06 06:01:56.660  2303 17780 I LatinIME:LogUtils: Dictionary info: dictionary = spellcheck_contacts.en_US ; version = 1452060116 ; date = 1452060116
+01-06 06:01:57.109  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:58.112  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:01:58.963 17783 17783 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:01:59.115  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:00.118  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:01.120  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:01.130  2149  9351 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=wdj://search/result cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity (has extras)} from uid 10124 on display 0
+01-06 06:02:01.131  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:01.132  2149  9351 V WindowManager: addAppToken: AppWindowToken{34b2cb7c token=Token{3c68c26f ActivityRecord{307f414e u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity t1109}}} to stack=1 task=1109 at 2
+01-06 06:02:01.143  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:02:01.210  2149  8057 V WindowManager: Adding window Window{3c12245a u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity} at 7 of 12 (after Window{304d90a1 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity})
+01-06 06:02:01.278  2149  2180 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity: +142ms
+01-06 06:02:01.286 17124 17729 D OpenGLRenderer: endAllStagingAnimators on 0xdaae1380 (RippleDrawable) with handle 0xdb5469d0
+01-06 06:02:01.296  1868  1868 W SurfaceFlinger: couldn't log to binary event log: overflow.
+01-06 06:02:02.122  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:03.124  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:03.975 17797 17797 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:04.073  2149  2169 W ActivityManager: getRunningAppProcesses: caller 10121 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:04.127  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:05.130  2149 15843 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:06.133  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:07.136  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:07.719  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:07.731  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:02:07.745  2149  3042 I ActivityManager: START u0 {flg=0x10010000 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity (has extras)} from uid 10124 on display 0
+01-06 06:02:07.752  2149  3042 V WindowManager: addAppToken: AppWindowToken{32d09067 token=Token{19be2c26 ActivityRecord{327bf381 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity t1110}}} to stack=1 task=1110 at 0
+01-06 06:02:07.822  2149  3128 V WindowManager: Adding window Window{117346bd u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity} at 7 of 12 (after Window{3c12245a u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity})
+01-06 06:02:07.867  2149  2180 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity: +69ms
+01-06 06:02:08.139  2149 15843 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:08.987 17800 17800 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:09.141  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:10.144  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:11.147  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:11.265  2149  2220 D TaskPersister: removeObsoleteFile: deleting file=1109_task.xml
+01-06 06:02:12.149  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:13.151  2149 17056 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:13.352  2149  8057 W ActivityManager: getRunningAppProcesses: caller 10120 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:13.926  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:13.939  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:02:13.953  2149  8057 W ActivityManager: Finishing task with all activities already finished
+01-06 06:02:13.953  2149  8057 W ActivityManager: Duplicate finish request for ActivityRecord{327bf381 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity t1110 f}
+01-06 06:02:13.996 17803 17803 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:14.154  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:14.246  1868  1868 W SurfaceFlinger: couldn't log to binary event log: overflow.
+01-06 06:02:14.946 17124 17172 W PackageParser: Unknown element under <manifest>: meta-data at /storage/emulated/0/wandoujia/app/2048益智_1452060133928.apk Binary XML file line #16
+01-06 06:02:15.010 17813 17813 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:15.011 17813 17813 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+01-06 06:02:15.012 17813 17813 D AndroidRuntime: CheckJNI is ON
+01-06 06:02:15.024 17813 17813 W         : Failed to bind-mount /system/lib64/x86_64/cpuinfo as /proc/cpuinfo: No such file or directory
+01-06 06:02:15.024 17813 17813 E         : Cannot create code cache directory ./code_cache: Read-only file system.
+01-06 06:02:15.030 17813 17813 E memtrack: Couldn't load memtrack module (No such file or directory)
+01-06 06:02:15.030 17813 17813 E android.os.Debug: failed to load memtrack module: -2
+01-06 06:02:15.034 17813 17813 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+01-06 06:02:15.035  2149  4763 I ActivityManager: START u0 {flg=0x10000000 cmp=com.android.settings/.cyanogenmod.superuser.RequestActivity (has extras)} from uid 0 on display 0
+01-06 06:02:15.036  2149  4763 V WindowManager: addAppToken: AppWindowToken{1bffead6 token=Token{1da7bef1 ActivityRecord{36163698 u0 com.android.settings/.cyanogenmod.superuser.RequestActivity t1111}}} to stack=1 task=1111 at 0
+01-06 06:02:15.046 17813 17813 D AndroidRuntime: Shutting down VM
+01-06 06:02:15.059  2149  2377 I ActivityManager: Start proc 17829:com.android.settings:superuser/1000 for activity com.android.settings/.cyanogenmod.superuser.RequestActivity
+01-06 06:02:15.070 17829 17829 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:15.072  2149  3042 I ActivityManager: START u0 {flg=0x10800000 cmp=com.android.settings/.cyanogenmod.superuser.MultitaskSuRequestActivity (has extras)} from uid 1000 on display 0
+01-06 06:02:15.072  2149  3042 V WindowManager: addAppToken: AppWindowToken{de8592d token=Token{a842444 ActivityRecord{1d086157 u0 com.android.settings/.cyanogenmod.superuser.MultitaskSuRequestActivity t1111}}} to stack=1 task=1111 at 1
+01-06 06:02:15.124 17829 17852 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-06 06:02:15.125 17829 17829 I GRALLOC-DRM: create intel for driver i915
+01-06 06:02:15.125 17829 17829 D Atlas   : Validating map...
+01-06 06:02:15.126  2149  8057 V WindowManager: Based on layer: Adding window Window{1b697eae u0 com.android.settings/com.android.settings.cyanogenmod.superuser.MultitaskSuRequestActivity} at 7 of 13
+01-06 06:02:15.156  2149 17056 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:15.167 17829 17852 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 06:02:15.167 17829 17852 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 06:02:15.178 17829 17852 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 06:02:15.178 17829 17852 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 06:02:15.178 17829 17852 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 06:02:15.178 17829 17852 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 06:02:15.178 17829 17852 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-06 06:02:15.182 17829 17852 D OpenGLRenderer: Enabling debug mode 0
+01-06 06:02:15.188 17124 17124 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-06 06:02:15.252  2149  2180 I ActivityManager: Displayed com.android.settings/.cyanogenmod.superuser.MultitaskSuRequestActivity: +179ms (total +206ms)
+01-06 06:02:16.076  2267  2267 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-06 06:02:16.076  2267  2267 W PackageManager: Failure retrieving resources for com.wandoujia.phoenix2: Resource ID #0x0
+01-06 06:02:16.158  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:17.160  2149 17057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:18.162  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:18.554  2149  2220 D TaskPersister: removeObsoleteFile: deleting file=1110_task.xml
+01-06 06:02:18.554  2149  2220 D TaskPersister: removeObsoleteFile: deleting file=1110_task_thumbnail.png
+01-06 06:02:18.554  2149  2220 D TaskPersister: removeObsoleteFile: deleting file=1078_task_thumbnail.png
+01-06 06:02:19.007 17853 17853 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:19.164  2149 17056 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:19.264  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:19.276  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:02:20.167  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:20.590  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:20.593 17812 17812 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:20.598 17859 17859 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:20.614 17860 17860 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:20.622 17856 17856 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:20.624 17856 17856 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+01-06 06:02:20.624 17856 17856 D AndroidRuntime: CheckJNI is ON
+01-06 06:02:20.637 17856 17856 W         : Failed to bind-mount /system/lib64/x86_64/cpuinfo as /proc/cpuinfo: No such file or directory
+01-06 06:02:20.637 17856 17856 E         : Cannot create code cache directory ./code_cache: Read-only file system.
+01-06 06:02:20.641 17860 17860 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:20.643 17860 17860 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+01-06 06:02:20.643 17860 17860 D AndroidRuntime: CheckJNI is ON
+01-06 06:02:20.644 17856 17856 E memtrack: Couldn't load memtrack module (No such file or directory)
+01-06 06:02:20.644 17856 17856 E android.os.Debug: failed to load memtrack module: -2
+01-06 06:02:20.648 17856 17856 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+01-06 06:02:20.668  2149  2175 I ActivityManager: Start proc 17876:com.android.settings/1000 for broadcast com.android.settings/.cyanogenmod.superuser.SuReceiver
+01-06 06:02:20.672  1879  1879 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 39% free, 1950KB/3MB, paused 36us total 4.065ms
+01-06 06:02:20.675  1879  1879 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 39% free, 1950KB/3MB, paused 26us total 3.341ms
+01-06 06:02:20.678  1879  1879 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 39% free, 1950KB/3MB, paused 33us total 2.905ms
+01-06 06:02:20.679 17876 17876 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:20.681 17860 17860 W         : Failed to bind-mount /system/lib64/x86_64/cpuinfo as /proc/cpuinfo: No such file or directory
+01-06 06:02:20.681 17860 17860 E         : Cannot create code cache directory ./code_cache: Read-only file system.
+01-06 06:02:20.687 17860 17860 E memtrack: Couldn't load memtrack module (No such file or directory)
+01-06 06:02:20.687 17860 17860 E android.os.Debug: failed to load memtrack module: -2
+01-06 06:02:20.692 17860 17860 D AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+01-06 06:02:20.697  3816  4880 D DefContainer: Copying /storage/emulated/0/wandoujia/app/2048益智_1452060133928.apk to base.apk
+01-06 06:02:20.701  2149  2184 W PackageParser: Unknown element under <manifest>: meta-data at /data/app/vmdl158491661.tmp/base.apk Binary XML file line #16
+01-06 06:02:20.745  2149  2184 D PackageManager: Renaming /data/app/vmdl158491661.tmp to /data/app/com.digiplex.game-1
+01-06 06:02:20.774  2149  2184 I PackageManager: Running dexopt on: /data/app/com.digiplex.game-1/base.apk pkg=com.digiplex.game isa=x86_64 vmSafeMode=false
+01-06 06:02:20.783 17914 17914 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-06 06:02:20.784 17914 17914 E cutils-trace: Error opening trace file: Permission denied (13)
+01-06 06:02:20.784 17914 17914 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.digiplex.game-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86_64/data@app@com.digiplex.game-1@base.apk@classes.dex --instruction-set=x86_64 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only --swap-fd=7
+01-06 06:02:20.815 17856 17856 D AndroidRuntime: Shutting down VM
+01-06 06:02:20.815 17876 17916 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-06 06:02:20.816 17876 17876 I GRALLOC-DRM: create intel for driver i915
+01-06 06:02:20.816 17876 17876 D Atlas   : Validating map...
+01-06 06:02:20.846 17914 17914 I dex2oat : Decided to run without swap.
+01-06 06:02:20.847 17876 17916 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 06:02:20.847 17876 17916 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 06:02:20.850 17876 17916 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 06:02:20.850 17876 17916 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 06:02:20.850 17876 17916 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 06:02:20.850 17876 17916 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 06:02:20.850 17876 17916 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-06 06:02:20.851 17876 17916 D OpenGLRenderer: Enabling debug mode 0
+01-06 06:02:21.029  1868  1868 W SurfaceFlinger: couldn't log to binary event log: overflow.
+01-06 06:02:21.109 17914 17914 I dex2oat : dex2oat took 324.878ms (threads: 8) arena alloc=0B java alloc=6MB native alloc=784KB free=7MB
+01-06 06:02:21.257  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:21.257  2149  2184 V BackupManagerService: restoreAtInstall pkg=com.digiplex.game token=11 restoreSet=0
+01-06 06:02:21.257  2149  2184 V BackupManagerService: Finishing install immediately
+01-06 06:02:21.257  2149  2184 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-06 06:02:21.259  9248  9248 I plugin  : com.digiplex.game install
+01-06 06:02:21.259  2149  2175 W BroadcastQueue: Unable to launch app com.kiloo.subwaysurf/10115 for broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.digiplex.game flg=0x4000010 (has extras) }: process is bad
+01-06 06:02:21.262  2149  2191 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-06 06:02:21.283  2149  4763 I ActivityManager: Start proc 17929:com.svox.pico/u0a18 for broadcast com.svox.pico/.VoiceDataInstallerReceiver
+01-06 06:02:21.299 17929 17929 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:21.310  2149  2184 I art     : Explicit concurrent mark sweep GC freed 34950(2MB) AllocSpace objects, 12(360KB) LOS objects, 33% free, 16MB/24MB, paused 1.366ms total 52.774ms
+01-06 06:02:21.311 17860 17860 I art     : System.exit called, status: 0
+01-06 06:02:21.311 17860 17860 I AndroidRuntime: VM exiting with result code 0.
+01-06 06:02:21.326  2149  2149 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.digiplex.game flg=0x4000010 (has extras) }
+01-06 06:02:21.333  2149  2377 I ActivityManager: Start proc 17953:com.android.gallery3d/u0a24 for broadcast com.android.gallery3d/.app.PackagesMonitor
+01-06 06:02:21.334  2149  2174 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-06 06:02:21.355 17953 17953 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:21.368  2349  2349 I Launcher: Deferring update until onResume
+01-06 06:02:21.369 14378 14378 W System.err: android.content.pm.PackageManager$NameNotFoundException
+01-06 06:02:21.369 14378 14378 W System.err: 	at android.app.ApplicationPackageManager.getApplicationInfo(ApplicationPackageManager.java:281)
+01-06 06:02:21.369 14378 14378 W System.err: 	at com.duoku.platform.single.l.g.a(Unknown Source)
+01-06 06:02:21.369 14378 14378 W System.err: 	at com.duoku.platform.single.gameplus.broadcast.GPNotificaionReceiver.onReceive(Unknown Source)
+01-06 06:02:21.369 14378 14378 W System.err: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-06 06:02:21.369 14378 14378 W System.err: 	at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-06 06:02:21.369 14378 14378 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-06 06:02:21.369 14378 14378 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 06:02:21.369 14378 14378 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 06:02:21.369 14378 14378 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 06:02:21.369 14378 14378 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:21.369 14378 14378 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:21.369 14378 14378 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 06:02:21.369 14378 14378 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 06:02:21.371  2149 17057 W ActivityManager: getTasks: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:21.372  2149  2377 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10117 on display 0
+01-06 06:02:21.374  2149  2377 V WindowManager: addAppToken: AppWindowToken{26f05846 token=Token{18e8bc21 ActivityRecord{16d52a88 u0 com.estrongs.android.pop/.app.InstallMonitorActivity t1112}}} to stack=1 task=1112 at 0
+01-06 06:02:21.390  2149  8057 W ActivityManager: getRunningAppProcesses: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:21.391  2149  2377 W ActivityManager: getRunningAppProcesses: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:21.454  2349  2349 I Launcher: Deferring update until onResume
+01-06 06:02:21.493  2149  2169 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@1b5f1a07 attribute=null, token = android.os.BinderProxy@8089c05
+01-06 06:02:21.494  2149  8057 W ActivityManager: getRunningAppProcesses: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:21.501 10668 10668 W System.err: android.content.pm.PackageManager$NameNotFoundException
+01-06 06:02:21.501 10668 10668 W System.err: 	at android.app.ApplicationPackageManager.getApplicationInfo(ApplicationPackageManager.java:281)
+01-06 06:02:21.501 10668 10668 W System.err: 	at com.duoku.platform.single.l.g.a(Unknown Source)
+01-06 06:02:21.501 10668 10668 W System.err: 	at com.duoku.platform.single.gameplus.broadcast.GPNotificaionReceiver.onReceive(Unknown Source)
+01-06 06:02:21.501 10668 10668 W System.err: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-06 06:02:21.501 10668 10668 W System.err: 	at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-06 06:02:21.501 10668 10668 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-06 06:02:21.501 10668 10668 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 06:02:21.501 10668 10668 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 06:02:21.501 10668 10668 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 06:02:21.501 10668 10668 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:21.501 10668 10668 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:21.501 10668 10668 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 06:02:21.501 10668 10668 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 06:02:21.520  2149 15843 I ActivityManager: Killing 14570:sogou.mobile.explorer.hotwords/u0a123 (adj 15): empty #17
+01-06 06:02:21.560  2149  9351 I ActivityManager: Start proc 17985:com.halfbrick.fruitninja:egameCore/u0a118 for service com.halfbrick.fruitninja/cn.egame.terminal.sdk.EgameCoreService
+01-06 06:02:21.562  2349  2369 E DatabaseUtils: Writing exception to parcel
+01-06 06:02:21.562  2349  2369 E DatabaseUtils: java.lang.SecurityException: Permission Denial: writing com.android.launcher3.LauncherProvider uri content://com.android.launcher3.settings/favorites/10?notify=true from pid=17124, uid=10124 requires com.android.launcher3.permission.WRITE_SETTINGS, or grantUriPermission()
+01-06 06:02:21.562  2349  2369 E DatabaseUtils: 	at android.content.ContentProvider.enforceWritePermissionInner(ContentProvider.java:604)
+01-06 06:02:21.562  2349  2369 E DatabaseUtils: 	at android.content.ContentProvider$Transport.enforceWritePermission(ContentProvider.java:461)
+01-06 06:02:21.562  2349  2369 E DatabaseUtils: 	at android.content.ContentProvider$Transport.update(ContentProvider.java:323)
+01-06 06:02:21.562  2349  2369 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:222)
+01-06 06:02:21.562  2349  2369 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-06 06:02:21.584  2149  3044 I ActivityManager: Start proc 18007:sogou.mobile.explorer.hotwords/u0a123 for broadcast com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.browser.SogouBrowserInstallReceiver
+01-06 06:02:21.587 17985 17985 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:21.592 17985 17985 D SkynetApi: onApplicationCreate
+01-06 06:02:21.593 17985 17985 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 06:02:21.593 17985 17985 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 06:02:21.593 17985 17985 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 06:02:21.593 17985 17985 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-06 06:02:21.593 17985 17985 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4060)
+01-06 06:02:21.593 17985 17985 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3542)
+01-06 06:02:21.593 17985 17985 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-06 06:02:21.593 17985 17985 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 06:02:21.593 17985 17985 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 06:02:21.593 17985 17985 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 06:02:21.593 17985 17985 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 06:02:21.593 17985 17985 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 06:02:21.593 17985 17985 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 06:02:21.593 17985 17985 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 06:02:21.593 17985 17985 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:21.593 17985 17985 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:21.593 17985 17985 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 06:02:21.593 17985 17985 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 06:02:21.593 17985 17985 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-06 06:02:21.593 17985 17985 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 06:02:21.593 17985 17985 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 06:02:21.593 17985 17985 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 06:02:21.593 17985 17985 W System.err: 	... 17 more
+01-06 06:02:21.593 17985 17985 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 06:02:21.593 17985 17985 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 06:02:21.593 17985 17985 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 06:02:21.593 17985 17985 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 06:02:21.593 17985 17985 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 06:02:21.593 17985 17985 W System.err: 		... 18 more
+01-06 06:02:21.593 17985 17985 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 06:02:21.594 17985 17985 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 06:02:21.594 17985 17985 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 06:02:21.594 17985 17985 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 06:02:21.594 17985 17985 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-06 06:02:21.594 17985 17985 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-06 06:02:21.594 17985 17985 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:21.594 17985 17985 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:21.594 17985 17985 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-06 06:02:21.594 17985 17985 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3544)
+01-06 06:02:21.594 17985 17985 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-06 06:02:21.594 17985 17985 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 06:02:21.594 17985 17985 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 06:02:21.594 17985 17985 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 06:02:21.594 17985 17985 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 06:02:21.594 17985 17985 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 06:02:21.594 17985 17985 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 06:02:21.594 17985 17985 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 06:02:21.594 17985 17985 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:21.594 17985 17985 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:21.594 17985 17985 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 06:02:21.594 17985 17985 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 06:02:21.594 17985 17985 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-06 06:02:21.595 17985 17985 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 06:02:21.595 17985 17985 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 06:02:21.595 17985 17985 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 06:02:21.595 17985 17985 W System.err: 	... 20 more
+01-06 06:02:21.595 17985 17985 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 06:02:21.595 17985 17985 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 06:02:21.595 17985 17985 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 06:02:21.595 17985 17985 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 06:02:21.595 17985 17985 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 06:02:21.595 17985 17985 W System.err: 		... 21 more
+01-06 06:02:21.595 17985 17985 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 06:02:21.595  2149  3044 W ActivityManager: getRunningAppProcesses: caller 10118 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:21.596 17985 17985 D AndroidRuntime: Shutting down VM
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: FATAL EXCEPTION: main
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: Process: com.halfbrick.fruitninja:egameCore, PID: 17985
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libegamepay_dr2.so"
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at cn.egame.terminal.sdk.jni.EgamePayProtocol.<clinit>(EgamePayProtocol.java:25)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at cn.egame.terminal.sdk.jni.EgamePayProtocol.initCore(Native Method)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at cn.egame.terminal.sdk.EgameCoreService.onCreate(EgameCoreService.java:74)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2761)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at android.app.ActivityThread.access$1800(ActivityThread.java:151)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1386)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 06:02:21.596 17985 17985 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 06:02:21.607 18007 18007 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:21.615  2149  3128 W ActivityManager: getRunningAppProcesses: caller 10123 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:21.622  2149  2377 I ActivityManager: Killing 16415:org.mozilla.firefox/u0a119 (adj 15): empty #17
+01-06 06:02:21.628  2149  2206 D NsdService: Client disconnected
+01-06 06:02:21.628  2149  2206 D NsdService: stopMDnsDaemon
+01-06 06:02:21.628  1871  2107 D MDnsDS  : Stopping MDNSD
+01-06 06:02:21.632  2149  3972 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 06:02:21.632  2149  3972 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 06:02:21.639  2149  3972 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 06:02:21.639  2149  3972 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 06:02:21.639  2149  3972 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 06:02:21.639  2149  3972 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 06:02:21.661  2149  3128 W ActivityManager: getRunningAppProcesses: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:21.665  2149  2394 I ActivityManager: Start proc 18030:com.happyelements.AndroidAnimal/u0a114 for broadcast com.happyelements.AndroidAnimal/com.duoku.platform.single.receiver.DKSingleAppReceiver
+01-06 06:02:21.666 18030 18030 D houdini : [18030] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+01-06 06:02:21.676 18030 18030 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:21.685 18030 18030 D houdini : [18030] Added shared library /data/app/com.happyelements.AndroidAnimal-2/lib/arm/libmem.so for ClassLoader by Native Bridge.
+01-06 06:02:21.686 18030 18030 I MultiDex: VM with version 2.1.0 has multidex support
+01-06 06:02:21.686 18030 18030 I MultiDex: install
+01-06 06:02:21.686 18030 18030 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+01-06 06:02:21.687 18030 18030 I MainAppContext: MainApplication attachBaseContext begin
+01-06 06:02:21.687 18030 18030 I MainAppContext: MainApplication initJavaCrashHandler... 0
+01-06 06:02:21.690  2149  2204 D WifiService: New client listening to asynchronous messages
+01-06 06:02:21.701 18057 18057 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:21.705 18030 18030 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+01-06 06:02:21.707 18030 18030 I MainAppContext: MainApplication MetaInfo init... 20
+01-06 06:02:21.720 18030 18030 I MainAppContext: MainApplication init StartupConfig 13
+01-06 06:02:21.735  2149 17056 I ActivityManager: Killing 16320:com.popcap.pvz2cthdbddk:bdservice_v1/u0a59 (adj 15): empty #17
+01-06 06:02:22.259  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:22.736  2149  2394 W ActivityManager: getRunningAppProcesses: caller 10114 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:22.811  2149  2149 I ActivityManager: Killing 16362:com.halfbrick.fruitninja:bdservice_v1/u0a118 (adj 15): empty #17
+01-06 06:02:23.262  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:24.265  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:24.438  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:24.447 17985 17985 I Process : Sending signal. PID: 17985 SIG: 9
+01-06 06:02:24.450  2149  3972 D OpenGLRenderer: endAllStagingAnimators on 0x7f3138ad9c00 (RippleDrawable) with handle 0x7f313d11d580
+01-06 06:02:24.451  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:02:24.452  2149  3044 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@9fffc9 attribute=null, token = android.os.BinderProxy@8089c05
+01-06 06:02:24.459  2149 17057 I ActivityManager: Process com.halfbrick.fruitninja:egameCore (pid 17985) has died
+01-06 06:02:24.459  2149 17057 W ActivityManager: Scheduling restart of crashed service com.halfbrick.fruitninja/cn.egame.terminal.sdk.EgameCoreService in 5748ms
+01-06 06:02:24.637 18067 18067 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:25.268  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:26.271  2149 17057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:27.274  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:28.277  2149 17057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:29.279  2149  2169 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:29.414  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:29.415  2149  2295 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.digiplex.game cmp=com.digiplex.game/.MainActivity} from uid 10124 on display 0
+01-06 06:02:29.417  2149  2295 V WindowManager: addAppToken: AppWindowToken{3d209cfc token=Token{48ce9ef ActivityRecord{228556ce u0 com.digiplex.game/.MainActivity t1113}}} to stack=1 task=1113 at 0
+01-06 06:02:29.423  2149  2180 V WindowManager: Adding window Window{208e1100 u0 Starting com.digiplex.game} at 7 of 12 (after Window{3c12245a u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity})
+01-06 06:02:29.426  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:02:29.447  2149  2394 I ActivityManager: Start proc 18069:com.digiplex.game/u0a127 for activity com.digiplex.game/.MainActivity
+01-06 06:02:29.491  2149  2377 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.36}
+01-06 06:02:29.531  2149  2149 V ActivityManager: Display changed displayId=0
+01-06 06:02:29.534  2149  2191 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-06 06:02:29.537 18069 18069 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:29.548  2149  2149 V ActivityManager: Display changed displayId=0
+01-06 06:02:29.563  2149  2295 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.37}
+01-06 06:02:29.563  2149  2191 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-06 06:02:29.607 18069 18069 W Resources: Converting to string: TypedValue{t=0x10/d=0x800 a=-1}
+01-06 06:02:29.607 18069 18069 W Resources: Converting to string: TypedValue{t=0x10/d=0x1 a=-1}
+01-06 06:02:29.613  2149  2180 I WindowManager: Screen frozen for +155ms due to Window{3d573ce5 u0 NavigationBar}
+01-06 06:02:29.648 18094 18094 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:29.692  1876  2210 D NuPlayerDriver: start(0xf5d7a160)
+01-06 06:02:29.692  1876 18097 I GenericSource: start
+01-06 06:02:29.714 18069 18069 I WebViewFactory: Loading com.android.webview version 39 (eng.-x86_64) (code 399998)
+01-06 06:02:29.720  1876  2210 D NuPlayerDriver: reset(0xf5d7a160)
+01-06 06:02:29.722  1876 18097 D NuPlayerDriver: notifyResetComplete(0xf5d7a160)
+01-06 06:02:29.912 18069 18069 I LibraryLoader: Time to load native libraries: 167 ms (timestamps 8873-9040)
+01-06 06:02:29.912 18069 18069 I LibraryLoader: Expected native library version number "",actual native library version number ""
+01-06 06:02:29.923 18069 18069 V WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {112e0bdd}
+01-06 06:02:29.923 18069 18069 I LibraryLoader: Expected native library version number "",actual native library version number ""
+01-06 06:02:29.924 18069 18069 I chromium: [INFO:library_loader_hooks.cc(104)] Chromium logging enabled: level = 0, default verbosity = 0
+01-06 06:02:29.928 18069 18069 I BrowserStartupController: Initializing chromium process, singleProcess=true
+01-06 06:02:30.021 18069 18069 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+01-06 06:02:30.047 18069 18109 W AudioManagerAndroid: Requires BLUETOOTH permission
+01-06 06:02:30.065 18069 18069 W chromium: [WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+01-06 06:02:30.065 18069 18069 I chromium: [INFO:aw_browser_main_parts.cc(65)] Load from apk succesful, fd=28 off=1319120 len=3050
+01-06 06:02:30.066 18069 18069 I chromium: [INFO:aw_browser_main_parts.cc(78)] Loading webviewchromium.pak from, fd:29 off:229484 len:1089587
+01-06 06:02:30.083 18069 18069 I GRALLOC-DRM: create intel for driver i915
+01-06 06:02:30.084 18069 18069 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 06:02:30.084 18069 18069 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 06:02:30.095 18069 18069 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 06:02:30.095 18069 18069 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 06:02:30.095 18069 18069 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 06:02:30.172 18069 18069 D MoPub   : Failed to retrieve GPS location: access appears to be disabled.
+01-06 06:02:30.172 18069 18069 D MoPub   : Failed to retrieve network location: access appears to be disabled.
+01-06 06:02:30.173 18069 18069 D MoPub   : Loading url: http://ads.mopub.com/m/ad?v=6&id=501acfd555114de58b8bf7eb1aafa64f&nv=4.1.0&dn=TSINGHUA%20TONGFANG%20Computer%2CH170-PRO%2Candroid_x86_64&bundle=com.digiplex.game&z=%2B0000&o=l&w=1080&h=1920&sc_a=1.5&ct=1&av=2.7.2&udid=mp_tmpl_advertising_id&dnt=mp_tmpl_do_not_track&mr=1&android_perms_ext_storage=1
+01-06 06:02:30.233  2149  2175 I ActivityManager: Start proc 18123:com.halfbrick.fruitninja:egameCore/u0a118 for service com.halfbrick.fruitninja/cn.egame.terminal.sdk.EgameCoreService
+01-06 06:02:30.251 18123 18123 I ActivityThread: Switching default density from 160 to 240
+01-06 06:02:30.257 18123 18123 D SkynetApi: onApplicationCreate
+01-06 06:02:30.258 18123 18123 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 06:02:30.258 18123 18123 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 06:02:30.258 18123 18123 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 06:02:30.258 18123 18123 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-06 06:02:30.258 18123 18123 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4060)
+01-06 06:02:30.258 18123 18123 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3542)
+01-06 06:02:30.258 18123 18123 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-06 06:02:30.258 18123 18123 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 06:02:30.258 18123 18123 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 06:02:30.258 18123 18123 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 06:02:30.258 18123 18123 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 06:02:30.258 18123 18123 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 06:02:30.258 18123 18123 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 06:02:30.258 18123 18123 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 06:02:30.258 18123 18123 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:30.258 18123 18123 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:30.258 18123 18123 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 06:02:30.258 18123 18123 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 06:02:30.258 18123 18123 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-06 06:02:30.258 18123 18123 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 06:02:30.258 18123 18123 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 06:02:30.258 18123 18123 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 06:02:30.258 18123 18123 W System.err: 	... 17 more
+01-06 06:02:30.258 18123 18123 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 06:02:30.258 18123 18123 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 06:02:30.258 18123 18123 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 06:02:30.258 18123 18123 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 06:02:30.258 18123 18123 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 06:02:30.258 18123 18123 W System.err: 		... 18 more
+01-06 06:02:30.258 18123 18123 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 06:02:30.260 18123 18123 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 06:02:30.260 18123 18123 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 06:02:30.260 18123 18123 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 06:02:30.260 18123 18123 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-06 06:02:30.260 18123 18123 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-06 06:02:30.260 18123 18123 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:30.260 18123 18123 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:30.260 18123 18123 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-06 06:02:30.260 18123 18123 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3544)
+01-06 06:02:30.260 18123 18123 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-06 06:02:30.260 18123 18123 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 06:02:30.260 18123 18123 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 06:02:30.260 18123 18123 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 06:02:30.260 18123 18123 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 06:02:30.260 18123 18123 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 06:02:30.260 18123 18123 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 06:02:30.260 18123 18123 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 06:02:30.260 18123 18123 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:30.260 18123 18123 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:30.260 18123 18123 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 06:02:30.260 18123 18123 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 06:02:30.260 18123 18123 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-06 06:02:30.260 18123 18123 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 06:02:30.260 18123 18123 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 06:02:30.260 18123 18123 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 06:02:30.260 18123 18123 W System.err: 	... 20 more
+01-06 06:02:30.260 18123 18123 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 06:02:30.260 18123 18123 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 06:02:30.260 18123 18123 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 06:02:30.260 18123 18123 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 06:02:30.260 18123 18123 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 06:02:30.260 18123 18123 W System.err: 		... 21 more
+01-06 06:02:30.260 18123 18123 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 06:02:30.260  2149  2394 W ActivityManager: getRunningAppProcesses: caller 10118 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:30.261 18123 18123 D AndroidRuntime: Shutting down VM
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: FATAL EXCEPTION: main
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: Process: com.halfbrick.fruitninja:egameCore, PID: 18123
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libegamepay_dr2.so"
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at cn.egame.terminal.sdk.jni.EgamePayProtocol.<clinit>(EgamePayProtocol.java:25)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at cn.egame.terminal.sdk.jni.EgamePayProtocol.initCore(Native Method)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at cn.egame.terminal.sdk.EgameCoreService.onCreate(EgameCoreService.java:74)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2761)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at android.app.ActivityThread.access$1800(ActivityThread.java:151)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1386)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 06:02:30.262 18123 18123 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 06:02:30.275 18069 18069 W chromium: [WARNING:data_reduction_proxy_settings.cc(331)] SPDY proxy OFF at startup
+01-06 06:02:30.282  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:30.299 18069 18069 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+01-06 06:02:30.302 18069 18069 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+01-06 06:02:30.303 18069 18069 D MoPub   : Unable to calculate 2% of available disk space, defaulting to minimum
+01-06 06:02:30.306  2149  3972 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 06:02:30.306  2149  3972 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 06:02:30.308 18069 18150 W GooglePlayServicesUtil: Google Play services is missing.
+01-06 06:02:30.309 18069 18154 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-06 06:02:30.311 18069 18069 D Atlas   : Validating map...
+01-06 06:02:30.313  2149  2169 V WindowManager: Adding window Window{84db0ea u0 com.digiplex.game/com.digiplex.game.MainActivity} at 7 of 14 (before Window{208e1100 u0 Starting com.digiplex.game})
+01-06 06:02:30.317  2149  3972 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 06:02:30.317  2149  3972 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 06:02:30.317  2149  3972 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 06:02:30.318  2149  3972 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 06:02:30.452  2267  2267 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-06 06:02:30.452  2267  2267 W PackageManager: Failure retrieving resources for com.wandoujia.phoenix2: Resource ID #0x0
+01-06 06:02:30.562  1876  3639 D NuPlayerDriver: start(0xf502f6a0)
+01-06 06:02:30.562  1876 18161 I GenericSource: start
+01-06 06:02:30.576 18069 18069 D MoPub   : Failed to retrieve GPS location: access appears to be disabled.
+01-06 06:02:30.576 18069 18069 D MoPub   : Failed to retrieve network location: access appears to be disabled.
+01-06 06:02:30.577 18069 18069 D MoPub   : Loading url: http://ads.mopub.com/m/ad?v=6&id=501acfd555114de58b8bf7eb1aafa64f&nv=4.1.0&dn=TSINGHUA%20TONGFANG%20Computer%2CH170-PRO%2Candroid_x86_64&bundle=com.digiplex.game&z=%2B0000&o=p&w=1080&h=1920&sc_a=1.5&ct=1&av=2.7.2&udid=mp_tmpl_advertising_id&dnt=mp_tmpl_do_not_track&mr=1&android_perms_ext_storage=1
+01-06 06:02:30.577 18069 18151 W GooglePlayServicesUtil: Google Play services is missing.
+01-06 06:02:30.578  2149  2169 V WindowManager: Adding window Window{3c3f7342 u0 com.digiplex.game/com.digiplex.game.MainActivity} at 7 of 13 (after Window{3c12245a u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity})
+01-06 06:02:30.584  1876  3639 D NuPlayerDriver: reset(0xf502f6a0)
+01-06 06:02:30.585  1876 18161 D NuPlayerDriver: notifyResetComplete(0xf502f6a0)
+01-06 06:02:30.597 18069 18154 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 06:02:30.597 18069 18154 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-06 06:02:30.598 18069 18154 D OpenGLRenderer: Enabling debug mode 0
+01-06 06:02:30.660  2149  2180 I ActivityManager: Displayed com.digiplex.game/.MainActivity: +1s236ms (total +9s276ms)
+01-06 06:02:30.750  2149  3128 I ActivityManager: Killing 16782:com.tencent.mm/u0a125 (adj 15): empty #17
+01-06 06:02:31.205 18069 18150 D MoPub   : Failed to retrieve GPS location: access appears to be disabled.
+01-06 06:02:31.205 18069 18150 D MoPub   : Failed to retrieve network location: access appears to be disabled.
+01-06 06:02:31.343  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:31.454 18069 18151 D MoPub   : Failed to retrieve GPS location: access appears to be disabled.
+01-06 06:02:31.454 18069 18151 D MoPub   : Failed to retrieve network location: access appears to be disabled.
+01-06 06:02:31.456 18069 18069 I MoPub   : Performing custom event.
+01-06 06:02:31.456 18069 18069 D MoPub   : Loading custom event interstitial adapter.
+01-06 06:02:31.457 18069 18069 D MoPub   : Attempting to invoke custom event: com.mopub.mobileads.VastVideoInterstitial
+01-06 06:02:31.457 18069 18069 D MoPub   : Unable to calculate 2% of available disk space, defaulting to minimum
+01-06 06:02:31.660  2149  2180 I art     : Explicit concurrent mark sweep GC freed 25750(1565KB) AllocSpace objects, 8(125KB) LOS objects, 33% free, 19MB/29MB, paused 590us total 34.551ms
+01-06 06:02:32.346  2149  3128 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:33.262  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:33.264 18123 18123 I Process : Sending signal. PID: 18123 SIG: 9
+01-06 06:02:33.267  2149  3972 D OpenGLRenderer: endAllStagingAnimators on 0x7f313a254000 (RippleDrawable) with handle 0x7f313892cd80
+01-06 06:02:33.270 17124 17124 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-06 06:02:33.275  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:02:33.276  2149  2295 I ActivityManager: Process com.halfbrick.fruitninja:egameCore (pid 18123) has died
+01-06 06:02:33.276  2149  2295 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{9d66734 u0 com.halfbrick.fruitninja/cn.egame.terminal.sdk.EgameCoreService}
+01-06 06:02:33.349  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:34.073  2149  2169 W ActivityManager: getRunningAppProcesses: caller 10121 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:34.351  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:34.660 18180 18180 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:35.354  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:36.357  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:37.360  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:38.363  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:39.366  2149  2169 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:39.671 18181 18181 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:39.981 18069 18069 I ActivitySwipeDetector: LeftToRightSwipe!
+01-06 06:02:40.369  2149 15843 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:41.372  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:41.373 18069 18069 I ActivitySwipeDetector: RightToLeftSwipe!
+01-06 06:02:42.374  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:42.861 18069 18069 I ActivitySwipeDetector: LeftToRightSwipe!
+01-06 06:02:43.352  2149 17056 W ActivityManager: getRunningAppProcesses: caller 10120 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:43.377  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:43.837 18069 18069 I ActivitySwipeDetector: onTopToBottomSwipe!
+01-06 06:02:44.380  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:44.684 18182 18182 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:45.084  9248  9272 E plugin  : 从服务端拉plugin消息
+01-06 06:02:45.086  9248  9272 I plugin  : 10389:BD0S0N50004
+01-06 06:02:45.086  9248  9272 I plugin  : http://push.gxpan.cn/Plugin/appPlugin?appids=10389%3ABD0S0N50004&sign=a468602d8e8cb846729e432e46721825
+01-06 06:02:45.253 18069 18069 I ActivitySwipeDetector: LeftToRightSwipe!
+01-06 06:02:45.269  9248  9272 I plugin  : {"data":[{"id":72,"startTime":"","tag":"0","app_id":10389,"channel_id":null,"start_time":0,"end_time":0,"is_start":0,"force_update":1,"down_type":0,"plugin_id":43,"plugin_name":null}],"ret": 0,"msg": "ok","error_code": 0}
+01-06 06:02:45.327  9248  9272 I plugin  : http://push.gxpan.cn/Plugin/plugin?pids=43&sign=b3f218bfc7fd8d1adf43e10b9339d814
+01-06 06:02:45.382  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:45.438  9248  9272 I plugin  : {"data":[{"del_on_done":0,"md5":"pushmd5","orientation":0,"shortcut":0,"url":"http://ledou.dl.uu.cc/push/Push_31.apk","is_start":0,"lib_dir":"lib","pkg":"com.ids.p","title":"Push","des":"push","version":31,"icon":null,"id":43,"type":1,"entry":"com.idreamsky.push.service.PushService"}],"ret": 0,"msg": "ok","error_code": 0}
+01-06 06:02:46.385  2149 17056 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:47.205 18069 18069 I ActivitySwipeDetector: LeftToRightSwipe!
+01-06 06:02:47.387  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:48.389  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:48.405 18069 18069 I ActivitySwipeDetector: onTopToBottomSwipe!
+01-06 06:02:49.391  2149  3128 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:49.533 18069 18069 I ActivitySwipeDetector: LeftToRightSwipe!
+01-06 06:02:49.697 18184 18184 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:50.394  2149 15843 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:50.453 18069 18069 I ActivitySwipeDetector: LeftToRightSwipe!
+01-06 06:02:54.102  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:54.709 18185 18185 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:02:55.105  2149  3128 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:56.112  2149  3128 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:56.303  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:56.303  2149  2190 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+01-06 06:02:56.315  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 06:02:56.385  2149  2149 V ActivityManager: Display changed displayId=0
+01-06 06:02:56.396  2149  4763 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.38}
+01-06 06:02:56.397  2149  2191 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-06 06:02:56.418  2349  2349 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-06 06:02:56.418  2349  2349 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-06 06:02:56.461 18069 18069 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-06 06:02:56.629  2149  2180 I WindowManager: Screen frozen for +261ms due to Window{157105d1 u0 com.android.systemui.ImageWallpaper}
+01-06 06:02:56.980  2349  2609 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+01-06 06:02:57.114  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:57.420  2267  2267 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-06 06:02:57.420  2267  2267 W PackageManager: Failure retrieving resources for com.digiplex.game: Resource ID #0x0
+01-06 06:02:58.117  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:58.677  2149  2180 I art     : Explicit concurrent mark sweep GC freed 14020(705KB) AllocSpace objects, 7(4MB) LOS objects, 33% free, 16MB/24MB, paused 773us total 34.501ms
+01-06 06:02:59.078  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:02:59.082  2149 17057 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10000 on display 0
+01-06 06:02:59.114  2149  3044 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@1a889a7f (uid=10033 pid=2349)
+01-06 06:02:59.119  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:02:59.722 18189 18189 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:03:00.122  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:00.854  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 06:03:00.918  9354  9354 I Term    : Bound to TermService
+01-06 06:03:00.918  9354  9354 I TermService: Activity binding to service
+01-06 06:03:01.124  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:02.127  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:03.129  2149  2169 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:04.073  2149  3128 W ActivityManager: getRunningAppProcesses: caller 10121 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:04.130  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:04.131  2149  2295 W ActivityManager: getRunningAppProcesses: caller 10121 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:04.733 18196 18196 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:03:05.132  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:06.135  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:07.138  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:08.141  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:09.120  8360  8399 D ++++++++: IsGetNotificationTimeOut = 12857120 dis = 28800000
+01-06 06:03:09.143  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:09.745 18197 18197 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:03:10.145  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:11.148  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:12.151  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:13.154  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:13.352  2149 17056 W ActivityManager: getRunningAppProcesses: caller 10120 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:13.692 10668 18199 W art     : No such thread id for suspend: 22
+01-06 06:03:14.157  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:14.756 18201 18201 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:03:15.160  2149  3128 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:16.162  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:17.164  2149  2295 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:18.165  2149 17057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:19.168  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:19.766 18202 18202 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 06:03:20.170  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 06:03:21.173  2149 17057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
