@@ -1,8 +1,7 @@
 #环境
 - cpu:skylake
 - os: android-x86-5.1+kernel-4.4.0-rc8 user版本
-- 前提条件：安装好系统后执行enable_nativebridge
-            设置-应用兼容性-打开
+- 前提条件：安装好系统后执行#enable_nativebridge及设置-应用兼容性-打开
 
 #app测试结果列表
 
