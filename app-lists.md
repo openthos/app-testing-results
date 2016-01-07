@@ -15,7 +15,7 @@ WPSoffice| PASS| 使用正常
 chrome| PASS| 使用正常
 firefox| PASS| 使用正常
 QQ浏览器| PASS| 屏幕旋转90度，不方便操作
-seafile| PASS| 无法安装，提示没有存储空间
+seafile| PASS| 无法安装，提示没有存储空间,重启后安装正常
 地铁跑酷| FAIL| 安装后无法运行，提示"很抱歉，×××已停止运行."
 开心消消乐| FAIL| 安装后无法运行,提示"很抱歉，×××已停止运行."
 搜狗输入法| PASS| 使用正常
