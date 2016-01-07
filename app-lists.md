@@ -14,12 +14,10 @@ QQ 音乐| PASS| 屏幕旋转90度，不方便操作
 WPSoffice| PASS| 使用正常
 chrome| PASS| 使用正常
 firefox| PASS| 使用正常
-QQ| PASS| 屏幕旋转90度，不方便操作
 QQ浏览器| PASS| 屏幕旋转90度，不方便操作
 seafile| PASS| 无法安装，提示没有存储空间
 地铁跑酷| FAIL| 安装后无法运行，提示"很抱歉，×××已停止运行."
 开心消消乐| FAIL| 安装后无法运行,提示"很抱歉，×××已停止运行."
-微信| FAIL| 安装后无法打开且无任何提示.
 搜狗输入法| PASS| 使用正常
 植物大战僵尸|FAIL |安装后无法运行，提示"很抱歉，×××已停止运行."
 水果忍者| FAIL|安装后无法运行，提示"很抱歉，×××已停止运行."
@@ -51,12 +49,10 @@ QQ 音乐| PASS| 屏幕旋转90度，不方便操作
 WPSoffice| PASS| 使用正常
 chrome| PASS| 使用正常
 firefox| PASS| 使用正常
-QQ| PASS| 屏幕旋转90度，不方便操作
 QQ浏览器| PASS| 屏幕旋转90度，不方便操作
 seafile| PASS| 使用正常
 地铁跑酷| FAIL| https://github.com/openthos/app-testing-results/issues/24 
 开心消消乐| FAIL| https://github.com/openthos/app-testing-results/issues/23
-微信| PASS| 屏幕旋转90度，不方便操作
 搜狗输入法| PASS| 使用正常
 植物大战僵尸| FAIL| https://github.com/openthos/app-testing-results/issues/14
 水果忍者| FAIL| https://github.com/openthos/app-testing-results/issues/22
