@@ -1,0 +1,127 @@
+01-07 05:15:05.284  6858  6858 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:05.474  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:05.486  1886  2143 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:15:05.487  2274  2274 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:15:05.488  2274  2274 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:15:05.490  2146  2535 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:15:05.528  3009  3009 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:15:06.503  2274  2274 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:15:06.503  2274  2274 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:15:06.561  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:06.590  6862  6862 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.595  6863  6863 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.606  6868  6868 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.613  6869  6869 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.717  6871  6871 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.722  6872  6872 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.725  6873  6873 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.754  6874  6874 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.757  6875  6875 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:06.758  6876  6876 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:07.753  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:07.759  2146  2167 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/org.mozilla.firefox_42.0-2015380180_minAPI9(x86)(nodpi).apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:15:07.764  2146  2167 V WindowManager: addAppToken: AppWindowToken{1b424b02 token=Token{28ec144d ActivityRecord{19e357e4 u0 com.android.packageinstaller/.PackageInstallerActivity t11}}} to stack=1 task=11 at 1
+01-07 05:15:07.809  3405  3405 W         : Zip: failed reading lfh name from offset 96144
+01-07 05:15:07.809  3405  3405 W PackageInstaller: Parse error when parsing manifest. Discontinuing installation
+01-07 05:15:07.812  2146  2166 V WindowManager: Adding window Window{1e700e50 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{12a0255d u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:15:07.813  2146  2167 V WindowManager: Adding window Window{270e154e u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 11 (before Window{1e700e50 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:15:07.869  2146  2176 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +103ms
+01-07 05:15:09.562  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:09.589  3405  3427 D OpenGLRenderer: endAllStagingAnimators on 0x7f77fa550800 (RippleDrawable) with handle 0x7f77fa4fd620
+01-07 05:15:09.591  2146  2535 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@2b48005 attribute=null, token = android.os.BinderProxy@e27c334
+01-07 05:15:10.294  6881  6881 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:12.777  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:12.779  2146  4789 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:15:12.779  2146  4789 V WindowManager: addAppToken: AppWindowToken{3137aabd token=Token{19be8214 ActivityRecord{1e7d5467 u0 com.android.packageinstaller/.PackageInstallerActivity t11}}} to stack=1 task=11 at 1
+01-07 05:15:12.789  3405  3405 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk Binary XML file line #33
+01-07 05:15:12.789  3405  3405 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk Binary XML file line #34
+01-07 05:15:12.789  1886  2143 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:15:12.818  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.android.chrome.permission.C2D_MESSAGE
+01-07 05:15:12.818  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.android.chrome.permission.READ_WRITE_BOOKMARK_FOLDERS
+01-07 05:15:12.818  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.android.chrome.TOS_ACKED
+01-07 05:15:12.818  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.chrome.permission.DEVICE_EXTRAS
+01-07 05:15:12.818  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.c2dm.permission.RECEIVE
+01-07 05:15:12.818  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.providers.gsf.permission.READ_GSERVICES
+01-07 05:15:12.818  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.sec.enterprise.knox.MDM_CONTENT_PROVIDER
+01-07 05:15:12.827  2146  2302 V WindowManager: Adding window Window{600d003 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{12a0255d u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:15:12.871  2146  2176 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +84ms
+01-07 05:15:15.305  6886  6886 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:17.457  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:17.470  1886  2143 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:15:17.478  2146  2931 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@93fffac (uid=10039 pid=3405)
+01-07 05:15:17.490  3405  3427 D OpenGLRenderer: endAllStagingAnimators on 0x7f7802cac000 (RippleDrawable) with handle 0x7f77fa62d2c0
+01-07 05:15:18.649  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:18.655  2146  2167 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/ES Manager.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:15:18.661  2146  2167 V WindowManager: addAppToken: AppWindowToken{30fee2f1 token=Token{19836a98 ActivityRecord{8023c7b u0 com.android.packageinstaller/.PackageInstallerActivity t11}}} to stack=1 task=11 at 1
+01-07 05:15:18.677  3405  3405 W         : Zip: failed reading lfh name from offset 5944311
+01-07 05:15:18.677  3405  3405 W PackageInstaller: Parse error when parsing manifest. Discontinuing installation
+01-07 05:15:18.683  2146  2535 V WindowManager: Adding window Window{3f6e2557 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{12a0255d u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:15:18.686  2146  4789 V WindowManager: Adding window Window{298dbd2d u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 11 (before Window{3f6e2557 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:15:18.738  2146  2176 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +75ms
+01-07 05:15:20.317  6891  6891 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:21.926  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:21.938  3405  3427 D OpenGLRenderer: endAllStagingAnimators on 0x7f7802cb6c00 (RippleDrawable) with handle 0x7f77fa4fd180
+01-07 05:15:21.940  1886  2143 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:15:21.940  2146  2932 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3345bff3 attribute=null, token = android.os.BinderProxy@e27c334
+01-07 05:15:23.610  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:23.614  2146  2931 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:15:23.615  2146  2931 V WindowManager: addAppToken: AppWindowToken{1d173a6b token=Token{3a94ebba ActivityRecord{130664e5 u0 com.android.packageinstaller/.PackageInstallerActivity t11}}} to stack=1 task=11 at 1
+01-07 05:15:23.625  3405  3405 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk Binary XML file line #33
+01-07 05:15:23.625  3405  3405 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk Binary XML file line #34
+01-07 05:15:23.650  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.android.chrome.permission.C2D_MESSAGE
+01-07 05:15:23.650  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.android.chrome.permission.READ_WRITE_BOOKMARK_FOLDERS
+01-07 05:15:23.650  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.android.chrome.TOS_ACKED
+01-07 05:15:23.650  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.chrome.permission.DEVICE_EXTRAS
+01-07 05:15:23.650  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.c2dm.permission.RECEIVE
+01-07 05:15:23.650  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.providers.gsf.permission.READ_GSERVICES
+01-07 05:15:23.650  3405  3405 I AppSecurityPermissions: Ignoring unknown permission:com.sec.enterprise.knox.MDM_CONTENT_PROVIDER
+01-07 05:15:23.656  2146  2302 V WindowManager: Adding window Window{93d6a61 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{12a0255d u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:15:23.704  2146  2176 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +83ms
+01-07 05:15:25.328  6896  6896 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:25.914  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:26.687  2146  2534 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10039 on display 0
+01-07 05:15:26.687  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:15:26.688  2146  2534 V WindowManager: addAppToken: AppWindowToken{17854b9d token=Token{3aec9a74 ActivityRecord{236d1247 u0 com.android.packageinstaller/.InstallAppProgress t11}}} to stack=1 task=11 at 2
+01-07 05:15:26.722  2146  2932 V WindowManager: Adding window Window{126ec35e u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 6 of 11 (after Window{93d6a61 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:15:26.724  3485  3504 W         : Zip: failed reading lfh name from offset 70930656
+01-07 05:15:26.724  3485  3504 W zipro   : Error iteration over /storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk: I/O Error
+01-07 05:15:26.724  3485  3504 W         : Zip: failed reading lfh name from offset 70930656
+01-07 05:15:26.724  3485  3504 W zipro   : Error iteration over /storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk: I/O Error
+01-07 05:15:26.725  3485  3505 D DefContainer: Copying /storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk to base.apk
+01-07 05:15:26.726  3485  3505 W DefContainer: Failed to copy package at /storage/usb0/CTS/test-APK/com.android.chrome_47.0.2526.83-252608311_minAPI21(x86)(nodpi).apk: java.io.IOException: read failed: EIO (I/O error)
+01-07 05:15:26.726  2146  2180 E PackageManager: Failed to copy package
+01-07 05:15:26.734  2146  2180 I art     : Explicit concurrent mark sweep GC freed 10270(642KB) AllocSpace objects, 10(1694KB) LOS objects, 33% free, 18MB/28MB, paused 233us total 7.576ms
+01-07 05:15:26.783  2146  2534 V WindowManager: not Base app: Adding window Window{224cc40c u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 7 of 12
+01-07 05:15:26.841  2146  2176 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +134ms
+01-07 05:15:26.848  3405  3427 D OpenGLRenderer: endAllStagingAnimators on 0x7f77fa6b0c00 (RippleDrawable) with handle 0x7f77fa62df20
+01-07 05:15:30.340  6900  6900 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:35.352  6901  6901 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:40.364  6902  6902 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:45.375  6903  6903 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:50.387  6904  6904 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:15:55.398  6905  6905 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:00.410  6906  6906 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:05.422  6907  6907 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:10.433  6908  6908 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:15.445  6909  6909 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:20.453  6910  6910 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:22.209  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:16:22.220  3405  3405 I InstallAppProgress: Canceling installation
+01-07 05:16:22.222  3405  3427 D OpenGLRenderer: endAllStagingAnimators on 0x7f780d814c00 (RippleDrawable) with handle 0x7f77fa62db40
+01-07 05:16:22.222  1886  2143 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:16:23.850  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:16:23.854  2274  2274 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:16:23.854  2274  2274 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:16:23.856  2146  2167 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:16:23.881  2146  4789 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@36df5af6 (uid=10017 pid=3180)
+01-07 05:16:24.825  2146  2217 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:16:24.875  3009  3009 I Term    : Bound to TermService
+01-07 05:16:24.875  3009  3009 I TermService: Activity binding to service
+01-07 05:16:25.465  6919  6919 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:25.840  2274  2274 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:16:25.840  2274  2274 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:16:30.476  6920  6920 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:35.488  6921  6921 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:40.500  6922  6922 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:45.512  6923  6923 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:16:47.941  6924  6924 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

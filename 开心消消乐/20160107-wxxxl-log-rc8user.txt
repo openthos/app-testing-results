@@ -1,0 +1,178 @@
+01-07 05:41:20.042  6566  6566 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:22.164  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:41:22.170  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:41:22.170  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:41:22.173  2145  3554 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:41:22.178  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:41:23.188  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:41:23.206  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:41:23.206  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:41:23.232  6570  6570 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.237  6571  6571 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.240  6576  6576 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.241  6577  6577 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.355  6579  6579 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.360  6580  6580 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.363  6581  6581 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.373  1890  2183 W AudioFlinger: write blocked for 1145 msecs, 1 delayed writes, thread 0xf58a4000
+01-07 05:41:23.406  6582  6582 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.408  6583  6583 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:23.409  6584  6584 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:25.055  6585  6585 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:25.116  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:41:25.122  2145  2685 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/xiaoxiaole.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:41:25.123  2145  2685 V WindowManager: addAppToken: AppWindowToken{3e6d8a45 token=Token{3d798abc ActivityRecord{19a1f6af u0 com.android.packageinstaller/.PackageInstallerActivity t13}}} to stack=1 task=13 at 1
+01-07 05:41:25.200  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.c2dm.permission.RECEIVE
+01-07 05:41:25.200  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.android.vending.BILLING
+01-07 05:41:25.210  2145  3553 V WindowManager: Adding window Window{1da14ecb u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 8 of 13 (after Window{2cac20df u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:41:25.265  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +139ms (total +7m17s796ms)
+01-07 05:41:26.892  2145  2305 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/xiaoxiaole.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10039 on display 0
+01-07 05:41:26.892  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:41:26.893  2145  2305 V WindowManager: addAppToken: AppWindowToken{21ee7554 token=Token{26f40ca7 ActivityRecord{90cf166 u0 com.android.packageinstaller/.InstallAppProgress t13}}} to stack=1 task=13 at 2
+01-07 05:41:26.910  3236  3236 W InstallAppProgress: Replacing package:com.happyelements.AndroidAnimal
+01-07 05:41:26.913  2145  6321 V WindowManager: Adding window Window{1a502bf9 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 9 of 14 (after Window{1da14ecb u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:41:26.928  3284  3304 D DefContainer: Copying /storage/usb0/CTS/test-APK/xiaoxiaole.apk to base.apk
+01-07 05:41:26.958  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +55ms
+01-07 05:41:26.987  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421d501c00 (RippleDrawable) with handle 0x7f421e183620
+01-07 05:41:27.243  2145  2179 D PackageManager: Renaming /data/app/vmdl1661777332.tmp to /data/app/com.happyelements.AndroidAnimal-2
+01-07 05:41:27.243  2145  2170 I ActivityManager: Force stopping com.happyelements.AndroidAnimal appid=10060 user=-1: uninstall pkg
+01-07 05:41:27.341  2145  2179 I PackageManager: Package com.happyelements.AndroidAnimal codePath changed from /data/app/com.happyelements.AndroidAnimal-1 to /data/app/com.happyelements.AndroidAnimal-2; Retaining data and using new
+01-07 05:41:27.376  2145  2179 I PackageManager: Running dexopt on: /data/app/com.happyelements.AndroidAnimal-2/base.apk pkg=com.happyelements.AndroidAnimal isa=x86 vmSafeMode=false
+01-07 05:41:27.381  6593  6593 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 05:41:27.382  6593  6593 E cutils-trace: Error opening trace file: Permission denied (13)
+01-07 05:41:27.382  6593  6593 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.happyelements.AndroidAnimal-2/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.happyelements.AndroidAnimal-2@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-07 05:41:27.489  6593  6593 I dex2oat : Decided to run without swap.
+01-07 05:41:27.506  6593  6593 W dex2oat : Before Android 4.1, method boolean com.happyelements.AndroidAnimal.AnimalEditText.canPaste() would have incorrectly overridden the package-private method in android.widget.TextView
+01-07 05:41:28.335  6593  6593 I dex2oat : dex2oat took 953.023ms (threads: 8) arena alloc=155KB java alloc=8MB native alloc=22MB free=9MB
+01-07 05:41:28.341  2145  2179 W PackageManager: Code path for pkg : com.happyelements.AndroidAnimal changing from /data/app/com.happyelements.AndroidAnimal-1 to /data/app/com.happyelements.AndroidAnimal-2
+01-07 05:41:28.341  2145  2179 W PackageManager: Resource path for pkg : com.happyelements.AndroidAnimal changing from /data/app/com.happyelements.AndroidAnimal-1 to /data/app/com.happyelements.AndroidAnimal-2
+01-07 05:41:28.341  2145  2170 I ActivityManager: Force stopping com.happyelements.AndroidAnimal appid=10060 user=-1: update pkg
+01-07 05:41:28.434  2145  2179 W PackageManager: Not granting permission android.permission.READ_LOGS to package com.happyelements.AndroidAnimal (protectionLevel=50 flags=0x18be44)
+01-07 05:41:28.434  2145  2179 W PackageManager: Not granting permission android.permission.ACCESS_DOWNLOAD_MANAGER to package com.happyelements.AndroidAnimal (protectionLevel=18 flags=0x18be44)
+01-07 05:41:28.434  2145  2179 W PackageManager: Not granting permission android.permission.MOUNT_UNMOUNT_FILESYSTEMS to package com.happyelements.AndroidAnimal (protectionLevel=18 flags=0x18be44)
+01-07 05:41:28.434  2145  2179 W PackageManager: Unknown permission com.google.android.c2dm.permission.RECEIVE in package com.happyelements.AndroidAnimal
+01-07 05:41:28.434  2145  2179 W PackageManager: Unknown permission com.android.vending.BILLING in package com.happyelements.AndroidAnimal
+01-07 05:41:28.519  2145  2179 I ActivityManager: Force stopping com.happyelements.AndroidAnimal appid=10060 user=0: pkg removed
+01-07 05:41:28.520  2145  2145 D JobSchedulerService: Receieved: android.intent.action.PACKAGE_REMOVED
+01-07 05:41:28.520  2145  2145 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.happyelements.AndroidAnimal flg=0x4000010 (has extras) }
+01-07 05:41:28.523  2145  2179 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-07 05:41:28.524  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 05:41:28.526  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 05:41:28.529  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 05:41:28.544  2272  2272 I art     : Explicit concurrent mark sweep GC freed 12645(538KB) AllocSpace objects, 3(4MB) LOS objects, 40% free, 23MB/38MB, paused 1.076ms total 24.085ms
+01-07 05:41:28.558  2145  3551 I ActivityManager: Start proc 6604:com.android.keychain/1000 for broadcast com.android.keychain/.KeyChainBroadcastReceiver
+01-07 05:41:28.572  6604  6604 I ActivityThread: Switching default density from 160 to 240
+01-07 05:41:28.575  6604  6604 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1692 android.content.ContextWrapper.startService:516 android.content.ContextWrapper.startService:516 com.android.keychain.KeyChainBroadcastReceiver.onReceive:12 android.app.ActivityThread.handleReceiver:2609 
+01-07 05:41:28.577  2421  2421 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@13ef5714 new=com.android.launcher3.LauncherApplication@13ef5714
+01-07 05:41:28.578  2145  2678 W ActivityManager: getTasks: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:41:28.579  5912  5912 I GeckoWebappUninstallListener: Package is being replaced; ignoring removal intent
+01-07 05:41:28.589  2145  2179 I art     : Explicit concurrent mark sweep GC freed 241999(11MB) AllocSpace objects, 29(6MB) LOS objects, 33% free, 15MB/23MB, paused 1.145ms total 66.212ms
+01-07 05:41:28.610  2145  2145 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.happyelements.AndroidAnimal flg=0x4000010 (has extras) }
+01-07 05:41:28.611  2145  2145 W BackupManagerService: Removing schedule queue dupe of com.happyelements.AndroidAnimal
+01-07 05:41:28.613  2145  2169 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-07 05:41:28.633  2421  2441 E DatabaseUtils: Writing exception to parcel
+01-07 05:41:28.633  2421  2441 E DatabaseUtils: java.lang.SecurityException: Permission Denial: writing com.android.launcher3.LauncherProvider uri content://com.android.launcher3.settings/favorites/6?notify=true from pid=5214, uid=10057 requires com.android.launcher3.permission.WRITE_SETTINGS, or grantUriPermission()
+01-07 05:41:28.633  2421  2441 E DatabaseUtils: 	at android.content.ContentProvider.enforceWritePermissionInner(ContentProvider.java:604)
+01-07 05:41:28.633  2421  2441 E DatabaseUtils: 	at android.content.ContentProvider$Transport.enforceWritePermission(ContentProvider.java:461)
+01-07 05:41:28.633  2421  2441 E DatabaseUtils: 	at android.content.ContentProvider$Transport.update(ContentProvider.java:323)
+01-07 05:41:28.633  2421  2441 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:222)
+01-07 05:41:28.633  2421  2441 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-07 05:41:28.797  2421  4645 E DatabaseUtils: Writing exception to parcel
+01-07 05:41:28.797  2421  4645 E DatabaseUtils: java.lang.SecurityException: Permission Denial: writing com.android.launcher3.LauncherProvider uri content://com.android.launcher3.settings/favorites/6?notify=true from pid=5214, uid=10057 requires com.android.launcher3.permission.WRITE_SETTINGS, or grantUriPermission()
+01-07 05:41:28.797  2421  4645 E DatabaseUtils: 	at android.content.ContentProvider.enforceWritePermissionInner(ContentProvider.java:604)
+01-07 05:41:28.797  2421  4645 E DatabaseUtils: 	at android.content.ContentProvider$Transport.enforceWritePermission(ContentProvider.java:461)
+01-07 05:41:28.797  2421  4645 E DatabaseUtils: 	at android.content.ContentProvider$Transport.update(ContentProvider.java:323)
+01-07 05:41:28.797  2421  4645 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:222)
+01-07 05:41:28.797  2421  4645 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-07 05:41:28.802  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:41:28.833  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:41:29.065  6631  6631 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:29.731  2145  2164 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.happyelements.AndroidAnimal cmp=com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity} from uid 10039 on display 0
+01-07 05:41:29.732  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:41:29.735  2145  2164 V WindowManager: addAppToken: AppWindowToken{1b799fba token=Token{127d68e5 ActivityRecord{1ab93fdc u0 com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity t42}}} to stack=1 task=42 at 0
+01-07 05:41:29.744  2145  2175 V WindowManager: Adding window Window{8bf647 u0 Starting com.happyelements.AndroidAnimal} at 9 of 14 (after Window{1a502bf9 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+01-07 05:41:29.801  6633  6633 W libnb   : Native bridge is disabled
+01-07 05:41:29.803  2145  2492 I ActivityManager: Start proc 6633:com.happyelements.AndroidAnimal/u0a60 for activity com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity
+01-07 05:41:29.854  2145  3554 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.16}
+01-07 05:41:29.854  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 05:41:29.856  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 05:41:29.858  4823  6654 E art     : Thread attaching while runtime is shutting down: Binder_3
+01-07 05:41:29.858  4823  6654 I AndroidRuntime: NOTE: attach of thread 'Binder_3' failed
+01-07 05:41:29.858  5912  5912 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+01-07 05:41:29.858  5912  5912 D GeckoLocales: No selected locale. No correction needed.
+01-07 05:41:29.886  6633  6633 I ActivityThread: Switching default density from 160 to 240
+01-07 05:41:29.892  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421e246c00 (RippleDrawable) with handle 0x7f421e4cf220
+01-07 05:41:29.893  6633  6633 E art     : dlopen("/data/app/com.happyelements.AndroidAnimal-2/lib/arm/libmem.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.happyelements.AndroidAnimal-2/lib/arm/libmem.so" has unexpected e_machine: 40
+01-07 05:41:29.893  6633  6633 D AndroidRuntime: Shutting down VM
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: FATAL EXCEPTION: main
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: Process: com.happyelements.AndroidAnimal, PID: 6633
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/app/com.happyelements.AndroidAnimal-2/lib/arm/libmem.so" has unexpected e_machine: 40
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:371)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at com.happyelements.security.shellguard.ShellApplication.<clinit>(ShellApplication.java:62)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at java.lang.reflect.Constructor.newInstance(Native Method)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at java.lang.Class.newInstance(Class.java:1606)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.app.Instrumentation.newApplication(Instrumentation.java:995)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.app.Instrumentation.newApplication(Instrumentation.java:980)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.app.LoadedApk.makeApplication(LoadedApk.java:558)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4526)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-07 05:41:29.894  6633  6633 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-07 05:41:29.897  2145  2678 W ActivityManager:   Force finishing activity 1 com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity
+01-07 05:41:29.928  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 05:41:29.929  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 05:41:29.998  2145  2164 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.17}
+01-07 05:41:30.000  5912  5912 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+01-07 05:41:30.000  5912  5912 D GeckoLocales: No selected locale. No correction needed.
+01-07 05:41:30.025  2272  4279 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 05:41:30.062  2145  2198 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-07 05:41:30.062  2145  2198 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-07 05:41:30.076  2145  2198 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-07 05:41:30.076  2145  2198 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-07 05:41:30.076  2145  2198 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-07 05:41:30.076  2145  2198 I OpenGLRenderer: Initialized EGL, version 1.4
+01-07 05:41:30.080  2272  4561 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 05:41:30.135  2145  2175 I WindowManager: Screen frozen for +321ms due to Window{1131da0d u0 Application Error: com.happyelements.AndroidAnimal}
+01-07 05:41:30.498  2145  2170 W ActivityManager: Activity pause timeout for ActivityRecord{1ab93fdc u0 com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity t42 f}
+01-07 05:41:30.527  6659  6659 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.532  6660  6660 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.537  6661  6661 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.540  6662  6662 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.641  6664  6664 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.642  6665  6665 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.643  6666  6666 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.662  6667  6667 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.663  6668  6668 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:30.664  6669  6669 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:31.511  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:41:31.511  2272  2272 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:41:32.203  2145  2175 I art     : Explicit concurrent mark sweep GC freed 15558(885KB) AllocSpace objects, 11(176KB) LOS objects, 33% free, 18MB/27MB, paused 274us total 13.042ms
+01-07 05:41:34.077  6670  6670 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:37.037  2145  2164 I ActivityManager: Killing 4429:com.tencent.mobileqq/u0a53 (adj 15): empty #17
+01-07 05:41:37.042  2145  2211 D WifiService: Client connection lost with reason: 4
+01-07 05:41:39.089  6671  6671 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:40.632  2145  2170 W ActivityManager: Activity destroy timeout for ActivityRecord{1ab93fdc u0 com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity t42 f}
+01-07 05:41:42.640  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:41:42.748  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:41:42.753  6633  6633 I Process : Sending signal. PID: 6633 SIG: 9
+01-07 05:41:42.755  2145  2198 D OpenGLRenderer: endAllStagingAnimators on 0x7f422a0fc400 (RippleDrawable) with handle 0x7f421a556320
+01-07 05:41:42.760  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:41:42.766  2145  2547 I ActivityManager: Process com.happyelements.AndroidAnimal (pid 6633) has died
+01-07 05:41:43.701  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:41:43.705  2145  2305 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:41:44.100  6674  6674 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:44.444  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:41:44.489  3061  3061 I Term    : Bound to TermService
+01-07 05:41:44.489  3061  3061 I TermService: Activity binding to service
+01-07 05:41:45.456  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:41:45.456  2272  2272 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:41:45.761  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=42_task.xml
+01-07 05:41:49.108  6681  6681 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:41:54.023  6682  6682 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

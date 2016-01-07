@@ -1,0 +1,538 @@
+01-07 05:23:03.652  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:03.654  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:23:03.654  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:23:03.656  2145  2165 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:23:03.665  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:23:03.698  3061  3061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:23:04.194  4025  4025 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:04.672  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:23:04.672  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:23:05.336  2145  2678 I ActivityManager: Killing 3836:org.mozilla.firefox/u0a52 (adj 9): remove task
+01-07 05:23:05.376  2145  2188 W InputDispatcher: channel '23082bd9 org.mozilla.firefox/org.mozilla.firefox.App (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+01-07 05:23:05.376  2145  2188 E InputDispatcher: channel '23082bd9 org.mozilla.firefox/org.mozilla.firefox.App (server)' ~ Channel is unrecoverably broken and will be disposed!
+01-07 05:23:05.377  2145  2685 I WindowState: WIN DEATH: Window{a5c10e4 u0 SurfaceView}
+01-07 05:23:05.377  2145  2213 D NsdService: Client disconnected
+01-07 05:23:05.377  2145  2492 I WindowState: WIN DEATH: Window{23082bd9 u0 org.mozilla.firefox/org.mozilla.firefox.App}
+01-07 05:23:05.377  2145  2492 W InputDispatcher: Attempted to unregister already unregistered input channel '23082bd9 org.mozilla.firefox/org.mozilla.firefox.App (server)'
+01-07 05:23:05.389  2145  2678 I ActivityManager: Killing 3991:org.mozilla.firefox.UpdateService/u0a52 (adj 9): remove task
+01-07 05:23:05.400  2145  2213 D NsdService: Client disconnected
+01-07 05:23:05.400  2145  2211 D WifiService: Client connection lost with reason: 4
+01-07 05:23:05.400  2145  2213 D NsdService: stopMDnsDaemon
+01-07 05:23:05.401  1885  2122 D MDnsDS  : Stopping MDNSD
+01-07 05:23:05.546  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=18_task.xml
+01-07 05:23:05.546  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=18_task_thumbnail.png
+01-07 05:23:08.702  2145  2164 I ActivityManager: Killing 3599:com.estrongs.android.pop/u0a51 (adj 9): remove task
+01-07 05:23:08.702  2145  2164 I libprocessgroup: Killing pid 3758 in uid 10051 as part of process group 3599
+01-07 05:23:08.716  2145  2188 W InputDispatcher: channel '2a794861 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+01-07 05:23:08.716  2145  2188 E InputDispatcher: channel '2a794861 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+01-07 05:23:08.716  2145  2165 E WifiService: Multicaster binderDied
+01-07 05:23:08.716  2145  2492 I WindowState: WIN DEATH: Window{2a794861 u0 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}
+01-07 05:23:08.716  2145  2492 W InputDispatcher: Attempted to unregister already unregistered input channel '2a794861 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity (server)'
+01-07 05:23:08.716  2145  2211 D WifiService: Client connection lost with reason: 4
+01-07 05:23:08.717  2145  2210 E WifiStateMachine: Error! unhandled message{ when=0 what=131156 target=com.android.internal.util.StateMachine$SmHandler }
+01-07 05:23:08.729  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=16_task.xml
+01-07 05:23:08.729  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=16_task_thumbnail.png
+01-07 05:23:09.725  4026  4026 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.084  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:10.096  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:23:10.124  4028  4028 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.128  4029  4029 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.133  4030  4030 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.138  4031  4031 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.255  4037  4037 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.260  4038  4038 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.263  4039  4039 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.311  4040  4040 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.313  4041  4041 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:10.314  4042  4042 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:11.835  2994  3142 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/sougouinput.apk Binary XML file line #338
+01-07 05:23:11.836  2994  3142 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/sougouinput.apk Binary XML file line #627
+01-07 05:23:11.836  2994  3142 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/sougouinput.apk Binary XML file line #704
+01-07 05:23:11.836  2994  3142 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/sougouinput.apk Binary XML file line #826
+01-07 05:23:12.703  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:12.708  2145  2165 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/QQ.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:23:12.711  2145  2165 V WindowManager: addAppToken: AppWindowToken{194e603f token=Token{a44745e ActivityRecord{1c39d999 u0 com.android.packageinstaller/.PackageInstallerActivity t13}}} to stack=1 task=13 at 1
+01-07 05:23:12.843  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.msf.permission.account.sync
+01-07 05:23:12.843  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.android.launcher.permission.READ_SETTINGS
+01-07 05:23:12.843  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.permission.VIRUS_SCAN
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:android.permission.WRITE_OWNER_DATA
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:android.permission.SYSTEM_OVERLAY_WINDOW
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.android.launcher.permission.WRITE_SETTINGS
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.launcher.permission.READ_SETTINGS
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.bbk.launcher2.permission.READ_SETTINGS
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huaqin.launcherEx.permission.READ_SETTINGS
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.htc.launcher.settings
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.htc.launcher.permission.READ_SETTINGS
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.htc.launcher.permission.WRITE_SETTINGS
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.launcher3.permission.READ_SETTINGS
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.android.launcher.permission.READ_SETTINGS
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.sonyericsson.home.permission.BROADCAST_BADGE
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.sec.android.provider.badge.permission.READ
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.sec.android.provider.badge.permission.WRITE
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.lenovo.launcher.permission.BADGE_READ
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.lenovo.launcher.permission.BADGE_WRITE
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.android.launcher.permission.CHANGE_BADGE
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.authentication.HW_ACCESS_AUTH_SERVICE
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.photos.permission.DATA
+01-07 05:23:12.844  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.music.data.permission2
+01-07 05:23:12.845  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.msg.permission.pushnotify
+01-07 05:23:12.845  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.wifisdk.permission.disconnect
+01-07 05:23:12.845  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.qqhead.permission.getheadresp
+01-07 05:23:12.845  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.qav.permission.broadcast
+01-07 05:23:12.845  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.smartdevice.permission.broadcast
+01-07 05:23:12.855  2145  3554 V WindowManager: Adding window Window{c57655 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{2cac20df u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:23:12.894  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +173ms
+01-07 05:23:13.996  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:14.587  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:14.736  4048  4048 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:15.484  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:16.103  2145  2678 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/QQ.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10039 on display 0
+01-07 05:23:16.103  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:16.114  2145  2678 V WindowManager: addAppToken: AppWindowToken{253422d1 token=Token{3d083df8 ActivityRecord{39d2c15b u0 com.android.packageinstaller/.InstallAppProgress t13}}} to stack=1 task=13 at 2
+01-07 05:23:16.145  2145  2492 V WindowManager: Adding window Window{1552aac2 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 6 of 11 (after Window{c57655 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:23:16.181  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +62ms
+01-07 05:23:16.213  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421e284c00 (RippleDrawable) with handle 0x7f422708a120
+01-07 05:23:17.050  3284  3303 D DefContainer: Copying /storage/usb0/CTS/test-APK/QQ.apk to base.apk
+01-07 05:23:18.424  2145  2179 D PackageManager: Renaming /data/app/vmdl1950292339.tmp to /data/app/com.tencent.mobileqq-1
+01-07 05:23:18.462  2145  2179 W PackageManager: Package com.tencent.mobileqq desires unavailable shared library com.sec.android.app.multiwindow; ignoring!
+01-07 05:23:18.462  2145  2179 W PackageManager: Package com.tencent.mobileqq desires unavailable shared library com.google.android.media.effects; ignoring!
+01-07 05:23:18.462  2145  2179 W PackageManager: Package com.tencent.mobileqq desires unavailable shared library com.motorola.hardware.frontcamera; ignoring!
+01-07 05:23:18.479  2145  2179 I PackageManager: Running dexopt on: /data/app/com.tencent.mobileqq-1/base.apk pkg=com.tencent.mobileqq isa=x86 vmSafeMode=false
+01-07 05:23:18.482  4053  4053 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 05:23:18.483  4053  4053 E cutils-trace: Error opening trace file: Permission denied (13)
+01-07 05:23:18.483  4053  4053 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.tencent.mobileqq-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.tencent.mobileqq-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-07 05:23:18.870  4053  4053 I dex2oat : Accepted running with swap.
+01-07 05:23:19.047  4053  4060 W dex2oat : Before Android 4.1, method void com.tencent.mobileqq.activity.fling.ContentWrapView.ensureTransformationInfo() would have incorrectly overridden the package-private method in android.view.View
+01-07 05:23:19.743  4062  4062 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:22.925  4053  4053 I dex2oat : dex2oat took 4.442s (threads: 8) arena alloc=2MB java alloc=43MB native alloc=18MB free=25MB swap=80MB
+01-07 05:23:23.024  2145  2179 W PackageManager: Not granting permission android.permission.CHANGE_CONFIGURATION to package com.tencent.mobileqq (protectionLevel=50 flags=0x83e44)
+01-07 05:23:23.024  2145  2179 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.tencent.permission.VIRUS_SCAN in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Not granting permission android.permission.READ_LOGS to package com.tencent.mobileqq (protectionLevel=50 flags=0x83e44)
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission android.permission.WRITE_OWNER_DATA in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission android.permission.SYSTEM_OVERLAY_WINDOW in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Not granting permission android.permission.INTERACT_ACROSS_USERS to package com.tencent.mobileqq (protectionLevel=50 flags=0x83e44)
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Not granting permission com.android.launcher3.permission.WRITE_SETTINGS to package com.tencent.mobileqq (protectionLevel=18 flags=0x83e44)
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.google.android.launcher.permission.READ_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.bbk.launcher2.permission.READ_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.huaqin.launcherEx.permission.READ_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.htc.launcher.settings in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.htc.launcher.permission.READ_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.htc.launcher.permission.WRITE_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.huawei.launcher3.permission.READ_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.huawei.android.launcher.permission.READ_SETTINGS in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.sonyericsson.home.permission.BROADCAST_BADGE in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.READ in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.WRITE in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.lenovo.launcher.permission.BADGE_READ in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.lenovo.launcher.permission.BADGE_WRITE in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.huawei.android.launcher.permission.CHANGE_BADGE in package com.tencent.mobileqq
+01-07 05:23:23.025  2145  2179 W PackageManager: Unknown permission com.huawei.authentication.HW_ACCESS_AUTH_SERVICE in package com.tencent.mobileqq
+01-07 05:23:23.134  2145  2179 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-07 05:23:23.138  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 05:23:23.156  2145  3552 I ActivityManager: Start proc 4065:com.estrongs.android.pop/u0a51 for broadcast com.estrongs.android.pop/.app.InstallMonitorReceiver
+01-07 05:23:23.156  2145  2169 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-07 05:23:23.157  2145  2179 I art     : Explicit concurrent mark sweep GC freed 408818(17MB) AllocSpace objects, 21(5MB) LOS objects, 33% free, 12MB/18MB, paused 277us total 23.041ms
+01-07 05:23:23.162  4065  4065 I ActivityThread: Switching default density from 160 to 240
+01-07 05:23:23.180  2145  2547 W ActivityManager: getTasks: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:23.180  2145  2685 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10051 on display 0
+01-07 05:23:23.185  2145  2685 V WindowManager: addAppToken: AppWindowToken{34305433 token=Token{33aeafa2 ActivityRecord{3aea76d u0 com.estrongs.android.pop/.app.InstallMonitorActivity t19}}} to stack=1 task=19 at 0
+01-07 05:23:23.205  2145  2211 D WifiService: New client listening to asynchronous messages
+01-07 05:23:23.206  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:23.206  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:23.206  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:23.208  2145  2174 D BluetoothManagerService: Message: 20
+01-07 05:23:23.208  2145  2174 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@137315b4:true
+01-07 05:23:23.208  2145  2492 D BluetoothManagerService: checkIfCallerIsForegroundUser: valid=true callingUser=0 parentUser=-10000 foregroundUser=0
+01-07 05:23:23.208  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:23.264  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:23:23.311  2145  2678 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@15d545dd attribute=null, token = android.os.BinderProxy@b071b0d
+01-07 05:23:23.312  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:23.334  2145  2145 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.tencent.mobileqq flg=0x4000010 (has extras) }
+01-07 05:23:23.337  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:23:23.583  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:24.667  2145  2164 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.tencent.mobileqq cmp=com.tencent.mobileqq/.activity.SplashActivity} from uid 10039 on display 0
+01-07 05:23:24.668  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:24.669  2145  2164 V WindowManager: addAppToken: AppWindowToken{1305d920 token=Token{436b023 ActivityRecord{2d064552 u0 com.tencent.mobileqq/.activity.SplashActivity t20}}} to stack=1 task=20 at 0
+01-07 05:23:24.680  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:23:24.714  4104  4104 W libnb   : Native bridge is disabled
+01-07 05:23:24.717  2145  3554 I ActivityManager: Start proc 4104:com.tencent.mobileqq/u0a53 for activity com.tencent.mobileqq/.activity.SplashActivity
+01-07 05:23:24.755  4125  4125 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:24.756  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 05:23:24.768  2145  3552 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.6}
+01-07 05:23:24.770  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 05:23:24.790  4104  4104 I ActivityThread: Switching default density from 160 to 240
+01-07 05:23:24.804  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:24.805  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421d4dec00 (RippleDrawable) with handle 0x7f421e183dc0
+01-07 05:23:24.806  4104  4104 D BaseApplicationImpl: [E]com.tencent.mobileqq, inject NotVerifyDex Success, cost:1
+01-07 05:23:24.807  2272  4126 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 05:23:24.807  4104  4104 D BaseApplicationImpl: [E]injectPatchDex false
+01-07 05:23:24.808  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:24.810  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:24.813  4104  4104 D MSF.D.MonitorSocket: [E]monitor_config not found, disable monitor socket
+01-07 05:23:24.826  4104  4104 I AutoMonitor: [E]onActivityCreate when 1, com.tencent.mobileqq.activity.SplashActivity@2a443912
+01-07 05:23:24.827  2145  2305 I ActivityManager: START u0 {flg=0x24000000 cmp=com.tencent.mobileqq/.activity.InstallActivity (has extras)} from uid 10053 on display 0
+01-07 05:23:24.827  2145  2305 V WindowManager: addAppToken: AppWindowToken{29a1ac38 token=Token{16d0009b ActivityRecord{37192caa u0 com.tencent.mobileqq/.activity.InstallActivity t20}}} to stack=1 task=20 at 1
+01-07 05:23:24.830  4104  4104 I art     : System.exit called, status: -1
+01-07 05:23:24.830  4104  4104 I AndroidRuntime: VM exiting with result code -1, cleanup skipped.
+01-07 05:23:24.838  1894  1894 I Zygote  : Process 4104 exited cleanly (255)
+01-07 05:23:24.838  2145  2492 I ActivityManager: Process com.tencent.mobileqq (pid 4104) has died
+01-07 05:23:24.852  2145  2175 I WindowManager: Screen frozen for +124ms due to Window{159cbab5 u0 NavigationBar}
+01-07 05:23:24.853  4132  4132 W libnb   : Native bridge is disabled
+01-07 05:23:24.853  2145  2492 I ActivityManager: Start proc 4132:com.tencent.mobileqq/u0a53 for activity com.tencent.mobileqq/.activity.InstallActivity
+01-07 05:23:24.867  2994  3142 W PackageParser: Unknown element under <service>: action at /storage/usb0/CTS/test-APK/subwayrun.apk Binary XML file line #84
+01-07 05:23:24.868  4132  4132 I ActivityThread: Switching default density from 160 to 240
+01-07 05:23:24.870  2994  3142 W PackageParser: Unknown element under <service>: action at /storage/usb0/CTS/test-APK/subwayrun.apk Binary XML file line #84
+01-07 05:23:24.871  4153  4153 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:24.873  4154  4154 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:24.873  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:24.873  4132  4132 D BaseApplicationImpl: [E]com.tencent.mobileqq, inject NotVerifyDex Success, cost:0
+01-07 05:23:24.874  4155  4155 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:24.874  4132  4132 D BaseApplicationImpl: [E]injectPatchDex false
+01-07 05:23:24.874  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:24.875  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:24.875  4157  4157 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:24.875  4132  4132 D MSF.D.MonitorSocket: [E]monitor_config not found, disable monitor socket
+01-07 05:23:24.878  4132  4132 I AutoMonitor: [E]onActivityCreate when 1, com.tencent.mobileqq.activity.InstallActivity@2a443912
+01-07 05:23:24.880  2145  2492 V WindowManager: Adding window Window{3e7af26f u0 com.tencent.mobileqq/com.tencent.mobileqq.activity.InstallActivity} at 6 of 11 (after Window{1552aac2 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+01-07 05:23:24.901  2272  2272 V PhoneStatusBar: setLightsOn(true)
+01-07 05:23:24.903  3236  3236 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:23:24.923  4132  4132 I GRALLOC-DRM: create intel for driver i915
+01-07 05:23:24.930  4132  4159 E DexLoadOat: [E]Success
+01-07 05:23:24.932  4132  4159 E art     : dlopen("/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so" has unexpected e_machine: 40
+01-07 05:23:24.937  4132  4132 E AutoMonitor: [E]init
+01-07 05:23:24.991  4169  4169 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:24.991  2272  2272 V PhoneStatusBar: setLightsOn(true)
+01-07 05:23:24.996  4170  4170 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:24.999  4171  4171 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:25.008  4172  4172 W libnb   : Native bridge is disabled
+01-07 05:23:25.010  2145  3552 I ActivityManager: Start proc 4172:com.tencent.mobileqq:MSF/u0a53 for service com.tencent.mobileqq/.msf.service.MsfService
+01-07 05:23:25.011  2145  2175 I ActivityManager: Displayed com.tencent.mobileqq/.activity.InstallActivity: +173ms (total +1s809ms)
+01-07 05:23:25.011  4132  4159 D MSF.D.Proxy: [E]start service finish
+01-07 05:23:25.011  4132  4159 D MSF.D.Proxy: [E]threadID:76, threadName: QQ_SUB bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-07 05:23:25.011  4132  4159 E art     : No implementation found for int com.tencent.mobileqq.utils.SoLoadUtil.Decode(android.content.res.AssetManager, java.lang.String, java.lang.String, java.lang.String, java.lang.String) (tried Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode and Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode__Landroid_content_res_AssetManager_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2)
+01-07 05:23:25.012  4132  4159 E art     : dlopen("/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so" has unexpected e_machine: 40
+01-07 05:23:25.013  4132  4159 D MSF.D.RemoteServiceProxy: [E]wait start com.tencent.mobileqq.msf.service.MsfService service result, skiped...
+01-07 05:23:25.013  4132  4159 D MSF.D.RemoteServiceProxy: [E]sdk version:22
+01-07 05:23:25.014  4132  4159 D MSF.D.RemoteServiceProxy: [E]start MsfService through Broadcast
+01-07 05:23:25.014  4132  4159 D MSF.D.Proxy: [E]threadID:76, threadName: QQ_SUB bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-07 05:23:25.014  4132  4159 D MSF.D.RemoteServiceProxy: [E]delay binding MSF Service
+01-07 05:23:25.014  4132  4159 E art     : No implementation found for int com.tencent.mobileqq.utils.SoLoadUtil.Decode(android.content.res.AssetManager, java.lang.String, java.lang.String, java.lang.String, java.lang.String) (tried Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode and Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode__Landroid_content_res_AssetManager_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2)
+01-07 05:23:25.015  4132  4159 E art     : dlopen("/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so" has unexpected e_machine: 40
+01-07 05:23:25.016  4132  4159 D MSF.D.RemoteServiceProxy: [E]wait start com.tencent.mobileqq.msf.service.MsfService service result, skiped...
+01-07 05:23:25.016  4132  4159 D MSF.D.RemoteServiceProxy: [E]sdk version:22
+01-07 05:23:25.016  4132  4159 E art     : No implementation found for int com.tencent.mobileqq.utils.SoLoadUtil.Decode(android.content.res.AssetManager, java.lang.String, java.lang.String, java.lang.String, java.lang.String) (tried Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode and Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode__Landroid_content_res_AssetManager_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2)
+01-07 05:23:25.016  4132  4159 E art     : dlopen("/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so" has unexpected e_machine: 40
+01-07 05:23:25.017  4132  4159 D MSF.D.RemoteServiceProxy: [E]wait start com.tencent.mobileqq.msf.service.MsfService service result, skiped...
+01-07 05:23:25.017  4132  4159 D MSF.D.RemoteServiceProxy: [E]sdk version:22
+01-07 05:23:25.017  4132  4159 E art     : No implementation found for int com.tencent.mobileqq.utils.SoLoadUtil.Decode(android.content.res.AssetManager, java.lang.String, java.lang.String, java.lang.String, java.lang.String) (tried Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode and Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode__Landroid_content_res_AssetManager_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2)
+01-07 05:23:25.018  4132  4159 E art     : dlopen("/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so" has unexpected e_machine: 40
+01-07 05:23:25.019  4132  4159 D MSF.D.RemoteServiceProxy: [E]wait start com.tencent.mobileqq.msf.service.MsfService service result, skiped...
+01-07 05:23:25.019  4132  4159 D MSF.D.RemoteServiceProxy: [E]sdk version:22
+01-07 05:23:25.019  4132  4159 E art     : No implementation found for int com.tencent.mobileqq.utils.SoLoadUtil.Decode(android.content.res.AssetManager, java.lang.String, java.lang.String, java.lang.String, java.lang.String) (tried Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode and Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode__Landroid_content_res_AssetManager_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2)
+01-07 05:23:25.019  4132  4159 E art     : dlopen("/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mobileqq/txlib/libDecodeSo.so" has unexpected e_machine: 40
+01-07 05:23:25.020  4132  4159 D MSF.D.RemoteServiceProxy: [E]wait start com.tencent.mobileqq.msf.service.MsfService service result, skiped...
+01-07 05:23:25.020  4132  4159 D MSF.D.RemoteServiceProxy: [E]sdk version:22
+01-07 05:23:25.020  4132  4159 E art     : No implementation found for int com.tencent.mobileqq.utils.SoLoadUtil.Decode(android.content.res.AssetManager, java.lang.String, java.lang.String, java.lang.String, java.lang.String) (tried Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode and Java_com_tencent_mobileqq_utils_SoLoadUtil_Decode__Landroid_content_res_AssetManager_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2Ljava_lang_String_2)
+01-07 05:23:25.022  4172  4172 I ActivityThread: Switching default density from 160 to 240
+01-07 05:23:25.024  4132  4159 D UpdatePatchConfig: [E]version, currentVersion :, 6.1.0.312
+01-07 05:23:25.024  4132  4159 D UpdatePatchConfig: [E]clearPatchConfig start.
+01-07 05:23:25.025  4132  4159 D mqq     : [E]doInit begin withcom.tencent.mobileqq
+01-07 05:23:25.025  4132  4159 W System.err: java.io.FileNotFoundException: /data/data/com.tencent.mobileqq/files/Properties: open failed: ENOENT (No such file or directory)
+01-07 05:23:25.025  4132  4159 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+01-07 05:23:25.025  4132  4159 W System.err: 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+01-07 05:23:25.025  4132  4159 W System.err: 	at android.app.ContextImpl.openFileInput(ContextImpl.java:961)
+01-07 05:23:25.025  4132  4159 W System.err: 	at android.content.ContextWrapper.openFileInput(ContextWrapper.java:176)
+01-07 05:23:25.025  4132  4159 W System.err: 	at mqq.app.MobileQQ.loadProperites(MobileQQ.java:213)
+01-07 05:23:25.025  4132  4159 W System.err: 	at mqq.app.MobileQQ.doInit(MobileQQ.java:154)
+01-07 05:23:25.025  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.step.NewRuntime.a(ProGuard:14)
+01-07 05:23:25.025  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.step.Step.c(ProGuard:107)
+01-07 05:23:25.025  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.step.Step.a(ProGuard:133)
+01-07 05:23:25.025  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.step.Step.c(ProGuard:107)
+01-07 05:23:25.025  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.director.StartupDirector.a(ProGuard:619)
+01-07 05:23:25.025  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.director.StartupDirector.handleMessage(ProGuard:639)
+01-07 05:23:25.025  4132  4159 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:98)
+01-07 05:23:25.025  4132  4159 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-07 05:23:25.025  4132  4159 W System.err: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-07 05:23:25.025  4132  4159 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+01-07 05:23:25.025  4132  4159 W System.err: 	at libcore.io.Posix.open(Native Method)
+01-07 05:23:25.025  4132  4159 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+01-07 05:23:25.025  4132  4159 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+01-07 05:23:25.025  4132  4159 W System.err: 	... 14 more
+01-07 05:23:25.026  4132  4159 D MSF.D.Proxy: [E]start service finish
+01-07 05:23:25.026  4132  4159 D MSF.D.Proxy: [E]threadID:76, threadName: QQ_SUB bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-07 05:23:25.026  4132  4159 D mqq     : [E]doinit last == null goto to sharedPreferences....
+01-07 05:23:25.027  4132  4159 D MobileQQ: [E]createNewRuntimetruefalse5null
+01-07 05:23:25.028  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:25.029  4172  4172 D BaseApplicationImpl: [E]com.tencent.mobileqq:MSF, inject NotVerifyDex Success, cost:0
+01-07 05:23:25.029  4132  4159 D MSF.D.Proxy: [E]start service finish
+01-07 05:23:25.029  4172  4172 D BaseApplicationImpl: [E]injectPatchDex false
+01-07 05:23:25.029  4132  4159 D MSF.D.Proxy: [E]threadID:76, threadName: QQ_SUB bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-07 05:23:25.029  4132  4159 D MobileQQ: [E]CNR account == null
+01-07 05:23:25.030  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:25.030  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:25.031  4172  4172 D MSF.D.MonitorSocket: [E]monitor_config not found, disable monitor socket
+01-07 05:23:25.031  2145  2211 D WifiService: New client listening to asynchronous messages
+01-07 05:23:25.033  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:25.033  4172  4207 D appMemory: QLog init retry 
+01-07 05:23:25.033  4172  4172 D MSF.S.MsfService: [E]serivce onCreate
+01-07 05:23:25.033  4172  4172 D MSF.C.MsfCore: [E]MsfCore init begin.
+01-07 05:23:25.034  4132  4159 I UniformDownloadMgr<FileAssistant>: [E][UniformDL] UniformDownloadMgr.getInstance.create
+01-07 05:23:25.034  4132  4159 I UniformDownloadMgr<FileAssistant>: [E][UniformDL] UniformDownloadMgr onAppInit...
+01-07 05:23:25.034  4132  4159 D mqq     : [E]doInit finished
+01-07 05:23:25.040  4212  4212 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:25.041  4213  4213 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:25.042  4214  4214 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:25.042  4172  4172 D MSF.C.Util: [E]save imei:271739907631567,with order:4
+01-07 05:23:25.046  4132  4199 W ResourceType: For resource 0x7f02141a, entry index(5146) is beyond type entryCount(5146)
+01-07 05:23:25.046  4132  4199 W ResourceType: Failure getting entry for 0x7f02141a (t=1 e=5146) (error -75)
+01-07 05:23:25.047  4132  4199 W ResourceType: For resource 0x7f0b0330, entry index(816) is beyond type entryCount(816)
+01-07 05:23:25.047  4132  4199 W ResourceType: Failure getting entry for 0x7f0b0330 (t=10 e=816) (error -75)
+01-07 05:23:25.049  4132  4216 E art     : dlopen("/data/data/com.tencent.mobileqq/lib/libGIFEngine.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mobileqq/lib/libGIFEngine.so" has unexpected e_machine: 40
+01-07 05:23:25.050  4132  4216 W System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'java.util.zip.ZipEntry java.util.zip.ZipFile.getEntry(java.lang.String)' on a null object reference
+01-07 05:23:25.058  4172  4172 E art     : dlopen("/data/app/com.tencent.mobileqq-1/lib/arm/libNativeRQD.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mobileqq-1/lib/arm/libNativeRQD.so" has unexpected e_machine: 40
+01-07 05:23:25.058  4172  4172 W System.err: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/app/com.tencent.mobileqq-1/lib/arm/libNativeRQD.so" has unexpected e_machine: 40
+01-07 05:23:25.058  4172  4172 W System.err: 	at java.lang.Runtime.loadLibrary(Runtime.java:371)
+01-07 05:23:25.058  4172  4172 W System.err: 	at java.lang.System.loadLibrary(System.java:988)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.tencent.feedback.eup.jni.NativeExceptionUpload.loadRQDNativeLib(RQDSRC:86)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.tencent.feedback.eup.CrashReport.initNativeCrashReport(RQDSRC:152)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.tencent.feedback.eup.CrashReport.initNativeCrashReport(RQDSRC:106)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.tencent.mobileqq.msf.core.b.m.c(StatReporter.java:513)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.tencent.mobileqq.msf.core.MsfCore.init(MsfCore.java:211)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.tencent.mobileqq.msf.service.MsfService.serviceInit(MsfService.java:231)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.tencent.mobileqq.msf.service.MsfService.onCreate(MsfService.java:197)
+01-07 05:23:25.058  4172  4172 W System.err: 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2761)
+01-07 05:23:25.058  4172  4172 W System.err: 	at android.app.ActivityThread.access$1800(ActivityThread.java:151)
+01-07 05:23:25.058  4172  4172 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1386)
+01-07 05:23:25.058  4172  4172 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-07 05:23:25.058  4172  4172 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-07 05:23:25.058  4172  4172 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-07 05:23:25.058  4172  4172 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-07 05:23:25.058  4172  4172 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-07 05:23:25.058  4172  4172 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-07 05:23:25.061  2145  2211 D WifiService: New client listening to asynchronous messages
+01-07 05:23:25.069  4132  4216 W System.err: 	at com.tencent.commonsdk.soload.SoLoadCore.getSoOrDexByBaseDexClassLoader(SoLoadCore.java:770)
+01-07 05:23:25.069  4132  4216 W System.err: 	at com.tencent.commonsdk.soload.SoLoadCore.loadSo(SoLoadCore.java:178)
+01-07 05:23:25.069  4132  4216 W System.err: 	at com.tencent.commonsdk.soload.SoLoadUtilNew.loadSoByName(SoLoadUtilNew.java:12)
+01-07 05:23:25.069  4132  4216 W System.err: 	at com.tencent.image.NativeGifImage.loadLibrary(NativeGifImage.java:47)
+01-07 05:23:25.069  4132  4216 W System.err: 	at com.tencent.image.URLDrawable$4.run(URLDrawable.java:1188)
+01-07 05:23:25.069  4132  4216 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-07 05:23:25.069  4132  4216 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-07 05:23:25.069  4132  4216 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+01-07 05:23:25.077  4132  4132 I art     : Explicit concurrent mark sweep GC freed 21006(1527KB) AllocSpace objects, 2(32KB) LOS objects, 39% free, 11MB/19MB, paused 301us total 27.050ms
+01-07 05:23:25.077  4132  4216 D MSF.D.RemoteServiceProxy: [E]wait start com.tencent.mobileqq.msf.service.MsfService service result, skiped...
+01-07 05:23:25.077  4132  4216 D MSF.D.RemoteServiceProxy: [E]sdk version:22
+01-07 05:23:25.077  4132  4216 D MSF.D.RemoteServiceProxy: [E]start MsfService through Broadcast
+01-07 05:23:25.078  4132  4216 D MSF.D.Proxy: [E]threadID:98, threadName: URLDrawableSubExecutor bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-07 05:23:25.078  4132  4216 D MSF.D.RemoteServiceProxy: [E]delay binding MSF Service
+01-07 05:23:25.078  4132  4216 D MSF.D.RemoteServiceProxy: [E]wait start com.tencent.mobileqq.msf.service.MsfService service result, skiped...
+01-07 05:23:25.078  4132  4216 D MSF.D.RemoteServiceProxy: [E]sdk version:22
+01-07 05:23:25.078  4132  4216 E art     : No implementation found for int[] com.tencent.image.NativeGifImage.nativeTestColor(android.graphics.Bitmap) (tried Java_com_tencent_image_NativeGifImage_nativeTestColor and Java_com_tencent_image_NativeGifImage_nativeTestColor__Landroid_graphics_Bitmap_2)
+01-07 05:23:25.236  4132  4159 D Rdm     : [E]doStep...process: com.tencent.mobileqq
+01-07 05:23:25.237  4132  4159 D StatisticCollector: [E]initCrashReport ... process:com.tencent.mobileqq pid=4132
+01-07 05:23:25.240  4132  4159 D StatisticCollector: [E]initNativeCrashReport ... process:com.tencent.mobileqq pid=4132
+01-07 05:23:25.240  4132  4159 E art     : dlopen("/data/app/com.tencent.mobileqq-1/lib/arm/libNativeRQD.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mobileqq-1/lib/arm/libNativeRQD.so" has unexpected e_machine: 40
+01-07 05:23:25.240  4132  4159 W System.err: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/app/com.tencent.mobileqq-1/lib/arm/libNativeRQD.so" has unexpected e_machine: 40
+01-07 05:23:25.240  4132  4159 W System.err: 	at java.lang.Runtime.loadLibrary(Runtime.java:371)
+01-07 05:23:25.240  4132  4159 W System.err: 	at java.lang.System.loadLibrary(System.java:988)
+01-07 05:23:25.240  4132  4159 W System.err: 	at com.tencent.feedback.eup.jni.NativeExceptionUpload.loadRQDNativeLib(RQDSRC:86)
+01-07 05:23:25.240  4132  4159 W System.err: 	at com.tencent.feedback.eup.CrashReport.initNativeCrashReport(RQDSRC:152)
+01-07 05:23:25.240  4132  4159 W System.err: 	at com.tencent.feedback.eup.CrashReport.initNativeCrashReport(RQDSRC:106)
+01-07 05:23:25.240  4132  4159 W System.err: 	at com.tencent.mobileqq.statistics.StatisticCollector.c(ProGuard:882)
+01-07 05:23:25.240  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.step.Rdm.a(ProGuard:57)
+01-07 05:23:25.240  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.step.Step.c(ProGuard:107)
+01-07 05:23:25.240  4132  4159 W System.err: 	at com.tencent.mobileqq.startup.director.StartupDirector.handleMessage(ProGuard:699)
+01-07 05:23:25.240  4132  4159 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:98)
+01-07 05:23:25.240  4132  4159 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-07 05:23:25.240  4132  4159 W System.err: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-07 05:23:25.299  2994  3142 W PackageParser: Unknown element under <service>: action at /storage/usb0/CTS/test-APK/subwayrun.apk Binary XML file line #84
+01-07 05:23:25.360  2994  3142 W PackageParser: Unknown element under <application>: uses-sdk at /storage/usb0/CTS/test-APK/wandoujia-wandoujia_web.apk Binary XML file line #1784
+01-07 05:23:25.452  2994  3142 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/WPSOffice_140.apk Binary XML file line #895
+01-07 05:23:25.467  2994  3142 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/WPSOffice_140.apk Binary XML file line #895
+01-07 05:23:25.723  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:23:25.723  2272  2272 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:23:25.732  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:25.734  4172  4172 D MSF.C.TokenChecker: [E]msf init ct
+01-07 05:23:25.913  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:25.913  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:25.914  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.068  4172  4223 D rqdp{ RDMUUID }:%s: 8e328069-7a05-4392-a0d6-1e7cbb7e8b64
+01-07 05:23:26.076  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.475  4240  4240 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:26.479  4240  4240 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:26.496  4172  4172 D MsfAliveMonitor: [E]onEventBegin: service
+01-07 05:23:26.496  4172  4172 D MsfAliveMonitor: [E]onEventBegin: service
+01-07 05:23:26.500  4172  4172 D MSF.C.NetConnInfoCenter: [E]currentAPN:. received networkInfo: CONNECTED :[type: Ethernet[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: f8:32:e4:a0:25:09, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false]. extra NetworkInfo: null
+01-07 05:23:26.501  4172  4172 D MSF.C.CodecWarpper: [E]set so version to 600
+01-07 05:23:26.503  4172  4172 D MSF.C.ConfigManager: [E]login merge configuration not be found.
+01-07 05:23:26.503  4172  4172 D MSF.C.ConfigManager: [E]login merge whitelist not be found.
+01-07 05:23:26.503  4172  4172 D MSF.C.ConfigManager: [E]login merge duration not be found.
+01-07 05:23:26.503  4172  4172 D MSF.C.NetConnTag: [E]noTry loadTestServerConfig by release
+01-07 05:23:26.512  4247  4247 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:26.513  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.518  4172  4246 D MSF.C.NetConnInfoCenter: [E]currentAPN:null. received networkInfo: CONNECTED :[type: Ethernet[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: f8:32:e4:a0:25:09, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false]. extra NetworkInfo: null
+01-07 05:23:26.518  4172  4172 D MSF.C.ConfigManager: [E]StandbyMode whitelist not be found.
+01-07 05:23:26.518  4172  4246 D MSF.C.NetConnTag: [E]resetUserSimpleHead not connect network
+01-07 05:23:26.519  4172  4246 D MSF.C.NetConnTag: [E]pa ok: 62943
+01-07 05:23:26.520  2145  2547 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.521  4172  4246 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:26.526  4172  4246 D MSF.C.NetConnTag: [E]try open Conn msfwifi.3g.qq.com/140.207.127.57:8080 noneProxy
+01-07 05:23:26.529  4172  4172 D MSF.C.MsfCore: [E]MsfCore init finished.
+01-07 05:23:26.544  4172  4172 D MSF.S.MsfService: [E]serivce onBind by :null
+01-07 05:23:26.544  4172  4172 D MSF.S.MsfService: [E]serivce onStart
+01-07 05:23:26.544  4172  4172 D MSF.S.MsfService: [E]serivce onStart
+01-07 05:23:26.544  4172  4172 D MSF.S.MsfService: [E]serivce onStart
+01-07 05:23:26.545  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.545  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.546  4132  4132 D MSF.D.RemoteServiceProxy: [E]Property get avail memory:16187662336
+01-07 05:23:26.546  2145  3552 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.546  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.546  4132  4132 D MSF.D.RemoteServiceProxy: [E]Property get low memory feature:false
+01-07 05:23:26.547  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:26.547  4132  4132 D MSF.D.RemoteServiceProxy: [E]isMsfAlive:true, cur service process count:11
+01-07 05:23:26.548  4132  4132 D MSF.D.RemoteServiceProxy: [E]succ to pull msf service.
+01-07 05:23:26.597  4132  4152 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-07 05:23:26.597  4132  4152 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-07 05:23:26.618  4132  4151 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-07 05:23:26.645  4172  4246 D MSF.C.NetConnTag: [E]open conn at msfwifi.3g.qq.com/140.207.127.57:8080 costTime:118 configTimeout: 20000 localSocket:192.168.0.141:54725 noneProxy
+01-07 05:23:26.645  4172  4246 D MSF.C.NetConnTag: [E]ssoping seq: 62955 timeout: 12000
+01-07 05:23:26.645  4172  4246 D MSF.C.NetConnTag: [E]netSend ssoSeq:62955 uin:0 cmd:76640 62976
+01-07 05:23:26.645  4172  4246 D MsfAliveMonitor: [E]onEventBegin: conn
+01-07 05:23:26.645  4172  4246 D MsfAliveMonitor: [E]onEventAlive by conn begin: service
+01-07 05:23:26.646  4172  4246 D MSF.C.NetConnInfoCenter: [E]currentAPN:null. received networkInfo: CONNECTED :[type: Ethernet[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: f8:32:e4:a0:25:09, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false]. extra NetworkInfo: null
+01-07 05:23:26.647  4172  4246 D MSF.C.NetConnTag: [E]p ok re1: 62943
+01-07 05:23:26.647  4172  4246 D MSF.C.NetConnTag: [E]netSend ssoSeq:62943 uin:0 cmd:-1591668360 63461
+01-07 05:23:26.764  4172  4261 D MSF.C.NetConnTag: [E]netRecv ssoSeq:62955 uin:0 cmd:76640 62976
+01-07 05:23:26.884  4172  4261 D MSF.C.NetConnTag: [E]netRecv ssoSeq:62943 uin:0 cmd:-1591668360 67734
+01-07 05:23:26.897  2145  2175 I art     : Explicit concurrent mark sweep GC freed 9026(771KB) AllocSpace objects, 7(109KB) LOS objects, 33% free, 15MB/22MB, paused 872us total 30.583ms
+01-07 05:23:26.913  4132  4228 D rqdp{ RDMUUID }:%s: 8e328069-7a05-4392-a0d6-1e7cbb7e8b64
+01-07 05:23:27.056  4172  4261 D MSF.C.ConfigManager: [E]StandbyMode whitelist not be found.
+01-07 05:23:27.078  2145  2305 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x14000000 pkg=com.tencent.mobileqq cmp=com.tencent.mobileqq/.activity.SplashActivity} from uid 10053 on display 0
+01-07 05:23:27.080  2145  2305 V WindowManager: addAppToken: AppWindowToken{13acc43c token=Token{2f20262f ActivityRecord{212adc0e u0 com.tencent.mobileqq/.activity.SplashActivity t20}}} to stack=1 task=20 at 1
+01-07 05:23:27.082  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1073, 0).
+01-07 05:23:27.084  4132  4132 I AutoMonitor: [E]onActivityCreate when 5, com.tencent.mobileqq.activity.SplashActivity@38495a8a
+01-07 05:23:27.090  2145  3552 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x14040000 pkg=com.tencent.mobileqq cmp=com.tencent.mobileqq/.activity.UserguideActivity (has extras)} from uid 10053 on display 0
+01-07 05:23:27.091  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1043, 0).
+01-07 05:23:27.091  2145  3552 V WindowManager: addAppToken: AppWindowToken{1918ac27 token=Token{336a5ee6 ActivityRecord{12c23941 u0 com.tencent.mobileqq/.activity.UserguideActivity t21}}} to stack=1 task=21 at 0
+01-07 05:23:27.095  4132  4132 I AutoMonitor: [E]onActivityCreate when 6, com.tencent.mobileqq.activity.UserguideActivity@2d08e5ad
+01-07 05:23:27.098  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (998, 0).
+01-07 05:23:27.106  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (938, 0).
+01-07 05:23:27.114  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (866, 0).
+01-07 05:23:27.119  4132  4265 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-07 05:23:27.120  2145  2164 V WindowManager: Adding window Window{3538287d u0 com.tencent.mobileqq/com.tencent.mobileqq.activity.UserguideActivity} at 7 of 12 (after Window{3e7af26f u0 com.tencent.mobileqq/com.tencent.mobileqq.activity.InstallActivity})
+01-07 05:23:27.123  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (770, 0).
+01-07 05:23:27.128  2272  2272 V PhoneStatusBar: setLightsOn(true)
+01-07 05:23:27.130  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (665, 0).
+01-07 05:23:27.138  4132  4265 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-07 05:23:27.138  4132  4265 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-07 05:23:27.150  4132  4265 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-07 05:23:27.150  4132  4265 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-07 05:23:27.150  4132  4265 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-07 05:23:27.150  4132  4265 I OpenGLRenderer: Initialized EGL, version 1.4
+01-07 05:23:27.151  4132  4265 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-07 05:23:27.154  4132  4265 D OpenGLRenderer: Enabling debug mode 0
+01-07 05:23:27.157  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:27.157  4132  4266 D appMemory: QLog init retry 
+01-07 05:23:27.206  2145  2175 I ActivityManager: Displayed com.tencent.mobileqq/.activity.UserguideActivity: +113ms (total +125ms)
+01-07 05:23:27.318  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:27.607  4275  4275 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:27.611  4275  4275 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:28.647  4172  4246 D MSF.C.NetConnTag: [E]pa ok: 62962
+01-07 05:23:28.647  4172  4246 D MSF.C.NetConnTag: [E]netSend ssoSeq:62962 uin:0 cmd:1352667419 63088
+01-07 05:23:28.765  4172  4261 D MSF.C.NetConnTag: [E]netRecv ssoSeq:62962 uin:0 cmd:1352667419 63028
+01-07 05:23:29.604  2145  2188 W TelecomManager: Telecom Service not found.
+01-07 05:23:29.604  2145  2188 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+01-07 05:23:29.605  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:29.617  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:23:29.643  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 05:23:29.652  2145  2165 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.7}
+01-07 05:23:29.653  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 05:23:29.679  2421  2421 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-07 05:23:29.679  2421  2421 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-07 05:23:29.679  2421  2421 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-07 05:23:29.679  2421  2421 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-07 05:23:29.679  2421  2421 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-07 05:23:29.679  2421  2421 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-07 05:23:29.689  2272  4279 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 05:23:29.697  4132  4132 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:23:29.744  2145  2175 I WindowManager: Screen frozen for +123ms due to Window{3f4b7214 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-07 05:23:29.763  4280  4280 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:30.059  2145  2678 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.060  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.060  2145  3554 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.060  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.061  2145  2492 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.061  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.061  2145  2305 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.061  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.062  2145  2165 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.062  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.062  2145  2678 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.062  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.063  2145  3554 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.063  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.063  2145  2492 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.063  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.064  2145  3551 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:30.064  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:30.205  2421  2728 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+01-07 05:23:30.681  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:23:30.682  2272  2272 W PackageManager: Failure retrieving resources for com.tencent.mobileqq: Resource ID #0x0
+01-07 05:23:31.628  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:23:31.758  2145  2175 I art     : Explicit concurrent mark sweep GC freed 5050(345KB) AllocSpace objects, 7(3MB) LOS objects, 33% free, 13MB/20MB, paused 268us total 12.314ms
+01-07 05:23:34.776  4282  4282 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:35.065  2145  3551 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:35.065  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:36.723  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:36.724  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:36.724  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:36.728  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:36.728  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:36.729  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:36.730  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:37.159  4132  4159 V NFC     : this device does not have NFC support
+01-07 05:23:37.162  4132  4159 D MSF.D.AppNetInfoImpl: [E]currentAPN:. received networkInfo: CONNECTED :[type: Ethernet[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: f8:32:e4:a0:25:09, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false]
+01-07 05:23:37.162  4132  4132 D MSF.D.AppNetInfoImpl: [E]currentAPN:. received networkInfo: CONNECTED :[type: Ethernet[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: f8:32:e4:a0:25:09, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false]
+01-07 05:23:37.164  4172  4246 D MSF.C.NetConnTag: [E]pa ok: 62966
+01-07 05:23:37.164  4172  4246 D MSF.C.NetConnTag: [E]netSend ssoSeq:62966 uin:0 cmd:-1077286677 63361
+01-07 05:23:39.789  4290  4290 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:40.065  2145  2685 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:40.065  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:40.066  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:40.067  2145  2165 W ActivityManager: getTasks: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:40.067  4172  4224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:23:40.068  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:23:44.800  4291  4291 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:49.812  4292  4292 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:54.823  4293  4293 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:23:59.835  4294  4294 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:04.847  4295  4295 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:06.729  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:24:08.419  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:24:08.431  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:24:08.437  2145  2492 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:24:08.463  2145  2164 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2497be73 (uid=10033 pid=2421)
+01-07 05:24:09.858  4298  4298 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:09.891  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:24:09.948  3061  3061 I Term    : Bound to TermService
+01-07 05:24:09.948  3061  3061 I TermService: Activity binding to service
+01-07 05:24:14.870  4305  4305 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:19.882  4306  4306 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:24.893  4307  4307 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:26.796  4308  4308 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:26.799  4310  4310 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:26.813  4311  4311 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:26.814  2145  2174 D BluetoothManagerService: Message: 20
+01-07 05:24:26.814  2145  2174 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@e7ad734:true
+01-07 05:24:26.818  4312  4312 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:26.820  4312  4312 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:26.821  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:24:29.905  4314  4314 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:34.916  4316  4316 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:36.729  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:24:39.928  4317  4317 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:44.939  4318  4318 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:49.951  4319  4319 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:24:54.463  4320  4320 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

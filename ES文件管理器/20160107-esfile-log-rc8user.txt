@@ -1,0 +1,207 @@
+01-07 05:21:27.668  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:27.670  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:27.670  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:21:27.673  2145  2165 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:21:27.681  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:21:27.718  3061  3061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:21:28.687  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:28.687  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:21:29.392  3550  3550 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:29.536  2145  2164 I ActivityManager: Killing 2442:com.android.printspooler/u0a42 (adj 15): empty #17
+01-07 05:21:29.550  2145  2164 I ActivityManager: Killing 2785:com.android.keychain/1000 (adj 15): empty #18
+01-07 05:21:29.576  2145  2164 I ActivityManager: Killing 2811:com.android.managedprovisioning/u0a5 (adj 15): empty #19
+01-07 05:21:29.603  2145  2164 I ActivityManager: Killing 3443:com.android.chrome:privileged_process0/u0a50 (adj 9): remove task
+01-07 05:21:29.605  3365  3365 W cr_ScreenOrientation: Removing an inexistent observer!
+01-07 05:21:29.615  3365  3365 W cr_ChildProcessConnect: onServiceDisconnected (crash or killed by oom): pid=3395
+01-07 05:21:29.656  2145  2164 I ActivityManager: Killing 3365:com.android.chrome/u0a50 (adj 9): remove task
+01-07 05:21:29.683  2145  2164 I ActivityManager: Killing 3395:com.android.chrome:sandboxed_process0/u0a50i0 (adj 9): remove task
+01-07 05:21:29.683  2145  2164 W libprocessgroup: failed to open /acct/uid_10050/pid_3395/cgroup.procs: No such file or directory
+01-07 05:21:29.685  2145  2305 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.SandboxedProcessService0 in 1000ms
+01-07 05:21:29.687  2145  3552 W ActivityManager: Scheduling restart of crashed service com.android.chrome/org.chromium.content.app.PrivilegedProcessService0 in 10998ms
+01-07 05:21:29.782  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=15_task.xml
+01-07 05:21:29.782  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=15_task_thumbnail.png
+01-07 05:21:30.716  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:30.764  3556  3556 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.769  3557  3557 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.774  3562  3562 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.778  3563  3563 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.888  3565  3565 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.893  3566  3566 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.896  3567  3567 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.942  3568  3568 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.945  3569  3569 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:30.946  3570  3570 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:32.908  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:32.913  2145  2164 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/ES Manager.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:21:32.915  2145  2164 V WindowManager: addAppToken: AppWindowToken{34fe09bf token=Token{34aad3de ActivityRecord{13c80719 u0 com.android.packageinstaller/.PackageInstallerActivity t13}}} to stack=1 task=13 at 1
+01-07 05:21:32.978  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:.PERMISSION
+01-07 05:21:32.986  2145  2165 V WindowManager: Adding window Window{ac8fbd5 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{2cac20df u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:21:33.055  3236  3257 V RenderScript: 0x7f421e46e000 Launching thread(s), CPUs 8
+01-07 05:21:33.061  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +141ms
+01-07 05:21:34.353  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:34.404  3583  3583 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:34.986  2145  3551 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/ES Manager.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10039 on display 0
+01-07 05:21:34.987  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:34.988  2145  3551 V WindowManager: addAppToken: AppWindowToken{e5780b6 token=Token{2faa8051 ActivityRecord{170fa178 u0 com.android.packageinstaller/.InstallAppProgress t13}}} to stack=1 task=13 at 2
+01-07 05:21:35.031  2145  3553 V WindowManager: Adding window Window{192d7253 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 6 of 11 (after Window{ac8fbd5 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:21:35.065  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +58ms
+01-07 05:21:35.095  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421e2c4800 (RippleDrawable) with handle 0x7f4227014fc0
+01-07 05:21:35.194  3284  3304 D DefContainer: Copying /storage/usb0/CTS/test-APK/ES Manager.apk to base.apk
+01-07 05:21:35.478  2145  2179 D PackageManager: Renaming /data/app/vmdl1426269033.tmp to /data/app/com.estrongs.android.pop-1
+01-07 05:21:35.520  2145  2179 I PackageManager: Running dexopt on: /data/app/com.estrongs.android.pop-1/base.apk pkg=com.estrongs.android.pop isa=x86 vmSafeMode=false
+01-07 05:21:35.523  3586  3586 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 05:21:35.524  3586  3586 E cutils-trace: Error opening trace file: Permission denied (13)
+01-07 05:21:35.524  3586  3586 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.estrongs.android.pop-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.estrongs.android.pop-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-07 05:21:35.623  3586  3586 I dex2oat : Decided to run without swap.
+01-07 05:21:35.642  3586  3588 W dex2oat : Before Android 4.1, method int android.support.v7.internal.widget.ListViewCompat.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+01-07 05:21:36.079  3586  3590 I dex2oat : Method exceeds compiler instruction limit: 36946 in byte[] com.dropbox.client2.SecureSSLSocketFactory.GetRootKeyStoreBytes1()
+01-07 05:21:36.079  3586  3590 I dex2oat : Method exceeds compiler instruction limit: 20050 in byte[] com.dropbox.client2.SecureSSLSocketFactory.GetRootKeyStoreBytes2()
+01-07 05:21:36.079  3586  3590 I dex2oat : Method exceeds compiler instruction limit: 45153 in byte[] com.dropbox.client2.SecureSSLSocketFactory.GetRootKeyStoreBytes3()
+01-07 05:21:36.159  3586  3588 I dex2oat : Method exceeds compiler instruction limit: 16801 in android.util.SparseArray com.estrongs.android.pop.esclasses.a.ai.a()
+01-07 05:21:36.162  3586  3592 I dex2oat : Method exceeds compiler instruction limit: 18582 in android.util.SparseArray com.estrongs.android.pop.esclasses.a.f.a()
+01-07 05:21:36.742  3586  3586 I dex2oat : dex2oat took 1.217s (threads: 8) arena alloc=1194KB java alloc=12MB native alloc=28MB free=7MB
+01-07 05:21:36.827  2145  2179 W PackageManager: Not granting permission android.permission.WRITE_MEDIA_STORAGE to package com.estrongs.android.pop (protectionLevel=18 flags=0x48be44)
+01-07 05:21:36.827  2145  2179 W PackageManager: Unknown permission .PERMISSION in package com.estrongs.android.pop
+01-07 05:21:36.912  2145  2179 V BackupManagerService: restoreAtInstall pkg=com.estrongs.android.pop token=2 restoreSet=0
+01-07 05:21:36.912  2145  2179 V BackupManagerService: Finishing install immediately
+01-07 05:21:36.913  2145  2179 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-07 05:21:36.916  2145  2145 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.estrongs.android.pop flg=0x4000010 (has extras) }
+01-07 05:21:36.920  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 05:21:36.923  2145  2169 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-07 05:21:36.958  2145  2179 I art     : Explicit concurrent mark sweep GC freed 163936(7MB) AllocSpace objects, 30(7MB) LOS objects, 33% free, 11MB/17MB, paused 884us total 45.611ms
+01-07 05:21:37.001  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:21:37.038  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:21:38.131  2145  2678 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.estrongs.android.pop cmp=com.estrongs.android.pop/.view.FileExplorerActivity} from uid 10039 on display 0
+01-07 05:21:38.132  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:38.139  2145  2678 V WindowManager: addAppToken: AppWindowToken{2b305eb2 token=Token{181c68bd ActivityRecord{3a677814 u0 com.estrongs.android.pop/.view.FileExplorerActivity t16}}} to stack=1 task=16 at 0
+01-07 05:21:38.144  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:21:38.152  2145  2175 V WindowManager: Adding window Window{26c5375f u0 Starting com.estrongs.android.pop} at 6 of 11 (after Window{192d7253 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+01-07 05:21:38.202  2145  2685 I ActivityManager: Start proc 3599:com.estrongs.android.pop/u0a51 for activity com.estrongs.android.pop/.view.FileExplorerActivity
+01-07 05:21:38.219  3599  3599 I ActivityThread: Switching default density from 160 to 240
+01-07 05:21:38.245  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421e2cb400 (RippleDrawable) with handle 0x7f421e183fc0
+01-07 05:21:38.590  3599  3599 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:38.602  3627  3627 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.610  3629  3629 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.617  3631  3631 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.624  3632  3632 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.627  2145  2211 D WifiService: New client listening to asynchronous messages
+01-07 05:21:38.634  3634  3634 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.641  3635  3635 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.649  3636  3636 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.656  3637  3637 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.664  3638  3638 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:38.853  2145  3553 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10051
+01-07 05:21:38.892  2145  2174 D BluetoothManagerService: Message: 20
+01-07 05:21:38.892  2145  2174 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@31a062e5:true
+01-07 05:21:39.099  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1189, 915).
+01-07 05:21:39.130  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1188, 915).
+01-07 05:21:39.138  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1188, 914).
+01-07 05:21:39.206  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.206  2272  2272 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:21:39.394  3599  3659 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-07 05:21:39.395  2145  3554 V WindowManager: Adding window Window{2a794861 u0 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity} at 6 of 12 (before Window{26c5375f u0 Starting com.estrongs.android.pop})
+01-07 05:21:39.521  3599  3659 I GRALLOC-DRM: create intel for driver i915
+01-07 05:21:39.522  3599  3659 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-07 05:21:39.522  3599  3659 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-07 05:21:39.528  3599  3659 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-07 05:21:39.528  3599  3659 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-07 05:21:39.528  3599  3659 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-07 05:21:39.528  3599  3659 I OpenGLRenderer: Initialized EGL, version 1.4
+01-07 05:21:39.528  3599  3659 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-07 05:21:39.528  3599  3659 D OpenGLRenderer: Enabling debug mode 0
+01-07 05:21:39.575  2145  2175 I ActivityManager: Displayed com.estrongs.android.pop/.view.FileExplorerActivity: +1s398ms
+01-07 05:21:39.689  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:21:39.689  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:21:39.832  3599  3617 W art     : Suspending all threads took: 15.300ms
+01-07 05:21:39.834  3599  3617 I art     : Background sticky concurrent mark sweep GC freed 2073(124KB) AllocSpace objects, 1(16KB) LOS objects, 2% free, 7MB/7MB, paused 16.729ms total 51.738ms
+01-07 05:21:39.841  2145  3553 D BluetoothManagerService: checkIfCallerIsForegroundUser: valid=true callingUser=0 parentUser=-10000 foregroundUser=0
+01-07 05:21:39.846  3599  3687 E ActivityThread: Failed to find provider info for com.estrongs.locker
+01-07 05:21:39.855  3599  3599 I WebViewFactory: Loading com.android.webview version 39 (eng.-x86_64) (code 399998)
+01-07 05:21:39.858  3688  3688 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:39.905  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:21:39.957  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.958  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.958  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.959  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.960  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.960  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.961  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.962  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.962  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.963  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:39.963  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:40.318  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:21:40.616  3599  3599 I LibraryLoader: Time to load native libraries: 591 ms (timestamps 6973-7564)
+01-07 05:21:40.616  3599  3599 I LibraryLoader: Expected native library version number "",actual native library version number ""
+01-07 05:21:40.630  3599  3599 V WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {2b9d3cdf}
+01-07 05:21:40.630  3599  3599 I LibraryLoader: Expected native library version number "",actual native library version number ""
+01-07 05:21:40.638  3599  3599 I chromium: [INFO:library_loader_hooks.cc(104)] Chromium logging enabled: level = 0, default verbosity = 0
+01-07 05:21:40.649  3599  3599 I BrowserStartupController: Initializing chromium process, singleProcess=true
+01-07 05:21:40.684  3599  3599 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+01-07 05:21:40.873  3599  3599 W chromium: [WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+01-07 05:21:40.873  3599  3599 I chromium: [INFO:aw_browser_main_parts.cc(65)] Load from apk succesful, fd=103 off=1319120 len=3050
+01-07 05:21:40.898  3599  3599 I chromium: [INFO:aw_browser_main_parts.cc(78)] Loading webviewchromium.pak from, fd:104 off:229484 len:1089587
+01-07 05:21:41.063  3599  3599 I Choreographer: Skipped 75 frames!  The application may be doing too much work on its main thread.
+01-07 05:21:41.072  3599  3708 D BluetoothAdapter: 368056668: getState() :  mService = null. Returning STATE_OFF
+01-07 05:21:41.089  3599  3739 E ActivityThread: Failed to find provider info for com.estrongs.locker
+01-07 05:21:41.147  2145  2210 E WifiStateMachine: Error! unhandled message{ when=0 what=131157 target=com.android.internal.util.StateMachine$SmHandler }
+01-07 05:21:41.286  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:41.292  3599  3756 E sdkstat : sdkstat onEvent before 
+01-07 05:21:41.293  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:21:41.293  3599  3756 E sdkstat : sdkstat onEvent before 
+01-07 05:21:41.293  2145  3552 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:21:41.297  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:21:41.833  3599  3756 E sdkstat : sdkstat onEvent before 
+01-07 05:21:41.833  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:21:41.885  3599  3680 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:41.925  3758  3758 W linker  : /data/data/com.estrongs.android.pop/files/libestool2.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+01-07 05:21:41.925  3758  3758 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 05:21:43.306  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:43.528  2145  3551 V WindowManager: not Base app: Adding window Window{273d0d72 u0 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity} at 6 of 11
+01-07 05:21:43.927  3599  3680 W System.err: android.content.pm.PackageManager$NameNotFoundException: com.facebook.katana
+01-07 05:21:43.927  3599  3680 W System.err: 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:114)
+01-07 05:21:43.927  3599  3680 W System.err: 	at com.estrongs.android.cleaner.a.a.a.b(Unknown Source)
+01-07 05:21:43.927  3599  3680 W System.err: 	at com.estrongs.android.cleaner.a.a.a.a(Unknown Source)
+01-07 05:21:43.927  3599  3680 W System.err: 	at com.estrongs.android.pop.view.h.run(Unknown Source)
+01-07 05:21:43.927  3599  3680 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+01-07 05:21:44.870  3767  3767 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:45.204  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:47.117  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:47.120  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:47.120  2272  2272 W PackageManager: Failure retrieving resources for com.estrongs.android.pop: Resource ID #0x0
+01-07 05:21:47.125  2145  3552 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:21:47.133  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:21:47.163  2145  3551 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@3a8d0f17 (uid=10051 pid=3599)
+01-07 05:21:48.124  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:21:48.137  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (944, 198).
+01-07 05:21:48.140  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:21:48.140  2272  2272 W PackageManager: Failure retrieving resources for com.estrongs.android.pop: Resource ID #0x0
+01-07 05:21:48.179  3061  3061 I Term    : Bound to TermService
+01-07 05:21:48.179  3061  3061 I TermService: Activity binding to service
+01-07 05:21:49.879  3778  3778 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:54.889  3779  3779 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:21:59.902  3782  3782 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:00.870  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.872  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.872  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.873  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.873  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.874  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.874  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.875  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.876  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.876  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.877  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.877  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.877  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.877  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.877  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.877  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.877  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.878  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.878  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.878  3599  3713 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:00.904  3599  3713 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /data/app/com.android.chrome-1/base.apk Binary XML file line #33
+01-07 05:22:00.904  3599  3713 W PackageParser: Unknown element under <manifest>: uses-permission-sdk-m at /data/app/com.android.chrome-1/base.apk Binary XML file line #34
+01-07 05:22:04.913  3785  3785 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:05.167  3786  3786 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

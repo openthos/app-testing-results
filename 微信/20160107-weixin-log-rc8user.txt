@@ -1,0 +1,328 @@
+01-07 05:30:38.916  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:38.920  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:30:38.920  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:30:38.922  2145  3551 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:30:38.929  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:30:38.970  3061  3061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:30:39.533  5362  5362 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.676  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:39.699  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1076, 503).
+01-07 05:30:39.711  5364  5364 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.716  5365  5365 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.722  5366  5366 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.726  5371  5371 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.755  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1077, 503).
+01-07 05:30:39.763  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1078, 503).
+01-07 05:30:39.845  5373  5373 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.850  5374  5374 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.854  5375  5375 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.888  5376  5376 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.890  5377  5377 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:39.892  5378  5378 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:40.691  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:30:40.691  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:30:42.640  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:43.747  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:43.749  2145  2305 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/wechat.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:30:43.749  2145  2305 V WindowManager: addAppToken: AppWindowToken{115a7ef7 token=Token{a377af6 ActivityRecord{200fb91 u0 com.android.packageinstaller/.PackageInstallerActivity t13}}} to stack=1 task=13 at 1
+01-07 05:30:43.759  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:30:43.846  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.plugin.permission.READ
+01-07 05:30:43.847  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.plugin.permission.WRITE
+01-07 05:30:43.847  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.plugin.permission.SEND
+01-07 05:30:43.847  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.permission.MM_MESSAGE
+01-07 05:30:43.847  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.authentication.HW_ACCESS_AUTH_SERVICE
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.android.launcher.permission.READ_SETTINGS
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.location.permission.SEND_VIEW
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.android.launcher.permission.CHANGE_BADGE
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:android.permission.WRITE_APP_BADGE
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.android.vending.BILLING
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.ext.permission.READ
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.ext.permission.WRITE
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:android.permission.USE_FINGERPRINT
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.c2dm.permission.RECEIVE
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.permission.C2D_MESSAGE
+01-07 05:30:43.848  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.tencent.mm.wear.message
+01-07 05:30:43.874  2145  3552 V WindowManager: Adding window Window{28a8bfcd u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 7 of 12 (after Window{2cac20df u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:30:43.936  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +185ms
+01-07 05:30:44.545  5384  5384 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:45.237  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:45.756  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:46.236  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:46.920  2145  3552 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/wechat.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10039 on display 0
+01-07 05:30:46.920  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:46.927  2145  3552 V WindowManager: addAppToken: AppWindowToken{2bef2ce token=Token{158e8bc9 ActivityRecord{3a474fd0 u0 com.android.packageinstaller/.InstallAppProgress t13}}} to stack=1 task=13 at 2
+01-07 05:30:46.962  2145  2164 V WindowManager: Adding window Window{3702620b u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 8 of 13 (after Window{28a8bfcd u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:30:46.999  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +62ms
+01-07 05:30:47.033  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421d43cc00 (RippleDrawable) with handle 0x7f421e4cf180
+01-07 05:30:47.855  3284  3304 D DefContainer: Copying /storage/usb0/CTS/test-APK/wechat.apk to base.apk
+01-07 05:30:49.343  2145  2179 D PackageManager: Renaming /data/app/vmdl263722185.tmp to /data/app/com.tencent.mm-1
+01-07 05:30:49.378  2145  2179 W PackageManager: Package com.tencent.mm desires unavailable shared library com.google.android.maps; ignoring!
+01-07 05:30:49.378  2145  2179 W PackageManager: Package com.tencent.mm desires unavailable shared library com.sec.android.app.multiwindow; ignoring!
+01-07 05:30:49.423  2145  2179 I PackageManager: Running dexopt on: /data/app/com.tencent.mm-1/base.apk pkg=com.tencent.mm isa=x86 vmSafeMode=false
+01-07 05:30:49.426  5391  5391 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 05:30:49.427  5391  5391 E cutils-trace: Error opening trace file: Permission denied (13)
+01-07 05:30:49.427  5391  5391 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.tencent.mm-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.tencent.mm-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-07 05:30:49.548  5393  5393 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:49.589  5391  5391 I dex2oat : Decided to run without swap.
+01-07 05:30:50.129  5391  5395 I dex2oat : Method exceeds compiler instruction limit: 20134 in void com.tencent.mm.sdk.platformtools.ak.<init>()
+01-07 05:30:51.203  5391  5391 I dex2oat : dex2oat took 1.775s (threads: 8) arena alloc=4MB java alloc=23MB native alloc=49MB free=10MB
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission com.tencent.mm.plugin.permission.SEND in package com.tencent.mm
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission com.huawei.authentication.HW_ACCESS_AUTH_SERVICE in package com.tencent.mm
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.tencent.mm
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission com.tencent.mm.location.permission.SEND_VIEW in package com.tencent.mm
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission com.huawei.android.launcher.permission.CHANGE_BADGE in package com.tencent.mm
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission android.permission.WRITE_APP_BADGE in package com.tencent.mm
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission com.android.vending.BILLING in package com.tencent.mm
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission android.permission.USE_FINGERPRINT in package com.tencent.mm
+01-07 05:30:51.307  2145  2179 W PackageManager: Unknown permission com.google.android.c2dm.permission.RECEIVE in package com.tencent.mm
+01-07 05:30:51.407  2145  2179 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-07 05:30:51.413  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 05:30:51.413  2145  2305 W ActivityManager: getTasks: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:51.414  2145  2492 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10051 on display 0
+01-07 05:30:51.447  2145  2492 V WindowManager: addAppToken: AppWindowToken{151109af token=Token{218b1d8e ActivityRecord{c19a989 u0 com.estrongs.android.pop/.app.InstallMonitorActivity t30}}} to stack=1 task=30 at 0
+01-07 05:30:51.454  2145  2179 I art     : Explicit concurrent mark sweep GC freed 252481(10MB) AllocSpace objects, 19(4MB) LOS objects, 33% free, 13MB/19MB, paused 959us total 46.896ms
+01-07 05:30:51.461  2145  2169 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-07 05:30:51.469  2421  2440 E DatabaseUtils: Writing exception to parcel
+01-07 05:30:51.469  2421  2440 E DatabaseUtils: java.lang.SecurityException: Permission Denial: writing com.android.launcher3.LauncherProvider uri content://com.android.launcher3.settings/favorites/5?notify=true from pid=5214, uid=10057 requires com.android.launcher3.permission.WRITE_SETTINGS, or grantUriPermission()
+01-07 05:30:51.469  2421  2440 E DatabaseUtils: 	at android.content.ContentProvider.enforceWritePermissionInner(ContentProvider.java:604)
+01-07 05:30:51.469  2421  2440 E DatabaseUtils: 	at android.content.ContentProvider$Transport.enforceWritePermission(ContentProvider.java:461)
+01-07 05:30:51.469  2421  2440 E DatabaseUtils: 	at android.content.ContentProvider$Transport.update(ContentProvider.java:323)
+01-07 05:30:51.469  2421  2440 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:222)
+01-07 05:30:51.469  2421  2440 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-07 05:30:51.478  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:51.479  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:51.587  2145  2492 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@199bf1ec attribute=null, token = android.os.BinderProxy@345b6dda
+01-07 05:30:51.587  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:51.590  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:30:51.661  2145  2145 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.tencent.mm flg=0x4000010 (has extras) }
+01-07 05:30:51.703  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:30:51.731  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:54.347  2145  2547 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.tencent.mm cmp=com.tencent.mm/.ui.LauncherUI} from uid 10039 on display 0
+01-07 05:30:54.348  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:54.349  2145  2547 V WindowManager: addAppToken: AppWindowToken{17f6a069 token=Token{1fe652f0 ActivityRecord{fe8af33 u0 com.tencent.mm/.ui.LauncherUI t31}}} to stack=1 task=31 at 0
+01-07 05:30:54.361  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:30:54.390  2145  2678 I ActivityManager: Start proc 5412:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:30:54.393  5412  5412 W libnb   : Native bridge is disabled
+01-07 05:30:54.416  5412  5412 I ActivityThread: Switching default density from 160 to 240
+01-07 05:30:54.424  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:54.482  5412  5412 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:30:54.490  5412  5412 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:30:54.490  5412  5412 D AndroidRuntime: Shutting down VM
+01-07 05:30:54.505  2145  3551 I ActivityManager: Start proc 5439:com.tencent.mm:cuploader/u0a58 for service com.tencent.mm/.crash.CrashUploaderService
+01-07 05:30:54.505  5412  5412 I Process : Sending signal. PID: 5412 SIG: 9
+01-07 05:30:54.509  5439  5439 W libnb   : Native bridge is disabled
+01-07 05:30:54.513  2145  2165 I ActivityManager: Process com.tencent.mm (pid 5412) has died
+01-07 05:30:54.528  5460  5460 W libnb   : Native bridge is disabled
+01-07 05:30:54.528  2145  2165 I ActivityManager: Start proc 5460:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:30:54.529  5439  5439 I ActivityThread: Switching default density from 160 to 240
+01-07 05:30:54.531  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:54.532  5460  5460 I ActivityThread: Switching default density from 160 to 240
+01-07 05:30:54.534  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:54.551  5460  5460 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:30:54.551  5460  5460 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:30:54.555  5494  5494 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.557  5460  5460 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:30:54.557  5460  5460 D AndroidRuntime: Shutting down VM
+01-07 05:30:54.558  5460  5460 I Process : Sending signal. PID: 5460 SIG: 9
+01-07 05:30:54.567  2145  2685 I ActivityManager: Process com.tencent.mm (pid 5460) has died
+01-07 05:30:54.581  5496  5496 W libnb   : Native bridge is disabled
+01-07 05:30:54.581  2145  2685 I ActivityManager: Start proc 5496:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:30:54.583  1894  1894 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 32us total 2.332ms
+01-07 05:30:54.585  5496  5496 I ActivityThread: Switching default density from 160 to 240
+01-07 05:30:54.586  1894  1894 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 34us total 2.386ms
+01-07 05:30:54.588  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:54.588  1894  1894 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 34us total 2.371ms
+01-07 05:30:54.602  5496  5496 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:30:54.603  5496  5496 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:30:54.609  5496  5496 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:30:54.609  5496  5496 D AndroidRuntime: Shutting down VM
+01-07 05:30:54.609  5496  5496 I Process : Sending signal. PID: 5496 SIG: 9
+01-07 05:30:54.620  2145  2685 I ActivityManager: Process com.tencent.mm (pid 5496) has died
+01-07 05:30:54.620  2145  2685 W ActivityManager: Force removing ActivityRecord{fe8af33 u0 com.tencent.mm/.ui.LauncherUI t31}: app died, no saved state
+01-07 05:30:54.622  5523  5523 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.623  5524  5524 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.624  5525  5525 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.625  5526  5526 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.649  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421d442800 (RippleDrawable) with handle 0x7f421e183e60
+01-07 05:30:54.739  5528  5528 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.744  5529  5529 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.747  5530  5530 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.771  5531  5531 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.773  5532  5532 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:54.774  5533  5533 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:58.946  2145  2547 I ActivityManager: Killing 2837:com.android.onetimeinitializer/u0a7 (adj 15): empty #17
+01-07 05:30:59.567  5534  5534 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:31:04.579  5535  5535 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:31:04.660  2145  2188 W TelecomManager: Telecom Service not found.
+01-07 05:31:04.661  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:31:04.661  2145  2188 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+01-07 05:31:04.673  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:31:04.687  2421  2421 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-07 05:31:04.687  2421  2421 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-07 05:31:05.224  2421  2728 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+01-07 05:31:05.679  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:31:05.679  2272  2272 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:31:06.124  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:31:07.586  2145  2165 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10033 on display 0
+01-07 05:31:07.587  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:31:07.588  2145  2165 V WindowManager: addAppToken: AppWindowToken{11d88749 token=Token{2cd60950 ActivityRecord{245c313 u0 com.tencent.mm/.ui.LauncherUI t32}}} to stack=1 task=32 at 0
+01-07 05:31:07.610  5539  5539 W libnb   : Native bridge is disabled
+01-07 05:31:07.610  2145  2685 I ActivityManager: Start proc 5539:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:07.615  5539  5539 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:07.617  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:07.633  5539  5539 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.633  5539  5539 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.640  5539  5539 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.640  5539  5539 D AndroidRuntime: Shutting down VM
+01-07 05:31:07.641  5539  5539 I Process : Sending signal. PID: 5539 SIG: 9
+01-07 05:31:07.649  2145  3552 I ActivityManager: Process com.tencent.mm (pid 5539) has died
+01-07 05:31:07.663  2145  3552 I ActivityManager: Start proc 5568:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:07.668  5568  5568 W libnb   : Native bridge is disabled
+01-07 05:31:07.673  5568  5568 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:07.675  2145  3552 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:07.691  5568  5568 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.691  5568  5568 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.697  5568  5568 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.697  5568  5568 D AndroidRuntime: Shutting down VM
+01-07 05:31:07.698  5568  5568 I Process : Sending signal. PID: 5568 SIG: 9
+01-07 05:31:07.703  2145  2678 I ActivityManager: Process com.tencent.mm (pid 5568) has died
+01-07 05:31:07.728  5595  5595 W libnb   : Native bridge is disabled
+01-07 05:31:07.730  2145  2678 I ActivityManager: Start proc 5595:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:07.744  5595  5595 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:07.751  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:07.776  5595  5595 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.776  5595  5595 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.782  5595  5595 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:07.782  5595  5595 D AndroidRuntime: Shutting down VM
+01-07 05:31:07.783  5595  5595 I Process : Sending signal. PID: 5595 SIG: 9
+01-07 05:31:07.791  2145  3552 I ActivityManager: Process com.tencent.mm (pid 5595) has died
+01-07 05:31:07.791  2145  3552 W ActivityManager: Force removing ActivityRecord{245c313 u0 com.tencent.mm/.ui.LauncherUI t32}: app died, no saved state
+01-07 05:31:07.821  2145  2165 W InputMethodManagerService: Focus gain on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2497be73 (uid=10033 pid=2421)
+01-07 05:31:07.823  2145  3551 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@c68e37b attribute=null, token = android.os.BinderProxy@3f680467
+01-07 05:31:09.187  2145  2305 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10033 on display 0
+01-07 05:31:09.188  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:31:09.188  2145  2305 V WindowManager: addAppToken: AppWindowToken{74a51d6 token=Token{2d8f61f1 ActivityRecord{2a1a8598 u0 com.tencent.mm/.ui.LauncherUI t33}}} to stack=1 task=33 at 0
+01-07 05:31:09.206  5623  5623 W libnb   : Native bridge is disabled
+01-07 05:31:09.206  2145  2165 I ActivityManager: Start proc 5623:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:09.212  5623  5623 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:09.215  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:09.227  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1372, 315).
+01-07 05:31:09.240  5623  5623 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.240  5623  5623 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.250  5623  5623 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.250  5623  5623 D AndroidRuntime: Shutting down VM
+01-07 05:31:09.251  5623  5623 I Process : Sending signal. PID: 5623 SIG: 9
+01-07 05:31:09.261  2145  2164 I ActivityManager: Process com.tencent.mm (pid 5623) has died
+01-07 05:31:09.276  5651  5651 W libnb   : Native bridge is disabled
+01-07 05:31:09.276  2145  2164 I ActivityManager: Start proc 5651:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:09.280  5651  5651 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:09.282  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:09.298  5651  5651 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.298  5651  5651 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.304  5651  5651 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.304  5651  5651 D AndroidRuntime: Shutting down VM
+01-07 05:31:09.305  5651  5651 I Process : Sending signal. PID: 5651 SIG: 9
+01-07 05:31:09.315  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1373, 315).
+01-07 05:31:09.320  2145  2685 I ActivityManager: Process com.tencent.mm (pid 5651) has died
+01-07 05:31:09.335  2145  2685 I ActivityManager: Start proc 5678:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:09.340  5678  5678 W libnb   : Native bridge is disabled
+01-07 05:31:09.345  5678  5678 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:09.347  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:09.364  5678  5678 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.364  5678  5678 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.372  5678  5678 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:09.372  5678  5678 D AndroidRuntime: Shutting down VM
+01-07 05:31:09.372  5678  5678 I Process : Sending signal. PID: 5678 SIG: 9
+01-07 05:31:09.382  2145  2685 I ActivityManager: Process com.tencent.mm (pid 5678) has died
+01-07 05:31:09.382  2145  2685 W ActivityManager: Force removing ActivityRecord{2a1a8598 u0 com.tencent.mm/.ui.LauncherUI t33}: app died, no saved state
+01-07 05:31:09.405  2145  3554 W InputMethodManagerService: Focus gain on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2497be73 (uid=10033 pid=2421)
+01-07 05:31:09.408  2145  2164 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3df63b12 attribute=null, token = android.os.BinderProxy@3f680467
+01-07 05:31:09.587  5705  5705 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:31:10.069  2145  2685 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10033 on display 0
+01-07 05:31:10.070  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:31:10.071  2145  2685 V WindowManager: addAppToken: AppWindowToken{21472399 token=Token{22c724e0 ActivityRecord{29c2d2e3 u0 com.tencent.mm/.ui.LauncherUI t34}}} to stack=1 task=34 at 0
+01-07 05:31:10.088  5707  5707 W libnb   : Native bridge is disabled
+01-07 05:31:10.089  2145  2492 I ActivityManager: Start proc 5707:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:10.094  5707  5707 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:10.097  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:10.134  2145  2678 I art     : Explicit concurrent mark sweep GC freed 16350(1130KB) AllocSpace objects, 10(160KB) LOS objects, 33% free, 17MB/26MB, paused 315us total 13.009ms
+01-07 05:31:10.135  5707  5707 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.135  5707  5707 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.146  5707  5707 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.146  5707  5707 D AndroidRuntime: Shutting down VM
+01-07 05:31:10.147  5707  5707 I Process : Sending signal. PID: 5707 SIG: 9
+01-07 05:31:10.153  2145  3554 I ActivityManager: Process com.tencent.mm (pid 5707) has died
+01-07 05:31:10.163  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1376, 314).
+01-07 05:31:10.168  2145  3554 I ActivityManager: Start proc 5736:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:10.174  5736  5736 W libnb   : Native bridge is disabled
+01-07 05:31:10.178  5736  5736 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:10.181  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:10.196  5736  5736 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.196  5736  5736 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.202  5736  5736 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.202  5736  5736 D AndroidRuntime: Shutting down VM
+01-07 05:31:10.203  5736  5736 I Process : Sending signal. PID: 5736 SIG: 9
+01-07 05:31:10.212  2145  2305 I ActivityManager: Process com.tencent.mm (pid 5736) has died
+01-07 05:31:10.227  2145  2305 I ActivityManager: Start proc 5763:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:10.227  5763  5763 W libnb   : Native bridge is disabled
+01-07 05:31:10.232  5763  5763 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:10.234  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:10.250  5763  5763 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.250  5763  5763 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.256  5763  5763 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:10.256  5763  5763 D AndroidRuntime: Shutting down VM
+01-07 05:31:10.257  5763  5763 I Process : Sending signal. PID: 5763 SIG: 9
+01-07 05:31:10.273  2145  2305 I ActivityManager: Process com.tencent.mm (pid 5763) has died
+01-07 05:31:10.273  2145  2305 W ActivityManager: Force removing ActivityRecord{29c2d2e3 u0 com.tencent.mm/.ui.LauncherUI t34}: app died, no saved state
+01-07 05:31:10.301  2145  3554 W InputMethodManagerService: Focus gain on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2497be73 (uid=10033 pid=2421)
+01-07 05:31:10.302  2145  2547 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@33808c5 attribute=null, token = android.os.BinderProxy@3f680467
+01-07 05:31:11.253  2145  2164 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10033 on display 0
+01-07 05:31:11.253  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:31:11.254  2145  2164 V WindowManager: addAppToken: AppWindowToken{1c440728 token=Token{31c8314b ActivityRecord{3ee5f21a u0 com.tencent.mm/.ui.LauncherUI t35}}} to stack=1 task=35 at 0
+01-07 05:31:11.272  5791  5791 W libnb   : Native bridge is disabled
+01-07 05:31:11.273  2145  2305 I ActivityManager: Start proc 5791:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:11.278  5791  5791 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:11.281  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:11.302  5791  5791 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.302  5791  5791 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.311  5791  5791 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.311  5791  5791 D AndroidRuntime: Shutting down VM
+01-07 05:31:11.312  5791  5791 I Process : Sending signal. PID: 5791 SIG: 9
+01-07 05:31:11.320  2145  2165 I ActivityManager: Process com.tencent.mm (pid 5791) has died
+01-07 05:31:11.325  5819  5819 W libnb   : Native bridge is disabled
+01-07 05:31:11.328  1894  1894 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 52us total 3.353ms
+01-07 05:31:11.330  1894  1894 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 31us total 2.264ms
+01-07 05:31:11.331  2145  2165 I ActivityManager: Start proc 5819:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:11.332  5819  5819 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:11.333  1894  1894 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 31us total 2.277ms
+01-07 05:31:11.334  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:11.351  5819  5819 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.351  5819  5819 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.357  5819  5819 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.357  5819  5819 D AndroidRuntime: Shutting down VM
+01-07 05:31:11.358  5819  5819 I Process : Sending signal. PID: 5819 SIG: 9
+01-07 05:31:11.367  2145  2678 I ActivityManager: Process com.tencent.mm (pid 5819) has died
+01-07 05:31:11.371  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1376, 314).
+01-07 05:31:11.382  2145  2678 I ActivityManager: Start proc 5846:com.tencent.mm/u0a58 for activity com.tencent.mm/.ui.LauncherUI
+01-07 05:31:11.387  5846  5846 W libnb   : Native bridge is disabled
+01-07 05:31:11.392  5846  5846 I ActivityThread: Switching default density from 160 to 240
+01-07 05:31:11.394  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10058 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:11.412  5846  5846 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.412  5846  5846 E art     : dlopen("/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.mm-1/lib/arm/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.422  5846  5846 E art     : dlopen("/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so" has unexpected e_machine: 40
+01-07 05:31:11.422  5846  5846 D AndroidRuntime: Shutting down VM
+01-07 05:31:11.423  5846  5846 I Process : Sending signal. PID: 5846 SIG: 9
+01-07 05:31:11.432  2145  2305 I ActivityManager: Process com.tencent.mm (pid 5846) has died
+01-07 05:31:11.433  2145  2305 W ActivityManager: Force removing ActivityRecord{3ee5f21a u0 com.tencent.mm/.ui.LauncherUI t35}: app died, no saved state
+01-07 05:31:11.454  2145  3554 W InputMethodManagerService: Focus gain on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2497be73 (uid=10033 pid=2421)
+01-07 05:31:11.455  2145  2547 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3eaf404 attribute=null, token = android.os.BinderProxy@3f680467
+01-07 05:31:12.640  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:31:13.860  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:31:13.871  2145  2678 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:31:13.922  2145  3551 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2497be73 (uid=10033 pid=2421)
+01-07 05:31:14.600  5874  5874 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:31:14.828  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:31:14.885  3061  3061 I Term    : Bound to TermService
+01-07 05:31:14.885  3061  3061 I TermService: Activity binding to service
+01-07 05:31:19.611  5881  5881 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:31:23.631  5882  5882 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

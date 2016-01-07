@@ -1,0 +1,419 @@
+01-07 05:22:09.812  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:09.820  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:22:09.820  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:22:09.823  2145  2492 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:22:09.825  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:22:09.865  3061  3061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:22:09.920  3791  3791 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:10.838  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:22:10.838  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:22:10.872  3599  3716 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:11.300  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:11.344  3793  3793 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.349  3794  3794 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.355  3799  3799 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.359  3800  3800 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.464  3802  3802 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.469  3803  3803 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.472  3804  3804 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.507  3805  3805 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.509  3806  3806 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:11.510  3807  3807 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:14.673  2994  3142 W PackageParser: Unknown element under <application>: enable-feature at /storage/usb0/CTS/test-APK/Skype_101647489.apk Binary XML file line #159
+01-07 05:22:14.674  2994  3142 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/Skype_101647489.apk Binary XML file line #246
+01-07 05:22:14.930  3808  3808 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:15.500  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:15.506  2145  3552 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/org.mozilla.firefox_42.0-2015380180_minAPI9(x86)(nodpi).apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:22:15.512  2145  3552 V WindowManager: addAppToken: AppWindowToken{3f9ec07 token=Token{ccb3246 ActivityRecord{385ebe21 u0 com.android.packageinstaller/.PackageInstallerActivity t13}}} to stack=1 task=13 at 1
+01-07 05:22:15.513  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:22:15.600  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.mozilla.firefox_fxaccount.permission.PER_ACCOUNT_TYPE
+01-07 05:22:15.600  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.mozilla.firefox.permission.PER_ANDROID_PACKAGE
+01-07 05:22:15.600  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.mozilla.firefox_sync.permission.PER_ACCOUNT_TYPE
+01-07 05:22:15.601  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.mozilla.firefox.permissions.PASSWORD_PROVIDER
+01-07 05:22:15.601  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.mozilla.firefox.permissions.BROWSER_PROVIDER
+01-07 05:22:15.601  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.mozilla.firefox.permissions.FORMHISTORY_PROVIDER
+01-07 05:22:15.601  3236  3236 W AppSecurityPermissions: Couldn't retrieve shared user id for: org.mozilla.firefox
+01-07 05:22:15.608  2145  3554 V WindowManager: Adding window Window{37c81b5d u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 6 of 11 (after Window{2cac20df u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:22:15.645  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +130ms
+01-07 05:22:16.953  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:17.537  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:17.987  2145  2492 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/org.mozilla.firefox_42.0-2015380180_minAPI9(x86)(nodpi).apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10039 on display 0
+01-07 05:22:17.988  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:17.989  2145  2492 V WindowManager: addAppToken: AppWindowToken{2a701059 token=Token{2800cca0 ActivityRecord{203f41a3 u0 com.android.packageinstaller/.InstallAppProgress t13}}} to stack=1 task=13 at 2
+01-07 05:22:18.014  2145  2547 V WindowManager: Adding window Window{29f0842a u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 7 of 12 (after Window{37c81b5d u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:22:18.044  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +41ms
+01-07 05:22:18.078  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f4227396800 (RippleDrawable) with handle 0x7f422708a120
+01-07 05:22:18.286  3284  3303 D DefContainer: Copying /storage/usb0/CTS/test-APK/org.mozilla.firefox_42.0-2015380180_minAPI9(x86)(nodpi).apk to base.apk
+01-07 05:22:19.941  3819  3819 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:20.228  2145  2179 D PackageManager: Renaming /data/app/vmdl294111274.tmp to /data/app/org.mozilla.firefox-1
+01-07 05:22:20.228  2145  2179 I PackageManager: New shared user org.mozilla.firefox.sharedID: id=10052
+01-07 05:22:20.282  2145  2179 I PackageManager: Running dexopt on: /data/app/org.mozilla.firefox-1/base.apk pkg=org.mozilla.firefox isa=x86 vmSafeMode=false
+01-07 05:22:20.284  3820  3820 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 05:22:20.285  3820  3820 E cutils-trace: Error opening trace file: Permission denied (13)
+01-07 05:22:20.285  3820  3820 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/org.mozilla.firefox-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@org.mozilla.firefox-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-07 05:22:20.351  3820  3820 I dex2oat : Decided to run without swap.
+01-07 05:22:20.878  3599  3715 E ImageLoader: Unable to resolve host "img.phone.baidu.com": No address associated with hostname
+01-07 05:22:21.196  3820  3820 I dex2oat : dex2oat took 910.740ms (threads: 8) arena alloc=722KB java alloc=11MB native alloc=19MB free=16MB
+01-07 05:22:21.203  2145  2179 W PackageManager: Package org.mozilla.firefox has activity org.mozilla.firefox.App with priority > 0, forcing to 0
+01-07 05:22:21.654  2145  2179 V BackupManagerService: restoreAtInstall pkg=org.mozilla.firefox token=3 restoreSet=0
+01-07 05:22:21.654  2145  2179 V BackupManagerService: Finishing install immediately
+01-07 05:22:21.655  2145  2179 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-07 05:22:21.660  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 05:22:21.690  2145  2179 I art     : Explicit concurrent mark sweep GC freed 52095(2MB) AllocSpace objects, 11(3MB) LOS objects, 33% free, 13MB/19MB, paused 966us total 35.017ms
+01-07 05:22:21.696  2145  2169 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-07 05:22:21.751  2145  3554 W ActivityManager: getTasks: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:22:21.751  2145  2678 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10051 on display 0
+01-07 05:22:21.752  2145  2678 V WindowManager: addAppToken: AppWindowToken{37a09a90 token=Token{2ec6d153 ActivityRecord{220a6d42 u0 com.estrongs.android.pop/.app.InstallMonitorActivity t17}}} to stack=1 task=17 at 0
+01-07 05:22:21.770  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:22:21.770  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:22:21.855  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:22:21.902  2145  2164 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3dc52ba8 attribute=null, token = android.os.BinderProxy@20085915
+01-07 05:22:21.952  2145  2145 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:org.mozilla.firefox flg=0x4000010 (has extras) }
+01-07 05:22:22.073  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:22:22.073  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:22:22.185  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:22:22.402  2145  2170 W ActivityManager: Activity pause timeout for ActivityRecord{220a6d42 u0 com.estrongs.android.pop/.app.InstallMonitorActivity t17 f}
+01-07 05:22:22.530  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:22:23.019  2145  3554 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=org.mozilla.firefox cmp=org.mozilla.firefox/.App} from uid 10039 on display 0
+01-07 05:22:23.019  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:23.020  2145  3554 V WindowManager: addAppToken: AppWindowToken{37155a54 token=Token{308365a7 ActivityRecord{364e0e66 u0 org.mozilla.firefox/.App t18}}} to stack=1 task=18 at 0
+01-07 05:22:23.030  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:22:23.033  2145  2175 V WindowManager: Adding window Window{dc5629f u0 Starting org.mozilla.firefox} at 7 of 12 (after Window{29f0842a u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+01-07 05:22:23.073  2145  2685 I ActivityManager: Start proc 3836:org.mozilla.firefox/u0a52 for activity org.mozilla.firefox/.App
+01-07 05:22:23.082  3836  3836 I ActivityThread: Switching default density from 160 to 240
+01-07 05:22:23.103  2145  2213 D NsdService: startMDnsDaemon
+01-07 05:22:23.104  1885  2122 D MDnsDS  : Starting MDNSD
+01-07 05:22:23.111  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f4231016800 (RippleDrawable) with handle 0x7f421e183a00
+01-07 05:22:23.304  2145  2213 D NsdService: New client listening to asynchronous messages
+01-07 05:22:23.305  2145  2213 D NsdService: New client, channel: com.android.internal.util.AsyncChannel@136e0084 messenger: android.os.Messenger@3416a06d
+01-07 05:22:23.314  3836  3836 V GeckoProfile: Fetching profile: 'default', 'null'
+01-07 05:22:23.318  3836  3859 D GeckoSharedPrefs: Current version = 0, prefs version = 1
+01-07 05:22:23.318  3836  3859 D GeckoSharedPrefs: Performing migration
+01-07 05:22:23.319  3836  3859 D GeckoSharedPrefs: Migrating to version = 1
+01-07 05:22:23.319  3836  3859 D GeckoSharedPrefs: Migrating from PreferenceManager
+01-07 05:22:23.320  3836  3859 D GeckoSharedPrefs: All keys have been migrated
+01-07 05:22:23.329  3836  3836 D GeckoScreenOrientation: updating to new orientation LANDSCAPE_PRIMARY
+01-07 05:22:23.330  3836  3864 D GeckoLoader: Gecko environment env0: null
+01-07 05:22:23.332  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/org.mozilla.firefox/files/Download/
+01-07 05:22:23.332  3836  3864 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/org.mozilla.firefox/files/Download
+01-07 05:22:23.333  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/org.mozilla.firefox/files/Download/
+01-07 05:22:23.333  3836  3864 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/org.mozilla.firefox/files/Download
+01-07 05:22:23.334  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/org.mozilla.firefox/files/Download/
+01-07 05:22:23.334  3836  3864 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/org.mozilla.firefox/files/Download
+01-07 05:22:23.334  1878  1905 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/org.mozilla.firefox/files/Download/
+01-07 05:22:23.335  3836  3864 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/org.mozilla.firefox/files/Download
+01-07 05:22:23.337  3836  3864 E GeckoLibLoad: Load sqlite start
+01-07 05:22:23.345  3836  3836 I GeckoAxis: Prefs: 0.85,0.97,10.0,0.04,0.04,0.3,0.5
+01-07 05:22:23.345  3836  3864 W GeckoLinker: /data/app/org.mozilla.firefox-1/base.apk!/assets/x86/libnss3.so: unhandled flags #8 not handled
+01-07 05:22:23.358  3836  3864 E GeckoLibLoad: Load sqlite done
+01-07 05:22:23.360  3836  3864 E GeckoLibLoad: Load nss start
+01-07 05:22:23.360  3836  3864 E GeckoLibLoad: Load nss done
+01-07 05:22:23.362  3836  3864 W GeckoLinker: /data/app/org.mozilla.firefox-1/base.apk!/assets/x86/libxul.so: unhandled flags #8 not handled
+01-07 05:22:23.363  3836  3864 W GeckoLinker: /data/app/org.mozilla.firefox-1/base.apk!/assets/x86/liblgpllibs.so: unhandled flags #8 not handled
+01-07 05:22:23.396  3836  3859 D GeckoSessInfo: Building SessionInformation from prefs: 0, 0, true, false
+01-07 05:22:23.396  3836  3859 D GeckoProfile: Created new profile dir.
+01-07 05:22:23.396  3836  3859 D Telemetry: StartUISession: firstrun.1
+01-07 05:22:23.396  3836  3859 I GeckoProfile: Enqueuing profile init.
+01-07 05:22:23.397  3836  3859 D GeckoApp: OS locale is zh_CN, app locale is null
+01-07 05:22:23.397  3836  3859 D GeckoHealthRec: Initializing. Dispatcher is org.mozilla.gecko.EventDispatcher@f894c83
+01-07 05:22:23.397  3836  3859 D GeckoHealthRec: Initializing profile cache.
+01-07 05:22:23.397  3836  3859 D GeckoHealthRec: Looking for /data/data/org.mozilla.firefox/files/mozilla/dluv9i60.default/times.json
+01-07 05:22:23.397  3836  3859 D GeckoHealthRec: Using times.json for profile creation time.
+01-07 05:22:23.397  3836  3859 D GeckoHealthRec: Incorporating environment: times.json profile creation = 1452144143397
+01-07 05:22:23.397  3836  3859 D GeckoHardwareUtils: HardwareUtils already inited.
+01-07 05:22:23.400  3836  3836 F Adjust  : PRODUCTION: Adjust is running in Production mode. Use this setting only for the build that you want to publish. Set the environment to `sandbox` if you want to test your app!
+01-07 05:22:23.401  3836  3836 V NFC     : this device does not have NFC support
+01-07 05:22:23.401  3836  3859 D GeckoProfile: Running post-distribution task: bookmarks.
+01-07 05:22:23.401  3836  3836 D GeckoSysInfo: System memory: 15940MB.
+01-07 05:22:23.401  3836  3866 W GooglePlayServicesUtil: Google Play services is missing.
+01-07 05:22:23.401  3836  3866 W Adjust  : Missing permission: ACCESS_WIFI_STATE
+01-07 05:22:23.402  3836  3866 E ActivityThread: Failed to find provider info for com.facebook.katana.provider.AttributionIdProvider
+01-07 05:22:23.406  3836  3868 W ActivityThread: ClassLoader.loadClass: The class loader returned by Thread.getContextClassLoader() may fail for processes that host multiple applications. You should explicitly specify a context class loader. For example: Thread.setContextClassLoader(getClass().getClassLoader());
+01-07 05:22:23.438  3836  3864 E GeckoLibLoad: Loaded libs in 78.532987ms total, 72ms(118ms) user, 6ms(14ms) system, 0(1) faults
+01-07 05:22:23.439  3836  3864 W GeckoThread: zerdatime 240387 - runGecko
+01-07 05:22:23.508  3836  3873 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-07 05:22:23.519  2145  3551 V WindowManager: Adding window Window{23082bd9 u0 org.mozilla.firefox/org.mozilla.firefox.App} at 7 of 13 (before Window{dc5629f u0 Starting org.mozilla.firefox})
+01-07 05:22:23.520  3836  3836 D GeckoBrowserApp: onLocaleReady: zh_CN
+01-07 05:22:23.737  3836  3873 I GRALLOC-DRM: create intel for driver i915
+01-07 05:22:23.738  3836  3873 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-07 05:22:23.738  3836  3873 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-07 05:22:23.744  3836  3873 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-07 05:22:23.744  3836  3873 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-07 05:22:23.744  3836  3873 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-07 05:22:23.744  3836  3873 I OpenGLRenderer: Initialized EGL, version 1.4
+01-07 05:22:23.744  3836  3873 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-07 05:22:23.745  3836  3873 D OpenGLRenderer: Enabling debug mode 0
+01-07 05:22:24.092  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:22:24.092  2272  2272 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:22:24.107  3874  3874 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:24.229  3836  3859 E SQLiteLog: (1) no such table: bookmarks
+01-07 05:22:24.233  3836  3859 D GeckoLocalBrowserDB: No raw favicon resource found for bookmarkdefaults_title_aboutfirefox
+01-07 05:22:24.233  3836  3859 E GeckoLocalBrowserDB: Failed to find favicon resource ID for bookmarkdefaults_title_aboutfirefox
+01-07 05:22:24.233  3836  3859 D GeckoLocalBrowserDB: No raw favicon resource found for bookmarkdefaults_title_aboutfirefox
+01-07 05:22:24.233  3836  3859 E GeckoLocalBrowserDB: Failed to find favicon resource ID for bookmarkdefaults_title_aboutfirefox
+01-07 05:22:24.263  3836  3859 D GeckoHealthRec: Requesting all add-ons and FHR prefs from Gecko.
+01-07 05:22:24.263  3836  3859 D GeckoSessInfo: Recording start of session: 1452144143402
+01-07 05:22:24.317  3836  3864 I GeckoConsole: Could not read chrome manifest 'file:///data/data/org.mozilla.firefox/chrome.manifest'.
+01-07 05:22:24.326  3836  3864 I Gecko:DumpUtils: Fifo watcher disabled via pref.
+01-07 05:22:24.395  3836  3836 E GeckoApp: An error occurred during restore
+01-07 05:22:24.395  3836  3836 E GeckoApp: org.mozilla.gecko.GeckoApp$SessionRestoreException: Could not read from session file
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at org.mozilla.gecko.GeckoApp.restoreSessionTabs(GeckoApp.java:1663)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at org.mozilla.gecko.GeckoApp.onGlobalLayout(GeckoApp.java:1628)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.view.ViewTreeObserver.dispatchOnGlobalLayout(ViewTreeObserver.java:912)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:1881)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1061)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:5885)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:767)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.view.Choreographer.doCallbacks(Choreographer.java:580)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.view.Choreographer.doFrame(Choreographer.java:550)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:753)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.os.Handler.handleCallback(Handler.java:739)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.os.Looper.loop(Looper.java:135)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at java.lang.reflect.Method.invoke(Native Method)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-07 05:22:24.395  3836  3836 E GeckoApp: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-07 05:22:24.395  3836  3836 D GeckoTabs: Setting about: tab favicon inline.
+01-07 05:22:24.397  2145  3553 V WindowManager: Adding window Window{a5c10e4 u0 SurfaceView} at 7 of 14 (before Window{23082bd9 u0 org.mozilla.firefox/org.mozilla.firefox.App})
+01-07 05:22:24.402  3836  3836 I Choreographer: Skipped 51 frames!  The application may be doing too much work on its main thread.
+01-07 05:22:24.458  2145  2175 I ActivityManager: Displayed org.mozilla.firefox/.App: +1s405ms (total +2s689ms)
+01-07 05:22:24.459  3836  3836 D GeckoToolbar: onTabChanged: SELECTED
+01-07 05:22:24.459  3836  3836 I GeckoToolbarDisplayLayout: zerdatime 241408 - Throbber stop
+01-07 05:22:24.472  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: SELECTED
+01-07 05:22:24.474  3836  3836 D Telemetry: StopUISession: awesomescreen.1, reason=null
+01-07 05:22:24.476  3836  3836 D GeckoToolbar: onTabChanged: MENU_UPDATED
+01-07 05:22:24.476  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: MENU_UPDATED
+01-07 05:22:24.476  3836  3836 D GeckoToolbar: onTabChanged: MENU_UPDATED
+01-07 05:22:24.476  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: MENU_UPDATED
+01-07 05:22:24.476  3836  3836 D GeckoToolbar: onTabChanged: RESTORED
+01-07 05:22:24.478  3836  3836 W TwoWayView: Inflation setting LayoutParams height to MATCH_PARENT - does not make much sense as the view might change orientation. Falling back to WRAP_CONTENT
+01-07 05:22:24.484  3836  3836 W InputMethodManager: Ignoring onBind: cur seq=33, given seq=32
+01-07 05:22:24.489  3836  3836 D GeckoToolbar: onTabChanged: FAVICON
+01-07 05:22:24.489  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: FAVICON
+01-07 05:22:24.492  3836  3901 I GeckoHealth: firefox :: HealthReportBroadcastService :: Registering HealthReportUploadService.
+01-07 05:22:24.492  3836  3901 I GeckoHealth: firefox :: BackgroundService :: Setting inexact repeating alarm for interval 3600000
+01-07 05:22:24.493  3836  3903 D GeckoSuggestedSites: No cached sites, refreshing.
+01-07 05:22:24.493  3836  3903 D GeckoSuggestedSites: Refreshing suggested sites from file
+01-07 05:22:24.493  3836  3903 D GeckoSuggestedSites: Loading blacklisted suggested sites from SharedPreferences.
+01-07 05:22:24.493  3836  3903 D GeckoSuggestedSites: Number of suggested sites: 7
+01-07 05:22:24.778  3836  3864 I Gecko   : Attempting load of libEGL.so
+01-07 05:22:24.778  3836  3864 E libEGL  : validate_display:255 error 3008 (EGL_BAD_DISPLAY)
+01-07 05:22:24.925  3836  3864 W ResourceType: Too many attribute references, stopped at: 0x01010099
+01-07 05:22:24.949  3836  3864 I GeckoConsole: Get a connection to permissions.sqlite.
+01-07 05:22:24.950  3836  3864 I GeckoConsole: DB table(moz_perms) is created!
+01-07 05:22:24.998  3836  3864 D GeckoBrowser: zerdatime 1452144144997 - browser chrome startup finished.
+01-07 05:22:25.000  3836  3864 D GeckoBrowser: Adding HealthReport:RequestSnapshot observer.
+01-07 05:22:25.015  3836  3864 W GeckoLinker: /data/app/org.mozilla.firefox-1/base.apk!/assets/x86/libsoftokn3.so: unhandled flags #8 not handled
+01-07 05:22:25.017  3836  3864 W GeckoLinker: /data/app/org.mozilla.firefox-1/base.apk!/assets/x86/libfreebl3.so: unhandled flags #8 not handled
+01-07 05:22:25.639  3836  3836 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-07 05:22:25.816  3836  3864 W GeckoLinker: /data/app/org.mozilla.firefox-1/base.apk!/assets/x86/libnssckbi.so: unhandled flags #8 not handled
+01-07 05:22:26.035  3836  3864 D GeckoLayerClient: Screen-size changed to (1920,1008)
+01-07 05:22:26.035  3836  3864 D GeckoLayerClient: Window-size changed to (1920,808)
+01-07 05:22:26.042  3836  3864 D Telemetry: SendUIEvent: event = policynotification.success.1:true method = null timestamp = 242990 extras = null
+01-07 05:22:26.091  3836  3864 W GeckoScreenOrientation: screenOrientationFromString: unknown orientation string: 
+01-07 05:22:26.106  3836  3864 I GeckoAxis: Prefs: 0.85,0.97,10.0,0.04,0.04,0.3,0.5
+01-07 05:22:26.125  3836  3836 D GeckoLayerClient: Window-size changed to (1920,970)
+01-07 05:22:26.135  1879  1879 E SurfaceFlinger: rejecting buffer: bufWidth=1920, bufHeight=808, front.active.{w=1920, h=970}
+01-07 05:22:26.227  3836  3864 W GeckoEventDispatcher: No listeners for Pref:Change
+01-07 05:22:26.228  3836  3836 D GeckoToolbar: onTabChanged: TITLE
+01-07 05:22:26.229  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: TITLE
+01-07 05:22:26.280  3836  3864 D GeckoTabs: handleMessage: Tab:Added
+01-07 05:22:26.283  3836  3864 D GeckoTabs: handleMessage: Content:StateChange
+01-07 05:22:26.283  3836  3836 D GeckoToolbar: onTabChanged: START
+01-07 05:22:26.283  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: START
+01-07 05:22:26.290  3836  3864 D GeckoHealthRec: Got all add-ons and prefs.
+01-07 05:22:26.290  3836  3864 I GeckoHealthRec: Persisting 1 add-ons.
+01-07 05:22:26.290  3836  3864 I GeckoHealthRec: Persisting prefs.
+01-07 05:22:26.290  3836  3864 D GeckoHealthRec: Incorporating environment: extensions.blocklist.enabled
+01-07 05:22:26.290  3836  3864 D GeckoHealthRec: Incorporating environment: toolkit.telemetry.enabled
+01-07 05:22:26.290  3836  3864 D GeckoHealthRec: Incorporating environment: intl.accept_languages
+01-07 05:22:26.290  3836  3864 D GeckoHealthRec: Done initializing profile cache. Beginning storage init.
+01-07 05:22:26.298  3836  3864 D GeckoTabs: handleMessage: Content:LocationChange
+01-07 05:22:26.298  3836  3836 D GeckoToolbar: onTabChanged: LOCATION_CHANGE
+01-07 05:22:26.298  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: LOCATION_CHANGE
+01-07 05:22:26.299  3836  3864 D GeckoTabs: handleMessage: Content:SecurityChange
+01-07 05:22:26.299  3836  3836 D GeckoToolbar: onTabChanged: SECURITY_CHANGE
+01-07 05:22:26.299  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: SECURITY_CHANGE
+01-07 05:22:26.304  3836  3864 D GeckoTabs: handleMessage: DOMTitleChanged
+01-07 05:22:26.304  3836  3836 D GeckoToolbar: onTabChanged: TITLE
+01-07 05:22:26.305  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: TITLE
+01-07 05:22:26.307  3836  3864 D GeckoTabs: handleMessage: DOMContentLoaded
+01-07 05:22:26.312  3836  3864 D GeckoTabs: handleMessage: Content:PageShow
+01-07 05:22:26.312  3836  3864 D GeckoTabs: handleMessage: Tab:ViewportMetadata
+01-07 05:22:26.313  3836  3864 D GeckoTabs: handleMessage: Content:StateChange
+01-07 05:22:26.318  3836  3836 D GeckoToolbar: onTabChanged: LOADED
+01-07 05:22:26.318  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: LOADED
+01-07 05:22:26.318  3836  3836 D GeckoToolbar: onTabChanged: PAGE_SHOW
+01-07 05:22:26.318  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: PAGE_SHOW
+01-07 05:22:26.319  3836  3836 D GeckoToolbar: onTabChanged: VIEWPORT_CHANGE
+01-07 05:22:26.319  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: VIEWPORT_CHANGE
+01-07 05:22:26.319  3836  3836 D GeckoToolbar: onTabChanged: STOP
+01-07 05:22:26.319  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: STOP
+01-07 05:22:26.319  3836  3836 D GeckoToolbar: onTabChanged: FAVICON
+01-07 05:22:26.319  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: FAVICON
+01-07 05:22:26.322  3836  3864 I GeckoBrowserApp: Found tag 
+01-07 05:22:26.361  3836  3864 I GeckoDisplayPort: Set strategy VelocityBiasStrategy mult=2.0, threshold=7.6800003, reverse=0.2, dangerBaseX=1.0, dangerBaseY=1.0, dangerIncrX=0.0, dangerIncrY=0.0
+01-07 05:22:26.361  3836  3864 D GeckoIdleService: Registering Idle observer callback
+01-07 05:22:26.361  3836  3864 D GeckoIdleService: Register idle observer 0xc8958b80 for 180 seconds
+01-07 05:22:26.361  3836  3864 D GeckoIdleService: Register: adjusting next switch from -1 to 180 seconds
+01-07 05:22:26.361  3836  3864 D GeckoIdleService: next timeout 180000 msec from now
+01-07 05:22:26.361  3836  3864 D GeckoIdleService: SetTimerExpiryIfBefore: next timeout 180000 msec from now
+01-07 05:22:26.361  3836  3864 D GeckoIdleService: reset timer expiry to 180010 msec from now
+01-07 05:22:26.372  3836  3836 I MediaRouter: Found default route: MediaRouter.RouteInfo{ uniqueId=android/.support.v7.media.SystemMediaRouteProvider:DEFAULT_ROUTE, name=平板电脑, description=null, enabled=true, connecting=false, canDisconnect=false, playbackType=0, playbackStream=3, volumeHandling=1, volume=11, volumeMax=15, presentationDisplayId=-1, extras=null, settingsIntent=null, providerPackageName=android }
+01-07 05:22:26.375  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:26.375  3836  3836 D Telemetry: SendUIEvent: event = cancel.1 method = actionbar timestamp = 243323 extras = firstrun-pane
+01-07 05:22:26.376  3836  3836 D Telemetry: StartUISession: awesomescreen.1
+01-07 05:22:26.386  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:22:27.265  3836  3859 I GeckoLogger: firefox :: HealthReportStorage :: Initializing measurement org.mozilla.appSessions to 4 (current 0)
+01-07 05:22:27.266  3836  3859 I GeckoLogger: firefox :: HealthReportStorage :: Measurement org.mozilla.appSessions now at 4
+01-07 05:22:27.267  3836  3859 I GeckoLogger: firefox :: HealthReportStorage :: Initializing measurement org.mozilla.searches.counts to 6 (current 0)
+01-07 05:22:27.267  3836  3859 I GeckoLogger: firefox :: HealthReportStorage :: Measurement org.mozilla.searches.counts now at 6
+01-07 05:22:27.267  3836  3859 D GeckoHealthRec: Ensuring environment.
+01-07 05:22:27.271  3836  3859 D GeckoHealthRec: Finishing init.
+01-07 05:22:27.481  3836  3859 D GeckoHealthRec: Checking for orphan session.
+01-07 05:22:27.482  3836  3836 D GeckoToolbar: onTabChanged: THUMBNAIL
+01-07 05:22:27.482  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: THUMBNAIL
+01-07 05:22:28.016  3836  3836 D Telemetry: StartUISession: frecency.1
+01-07 05:22:28.409  3836  3836 W GeckoNetworkManager: Already started!
+01-07 05:22:29.119  3951  3951 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:30.963  3836  3836 D Telemetry: StopUISession: awesomescreen.1, reason=commit
+01-07 05:22:30.964  3836  3836 D Telemetry: StopUISession: frecency.1, reason=null
+01-07 05:22:30.965  3836  3836 D Telemetry: SendUIEvent: event = loadurl.1 method = actionbar timestamp = 247913 extras = user
+01-07 05:22:30.972  3836  3864 D GeckoTabs: handleMessage: Content:StateChange
+01-07 05:22:30.991  3836  3836 D GeckoToolbar: onTabChanged: START
+01-07 05:22:30.991  3836  3836 I GeckoToolbarDisplayLayout: zerdatime 247939 - Throbber start
+01-07 05:22:30.991  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: START
+01-07 05:22:30.999  3836  3864 D GeckoTabs: handleMessage: Content:LocationChange
+01-07 05:22:31.000  3836  3864 D GeckoTabs: handleMessage: Content:SecurityChange
+01-07 05:22:31.005  3836  3836 D GeckoToolbar: onTabChanged: TITLE
+01-07 05:22:31.007  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: TITLE
+01-07 05:22:31.007  3836  3836 D GeckoToolbar: onTabChanged: LOCATION_CHANGE
+01-07 05:22:31.007  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: LOCATION_CHANGE
+01-07 05:22:31.008  3836  3836 D GeckoToolbar: onTabChanged: SECURITY_CHANGE
+01-07 05:22:31.008  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: SECURITY_CHANGE
+01-07 05:22:31.008  3836  3836 D GeckoToolbar: onTabChanged: MENU_UPDATED
+01-07 05:22:31.008  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: MENU_UPDATED
+01-07 05:22:31.008  3836  3836 D GeckoToolbar: onTabChanged: MENU_UPDATED
+01-07 05:22:31.008  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: MENU_UPDATED
+01-07 05:22:31.009  3836  3864 D GeckoTabs: handleMessage: Tab:ViewportMetadata
+01-07 05:22:31.020  3836  3836 D GeckoToolbar: onTabChanged: VIEWPORT_CHANGE
+01-07 05:22:31.020  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: VIEWPORT_CHANGE
+01-07 05:22:31.022  3836  3864 D GeckoTabs: handleMessage: DOMTitleChanged
+01-07 05:22:31.040  3836  3836 D GeckoToolbar: onTabChanged: TITLE
+01-07 05:22:31.041  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: TITLE
+01-07 05:22:31.046  3836  3864 D GeckoTabs: handleMessage: DOMContentLoaded
+01-07 05:22:31.050  3836  3864 D GeckoTabs: handleMessage: Content:PageShow
+01-07 05:22:31.052  3836  3836 D GeckoToolbar: onTabChanged: LOADED
+01-07 05:22:31.052  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: LOADED
+01-07 05:22:31.052  3836  3836 D GeckoToolbar: onTabChanged: PAGE_SHOW
+01-07 05:22:31.052  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: PAGE_SHOW
+01-07 05:22:31.055  3836  3864 D GeckoTabs: handleMessage: Tab:ViewportMetadata
+01-07 05:22:31.056  3836  3864 D GeckoTabs: handleMessage: Content:StateChange
+01-07 05:22:31.070  3836  3836 D GeckoToolbar: onTabChanged: VIEWPORT_CHANGE
+01-07 05:22:31.070  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: VIEWPORT_CHANGE
+01-07 05:22:31.070  3836  3836 D GeckoToolbar: onTabChanged: STOP
+01-07 05:22:31.071  3836  3836 I GeckoToolbarDisplayLayout: zerdatime 248019 - Throbber stop
+01-07 05:22:31.071  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: STOP
+01-07 05:22:31.123  3836  3859 W GeckoGlobalHistory: Rebuilding visited link set...
+01-07 05:22:31.164  3836  3892 D FaviconCache: Favicon cache fullness: 5120/524288
+01-07 05:22:31.191  3836  3836 D GeckoToolbar: onTabChanged: FAVICON
+01-07 05:22:31.191  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: FAVICON
+01-07 05:22:31.557  3836  3859 D GeckoThumbnailHelper: Using new thumbnail size: 957696 (width 516 - height 464)
+01-07 05:22:31.557  3836  3859 D GeckoThumbnailHelper: Sending thumbnail event: 516, 464
+01-07 05:22:31.568  3836  3864 D GeckoThumbnailHelper: handleThumbnailData: 957696
+01-07 05:22:31.582  3836  3836 D GeckoToolbar: onTabChanged: THUMBNAIL
+01-07 05:22:31.582  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: THUMBNAIL
+01-07 05:22:33.444  3836  3864 W GeckoEventDispatcher: No listeners for Gesture:CloseZoomedView
+01-07 05:22:33.450  3836  3864 D GeckoTabs: handleMessage: Content:StateChange
+01-07 05:22:33.450  3836  3836 D GeckoToolbar: onTabChanged: START
+01-07 05:22:33.450  3836  3836 I GeckoToolbarDisplayLayout: zerdatime 250398 - Throbber start
+01-07 05:22:33.450  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: START
+01-07 05:22:33.790  3836  3859 D GeckoHealthRec: Recording session end: E
+01-07 05:22:33.973  3836  3859 V GeckoHealthRec: Recorded session entry for env 1, current is -1
+01-07 05:22:33.973  3836  3859 D GeckoSessInfo: Recording session done: 1452144143402
+01-07 05:22:33.973  3836  3859 V GeckoSessInfo: Recording runtime session transition: 1452144153973, 250922
+01-07 05:22:33.973  3836  3859 D GeckoSessInfo: Recording start of session: 1452144153973
+01-07 05:22:34.131  3965  3965 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:34.182  3836  3859 D GeckoHealthRec: Recording session end: E
+01-07 05:22:34.191  3836  3864 D GeckoTabs: handleMessage: Content:LocationChange
+01-07 05:22:34.191  3836  3836 D GeckoToolbar: onTabChanged: TITLE
+01-07 05:22:34.191  3836  3864 D GeckoTabs: handleMessage: Content:SecurityChange
+01-07 05:22:34.192  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: TITLE
+01-07 05:22:34.192  3836  3836 D GeckoToolbar: onTabChanged: LOCATION_CHANGE
+01-07 05:22:34.192  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: LOCATION_CHANGE
+01-07 05:22:34.192  3836  3836 D GeckoToolbar: onTabChanged: SECURITY_CHANGE
+01-07 05:22:34.192  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: SECURITY_CHANGE
+01-07 05:22:34.194  3836  3864 D GeckoTabs: handleMessage: DOMTitleChanged
+01-07 05:22:34.197  3836  3864 D GeckoTabs: handleMessage: DOMContentLoaded
+01-07 05:22:34.202  3836  3836 D GeckoToolbar: onTabChanged: TITLE
+01-07 05:22:34.203  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: TITLE
+01-07 05:22:34.203  3836  3836 D GeckoToolbar: onTabChanged: LOADED
+01-07 05:22:34.203  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: LOADED
+01-07 05:22:34.216  3836  3864 D GeckoTabs: handleMessage: Content:PageShow
+01-07 05:22:34.218  3836  3864 D GeckoTabs: handleMessage: Tab:ViewportMetadata
+01-07 05:22:34.218  3836  3836 D GeckoToolbar: onTabChanged: PAGE_SHOW
+01-07 05:22:34.218  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: PAGE_SHOW
+01-07 05:22:34.218  3836  3836 D GeckoToolbar: onTabChanged: VIEWPORT_CHANGE
+01-07 05:22:34.218  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: VIEWPORT_CHANGE
+01-07 05:22:34.220  3836  3864 D GeckoTabs: handleMessage: Tab:ViewportMetadata
+01-07 05:22:34.220  3836  3864 D GeckoTabs: handleMessage: Content:StateChange
+01-07 05:22:34.227  3836  3892 D FaviconCache: Favicon cache fullness: 6144/524288
+01-07 05:22:34.235  3836  3836 D GeckoToolbar: onTabChanged: VIEWPORT_CHANGE
+01-07 05:22:34.235  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: VIEWPORT_CHANGE
+01-07 05:22:34.235  3836  3836 D GeckoToolbar: onTabChanged: STOP
+01-07 05:22:34.235  3836  3836 I GeckoToolbarDisplayLayout: zerdatime 251183 - Throbber stop
+01-07 05:22:34.235  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: STOP
+01-07 05:22:34.252  3836  3836 D GeckoToolbar: onTabChanged: FAVICON
+01-07 05:22:34.253  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: FAVICON
+01-07 05:22:34.323  3836  3859 V GeckoHealthRec: Recorded session entry for env 2, current is 3
+01-07 05:22:34.324  3836  3859 D GeckoSessInfo: Recording session done: 1452144153973
+01-07 05:22:34.324  3836  3859 V GeckoSessInfo: Recording runtime session transition: 1452144154324, 251272
+01-07 05:22:34.324  3836  3859 D GeckoSessInfo: Recording start of session: 1452144154324
+01-07 05:22:34.402  3836  3836 D GeckoToolbar: onTabChanged: MENU_UPDATED
+01-07 05:22:34.402  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: MENU_UPDATED
+01-07 05:22:34.403  3836  3836 D GeckoToolbar: onTabChanged: MENU_UPDATED
+01-07 05:22:34.403  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: MENU_UPDATED
+01-07 05:22:34.721  3836  3859 D GeckoThumbnailHelper: Using new thumbnail size: 957696 (width 516 - height 464)
+01-07 05:22:34.721  3836  3859 D GeckoThumbnailHelper: Sending thumbnail event: 516, 464
+01-07 05:22:34.763  3836  3864 D GeckoThumbnailHelper: handleThumbnailData: 957696
+01-07 05:22:34.940  3836  3836 D GeckoToolbar: onTabChanged: THUMBNAIL
+01-07 05:22:34.940  3836  3836 D GeckoBrowserApp: BrowserApp.onTabChanged: 0: THUMBNAIL
+01-07 05:22:36.620  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:36.632  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:22:36.637  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:22:36.637  2272  2272 W PackageManager: Failure retrieving resources for org.mozilla.firefox: Resource ID #0x0
+01-07 05:22:36.640  2145  2685 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:22:36.651  3836  3859 D GeckoHealthRec: Recording session end: P
+01-07 05:22:36.656  3836  3836 D GeckoMemoryMonitor: onTrimMemory() notification received with level 20
+01-07 05:22:36.656  3836  3836 D GeckoMemoryMonitor: increasing memory pressure to 1
+01-07 05:22:36.661  2145  2678 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2ee70cf3 (uid=10052 pid=3836)
+01-07 05:22:36.865  3836  3859 V GeckoHealthRec: Recorded session entry for env 3, current is 3
+01-07 05:22:36.865  3836  3859 D GeckoSessInfo: Recording session done: 1452144154324
+01-07 05:22:36.866  3836  3859 D GeckoBrowserProvider: Expiring history.
+01-07 05:22:36.866  3836  3859 D GeckoBrowserProvider: Expiring thumbnails.
+01-07 05:22:36.869  3836  3977 I GeckoHealth: firefox :: HealthReportBroadcastService :: Registering HealthReportPruneService.
+01-07 05:22:36.869  3836  3977 I GeckoHealth: firefox :: BackgroundService :: Setting inexact repeating alarm for interval 86400000
+01-07 05:22:37.653  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:22:37.653  2272  2272 W PackageManager: Failure retrieving resources for org.mozilla.firefox: Resource ID #0x0
+01-07 05:22:38.316  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:22:38.380  3061  3061 I Term    : Bound to TermService
+01-07 05:22:38.380  3061  3061 I TermService: Activity binding to service
+01-07 05:22:39.143  3984  3984 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:41.196  3599  3711 W art     : No such thread id for suspend: 59
+01-07 05:22:41.196  3599  3750 W art     : No such thread id for suspend: 73
+01-07 05:22:44.151  3985  3985 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:49.163  3989  3989 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:54.175  3990  3990 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:22:54.428  2145  2492 I ActivityManager: Start proc 3991:org.mozilla.firefox.UpdateService/u0a52 for service org.mozilla.firefox/org.mozilla.gecko.updater.UpdateService
+01-07 05:22:54.435  3991  3991 I ActivityThread: Switching default density from 160 to 240
+01-07 05:22:54.448  2145  2213 D NsdService: New client listening to asynchronous messages
+01-07 05:22:54.448  2145  2213 D NsdService: New client, channel: com.android.internal.util.AsyncChannel@21b26cba messenger: android.os.Messenger@7f5276b
+01-07 05:22:54.449  2145  2211 D WifiService: New client listening to asynchronous messages
+01-07 05:22:54.545  3991  4013 I UpdateService: no update has ever been attempted, checking now
+01-07 05:22:54.637  3991  4013 I UpdateService: next update will be at: Fri Jan 08 05:22:54 GMT+00:00 2016
+01-07 05:22:54.641  3991  4013 I UpdateService: opening connection with URI: https://aus5.mozilla.org/update/4/Fennec/42.0/20151029024147/Android_x86-gcc3/en-US/release/5.1.1/default/default/42.0/update.xml
+01-07 05:22:54.643  3991  4013 W ActivityThread: ClassLoader.loadClass: The class loader returned by Thread.getContextClassLoader() may fail for processes that host multiple applications. You should explicitly specify a context class loader. For example: Thread.setContextClassLoader(getClass().getClassLoader());
+01-07 05:22:55.439  3991  4013 I UpdateService: no update available
+01-07 05:22:57.319  4018  4018 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

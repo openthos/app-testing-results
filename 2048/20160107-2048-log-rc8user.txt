@@ -1,0 +1,662 @@
+01-07 06:09:12.640  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:13.197  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:13.204  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 06:09:13.204  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 06:09:13.206  2145  3553 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 06:09:13.209  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 06:09:14.229  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 06:09:14.229  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 06:09:14.454  7804  7804 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:14.820  7192  7192 W Event   : Subscriber to unregister was not registered before: class com.tencent.qqmusic.ui.minibar.MinibarContent
+01-07 06:09:14.822  7192  7192 W Event   : Subscriber to unregister was not registered before: class com.tencent.qqmusic.fragment.mainpage.MainDesktopFragment
+01-07 06:09:14.822  7192  7192 W Event   : Subscriber to unregister was not registered before: class com.tencent.qqmusic.activity.AppStarterActivity
+01-07 06:09:14.853  2145  3554 I ActivityManager: Killing 7192:com.tencent.qqmusic/u0a61 (adj 16): remove task
+01-07 06:09:14.867  2145  2211 D WifiService: Client connection lost with reason: 4
+01-07 06:09:14.880  2145  2547 I ActivityManager: Killing 7242:com.tencent.qqmusic:QQPlayerService/u0a61 (adj 0): remove task
+01-07 06:09:14.882  2145  2211 D WifiService: Client connection lost with reason: 4
+01-07 06:09:14.894  2145  2547 W ActivityManager: Exception when unbinding service com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.network.NetworkService
+01-07 06:09:14.894  2145  2547 W ActivityManager: android.os.DeadObjectException
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at android.os.BinderProxy.transactNative(Native Method)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at android.os.BinderProxy.transact(Binder.java:496)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at android.app.ApplicationThreadProxy.scheduleUnbindService(ApplicationThreadNative.java:921)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at com.android.server.am.ActiveServices.removeConnectionLocked(ActiveServices.java:1795)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at com.android.server.am.ActiveServices.killServicesLocked(ActiveServices.java:2193)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at com.android.server.am.ActivityManagerService.cleanUpApplicationRecordLocked(ActivityManagerService.java:14907)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at com.android.server.am.ActivityManagerService.handleAppDiedLocked(ActivityManagerService.java:4557)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at com.android.server.am.ActivityManagerService.appDiedLocked(ActivityManagerService.java:4722)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at com.android.server.am.ActivityManagerService$AppDeathRecipient.binderDied(ActivityManagerService.java:1229)
+01-07 06:09:14.894  2145  2547 W ActivityManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:551)
+01-07 06:09:14.894  1876  1876 E lowmemorykiller: Error opening /proc/7242/oom_score_adj; errno=2
+01-07 06:09:14.894  2145  2547 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/.service.MainService in 1000ms
+01-07 06:09:14.894  2145  2547 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/.business.lockscreen.LockScreenService in 11000ms
+01-07 06:09:14.895  2145  2492 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.qqmusicdlna.QPlayService in 20999ms
+01-07 06:09:14.895  2145  2492 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.wns.service.WnsMain in 30999ms
+01-07 06:09:14.895  2145  2492 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.qplayauto.QPlayAutoService in 40999ms
+01-07 06:09:14.895  2145  2492 W ActivityManager: Scheduling restart of crashed service com.tencent.qqmusic/com.tencent.qqmusicplayerprocess.servicenew.QQPlayerServiceNew in 50999ms
+01-07 06:09:14.927  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=49_task.xml
+01-07 06:09:14.927  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=49_task_thumbnail.png
+01-07 06:09:15.914  7807  7807 W libnb   : Native bridge is disabled
+01-07 06:09:15.915  2145  2170 I ActivityManager: Start proc 7807:com.tencent.qqmusic/u0a61 for service com.tencent.qqmusic/.service.MainService
+01-07 06:09:15.918  7807  7807 I ActivityThread: Switching default density from 160 to 240
+01-07 06:09:15.922  7807  7807 D HotfixManager: installVerifyDex start
+01-07 06:09:15.922  7807  7828 D QQMusicPatchManager: patch_check_update_thread is running
+01-07 06:09:15.922  7807  7807 D HotfixManager: dexPath = /data/data/com.tencent.qqmusic/files/hotfix/verify.jar,odexPath = /data/data/com.tencent.qqmusic/files/odex_hotfix/
+01-07 06:09:15.923  7807  7807 D DexUtil : load clas com.tencent.NotDoVerifyClasses success 
+01-07 06:09:15.923  7807  7807 D HotfixManager: installHotfixDexImpl result = true,dexPath = /data/data/com.tencent.qqmusic/files/hotfix/verify.jar
+01-07 06:09:15.923  7807  7807 D HotfixManager: installVerifyDex result = true
+01-07 06:09:15.923  7807  7807 D QQMusicPatchManager: initAndInstallPatch 
+01-07 06:09:15.923  7807  7807 D HotfixManager: initAndInstallPatch start
+01-07 06:09:15.925  7807  7807 D PatchPreferences: getPatch success PatchConfig:,version:110,describe:微信登陆后无法分享到空间 ,length:15903,md5:b9bcfd2d17a2ac90e56b3e6bf780d375,url:http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip,downloadFilePath:/data/data/com.tencent.qqmusic/files/hotfix/110/110.jar,downloadDirPath:/data/data/com.tencent.qqmusic/files/hotfix/110/,score:0,isClose:false,versionCode:294
+01-07 06:09:15.925  7807  7807 D Patch   : verify simpleCheck = true
+01-07 06:09:15.925  7807  7807 D Patch   : verifyPatch versionCodeMatch = true,versionCode = 294,app versionCode = 294,check result = false
+01-07 06:09:15.925  7807  7807 D Patch   : verifyPatch file.length() = 15903,newPatch.length = 15903
+01-07 06:09:15.926  7807  7807 D Patch   : verifyPatch file.md5 = b9bcfd2d17a2ac90e56b3e6bf780d375,newPatch.md5 = b9bcfd2d17a2ac90e56b3e6bf780d375
+01-07 06:09:15.926  7807  7807 D Patch   : verifyPatch result = true
+01-07 06:09:15.926  7807  7807 D HotfixManager: initAndInstallPatch verify = true,patch = PatchConfig:,version:110,describe:微信登陆后无法分享到空间 ,length:15903,md5:b9bcfd2d17a2ac90e56b3e6bf780d375,url:http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip,downloadFilePath:/data/data/com.tencent.qqmusic/files/hotfix/110/110.jar,downloadDirPath:/data/data/com.tencent.qqmusic/files/hotfix/110/,score:0,isClose:false,versionCode:294
+01-07 06:09:15.930  7830  7830 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 06:09:15.931  7830  7830 E cutils-trace: Error opening trace file: Permission denied (13)
+01-07 06:09:15.931  7830  7830 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.tencent.qqmusic/files/hotfix/110/110.jar --oat-fd=17 --oat-location=/data/data/com.tencent.qqmusic/files/odex_hotfix/110.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m
+01-07 06:09:15.986  7830  7830 I dex2oat : dex2oat took 55.643ms (threads: 8) arena alloc=453KB java alloc=193KB native alloc=2MB free=5MB
+01-07 06:09:15.989  7807  7807 D DexUtil : load clas com.tencent.NotDoVerifyClasses success 
+01-07 06:09:15.990  7807  7807 D HotfixManager: installHotfixDexImpl result = true,dexPath = /data/data/com.tencent.qqmusic/files/hotfix/110/110.jar
+01-07 06:09:15.990  7807  7807 D HotfixManager: initAndInstallPatch result = true
+01-07 06:09:15.990  7807  7807 D QQMusicPatchManager: initAndInstallPatch result = true
+01-07 06:09:15.990  7807  7807 D PatchPreferences: getPatch success PatchConfig:,version:110,describe:微信登陆后无法分享到空间 ,length:15903,md5:b9bcfd2d17a2ac90e56b3e6bf780d375,url:http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip,downloadFilePath:/data/data/com.tencent.qqmusic/files/hotfix/110/110.jar,downloadDirPath:/data/data/com.tencent.qqmusic/files/hotfix/110/,score:0,isClose:false,versionCode:294
+01-07 06:09:15.991  7807  7807 D Patch   : verifyPatch file.length() = 15903,newPatch.length = 15903
+01-07 06:09:15.991  7807  7807 D Patch   : verifyPatch file.md5 = b9bcfd2d17a2ac90e56b3e6bf780d375,newPatch.md5 = b9bcfd2d17a2ac90e56b3e6bf780d375
+01-07 06:09:15.993  7807  7807 I MultiDex: VM with version 2.1.0 has multidex support
+01-07 06:09:15.993  7807  7807 I MultiDex: install
+01-07 06:09:15.993  7807  7807 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+01-07 06:09:15.994  2145  6321 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:15.995  7807  7807 I LogPoint4Test: 加载分dex耗时-->75
+01-07 06:09:15.995  7807  7807 I Delta   : [+0] Start , total: 0
+01-07 06:09:15.996  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:15.996  7807  7807 D LogPoint: app#start-0|app start|<3052945052034>
+01-07 06:09:15.997  7807  7807 I Delta   : [+2] programInit 1  , total: 2
+01-07 06:09:15.997  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:15.997  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:15.999  7807  7807 I Delta   : [+2] programInit 2  , total: 4
+01-07 06:09:16.000  7807  7841 W NetworkObserver: LAST -> null
+01-07 06:09:16.000  7807  7841 W NetworkObserver: CURR -> NetworkState [connected=true, apnName=f8:32:e4:a0:25:09, type=ETHERNET, accessPoint=NEVER_HEARD]
+01-07 06:09:16.000  7807  7841 V NetworkDash: isDeviceIdBySlot:0
+01-07 06:09:16.000  7807  7841 V NetworkDash: isDeviceIdBySlot:1
+01-07 06:09:16.000  7807  7841 I NetworkDash: imsi: null
+01-07 06:09:16.000  7807  7841 W NetworkObserver: null => N/A
+01-07 06:09:16.001  7807  7807 D SkinEngine: int DrawablePreloadIntercepter cost: 0
+01-07 06:09:16.001  7807  7807 W ResourceType: For resource 0x7f0800ee, entry index(238) is beyond type entryCount(238)
+01-07 06:09:16.001  7807  7807 W ResourceType: Failure getting entry for 0x7f0800ee (t=7 e=238) (error -75)
+01-07 06:09:16.001  7807  7807 D SkinEngine: int ColorStateListPreloadIntercepter cost: 0
+01-07 06:09:16.003  7807  7807 I Delta   : [+4] programInit 3  , total: 8
+01-07 06:09:16.004  7807  7807 I Delta   : [+1] App create end , total: 9
+01-07 06:09:16.006  2145  2211 D WifiService: New client listening to asynchronous messages
+01-07 06:09:16.028  7854  7854 W libnb   : Native bridge is disabled
+01-07 06:09:16.028  2145  2170 I ActivityManager: Start proc 7854:com.tencent.qqmusic:QQPlayerService/u0a61 for broadcast com.tencent.qqmusic/com.tencent.base.os.clock.AlarmClockReceiver
+01-07 06:09:16.032  7854  7854 I ActivityThread: Switching default density from 160 to 240
+01-07 06:09:16.034  7877  7877 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.035  7854  7854 D HotfixManager: installVerifyDex start
+01-07 06:09:16.035  7854  7879 D QQMusicPatchManager: patch_check_update_thread is running
+01-07 06:09:16.035  7854  7854 D HotfixManager: dexPath = /data/data/com.tencent.qqmusic/files/hotfix/verify.jar,odexPath = /data/data/com.tencent.qqmusic/files/odex_hotfix/
+01-07 06:09:16.035  7854  7854 D DexUtil : load clas com.tencent.NotDoVerifyClasses success 
+01-07 06:09:16.035  7854  7854 D HotfixManager: installHotfixDexImpl result = true,dexPath = /data/data/com.tencent.qqmusic/files/hotfix/verify.jar
+01-07 06:09:16.035  7854  7854 D HotfixManager: installVerifyDex result = true
+01-07 06:09:16.035  7854  7854 D QQMusicPatchManager: initAndInstallPatch 
+01-07 06:09:16.036  7854  7854 D HotfixManager: initAndInstallPatch start
+01-07 06:09:16.037  7881  7881 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.038  7854  7854 D PatchPreferences: getPatch success PatchConfig:,version:110,describe:微信登陆后无法分享到空间 ,length:15903,md5:b9bcfd2d17a2ac90e56b3e6bf780d375,url:http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip,downloadFilePath:/data/data/com.tencent.qqmusic/files/hotfix/110/110.jar,downloadDirPath:/data/data/com.tencent.qqmusic/files/hotfix/110/,score:0,isClose:false,versionCode:294
+01-07 06:09:16.038  7854  7854 D Patch   : verify simpleCheck = true
+01-07 06:09:16.038  7854  7854 D Patch   : verifyPatch versionCodeMatch = true,versionCode = 294,app versionCode = 294,check result = false
+01-07 06:09:16.038  7854  7854 D Patch   : verifyPatch file.length() = 15903,newPatch.length = 15903
+01-07 06:09:16.039  7854  7854 D Patch   : verifyPatch file.md5 = b9bcfd2d17a2ac90e56b3e6bf780d375,newPatch.md5 = b9bcfd2d17a2ac90e56b3e6bf780d375
+01-07 06:09:16.039  7854  7854 D Patch   : verifyPatch result = true
+01-07 06:09:16.039  7854  7854 D HotfixManager: initAndInstallPatch verify = true,patch = PatchConfig:,version:110,describe:微信登陆后无法分享到空间 ,length:15903,md5:b9bcfd2d17a2ac90e56b3e6bf780d375,url:http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip,downloadFilePath:/data/data/com.tencent.qqmusic/files/hotfix/110/110.jar,downloadDirPath:/data/data/com.tencent.qqmusic/files/hotfix/110/,score:0,isClose:false,versionCode:294
+01-07 06:09:16.040  7854  7854 D DexUtil : load clas com.tencent.NotDoVerifyClasses success 
+01-07 06:09:16.040  7854  7854 D HotfixManager: installHotfixDexImpl result = true,dexPath = /data/data/com.tencent.qqmusic/files/hotfix/110/110.jar
+01-07 06:09:16.040  7854  7854 D HotfixManager: initAndInstallPatch result = true
+01-07 06:09:16.040  7854  7854 D QQMusicPatchManager: initAndInstallPatch result = true
+01-07 06:09:16.040  7854  7854 D PatchPreferences: getPatch success PatchConfig:,version:110,describe:微信登陆后无法分享到空间 ,length:15903,md5:b9bcfd2d17a2ac90e56b3e6bf780d375,url:http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip,downloadFilePath:/data/data/com.tencent.qqmusic/files/hotfix/110/110.jar,downloadDirPath:/data/data/com.tencent.qqmusic/files/hotfix/110/,score:0,isClose:false,versionCode:294
+01-07 06:09:16.040  7854  7854 D Patch   : verifyPatch file.length() = 15903,newPatch.length = 15903
+01-07 06:09:16.040  7854  7854 D Patch   : verifyPatch file.md5 = b9bcfd2d17a2ac90e56b3e6bf780d375,newPatch.md5 = b9bcfd2d17a2ac90e56b3e6bf780d375
+01-07 06:09:16.041  7854  7854 I MultiDex: VM with version 2.1.0 has multidex support
+01-07 06:09:16.041  7854  7854 I MultiDex: install
+01-07 06:09:16.041  7854  7854 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+01-07 06:09:16.041  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.041  7854  7854 I LogPoint4Test: 加载分dex耗时-->7
+01-07 06:09:16.041  7854  7854 I Delta   : [+0] Start , total: 0
+01-07 06:09:16.041  2145  6321 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.042  7854  7854 D LogPoint: app#start-0|app start|<3052990444515>
+01-07 06:09:16.042  7854  7854 I Delta   : [+1] programInit 1  , total: 1
+01-07 06:09:16.042  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.043  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.046  7854  7887 W NetworkObserver: LAST -> null
+01-07 06:09:16.046  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.046  7854  7887 W NetworkObserver: CURR -> NetworkState [connected=true, apnName=f8:32:e4:a0:25:09, type=ETHERNET, accessPoint=NEVER_HEARD]
+01-07 06:09:16.046  7854  7887 V NetworkDash: isDeviceIdBySlot:0
+01-07 06:09:16.046  7854  7887 V NetworkDash: isDeviceIdBySlot:1
+01-07 06:09:16.046  7854  7887 I NetworkDash: imsi: null
+01-07 06:09:16.046  7854  7887 W NetworkObserver: null => N/A
+01-07 06:09:16.049  7854  7854 I WnsApiManager: wns inited:mAppBackground:true
+01-07 06:09:16.049  7854  7854 W tyrael  : dispatchApplicationEnterBackground:com.tencent.wns.ipcclient.b@242fa86
+01-07 06:09:16.049  7854  7854 I WnsUidBindManager: sIsWnsReady:false
+01-07 06:09:16.050  7854  7854 W eup     : 'setLogAble(boolean)' is true , so running in debug model , close it when you release!
+01-07 06:09:16.050  7854  7854 D eup     : rqdp{  init cominfo}
+01-07 06:09:16.050  7854  7854 I eup     : rqdp{  version:} 5.8.0.18
+01-07 06:09:16.050  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.050  7854  7854 D eup     : set sha1 5.8.0.18294
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libvad.so armeabi ea891f09f33b0340fead5b0c7a87265804a3307c
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libwtecdh.so armeabi c7063df20f11590003ceac47581347dac3938ea6
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libfilescanner.so armeabi e0a424fddd78fb1ee51cfe7eb47f861e9566f651
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libfingerprintV2jni.so armeabi a565c837fc539e7e8de98eb9e9c31af7fa26aa44
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libdalvik_patch.so armeabi c00fedfc2d2791227579cf6c2ccf45abddf97e1a
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libsta_jni.so armeabi c481725f3c498bb59d2b1b5578775687777a7d2c
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libfingerprintjni.so armeabi 13c223e315a7edd34ff27a48dfd82da8a508a3bf
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libNativeRQD.so armeabi de7770d2256ec71a458afdd58344a85c9784e518
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libimage_filter_common.so armeabi f9b5df2a273f934f299ee62f6865f3df11e8bd96
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libinh.so armeabi 4a0937f2e5c11003e6dd5447473c677f84cf139e
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libWXVoice.so armeabi 52dd89487aea3289b5c06837f9d32c8496a31660
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libQPlayAuto.so armeabi fdf2e6603ad9ade63d6a754ad2ea99e15d60a072
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libsearch.so armeabi 205ebffad915fe3fe809fa60a120d5e8bfa862f6
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libTUpdateService.so armeabi da8492ebfd84b7aaa5665cd3ab3a0c7255e2116d
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libmresearch.so armeabi 7399f79660db8aafd028113d65060480373813bd
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libQQMMANDKSignature.so armeabi b836a03cf5bec21e3e1d59c59090502603f1c280
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libwnsnetwork.so armeabi 9dc03eb11972e16db00f227d96338950086fcf6b
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libupnp-jni.so armeabi aa52904393f0970773505d6679f93518fceaa74f
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libnetworkbase.so armeabi a0e8db20a0c33ab4ec13a667431ff64ba5f4f52c
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libpbpinyin.so armeabi 8671c35252282defa7f80e555b636fe91dc7e5d8
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libtmfe30.so armeabi bdaf4a86046b9a43948106f013e931857c689cd3
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libPlayerCore_neon.so armeabi ca1dfffe4214c18df6f511c12b125e1345e16d31
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libdesdecrypt.so armeabi 945d63ce54c8fce706811314eedd1090db91656d
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libexpress_verify.so armeabi a51c6f53042524b6b39105ba8501caa99f2eb828
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libimage_filter_gpu.so armeabi f4ab2a1bfc308442d5350e9390b85720e6f4625a
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libckey.so armeabi d800c5f033823b739b41a67cca48824c6822d7a1
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libckeygenerator.so armeabi 52795e793ff5d1ae9596263f9b990e493c3a3bf1
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libSongUrlFactory.so armeabi 372fe054c2427076f2970f8a446aaa8801846806
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libh.so armeabi ba2ff2c65d7aac33aa94abc40ea0af796b43ba05
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libTxCodec_neon.so armeabi c47ee08f2acb9afe9d6f386f3b923516b05468f8
+01-07 06:09:16.051  7854  7854 D eup     : setsofile libFormatDetector.so armeabi ce98b51d1a1f882572e3acaa0039d4d1c1ddf143
+01-07 06:09:16.051  7854  7854 D eup     : setted so count 31
+01-07 06:09:16.052  7854  7898 D eup     : rqdp{  create uphandler up:}true
+01-07 06:09:16.052  7854  7898 I eup     : rqdp{  eup create instance}
+01-07 06:09:16.052  7854  7898 D eup     : rqdp{  cus eupstrategy} [MSNum:10 ,Wifi:10,GPRS:3,ODay:10,isMerged:true,AfQ:false,Silent:true,mLog:300,tag:null,assert:false, interval:50, limit:60]
+01-07 06:09:16.052  7854  7898 I eup     : rqdp{  mid:}3 rqdp{  change user switch} true
+01-07 06:09:16.052  7854  7898 I eup     : rqdp{ eup regist}
+01-07 06:09:16.053  7854  7898 E art     : dlopen("/data/app/com.tencent.qqmusic-1/lib/arm/libNativeRQD.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libNativeRQD.so" has unexpected e_machine: 40
+01-07 06:09:16.053  7854  7898 W eup     : java.lang.UnsatisfiedLinkError: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libNativeRQD.so" has unexpected e_machine: 40
+01-07 06:09:16.053  7854  7898 W eup     : 	at java.lang.Runtime.loadLibrary(Runtime.java:371)
+01-07 06:09:16.053  7854  7898 W eup     : 	at java.lang.System.loadLibrary(System.java:988)
+01-07 06:09:16.053  7854  7898 W eup     : 	at com.tencent.feedback.eup.jni.NativeExceptionUpload.loadRQDNativeLib(SourceFile:86)
+01-07 06:09:16.053  7854  7898 W eup     : 	at com.tencent.feedback.eup.d.a(SourceFile:149)
+01-07 06:09:16.053  7854  7898 W eup     : 	at com.tencent.feedback.eup.d.a(SourceFile:103)
+01-07 06:09:16.053  7854  7898 W eup     : 	at com.tencent.qqmusiccommon.util.a.b.a(SourceFile:87)
+01-07 06:09:16.053  7854  7898 W eup     : 	at com.tencent.qqmusiccommon.util.thread.e$c.a(SourceFile:121)
+01-07 06:09:16.053  7854  7898 W eup     : 	at com.tencent.qqmusiccommon.util.thread.f$e.run(SourceFile:134)
+01-07 06:09:16.053  7854  7898 W eup     : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-07 06:09:16.053  7854  7898 W eup     : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-07 06:09:16.053  7854  7898 W eup     : 	at java.lang.Thread.run(Thread.java:818)
+01-07 06:09:16.053  7854  7898 W eup     : 	at com.tencent.qqmusiccommon.util.thread.d.run(SourceFile:23)
+01-07 06:09:16.053  7854  7898 E eup     : rqdp{  load library fail! see detail ,will turn off native eup function!}
+01-07 06:09:16.053  7854  7898 E eup     : load lib fail default close native return!
+01-07 06:09:16.053  2145  2211 D WifiService: New client listening to asynchronous messages
+01-07 06:09:16.054  7854  7899 D eup     : rqdp{  parse bean}
+01-07 06:09:16.054  7854  7899 D eup     : rqdp{  read strategy key:}300
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  useSStrategy changed to} false
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  url same to} http://monitor.uu.qq.com/analytics/upload
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  upStrategy changed to} 3
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  za changed:}2
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  mid:}3 rqdp{  , need detail changed:}true 
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  mid:}3 rqdp{  , url same:}http://monitor.uu.qq.com/analytics/upload
+01-07 06:09:16.055  7854  7899 W eup     : rqdp{  imposiable! module base strategy not ready! mId:}1
+01-07 06:09:16.055  7854  7899 W eup     : rqdp{  imposiable! module base strategy not ready! mId:}2
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  com strategy changed notify!}
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  com strateyg changed }class com.tencent.feedback.eup.n
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  common strategy setted by history}
+01-07 06:09:16.055  7854  7899 I eup     : rqdp{  onlaunch}
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  step }1
+01-07 06:09:16.055  7854  7899 D eup     : rqdp{  FileDAO.query() start query name:}/data/app/com.tencent.qqmusic-1/base.apk rqdp{   , type}:0 rqdp{  , num:}10 
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  queryFile: n:}/data/app/com.tencent.qqmusic-1/base.apk rqdp{  , sha:}5.8.0.18294 rqdp{  , tp:}0 rqdp{  ,arh:}5.8.0.18
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  FileDAO.query() end success} 1
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  queryFile result num } 1
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  on Query Start}
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  step }2
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  notify Query Start}
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  com query start }class com.tencent.feedback.eup.n
+01-07 06:09:16.056  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{ next day 64244000}
+01-07 06:09:16.056  7854  7899 I eup     : lastUpdate:1452146454609 ,return not query
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  on query end!}
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  step }3
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  notify Query end}
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  com query end }class com.tencent.feedback.eup.n
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  step after query}
+01-07 06:09:16.056  7854  7899 D eup     : rqdp{  isable}
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  parse bean}
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  read strategy key:}302
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  init eup sStrategy by uStrategy}
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  is merged changed} false
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{ Assert enable changed: } true
+01-07 06:09:16.057  7854  7899 D eup     : crashstrategy vmap size:3
+01-07 06:09:16.057  7854  7899 D eup     : key isBroadcast
+01-07 06:09:16.057  7854  7899 D eup     : key isAnr
+01-07 06:09:16.057  7854  7899 D eup     : key isReceiveBroadcast
+01-07 06:09:16.057  7854  7899 D eup     : true
+01-07 06:09:16.057  7854  7899 D eup     : false
+01-07 06:09:16.057  7854  7899 D eup     : false
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  crashStrategy}[]
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  needDetail} true rqdp{  allQ:}false rqdp{  result:}false
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  in merge}
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  getEupInMe}
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  EUPDAO.queryEupRecent() start}
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  in AnalyticsDAO.query() start}
+01-07 06:09:16.057  7854  7899 D eup     : rqdp{  query}  ( _type = 1 or _type = 2 )  and _upCounts <= 3  and _time >= 1452124800000  and _state = 0 
+01-07 06:09:16.058  7854  7899 D eup     : rqdp{  in AnalyticsDAO.query() end}
+01-07 06:09:16.058  7854  7899 D eup     : rqdp{  EUPDAO.queryEupRecent() start}
+01-07 06:09:16.058  7854  7899 D eup     : rqdp{  in AnalyticsDAO.query() start}
+01-07 06:09:16.058  7854  7899 D eup     : rqdp{  query}  ( _type = 1 or _type = 2 )  and _count >= 2  and _upCounts <= 3  and _time <= 1452124800000 
+01-07 06:09:16.058  7854  7854 I art     : Explicit concurrent mark sweep GC freed 4954(323KB) AllocSpace objects, 5(80KB) LOS objects, 25% free, 3MB/4MB, paused 131us total 4.747ms
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  in AnalyticsDAO.query() end}
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  EUPDAO.queryEupRecent() start}
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  in AnalyticsDAO.query() start}
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  query}  ( _type = 1 or _type = 2 )  and _count >= 0  and _count <= 1  and _time >= 3  and _time <= 1452124800000  and _state = 0 
+01-07 06:09:16.059  7854  7854 W beacon  : API Level: 22
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  in AnalyticsDAO.query() end}
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  EUPDAO.insertOrUpdateEupList() start}
+01-07 06:09:16.059  7854  7899 W eup     : rqdp{  context == null ||| list == null || list.size() <= 0,pls check}
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  EUPDAO.deleteEup() start}
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  AnalyticsDAO.delete() start}
+01-07 06:09:16.059  7854  7899 D eup     : rqdp{  delete where: }_time >= -1 and _time <= 9223372036854775807 and _upCounts >= 3 and ( _type = 1 or _type = 2 )
+01-07 06:09:16.060  7854  7899 D eup     : rqdp{  deleted num: }0
+01-07 06:09:16.060  7854  7899 D eup     : rqdp{  AnalyticsDAO.delete() end}
+01-07 06:09:16.060  7854  7899 D eup     : remove fail updata num :0
+01-07 06:09:16.060  7854  7899 I eup     : close brocast!
+01-07 06:09:16.060  7854  7899 D eup     : rqdp{  next time} 21600000
+01-07 06:09:16.060  7854  7899 D eup     : rqdp{  step }4
+01-07 06:09:16.060  7854  7854 I Delta   : [+18] App create end , total: 19
+01-07 06:09:16.064  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.064  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.064  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:16.067  7854  7909 D LibraryLoader: try to load library: networkbase from system lib
+01-07 06:09:16.068  7854  7909 E art     : dlopen("/data/app/com.tencent.qqmusic-1/lib/arm/libnetworkbase.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libnetworkbase.so" has unexpected e_machine: 40
+01-07 06:09:16.068  7854  7909 E LibraryLoader: cannot load library networkbase from system lib
+01-07 06:09:16.068  7854  7909 E LibraryLoader: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libnetworkbase.so" has unexpected e_machine: 40
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at java.lang.Runtime.loadLibrary(Runtime.java:371)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at java.lang.System.loadLibrary(System.java:988)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.base.os.Native.a(SourceFile:85)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.wns.network.ConnectionImpl.<clinit>(SourceFile:29)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.f.a(SourceFile:232)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.j.d(SourceFile:1012)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.v.run(SourceFile:918)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at android.os.Handler.handleCallback(Handler.java:739)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at android.os.Looper.loop(Looper.java:135)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-07 06:09:16.068  7854  7854 E art     : dlopen("/data/app/com.tencent.qqmusic-1/lib/arm/libQPlayAuto.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libQPlayAuto.so" has unexpected e_machine: 40
+01-07 06:09:16.068  7854  7909 D LibraryLoader: try to load library: /data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so from qzlib
+01-07 06:09:16.068  7854  7854 E art     : dlopen("/data/data/com.tencent.qqmusic/backuplib/libQPlayAuto.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.qqmusic/backuplib/libQPlayAuto.so" has unexpected e_machine: 40
+01-07 06:09:16.068  7854  7909 E art     : dlopen("/data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so" has unexpected e_machine: 40
+01-07 06:09:16.068  7854  7909 E LibraryLoader: cannot load library /data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so from qzlib
+01-07 06:09:16.068  7854  7909 E LibraryLoader: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so" has unexpected e_machine: 40
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at java.lang.Runtime.load(Runtime.java:331)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at java.lang.System.load(System.java:981)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.base.os.Native.a(SourceFile:154)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.wns.network.ConnectionImpl.<clinit>(SourceFile:29)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.f.a(SourceFile:232)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.j.d(SourceFile:1012)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.v.run(SourceFile:918)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at android.os.Handler.handleCallback(Handler.java:739)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at android.os.Looper.loop(Looper.java:135)
+01-07 06:09:16.068  7854  7909 E LibraryLoader: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-07 06:09:16.068  7854  7854 E art     : No implementation found for void com.tencent.qqmusicplayerprocess.qplayauto.LibQPlayAuto.Stop() (tried Java_com_tencent_qqmusicplayerprocess_qplayauto_LibQPlayAuto_Stop and Java_com_tencent_qqmusicplayerprocess_qplayauto_LibQPlayAuto_Stop__)
+01-07 06:09:16.072  7854  7909 E LibraryLoader: lib/armeabi/libnetworkbase.so md5 = 5199a27c9f3beb8eff00d2e69e9f049a,/data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so md5 = 5199a27c9f3beb8eff00d2e69e9f049a
+01-07 06:09:16.072  7921  7921 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.072  7854  7909 W LibraryLoader: Prepare to Download Native Libs From Network ... 
+01-07 06:09:16.072  7854  7909 W LibraryLoader: Url = http://1251013638.cdn.myqcloud.com/1251013638/wns-qcloud-sdk/wns_so_arm_20151120.zip
+01-07 06:09:16.075  7927  7927 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.084  7930  7930 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.086  7934  7934 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.091  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.tencent.qqmusic/files/
+01-07 06:09:16.091  7854  7854 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.tencent.qqmusic/files
+01-07 06:09:16.091  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/files/
+01-07 06:09:16.091  7854  7854 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/files
+01-07 06:09:16.091  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/files/
+01-07 06:09:16.091  7854  7854 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/files
+01-07 06:09:16.091  1878  1905 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/files/
+01-07 06:09:16.091  7854  7854 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/files
+01-07 06:09:16.095  2145  2174 D BluetoothManagerService: Message: 20
+01-07 06:09:16.096  2145  2174 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@c6ac93:true
+01-07 06:09:16.096  2145  2174 D BluetoothManagerService: Message: 30
+01-07 06:09:16.096  2145  2174 D BluetoothManagerService: Message: 30
+01-07 06:09:16.096  2145  3551 D BluetoothManagerService: Trying to bind to profile: 1, while Bluetooth was disabled
+01-07 06:09:16.102  7946  7946 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.103  7951  7951 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.105  7954  7954 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.109  7958  7958 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:16.110  7854  7854 D BluetoothAdapter: 484977377: getState() :  mService = null. Returning STATE_OFF
+01-07 06:09:16.110  7854  7854 D BluetoothAdapter: 484977377: getState() :  mService = null. Returning STATE_OFF
+01-07 06:09:16.597  7854  7854 E LibUpnp : Try to load LibUpnp so!
+01-07 06:09:16.597  7854  7854 E LibUpnp : dalvik.system.VMStack.getThreadStackTrace(Native Method)
+01-07 06:09:16.597  7854  7854 E LibUpnp : java.lang.Thread.getStackTrace(Thread.java:580)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusiccommon.a.k.e(SourceFile:251)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusicplayerprocess.qqmusicdlna.LibUpnp.<clinit>(SourceFile:29)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusicplayerprocess.qqmusicdlna.DLNAManager.isDLNARuning(SourceFile:1296)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusicplayerprocess.qqmusicdlna.DLNAManager.hasCurrentRenderer(SourceFile:1310)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusicplayerprocess.qqmusicdlna.QPlayService$1.hasCurrentRenderer(SourceFile:139)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusicplayerprocess.audio.playlist.MusicListManager.u(SourceFile:2595)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusicplayerprocess.servicenew.p.f(SourceFile:574)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusiccommon.util.e.e.h(SourceFile:151)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.tencent.qqmusicplayerprocess.audio.b.c.handleMessage(SourceFile:76)
+01-07 06:09:16.597  7854  7854 E LibUpnp : android.os.Handler.dispatchMessage(Handler.java:102)
+01-07 06:09:16.597  7854  7854 E LibUpnp : android.os.Looper.loop(Looper.java:135)
+01-07 06:09:16.597  7854  7854 E LibUpnp : android.app.ActivityThread.main(ActivityThread.java:5254)
+01-07 06:09:16.597  7854  7854 E LibUpnp : java.lang.reflect.Method.invoke(Native Method)
+01-07 06:09:16.597  7854  7854 E LibUpnp : java.lang.reflect.Method.invoke(Method.java:372)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-07 06:09:16.597  7854  7854 E LibUpnp : com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-07 06:09:16.598  7854  7854 E art     : dlopen("/data/app/com.tencent.qqmusic-1/lib/arm/libupnp-jni.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libupnp-jni.so" has unexpected e_machine: 40
+01-07 06:09:16.598  7854  7854 E art     : dlopen("/data/data/com.tencent.qqmusic/backuplib/libupnp-jni.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.qqmusic/backuplib/libupnp-jni.so" has unexpected e_machine: 40
+01-07 06:09:16.602  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=44_task.xml
+01-07 06:09:16.602  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=44_task_thumbnail.png
+01-07 06:09:16.694  7854  7909 W LibraryLoader: Download Native Libs => true
+01-07 06:09:16.694  7854  7909 W LibraryLoader: Prepare to Install Native Libs ...
+01-07 06:09:16.704  7854  7909 W LibraryLoader: Install Native Libs => true
+01-07 06:09:16.705  7854  7909 E LibraryLoader: try to load library: /data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so from qzlib again!
+01-07 06:09:16.705  7854  7909 E art     : dlopen("/data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so" has unexpected e_machine: 40
+01-07 06:09:16.705  7854  7909 E LibraryLoader: cannot load library /data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so from qzlib again
+01-07 06:09:16.705  7854  7909 E LibraryLoader: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/data/com.tencent.qqmusic/qzlib/libnetworkbase.so" has unexpected e_machine: 40
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at java.lang.Runtime.load(Runtime.java:331)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at java.lang.System.load(System.java:981)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at com.tencent.base.os.Native.a(SourceFile:254)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at com.tencent.wns.network.ConnectionImpl.<clinit>(SourceFile:29)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.f.a(SourceFile:232)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.j.d(SourceFile:1012)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.v.run(SourceFile:918)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at android.os.Handler.handleCallback(Handler.java:739)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at android.os.Looper.loop(Looper.java:135)
+01-07 06:09:16.705  7854  7909 E LibraryLoader: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-07 06:09:16.705  7854  7909 D LibraryLoader: try to load library: wnsnetwork from system lib
+01-07 06:09:16.705  7854  7909 E art     : dlopen("/data/app/com.tencent.qqmusic-1/lib/arm/libwnsnetwork.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libwnsnetwork.so" has unexpected e_machine: 40
+01-07 06:09:16.706  7854  7909 E LibraryLoader: cannot load library wnsnetwork from system lib
+01-07 06:09:16.706  7854  7909 E LibraryLoader: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libwnsnetwork.so" has unexpected e_machine: 40
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at java.lang.Runtime.loadLibrary(Runtime.java:371)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at java.lang.System.loadLibrary(System.java:988)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.base.os.Native.a(SourceFile:85)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.wns.network.ConnectionImpl.<clinit>(SourceFile:30)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.f.a(SourceFile:232)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.j.d(SourceFile:1012)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.v.run(SourceFile:918)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at android.os.Handler.handleCallback(Handler.java:739)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at android.os.Looper.loop(Looper.java:135)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-07 06:09:16.706  7854  7909 D LibraryLoader: try to load library: /data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so from qzlib
+01-07 06:09:16.706  7854  7909 E art     : dlopen("/data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so" has unexpected e_machine: 40
+01-07 06:09:16.706  7854  7909 E LibraryLoader: cannot load library /data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so from qzlib
+01-07 06:09:16.706  7854  7909 E LibraryLoader: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so" has unexpected e_machine: 40
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at java.lang.Runtime.load(Runtime.java:331)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at java.lang.System.load(System.java:981)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.base.os.Native.a(SourceFile:154)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.wns.network.ConnectionImpl.<clinit>(SourceFile:30)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.f.a(SourceFile:232)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.j.d(SourceFile:1012)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.v.run(SourceFile:918)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at android.os.Handler.handleCallback(Handler.java:739)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at android.os.Looper.loop(Looper.java:135)
+01-07 06:09:16.706  7854  7909 E LibraryLoader: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-07 06:09:16.709  7854  7909 E LibraryLoader: lib/armeabi/libwnsnetwork.so md5 = 5fa567aaa79eb72c0182598dbf3b2c36,/data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so md5 = 5fa567aaa79eb72c0182598dbf3b2c36
+01-07 06:09:16.710  7854  7909 W LibraryLoader: Prepare to Download Native Libs From Network ... 
+01-07 06:09:16.710  7854  7909 W LibraryLoader: Url = http://1251013638.cdn.myqcloud.com/1251013638/wns-qcloud-sdk/wns_so_arm_20151120.zip
+01-07 06:09:17.632  7854  7909 W LibraryLoader: Download Native Libs => true
+01-07 06:09:17.632  7854  7909 W LibraryLoader: Prepare to Install Native Libs ...
+01-07 06:09:17.639  7854  7909 W LibraryLoader: Install Native Libs => true
+01-07 06:09:17.639  7854  7909 E LibraryLoader: try to load library: /data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so from qzlib again!
+01-07 06:09:17.639  7854  7909 E art     : dlopen("/data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so" has unexpected e_machine: 40
+01-07 06:09:17.639  7854  7909 E LibraryLoader: cannot load library /data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so from qzlib again
+01-07 06:09:17.639  7854  7909 E LibraryLoader: java.lang.UnsatisfiedLinkError: dlopen failed: "/data/data/com.tencent.qqmusic/qzlib/libwnsnetwork.so" has unexpected e_machine: 40
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at java.lang.Runtime.load(Runtime.java:331)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at java.lang.System.load(System.java:981)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at com.tencent.base.os.Native.a(SourceFile:254)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at com.tencent.wns.network.ConnectionImpl.<clinit>(SourceFile:30)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.f.a(SourceFile:232)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.j.d(SourceFile:1012)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at com.tencent.wns.session.v.run(SourceFile:918)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at android.os.Handler.handleCallback(Handler.java:739)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at android.os.Looper.loop(Looper.java:135)
+01-07 06:09:17.639  7854  7909 E LibraryLoader: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-07 06:09:17.639  7854  7909 E art     : No implementation found for void com.tencent.wns.network.ConnectionImpl.native_init() (tried Java_com_tencent_wns_network_ConnectionImpl_native_1init and Java_com_tencent_wns_network_ConnectionImpl_native_1init__)
+01-07 06:09:18.036  2145  2164 I ActivityManager: Killing 2994:com.cyanogenmod.filemanager/u0a17 (adj 9): remove task
+01-07 06:09:18.036  2145  2164 I libprocessgroup: Killing pid 3019 in uid 10017 as part of process group 2994
+01-07 06:09:18.037  2145  2164 I libprocessgroup: Killing pid 3032 in uid 10017 as part of process group 2994
+01-07 06:09:18.037  2145  2164 I libprocessgroup: Killing pid 3019 in uid 10017 as part of process group 2994
+01-07 06:09:18.037  2145  2164 I libprocessgroup: Killing pid 3032 in uid 10017 as part of process group 2994
+01-07 06:09:18.055  2145  2188 W InputDispatcher: channel '2cac20df com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+01-07 06:09:18.055  2145  2188 E InputDispatcher: channel '2cac20df com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+01-07 06:09:18.055  2145  3554 I WindowState: WIN DEATH: Window{2cac20df u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}
+01-07 06:09:18.056  2145  3554 W InputDispatcher: Attempted to unregister already unregistered input channel '2cac20df com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity (server)'
+01-07 06:09:18.063  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=13_task.xml
+01-07 06:09:18.064  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=13_task_thumbnail.png
+01-07 06:09:19.067  7962  7962 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:19.364  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:19.377  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 06:09:19.422  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 06:09:19.434  2145  6321 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.20}
+01-07 06:09:19.435  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 06:09:19.438  5912  5912 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+01-07 06:09:19.438  5912  5912 D GeckoLocales: No selected locale. No correction needed.
+01-07 06:09:19.566  2272  4873 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 06:09:19.602  2145  2175 I WindowManager: Screen frozen for +207ms due to Window{159cbab5 u0 NavigationBar}
+01-07 06:09:21.033  7807  7826 E SQLiteLog: (283) recovered 22 frames from WAL file /data/data/com.tencent.qqmusic/databases/QQMusic-wal
+01-07 06:09:21.208  7854  7874 E art     : dlopen("/data/app/com.tencent.qqmusic-1/lib/arm/libexpress_verify.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.tencent.qqmusic-1/lib/arm/libexpress_verify.so" has unexpected e_machine: 40
+01-07 06:09:21.208  7854  7874 E art     : dlopen("/data/data/com.tencent.qqmusic/backuplib/libexpress_verify.so", RTLD_LAZY) failed: dlopen failed: "/data/data/com.tencent.qqmusic/backuplib/libexpress_verify.so" has unexpected e_machine: 40
+01-07 06:09:21.648  2145  2175 I art     : Explicit concurrent mark sweep GC freed 30424(1689KB) AllocSpace objects, 6(1634KB) LOS objects, 33% free, 19MB/28MB, paused 316us total 13.245ms
+01-07 06:09:22.080  2145  2305 V WindowManager: Adding window Window{234ed6c4 u0 PopupWindow:19b1a3ec} at 7 of 12 (after Window{e016311 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity})
+01-07 06:09:22.271  2145  3552 V WindowManager: Adding window Window{13a9d2e u0 PopupWindow:19b1a3ec} at 8 of 13 (after Window{234ed6c4 u0 PopupWindow:19b1a3ec EXITING})
+01-07 06:09:22.440  2145  3554 V WindowManager: Adding window Window{2a903a5c u0 PopupWindow:19b1a3ec} at 9 of 14 (after Window{13a9d2e u0 PopupWindow:19b1a3ec EXITING})
+01-07 06:09:22.607  2145  2164 V WindowManager: Adding window Window{32575e3a u0 PopupWindow:19b1a3ec} at 9 of 14 (after Window{2a903a5c u0 PopupWindow:19b1a3ec EXITING})
+01-07 06:09:22.729  2145  3552 V WindowManager: Adding window Window{1d14a048 u0 PopupWindow:19b1a3ec} at 8 of 13 (after Window{2a903a5c u0 PopupWindow:19b1a3ec EXITING})
+01-07 06:09:24.030  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:24.042  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 06:09:24.078  7986  7986 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:29.090  7988  7988 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:29.628  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:29.641  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 06:09:29.770  5214  7004 D OpenGLRenderer: endAllStagingAnimators on 0xdb22df80 (RippleDrawable) with handle 0xdb10c300
+01-07 06:09:31.052  2145  3554 I ActivityManager: START u0 {flg=0x10000000 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity (has extras)} from uid 10057 on display 0
+01-07 06:09:31.052  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:31.060  2145  3554 V WindowManager: addAppToken: AppWindowToken{1a8d3060 token=Token{6f3dc63 ActivityRecord{23877a92 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity t45}}} to stack=1 task=45 at 1
+01-07 06:09:31.066  2145  3553 V WindowManager: Adding window Window{39eadde u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity} at 6 of 11 (after Window{11acb44a u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity})
+01-07 06:09:31.107  2145  2175 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity: +46ms
+01-07 06:09:32.541  2145  3554 V WindowManager: Adding window Window{376583b7 u0 PopupWindow:2ed634a3} at 7 of 12 (after Window{39eadde u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity})
+01-07 06:09:32.844  2145  2547 V WindowManager: Adding window Window{29e36a89 u0 PopupWindow:2ed634a3} at 8 of 13 (after Window{376583b7 u0 PopupWindow:2ed634a3 EXITING})
+01-07 06:09:33.629  2145  2165 V WindowManager: Adding window Window{ceb32af u0 PopupWindow:2ed634a3} at 8 of 13 (after Window{29e36a89 u0 PopupWindow:2ed634a3 EXITING})
+01-07 06:09:33.895  2145  2164 V WindowManager: Adding window Window{d8f2645 u0 PopupWindow:2ed634a3} at 8 of 13 (after Window{ceb32af u0 PopupWindow:2ed634a3 EXITING})
+01-07 06:09:34.102  7993  7993 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:39.113  7994  7994 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:39.604  2145  6321 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=wdj://search/result cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity (has extras)} from uid 10057 on display 0
+01-07 06:09:39.604  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:39.605  2145  6321 V WindowManager: addAppToken: AppWindowToken{d05e2a8 token=Token{2424acb ActivityRecord{1fa819a u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity t45}}} to stack=1 task=45 at 2
+01-07 06:09:39.616  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 06:09:39.659  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1052, 88).
+01-07 06:09:39.696  2145  2678 V WindowManager: Adding window Window{33ef1d66 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity} at 7 of 12 (after Window{39eadde u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchQueryHistoryActivity})
+01-07 06:09:39.714  2145  2175 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity: +106ms
+01-07 06:09:39.753  5214  7004 D OpenGLRenderer: endAllStagingAnimators on 0xdd9bad00 (RippleDrawable) with handle 0xdb10ca90
+01-07 06:09:39.768  1879  1879 W SurfaceFlinger: couldn't log to binary event log: overflow.
+01-07 06:09:42.603  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:42.605  2145  2492 I ActivityManager: START u0 {flg=0x10010000 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity (has extras)} from uid 10057 on display 0
+01-07 06:09:42.606  2145  2492 V WindowManager: addAppToken: AppWindowToken{d0f4843 token=Token{2d3fa9f2 ActivityRecord{1378d8fd u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity t51}}} to stack=1 task=51 at 0
+01-07 06:09:42.640  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:42.689  2145  3554 V WindowManager: Adding window Window{20ff07f9 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity} at 7 of 12 (after Window{33ef1d66 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity})
+01-07 06:09:42.712  2145  2175 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity: +82ms
+01-07 06:09:43.693  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=45_task.xml
+01-07 06:09:43.693  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=45_task_thumbnail.png
+01-07 06:09:44.124  8009  8009 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:47.204  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:47.216  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 06:09:47.227  2145  2164 W ActivityManager: Finishing task with all activities already finished
+01-07 06:09:47.227  2145  2164 W ActivityManager: Duplicate finish request for ActivityRecord{1378d8fd u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.app.activity.DownloadInjectorDialogActivity t51 f}
+01-07 06:09:47.501  1879  1879 W SurfaceFlinger: couldn't log to binary event log: overflow.
+01-07 06:09:48.215  5214  5257 W PackageParser: Unknown element under <manifest>: meta-data at /storage/emulated/0/wandoujia/app/2048益智_1452146987205.apk Binary XML file line #16
+01-07 06:09:48.222  8014  8014 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:48.225  8015  8015 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:48.281  8015  8015 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:48.282  8015  8015 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+01-07 06:09:48.283  8015  8015 D AndroidRuntime: CheckJNI is OFF
+01-07 06:09:48.290  8015  8015 W         : Failed to bind-mount /system/lib64/x86_64/cpuinfo as /proc/cpuinfo: No such file or directory
+01-07 06:09:48.290  8015  8015 E         : Cannot create code cache directory ./code_cache: Read-only file system.
+01-07 06:09:48.295  8015  8015 E memtrack: Couldn't load memtrack module (No such file or directory)
+01-07 06:09:48.295  8015  8015 E android.os.Debug: failed to load memtrack module: -2
+01-07 06:09:48.299  8015  8015 D AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+01-07 06:09:48.303  3284  3303 D DefContainer: Copying /storage/emulated/0/wandoujia/app/2048益智_1452146987205.apk to base.apk
+01-07 06:09:48.307  2145  2179 W PackageParser: Unknown element under <manifest>: meta-data at /data/app/vmdl1292010207.tmp/base.apk Binary XML file line #16
+01-07 06:09:48.342  2145  2179 D PackageManager: Renaming /data/app/vmdl1292010207.tmp to /data/app/com.digiplex.game-1
+01-07 06:09:48.377  2145  2179 I PackageManager: Running dexopt on: /data/app/com.digiplex.game-1/base.apk pkg=com.digiplex.game isa=x86_64 vmSafeMode=false
+01-07 06:09:48.388  8032  8032 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 06:09:48.390  8032  8032 E cutils-trace: Error opening trace file: Permission denied (13)
+01-07 06:09:48.390  8032  8032 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.digiplex.game-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86_64/data@app@com.digiplex.game-1@base.apk@classes.dex --instruction-set=x86_64 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-07 06:09:48.459  8032  8032 I dex2oat : Decided to run without swap.
+01-07 06:09:49.125  8032  8032 I dex2oat : dex2oat took 734.534ms (threads: 8) arena alloc=1066KB java alloc=6MB native alloc=15MB free=8MB
+01-07 06:09:49.132  8041  8041 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:49.326  2145  2179 V BackupManagerService: restoreAtInstall pkg=com.digiplex.game token=e restoreSet=0
+01-07 06:09:49.326  2145  2179 V BackupManagerService: Finishing install immediately
+01-07 06:09:49.327  2145  2179 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-07 06:09:49.330  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 06:09:49.335  2145  3553 W ActivityManager: getTasks: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:49.335  2145  2685 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10051 on display 0
+01-07 06:09:49.374  2145  2685 V WindowManager: addAppToken: AppWindowToken{2fb60b4c token=Token{3d94df7f ActivityRecord{624689e u0 com.estrongs.android.pop/.app.InstallMonitorActivity t52}}} to stack=1 task=52 at 0
+01-07 06:09:49.379  2145  2179 I art     : Explicit concurrent mark sweep GC freed 69641(3MB) AllocSpace objects, 35(5MB) LOS objects, 33% free, 17MB/25MB, paused 1.248ms total 52.526ms
+01-07 06:09:49.380  8015  8015 I art     : System.exit called, status: 0
+01-07 06:09:49.380  8015  8015 I AndroidRuntime: VM exiting with result code 0.
+01-07 06:09:49.391  2145  2145 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.digiplex.game flg=0x4000010 (has extras) }
+01-07 06:09:49.395  2145  2169 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-07 06:09:49.400  2145  6321 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:49.400  2145  2164 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:49.404  2421  2421 I Launcher: Deferring update until onResume
+01-07 06:09:49.404  2145  3554 W BroadcastQueue: Unable to launch app com.happyelements.AndroidAnimal/10060 for broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.digiplex.game flg=0x4000010 (has extras) }: process is bad
+01-07 06:09:49.405  2145  2170 W BroadcastQueue: Unable to launch app com.happyelements.AndroidAnimal/10060 for broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.digiplex.game flg=0x4000010 (has extras) }: process is bad
+01-07 06:09:49.405  2145  2170 W BroadcastQueue: Unable to launch app com.happyelements.AndroidAnimal/10060 for broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.digiplex.game flg=0x4000010 (has extras) }: process is bad
+01-07 06:09:49.545  2145  2165 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@1a79d5b9 attribute=null, token = android.os.BinderProxy@c80e1c1
+01-07 06:09:49.546  2145  3552 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:49.652  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 06:09:49.733  2421  2440 E DatabaseUtils: Writing exception to parcel
+01-07 06:09:49.733  2421  2440 E DatabaseUtils: java.lang.SecurityException: Permission Denial: writing com.android.launcher3.LauncherProvider uri content://com.android.launcher3.settings/favorites/6?notify=true from pid=5214, uid=10057 requires com.android.launcher3.permission.WRITE_SETTINGS, or grantUriPermission()
+01-07 06:09:49.733  2421  2440 E DatabaseUtils: 	at android.content.ContentProvider.enforceWritePermissionInner(ContentProvider.java:604)
+01-07 06:09:49.733  2421  2440 E DatabaseUtils: 	at android.content.ContentProvider$Transport.enforceWritePermission(ContentProvider.java:461)
+01-07 06:09:49.733  2421  2440 E DatabaseUtils: 	at android.content.ContentProvider$Transport.update(ContentProvider.java:323)
+01-07 06:09:49.733  2421  2440 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:222)
+01-07 06:09:49.733  2421  2440 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-07 06:09:49.766  2421  2421 I Launcher: Deferring update until onResume
+01-07 06:09:51.846  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=51_task.xml
+01-07 06:09:51.846  2145  2227 D TaskPersister: removeObsoleteFile: deleting file=51_task_thumbnail.png
+01-07 06:09:52.853  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:09:52.853  2145  2678 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.digiplex.game cmp=com.digiplex.game/.MainActivity} from uid 10057 on display 0
+01-07 06:09:52.857  2145  2678 V WindowManager: addAppToken: AppWindowToken{103ddc7b token=Token{1d278c0a ActivityRecord{9d91475 u0 com.digiplex.game/.MainActivity t53}}} to stack=1 task=53 at 0
+01-07 06:09:52.864  2145  2175 V WindowManager: Adding window Window{235c084f u0 Starting com.digiplex.game} at 7 of 12 (after Window{33ef1d66 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity})
+01-07 06:09:52.865  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 06:09:52.893  2145  2685 I ActivityManager: Start proc 8057:com.digiplex.game/u0a62 for activity com.digiplex.game/.MainActivity
+01-07 06:09:52.969  2145  3551 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.21}
+01-07 06:09:52.973  5912  5912 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+01-07 06:09:52.973  5912  5912 D GeckoLocales: No selected locale. No correction needed.
+01-07 06:09:53.011  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 06:09:53.013  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 06:09:53.015  8057  8057 I ActivityThread: Switching default density from 160 to 240
+01-07 06:09:53.023  2272  2674 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 06:09:53.024  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 06:09:53.037  2145  2547 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.22}
+01-07 06:09:53.037  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 06:09:53.041  5912  5912 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+01-07 06:09:53.041  5912  5912 D GeckoLocales: No selected locale. No correction needed.
+01-07 06:09:53.070  2272  2675 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 06:09:53.072  8057  8057 W Resources: Converting to string: TypedValue{t=0x10/d=0x800 a=-1}
+01-07 06:09:53.072  8057  8057 W Resources: Converting to string: TypedValue{t=0x10/d=0x1 a=-1}
+01-07 06:09:53.085  2145  2175 I WindowManager: Screen frozen for +182ms due to Window{235c084f u0 Starting com.digiplex.game}
+01-07 06:09:53.213  1890  1890 D NuPlayerDriver: start(0xf502f220)
+01-07 06:09:53.213  1890  8083 I GenericSource: start
+01-07 06:09:53.234  8057  8057 I WebViewFactory: Loading com.android.webview version 39 (eng.-x86_64) (code 399998)
+01-07 06:09:53.245  1890  1890 D NuPlayerDriver: reset(0xf502f220)
+01-07 06:09:53.246  1890  8083 D NuPlayerDriver: notifyResetComplete(0xf502f220)
+01-07 06:09:53.283  8057  8075 W art     : Suspending all threads took: 9.975ms
+01-07 06:09:53.284  8057  8075 I art     : Background sticky concurrent mark sweep GC freed 3182(303KB) AllocSpace objects, 4(64KB) LOS objects, 13% free, 2MB/3MB, paused 10.648ms total 20.959ms
+01-07 06:09:53.492  8057  8057 I LibraryLoader: Time to load native libraries: 207 ms (timestamps 233-440)
+01-07 06:09:53.492  8057  8057 I LibraryLoader: Expected native library version number "",actual native library version number ""
+01-07 06:09:53.505  8057  8057 V WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {156d0bd6}
+01-07 06:09:53.505  8057  8057 I LibraryLoader: Expected native library version number "",actual native library version number ""
+01-07 06:09:53.518  8057  8057 I chromium: [INFO:library_loader_hooks.cc(104)] Chromium logging enabled: level = 0, default verbosity = 0
+01-07 06:09:53.522  8057  8057 I BrowserStartupController: Initializing chromium process, singleProcess=true
+01-07 06:09:53.567  8057  8057 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+01-07 06:09:53.624  8057  8095 W AudioManagerAndroid: Requires BLUETOOTH permission
+01-07 06:09:53.632  8057  8057 W chromium: [WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+01-07 06:09:53.632  8057  8057 I chromium: [INFO:aw_browser_main_parts.cc(65)] Load from apk succesful, fd=25 off=1319120 len=3050
+01-07 06:09:53.633  8057  8057 I chromium: [INFO:aw_browser_main_parts.cc(78)] Loading webviewchromium.pak from, fd:26 off:229484 len:1089587
+01-07 06:09:53.648  8057  8057 I GRALLOC-DRM: create intel for driver i915
+01-07 06:09:53.649  8057  8057 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-07 06:09:53.649  8057  8057 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-07 06:09:53.655  8057  8057 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-07 06:09:53.655  8057  8057 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-07 06:09:53.655  8057  8057 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-07 06:09:53.726  8057  8057 D MoPub   : Failed to retrieve GPS location: access appears to be disabled.
+01-07 06:09:53.726  8057  8057 D MoPub   : Failed to retrieve network location: access appears to be disabled.
+01-07 06:09:53.727  8057  8057 D MoPub   : Loading url: http://ads.mopub.com/m/ad?v=6&id=501acfd555114de58b8bf7eb1aafa64f&nv=4.1.0&dn=TSINGHUA%20TONGFANG%20Computer%2CH170-PRO%2Candroid_x86_64&bundle=com.digiplex.game&z=%2B0000&o=l&w=1080&h=1920&sc_a=1.5&ct=1&av=2.7.2&udid=mp_tmpl_advertising_id&dnt=mp_tmpl_do_not_track&mr=1&android_perms_ext_storage=1
+01-07 06:09:53.908  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 06:09:53.908  2272  2272 W PackageManager: Failure retrieving resources for com.wandoujia.phoenix2: Resource ID #0x0
+01-07 06:09:53.918  8057  8057 W chromium: [WARNING:data_reduction_proxy_settings.cc(331)] SPDY proxy OFF at startup
+01-07 06:09:54.004  8057  8057 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+01-07 06:09:54.035  8057  8057 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+01-07 06:09:54.036  8057  8057 D MoPub   : Unable to calculate 2% of available disk space, defaulting to minimum
+01-07 06:09:54.040  8057  8112 W GooglePlayServicesUtil: Google Play services is missing.
+01-07 06:09:54.045  8057  8116 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-07 06:09:54.047  8057  8057 D Atlas   : Validating map...
+01-07 06:09:54.049  2145  2492 V WindowManager: Adding window Window{266aa8a4 u0 com.digiplex.game/com.digiplex.game.MainActivity} at 7 of 13 (before Window{235c084f u0 Starting com.digiplex.game})
+01-07 06:09:54.140  8119  8119 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:09:54.322  1890  2186 D NuPlayerDriver: start(0xf502f100)
+01-07 06:09:54.322  1890  8122 I GenericSource: start
+01-07 06:09:54.325  8057  8057 D MoPub   : Failed to retrieve GPS location: access appears to be disabled.
+01-07 06:09:54.325  8057  8057 D MoPub   : Failed to retrieve network location: access appears to be disabled.
+01-07 06:09:54.325  8057  8057 D MoPub   : Loading url: http://ads.mopub.com/m/ad?v=6&id=501acfd555114de58b8bf7eb1aafa64f&nv=4.1.0&dn=TSINGHUA%20TONGFANG%20Computer%2CH170-PRO%2Candroid_x86_64&bundle=com.digiplex.game&z=%2B0000&o=p&w=1080&h=1920&sc_a=1.5&ct=1&av=2.7.2&udid=mp_tmpl_advertising_id&dnt=mp_tmpl_do_not_track&mr=1&android_perms_ext_storage=1
+01-07 06:09:54.325  8057  8113 W GooglePlayServicesUtil: Google Play services is missing.
+01-07 06:09:54.325  2145  3551 V WindowManager: Adding window Window{381ce00e u0 com.digiplex.game/com.digiplex.game.MainActivity} at 7 of 12 (after Window{33ef1d66 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.search.activity.SearchHomeActivity})
+01-07 06:09:54.330  1890  2186 D NuPlayerDriver: reset(0xf502f100)
+01-07 06:09:54.330  1890  8122 D NuPlayerDriver: notifyResetComplete(0xf502f100)
+01-07 06:09:54.360  8057  8116 I OpenGLRenderer: Initialized EGL, version 1.4
+01-07 06:09:54.360  8057  8116 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-07 06:09:54.361  8057  8116 D OpenGLRenderer: Enabling debug mode 0
+01-07 06:09:54.431  2145  2175 I ActivityManager: Displayed com.digiplex.game/.MainActivity: +1s563ms (total +5s35ms)
+01-07 06:09:54.911  8057  8112 D MoPub   : Failed to retrieve GPS location: access appears to be disabled.
+01-07 06:09:54.912  8057  8112 D MoPub   : Failed to retrieve network location: access appears to be disabled.
+01-07 06:09:55.105  8057  8113 D MoPub   : Failed to retrieve GPS location: access appears to be disabled.
+01-07 06:09:55.106  8057  8113 D MoPub   : Failed to retrieve network location: access appears to be disabled.
+01-07 06:09:55.107  8057  8057 I MoPub   : Performing custom event.
+01-07 06:09:55.108  8057  8057 D MoPub   : Loading custom event interstitial adapter.
+01-07 06:09:55.108  8057  8057 D MoPub   : Attempting to invoke custom event: com.mopub.mobileads.VastVideoInterstitial
+01-07 06:09:55.109  8057  8057 D MoPub   : Unable to calculate 2% of available disk space, defaulting to minimum
+01-07 06:09:55.173  2145  2175 I art     : Explicit concurrent mark sweep GC freed 12521(714KB) AllocSpace objects, 7(3MB) LOS objects, 33% free, 17MB/25MB, paused 901us total 32.389ms
+01-07 06:09:57.459  8057  8057 I ActivitySwipeDetector: onTopToBottomSwipe!
+01-07 06:09:59.150  8139  8139 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:10:01.844  2145  2188 W TelecomManager: Telecom Service not found.
+01-07 06:10:01.845  2145  2188 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+01-07 06:10:01.845  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:10:01.857  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 06:10:01.961  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 06:10:01.968  2145  2305 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.23}
+01-07 06:10:01.970  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 06:10:01.971  5912  5912 D GeckoApplication: onConfigurationChanged: zh_CN, background: false
+01-07 06:10:01.971  5912  5912 D GeckoLocales: No selected locale. No correction needed.
+01-07 06:10:02.026  2421  2421 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-07 06:10:02.026  2421  2421 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-07 06:10:02.033  2272  2677 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 06:10:02.152  2145  2175 I WindowManager: Screen frozen for +221ms due to Window{1f3ac48f u0 com.android.systemui.ImageWallpaper}
+01-07 06:10:02.569  2421  2728 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+01-07 06:10:02.998  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 06:10:02.998  2272  2272 W PackageManager: Failure retrieving resources for com.digiplex.game: Resource ID #0x0
+01-07 06:10:04.158  8141  8141 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:10:04.178  2145  2175 I art     : Explicit concurrent mark sweep GC freed 6902(724KB) AllocSpace objects, 10(3MB) LOS objects, 33% free, 15MB/23MB, paused 367us total 9.586ms
+01-07 06:10:04.413  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:10:04.421  2145  6321 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 06:10:04.476  2145  3553 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2497be73 (uid=10033 pid=2421)
+01-07 06:10:06.068  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 06:10:06.161  7596  7596 I Term    : Bound to TermService
+01-07 06:10:06.161  7596  7596 I TermService: Activity binding to service
+01-07 06:10:09.169  8150  8150 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:10:12.640  2145  6321 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 06:10:14.181  8151  8151 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 06:10:15.128  8152  8152 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
