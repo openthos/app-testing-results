@@ -22,8 +22,8 @@ seafile| PASS| 休眠唤醒后无法安装，提示没有存储空间,重启后�
 地铁跑酷| PASS| 打开应用兼容性后可用，否则不可用
 开心消消乐| PASS| 打开应用兼容性后可用，否则不可用
 植物大战僵尸|PASS|打开应用兼容性后可用，否则不可用
-水果忍者| FAIL|安装后无法运行，提示"很抱歉，×××已停止运行."
-百度云| FAIL|安装后无法运行，提示"很抱歉，×××已停止运行."
+水果忍者| FAIL|安装后无法运行，提示"很抱歉，×××已停止运行." 注：（通过在apk中将x86的lib进行删除，app可以正常启动）
+百度云| FAIL|安装后无法运行，提示"很抱歉，×××已停止运行."  注：（通过在apk中将x86的lib进行删除，app可以正常启动）
 Microsoft Excel| NE| 未下载到x86版Microsoft Excel版本，手机版安装不成功
 Microsoft Word| NE| 未下载到x86版Microsoft Word版本，手机版安装不成功
 Microsoft Powerpoint| NE| 未下载到x86版Microsoft Powerpoint版本，手机版安装不成功
