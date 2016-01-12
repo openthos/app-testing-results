@@ -1,5 +1,41 @@
 #环境
 - cpu:skylake
+- os: android-x86-5.1+kernel-4.4.0-final user版本
+- 前提条件：
+- 1. 安装好系统后设置-应用兼容性-打开可兼容使用arm库的应用 
+- 2. 显示-设备旋转时-保持当前方向（横屏时设置）
+- 3. 双击预安装的rotation locker-landscape。使竖屏切换成横屏
+
+#app测试结果列表
+
+名称 | 运行情况|　备注
+----- | ---- | ----
+QQ  | PASS |Rotation locker工具使其显示正常
+搜狗输入法| PASS| 使用正常
+2048| PASS| Rotation locker工具使其显示正常
+ES文件管理器| PASS|使用正常。
+QQ 音乐| PASS|Rotation locker工具使其显示正常
+WPSoffice| PASS| 使用正常。
+chrome| PASS| 使用正常。
+firefox| PASS| 使用正常。
+豌豆荚| PASS| Rotation locker工具使其显示正常
+QQ浏览器| PASS| Rotation locker工具使其显示正常
+seafile| PASS| 使用正常
+微信| PASS| 打开应用兼容性后可用，否则不可用
+地铁跑酷| PASS| 打开应用兼容性后可用，否则不可用
+开心消消乐| PASS| 打开应用兼容性后可用，否则不可用
+植物大战僵尸|PASS|打开应用兼容性后可用，否则不可用
+水果忍者| FAIL|双击已安装好的应用，无法打开使用。注：（通过在apk中将x86的lib进行删除，app可以正常启动）
+百度云| FAIL|双击已安装好的应用，一闪而过无法打开使用。 注：（通过在apk中将x86的lib进行删除，app可以正常启动）
+Microsoft Excel| NE| 未下载到x86版Microsoft Excel版本，手机版安装不成功
+Microsoft Word| NE| 未下载到x86版Microsoft Word版本，手机版安装不成功
+Microsoft Powerpoint| NE| 未下载到x86版Microsoft Powerpoint版本，手机版安装不成功
+
+------------------------------------------------------------------------------------------------------------
+
+
+#环境
+- cpu:skylake
 - os: android-x86-5.1+kernel-4.4.0-rc8 user版本
 - 前提条件：安装好系统后执行#enable_nativebridge及设置-应用兼容性-打开
 
