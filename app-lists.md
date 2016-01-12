@@ -32,7 +32,7 @@ Microsoft Word| NE| 未下载到x86版Microsoft Word版本，手机版安装不�
 Microsoft Powerpoint| NE| 未下载到x86版Microsoft Powerpoint版本，手机版安装不成功
 
 ##其他问题
-1、QQ music 无法下载声音，只能播放本地音乐。考虑APP识别有线网线，而非只支持WIFI和gms
+1、QQ music 无法下载声音，只能播放本地音乐。后期需考虑APP识别有线网线，而非只支持WIFI和gms
 
 2、 在以下四种情况下rotation功能失效
       重启;休眠唤醒后;新安装APP;一段时间不操作再次打开竖屏程序时又回到竖屏
