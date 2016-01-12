@@ -1,0 +1,1440 @@
+01-12 01:54:15.279  6154  6154 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:15.877  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:15.889  1882  2144 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-12 01:54:15.892  2276  2276 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 01:54:15.892  2276  2276 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-12 01:54:15.893  2147  2166 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10011 on display 0
+01-12 01:54:15.966  5406  5406 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-12 01:54:16.905  2276  2276 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 01:54:16.906  2276  2276 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-12 01:54:17.221  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:17.250  6158  6158 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.255  6159  6159 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.261  6160  6160 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.265  6161  6161 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.379  6169  6169 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.380  6170  6170 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.381  6171  6171 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.389  6172  6172 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.390  6173  6173 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:17.391  6174  6174 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:18.956  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:18.992  4665  4686 D OpenGLRenderer: endAllStagingAnimators on 0x7f101f021c00 (RippleDrawable) with handle 0x7f1016cbbea0
+01-12 01:54:20.288  6176  6176 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:23.143  2147  2186 W ActivityManager: Unable to start service Intent { act=APP_CHANGE_ACTION flg=0x4 cmp=com.wandoujia.phoenix2/com.wandoujia.base.services.AlarmService (has extras) } U=0: not found
+01-12 01:54:24.421  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:24.426  2147  5372 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb1/CTS/test-APK/subwayrun.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10018 on display 0
+01-12 01:54:24.428  2147  5372 V WindowManager: addAppToken: AppWindowToken{12511124 token=Token{3c3375b7 ActivityRecord{2d1314b6 u0 com.android.packageinstaller/.PackageInstallerActivity t13}}} to stack=1 task=13 at 1
+01-12 01:54:24.433  1882  2144 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-12 01:54:24.438  4665  4665 W PackageParser: Unknown element under <service>: action at /storage/usb1/CTS/test-APK/subwayrun.apk Binary XML file line #84
+01-12 01:54:24.508  4665  4665 I AppSecurityPermissions: Ignoring unknown permission:andorid.permission.CHANGE_CONFIGURATION
+01-12 01:54:24.509  4665  4665 I AppSecurityPermissions: Ignoring unknown permission:com.android.launcher2.permission.READ_SETTINGS
+01-12 01:54:24.509  4665  4665 I AppSecurityPermissions: Ignoring unknown permission:com.android.launcher.permission.READ_SETTINGS
+01-12 01:54:24.509  4665  4665 I AppSecurityPermissions: Ignoring unknown permission:android.webkit.permission.PLUGIN
+01-12 01:54:24.524  2147  2297 V WindowManager: Adding window Window{3c33c642 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{30ff227d u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-12 01:54:24.596  2147  2177 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +165ms
+01-12 01:54:25.300  6180  6180 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:26.200  2147  2490 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:26.205  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:26.757  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:27.252  2147  2167 I ActivityManager: START u0 {dat=file:///storage/usb1/CTS/test-APK/subwayrun.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10040 on display 0
+01-12 01:54:27.253  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:27.254  2147  2167 V WindowManager: addAppToken: AppWindowToken{6bc048e token=Token{b71cc89 ActivityRecord{24201b90 u0 com.android.packageinstaller/.InstallAppProgress t13}}} to stack=1 task=13 at 2
+01-12 01:54:27.270  2147  2297 V WindowManager: Adding window Window{10d9ccb u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 6 of 11 (after Window{3c33c642 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-12 01:54:27.320  2147  2177 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +62ms
+01-12 01:54:27.358  4665  4686 D OpenGLRenderer: endAllStagingAnimators on 0x7f1016de2000 (RippleDrawable) with handle 0x7f1016cbb620
+01-12 01:54:27.802  4740  4760 D DefContainer: Copying /storage/usb1/CTS/test-APK/subwayrun.apk to base.apk
+01-12 01:54:29.607  2147  2181 W PackageParser: Unknown element under <service>: action at /data/app/vmdl1851075376.tmp/base.apk Binary XML file line #84
+01-12 01:54:30.161  2147  2181 D PackageManager: Renaming /data/app/vmdl1851075376.tmp to /data/app/com.kiloo.subwaysurf-1
+01-12 01:54:30.266  2147  2181 I PackageManager: Running dexopt on: /data/app/com.kiloo.subwaysurf-1/base.apk pkg=com.kiloo.subwaysurf isa=x86 vmSafeMode=false
+01-12 01:54:30.270  6186  6186 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-12 01:54:30.270  6186  6186 E cutils-trace: Error opening trace file: Permission denied (13)
+01-12 01:54:30.270  6186  6186 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.kiloo.subwaysurf-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.kiloo.subwaysurf-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-12 01:54:30.308  6188  6188 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:30.369  6186  6186 I dex2oat : Decided to run without swap.
+01-12 01:54:31.252  6186  6186 I dex2oat : dex2oat took 981.766ms (threads: 8) arena alloc=325KB java alloc=10MB native alloc=23MB free=8MB
+01-12 01:54:31.370  2147  2181 W PackageManager: Not granting permission android.permission.MOUNT_UNMOUNT_FILESYSTEMS to package com.kiloo.subwaysurf (protectionLevel=18 flags=0x8bc44)
+01-12 01:54:31.370  2147  2181 W PackageManager: Unknown permission andorid.permission.CHANGE_CONFIGURATION in package com.kiloo.subwaysurf
+01-12 01:54:31.370  2147  2181 W PackageManager: Not granting permission android.permission.READ_LOGS to package com.kiloo.subwaysurf (protectionLevel=50 flags=0x8bc44)
+01-12 01:54:31.371  2147  2181 W PackageManager: Not granting permission android.permission.ACCESS_DOWNLOAD_MANAGER to package com.kiloo.subwaysurf (protectionLevel=18 flags=0x8bc44)
+01-12 01:54:31.371  2147  2181 W PackageManager: Unknown permission com.android.launcher2.permission.READ_SETTINGS in package com.kiloo.subwaysurf
+01-12 01:54:31.371  2147  2181 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.kiloo.subwaysurf
+01-12 01:54:31.371  2147  2181 W PackageManager: Unknown permission android.webkit.permission.PLUGIN in package com.kiloo.subwaysurf
+01-12 01:54:31.496  2147  2181 V BackupManagerService: restoreAtInstall pkg=com.kiloo.subwaysurf token=3 restoreSet=0
+01-12 01:54:31.496  2147  2181 V BackupManagerService: Finishing install immediately
+01-12 01:54:31.497  2147  2181 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-12 01:54:31.502  2147  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-12 01:54:31.504  2147  5373 W ActivityManager: getTasks: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.504  2147  2167 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10052 on display 0
+01-12 01:54:31.519  2147  2167 V WindowManager: addAppToken: AppWindowToken{1b62b623 token=Token{10e6a352 ActivityRecord{21a45bdd u0 com.estrongs.android.pop/.app.InstallMonitorActivity t21}}} to stack=1 task=21 at 0
+01-12 01:54:31.538  2147  2181 I art     : Explicit concurrent mark sweep GC freed 40556(2MB) AllocSpace objects, 12(3MB) LOS objects, 33% free, 14MB/22MB, paused 1.137ms total 40.847ms
+01-12 01:54:31.538  2147  2165 I art     : WaitForGcToComplete blocked for 6.013ms for cause Background
+01-12 01:54:31.546  2147  2167 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.557  2147  2166 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.574  6202  6202 D houdini : [6202] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+01-12 01:54:31.575  2147  2424 I ActivityManager: Start proc 6202:com.tencent.mobileqq:web/u0a61 for broadcast com.tencent.mobileqq/com.tencent.open.business.base.appreport.AppReportReceiver
+01-12 01:54:31.576  2147  5372 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.576  2147  2446 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.589  6202  6202 I ActivityThread: Switching default density from 160 to 240
+01-12 01:54:31.591  2147  2147 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.kiloo.subwaysurf flg=0x4000010 (has extras) }
+01-12 01:54:31.598  2147  2171 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-12 01:54:31.607  2147  5372 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.608  6202  6202 D BaseApplicationImpl: [E]com.tencent.mobileqq:web, inject NotVerifyDex Success, cost:0
+01-12 01:54:31.609  6202  6202 D BaseApplicationImpl: [E]injectPatchDex false
+01-12 01:54:31.609  2147  2446 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.610  2147  5373 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.613  6202  6202 E DexLoadOat: [E]Success
+01-12 01:54:31.614  6202  6202 D MSF.D.MonitorSocket: [E]monitor_config not found, disable monitor socket
+01-12 01:54:31.618  6202  6229 D mqq     : [E]doInit begin withcom.tencent.mobileqq:web
+01-12 01:54:31.618  6202  6229 W System.err: java.io.FileNotFoundException: /data/data/com.tencent.mobileqq/files/Properties: open failed: ENOENT (No such file or directory)
+01-12 01:54:31.618  6202  6229 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+01-12 01:54:31.618  6202  6229 W System.err: 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+01-12 01:54:31.618  6202  6229 W System.err: 	at android.app.ContextImpl.openFileInput(ContextImpl.java:961)
+01-12 01:54:31.618  6202  6229 W System.err: 	at android.content.ContextWrapper.openFileInput(ContextWrapper.java:176)
+01-12 01:54:31.618  6202  6229 W System.err: 	at mqq.app.MobileQQ.loadProperites(MobileQQ.java:213)
+01-12 01:54:31.618  6202  6229 W System.err: 	at mqq.app.MobileQQ.doInit(MobileQQ.java:154)
+01-12 01:54:31.618  6202  6229 W System.err: 	at com.tencent.mobileqq.startup.step.NewRuntime.a(ProGuard:14)
+01-12 01:54:31.618  6202  6229 W System.err: 	at com.tencent.mobileqq.startup.step.Step.c(ProGuard:107)
+01-12 01:54:31.618  6202  6229 W System.err: 	at com.tencent.mobileqq.startup.step.Step.run(ProGuard:84)
+01-12 01:54:31.618  6202  6229 W System.err: 	at com.tencent.mobileqq.app.Job.run(ProGuard:126)
+01-12 01:54:31.618  6202  6229 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-12 01:54:31.618  6202  6229 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-12 01:54:31.618  6202  6229 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+01-12 01:54:31.618  6202  6229 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+01-12 01:54:31.618  6202  6229 W System.err: 	at libcore.io.Posix.open(Native Method)
+01-12 01:54:31.618  6202  6229 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+01-12 01:54:31.618  6202  6229 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+01-12 01:54:31.618  6202  6229 W System.err: 	... 12 more
+01-12 01:54:31.625  6202  6202 W ResourceType: For resource 0x7f0b0330, entry index(816) is beyond type entryCount(816)
+01-12 01:54:31.625  6202  6202 W ResourceType: Failure getting entry for 0x7f0b0330 (t=10 e=816) (error -75)
+01-12 01:54:31.638  2147  5372 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.645  2147  2490 I ActivityManager: Start proc 6231:com.tencent.mobileqq/u0a61 for content provider com.tencent.mobileqq/com.tencent.mqq.shared_file_accessor.ContentProviderImpl
+01-12 01:54:31.648  6231  6231 D houdini : [6231] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+01-12 01:54:31.652  1890  1890 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 90us total 6.398ms
+01-12 01:54:31.658  1890  1890 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 89us total 6.175ms
+01-12 01:54:31.664  1890  1890 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 67us total 5.891ms
+01-12 01:54:31.689  2147  2424 I ActivityManager: Start proc 6252:com.tencent.mobileqq:MSF/u0a61 for service com.tencent.mobileqq/.msf.service.MsfService
+01-12 01:54:31.689  6202  6229 D MSF.D.Proxy: [E]start service finish
+01-12 01:54:31.692  6202  6229 D MSF.D.Proxy: [E]threadID:147, threadName: GlobalPool-L bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-12 01:54:31.692  6202  6229 D mqq     : [E]doinit last == null goto to sharedPreferences....
+01-12 01:54:31.692  2147  2424 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.693  6202  6229 D MobileQQ: [E]createNewRuntimefalsefalse5null
+01-12 01:54:31.693  6231  6231 I ActivityThread: Switching default density from 160 to 240
+01-12 01:54:31.694  6252  6252 D houdini : [6252] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+01-12 01:54:31.695  2147  2446 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@2c16b7b9 attribute=null, token = android.os.BinderProxy@2e77db9a
+01-12 01:54:31.696  2457  2457 I Launcher: Deferring update until onResume
+01-12 01:54:31.696  6202  6229 D MSF.D.Proxy: [E]start service finish
+01-12 01:54:31.696  6202  6229 D MSF.D.Proxy: [E]threadID:147, threadName: GlobalPool-L bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-12 01:54:31.696  6202  6229 D MobileQQ: [E]CNR account == null
+01-12 01:54:31.700  6202  6229 D mqq     : [E]doInit finished
+01-12 01:54:31.703  6252  6252 I ActivityThread: Switching default density from 160 to 240
+01-12 01:54:31.708  2147  2486 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.708  6231  6231 D BaseApplicationImpl: [E]com.tencent.mobileqq, inject NotVerifyDex Success, cost:0
+01-12 01:54:31.709  6231  6231 D BaseApplicationImpl: [E]injectPatchDex false
+01-12 01:54:31.709  2147  5373 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.710  2147  5371 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.711  6231  6231 E DexLoadOat: [E]Success
+01-12 01:54:31.713  6231  6231 D MSF.D.MonitorSocket: [E]monitor_config not found, disable monitor socket
+01-12 01:54:31.713  2147  2166 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.714  6252  6252 D BaseApplicationImpl: [E]com.tencent.mobileqq:MSF, inject NotVerifyDex Success, cost:1
+01-12 01:54:31.714  6252  6252 D BaseApplicationImpl: [E]injectPatchDex false
+01-12 01:54:31.715  2147  5373 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.715  2147  5371 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.715  6252  6252 D MSF.D.MonitorSocket: [E]monitor_config not found, disable monitor socket
+01-12 01:54:31.717  2147  2486 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.717  6252  6283 D appMemory: QLog init retry 
+01-12 01:54:31.717  6252  6252 D MSF.S.MsfService: [E]serivce onCreate
+01-12 01:54:31.717  6252  6252 D MSF.C.MsfCore: [E]MsfCore init begin.
+01-12 01:54:31.720  6252  6252 D MSF.C.Util: [E]save imei:922498605155159,with order:1
+01-12 01:54:31.722  6252  6252 D houdini : [6252] Added shared library /data/data/com.tencent.mobileqq/txlib/libmsfbootV2.so for ClassLoader by Native Bridge.
+01-12 01:54:31.734  6252  6252 D houdini : [6252] Added shared library /data/app/com.tencent.mobileqq-1/lib/arm/libNativeRQD.so for ClassLoader by Native Bridge.
+01-12 01:54:31.734  6252  6252 E art     : No implementation found for java.lang.String com.tencent.feedback.eup.jni.NativeExceptionUpload.registNativeExceptionHandler2(java.lang.String, java.lang.String, int, int) (tried Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2 and Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2__Ljava_lang_String_2Ljava_lang_String_2II)
+01-12 01:54:31.735  6252  6252 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler start
+01-12 01:54:31.735  6252  6252 I native_eup: found native exception upload!
+01-12 01:54:31.736  6252  6252 I native_eup: found native exception handler!
+01-12 01:54:31.736  6252  6252 I native_eup: regist handler start procType 1 , level 22 , tombDir:/data/data/com.tencent.mobileqq/app_tombs
+01-12 01:54:31.736  6252  6252 I native_eup: registSignal start
+01-12 01:54:31.736  6252  6252 I native_eup: registSignal end
+01-12 01:54:31.736  6252  6252 I native_eup: regist handler end
+01-12 01:54:31.736  6252  6252 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler end
+01-12 01:54:31.736  6252  6252 I native_eup: NativeRQDVersion:NRQD_1.7.4.1
+01-12 01:54:31.736  6252  6252 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_enableHandler start
+01-12 01:54:31.736  6252  6252 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_enableHandler end
+01-12 01:54:31.736  6252  6252 I native_eup: setLogMode 3 current 4
+01-12 01:54:31.737  2147  5373 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.739  2147  2214 D WifiService: New client listening to asynchronous messages
+01-12 01:54:31.743  6252  6252 D houdini : [6252] Added shared library /data/data/com.tencent.mobileqq/txlib/libwtecdh.so for ClassLoader by Native Bridge.
+01-12 01:54:31.758  2147  2486 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:31.758  6252  6252 D MSF.C.TokenChecker: [E]msf init ct
+01-12 01:54:31.925  2457  2485 E DatabaseUtils: Writing exception to parcel
+01-12 01:54:31.925  2457  2485 E DatabaseUtils: java.lang.SecurityException: Permission Denial: writing com.android.launcher3.LauncherProvider uri content://com.android.launcher3.settings/favorites/7?notify=true from pid=5494, uid=10057 requires com.android.launcher3.permission.WRITE_SETTINGS, or grantUriPermission()
+01-12 01:54:31.925  2457  2485 E DatabaseUtils: 	at android.content.ContentProvider.enforceWritePermissionInner(ContentProvider.java:604)
+01-12 01:54:31.925  2457  2485 E DatabaseUtils: 	at android.content.ContentProvider$Transport.enforceWritePermission(ContentProvider.java:461)
+01-12 01:54:31.925  2457  2485 E DatabaseUtils: 	at android.content.ContentProvider$Transport.update(ContentProvider.java:323)
+01-12 01:54:31.925  2457  2485 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:222)
+01-12 01:54:31.925  2457  2485 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-12 01:54:31.962  2457  2457 I Launcher: Deferring update until onResume
+01-12 01:54:32.194  6252  6252 D MsfAliveMonitor: [E]onEventBegin: service
+01-12 01:54:32.194  6252  6252 D MsfAliveMonitor: [E]onEventBegin: service
+01-12 01:54:32.197  6252  6252 D MSF.C.NetConnInfoCenter: [E]currentAPN:. received networkInfo: CONNECTED :[type: Ethernet[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: f8:32:e4:a0:25:09, roaming: false, failover: false, isAvailable: true, isConnectedToProvisioningNetwork: false]. extra NetworkInfo: null
+01-12 01:54:32.201  6252  6252 D houdini : [6252] Added shared library /data/data/com.tencent.mobileqq/txlib/libcodecwrapperV2.so for ClassLoader by Native Bridge.
+01-12 01:54:32.201  6252  6252 D MSF.C.CodecWarpper: [E]set so version to 600
+01-12 01:54:32.203  6252  6252 D MSF.C.NetConnTag: [E]noTry loadTestServerConfig by release
+01-12 01:54:32.214  6320  6320 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:32.215  2147  2297 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:32.217  6252  6252 D MSF.C.ConfigManager: [E]StandbyMode whitelist not be found.
+01-12 01:54:32.224  6252  6252 D MSF.C.MsfCore: [E]MsfCore init finished.
+01-12 01:54:32.226  6231  6231 I AutoMonitor: [E]onActivityCreate when 1, mqq.app.QQBroadcastReceiver@10b5a953
+01-12 01:54:32.226  6231  6231 D mqq     : [E]doInit begin withcom.tencent.mobileqq
+01-12 01:54:32.226  6231  6231 W System.err: java.io.FileNotFoundException: /data/user/0/com.tencent.mobileqq/files/Properties: open failed: ENOENT (No such file or directory)
+01-12 01:54:32.227  6231  6231 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+01-12 01:54:32.227  6231  6231 W System.err: 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+01-12 01:54:32.227  6231  6231 W System.err: 	at android.app.ContextImpl.openFileInput(ContextImpl.java:961)
+01-12 01:54:32.227  6231  6231 W System.err: 	at android.content.ContextWrapper.openFileInput(ContextWrapper.java:176)
+01-12 01:54:32.227  6231  6231 W System.err: 	at mqq.app.MobileQQ.loadProperites(MobileQQ.java:213)
+01-12 01:54:32.227  6231  6231 W System.err: 	at mqq.app.MobileQQ.doInit(MobileQQ.java:154)
+01-12 01:54:32.227  6231  6231 W System.err: 	at com.tencent.mobileqq.startup.step.NewRuntime.a(ProGuard:14)
+01-12 01:54:32.227  6231  6231 W System.err: 	at com.tencent.mobileqq.startup.step.Step.c(ProGuard:107)
+01-12 01:54:32.227  6231  6231 W System.err: 	at com.tencent.mobileqq.startup.step.Step.a(ProGuard:133)
+01-12 01:54:32.227  6231  6231 W System.err: 	at com.tencent.mobileqq.startup.step.Step.c(ProGuard:107)
+01-12 01:54:32.227  6231  6231 W System.err: 	at com.tencent.mobileqq.startup.director.StartupDirector.a(ProGuard:368)
+01-12 01:54:32.227  6231  6231 W System.err: 	at com.tencent.common.app.BaseApplicationImpl.onActivityCreate(ProGuard:244)
+01-12 01:54:32.227  6231  6231 W System.err: 	at mqq.app.QQBroadcastReceiver.onReceive(QQBroadcastReceiver.java:30)
+01-12 01:54:32.227  6231  6231 W System.err: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-12 01:54:32.227  6231  6231 W System.err: 	at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-12 01:54:32.227  6231  6231 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-12 01:54:32.227  6231  6231 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:32.227  6231  6231 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:32.227  6231  6231 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:32.227  6231  6231 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:32.227  6231  6231 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:32.227  6231  6231 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:32.227  6231  6231 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:32.227  6231  6231 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+01-12 01:54:32.227  6231  6231 W System.err: 	at libcore.io.Posix.open(Native Method)
+01-12 01:54:32.227  6231  6231 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+01-12 01:54:32.227  6231  6231 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+01-12 01:54:32.227  6231  6231 W System.err: 	... 22 more
+01-12 01:54:32.229  6231  6231 D MSF.D.Proxy: [E]start service finish
+01-12 01:54:32.229  6231  6231 D MSF.D.Proxy: [E]threadID:1, threadName: main bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-12 01:54:32.229  6231  6231 D mqq     : [E]doinit last == null goto to sharedPreferences....
+01-12 01:54:32.230  6231  6231 D MobileQQ: [E]createNewRuntimetruefalse5null
+01-12 01:54:32.233  6231  6231 D MSF.D.Proxy: [E]start service finish
+01-12 01:54:32.233  6231  6231 D MSF.D.Proxy: [E]threadID:1, threadName: main bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-12 01:54:32.233  6231  6231 D MobileQQ: [E]CNR account == null
+01-12 01:54:32.238  6231  6231 I UniformDownloadMgr<FileAssistant>: [E][UniformDL] UniformDownloadMgr.getInstance.create
+01-12 01:54:32.238  6231  6231 I UniformDownloadMgr<FileAssistant>: [E][UniformDL] UniformDownloadMgr onAppInit...
+01-12 01:54:32.239  6231  6231 D mqq     : [E]doInit finished
+01-12 01:54:32.240  6231  6231 D Rdm     : [E]doStep...process: com.tencent.mobileqq
+01-12 01:54:32.246  6231  6231 D StatisticCollector: [E]initCrashReport ... process:com.tencent.mobileqq pid=6231
+01-12 01:54:32.247  6231  6231 D StatisticCollector: [E]initNativeCrashReport ... process:com.tencent.mobileqq pid=6231
+01-12 01:54:32.253  6231  6231 D houdini : [6231] Added shared library /data/app/com.tencent.mobileqq-1/lib/arm/libNativeRQD.so for ClassLoader by Native Bridge.
+01-12 01:54:32.253  6231  6231 E art     : No implementation found for java.lang.String com.tencent.feedback.eup.jni.NativeExceptionUpload.registNativeExceptionHandler2(java.lang.String, java.lang.String, int, int) (tried Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2 and Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2__Ljava_lang_String_2Ljava_lang_String_2II)
+01-12 01:54:32.255  6231  6231 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler start
+01-12 01:54:32.256  6231  6231 I native_eup: found native exception upload!
+01-12 01:54:32.256  6231  6231 I native_eup: found native exception handler!
+01-12 01:54:32.256  6231  6231 I native_eup: regist handler start procType 1 , level 22 , tombDir:/data/user/0/com.tencent.mobileqq/app_tombs
+01-12 01:54:32.256  6231  6231 I native_eup: registSignal start
+01-12 01:54:32.257  6231  6231 I native_eup: registSignal end
+01-12 01:54:32.257  6231  6231 I native_eup: regist handler end
+01-12 01:54:32.257  6231  6231 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler end
+01-12 01:54:32.257  6231  6231 I native_eup: NativeRQDVersion:NRQD_1.7.4.1
+01-12 01:54:32.257  6231  6231 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_enableHandler start
+01-12 01:54:32.257  6231  6231 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_enableHandler end
+01-12 01:54:32.258  6231  6231 I native_eup: setLogMode 5 current 4
+01-12 01:54:32.270  6231  6231 I art     : Explicit concurrent mark sweep GC freed 6378(441KB) AllocSpace objects, 9(144KB) LOS objects, 25% free, 4MB/6MB, paused 157us total 11.444ms
+01-12 01:54:32.273  6231  6341 D houdini : [6341] Added shared library /data/data/com.tencent.mobileqq/lib/libGIFEngine.so for ClassLoader by Native Bridge.
+01-12 01:54:32.275  6252  6252 D MSF.S.MsfService: [E]serivce onBind by :com.tencent.mobileqq:web
+01-12 01:54:32.275  6231  6231 I AutoMonitor: [E]onActivityCreate when 201, com.tencent.mobileqq.app.CoreService$KernelService@203f61bb
+01-12 01:54:32.275  6231  6341 D MSF.D.RemoteServiceProxy: [E]wait start com.tencent.mobileqq.msf.service.MsfService service result, skiped...
+01-12 01:54:32.275  6231  6341 D MSF.D.RemoteServiceProxy: [E]sdk version:22
+01-12 01:54:32.275  6252  6252 D MSF.S.MsfService: [E]serivce onStart
+01-12 01:54:32.275  6252  6252 D MSF.S.MsfService: [E]serivce onStart
+01-12 01:54:32.275  6252  6252 D MSF.S.MsfService: [E]serivce onStart
+01-12 01:54:32.275  6252  6252 D MSF.S.MsfService: [E]serivce onStart
+01-12 01:54:32.276  6231  6341 D MSF.D.RemoteServiceProxy: [E]start MsfService through Broadcast
+01-12 01:54:32.276  6231  6341 D MSF.D.Proxy: [E]threadID:173, threadName: URLDrawableSubExecutor bind com.tencent.mobileqq.msf.service.MsfService service finished true
+01-12 01:54:32.276  6231  6341 D MSF.D.RemoteServiceProxy: [E]delay binding MSF Service
+01-12 01:54:32.276  2147  2297 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:32.277  2147  5371 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:32.277  6231  6231 D MSF.D.RemoteServiceProxy: [E]Property get avail memory:15952510976
+01-12 01:54:32.277  6231  6341 D MSF.D.RemoteServiceProxy: [E]Property get avail memory:15952510976
+01-12 01:54:32.277  6231  6341 D MSF.D.RemoteServiceProxy: [E]Property get low memory feature:false
+01-12 01:54:32.277  6231  6231 D MSF.D.RemoteServiceProxy: [E]Property get low memory feature:false
+01-12 01:54:32.285  6231  6341 I System  : Loaded time zone names for "zh_CN" in 8ms (7ms in ICU)
+01-12 01:54:32.285  2147  2490 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:32.285  2147  2167 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:32.286  6231  6341 D MSF.D.RemoteServiceProxy: [E]isMsfAlive:true, cur service process count:37
+01-12 01:54:32.286  6231  6231 D MSF.D.RemoteServiceProxy: [E]isMsfAlive:true, cur service process count:37
+01-12 01:54:32.286  6231  6341 D MSF.D.RemoteServiceProxy: [E]succ to pull msf service.
+01-12 01:54:32.286  6231  6231 D MSF.D.RemoteServiceProxy: [E]succ to pull msf service.
+01-12 01:54:32.303  6231  6250 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-12 01:54:32.303  6202  6224 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-12 01:54:32.335  6231  6280 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-12 01:54:32.335  6202  6225 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-12 01:54:32.346  6202  6340 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-12 01:54:32.346  6231  6251 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-12 01:54:32.406  6202  6224 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-12 01:54:32.407  6231  6281 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+01-12 01:54:32.865  5282  5323 D ++++++++: IsGetNotificationTimeOut = 1070865 dis = 28800000
+01-12 01:54:32.946  2147  5371 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:32.947  2147  2424 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:32.947  2147  2446 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.020  2147  2166 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.kiloo.subwaysurf cmp=com.kiloo.subwaysurf/com.idsky.android.impl.ui.IdskySplashActivity} from uid 10040 on display 0
+01-12 01:54:33.021  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:33.028  2147  2166 V WindowManager: addAppToken: AppWindowToken{35503e7d token=Token{cd20cd4 ActivityRecord{3a515227 u0 com.kiloo.subwaysurf/com.idsky.android.impl.ui.IdskySplashActivity t22}}} to stack=1 task=22 at 0
+01-12 01:54:33.033  1882  2144 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-12 01:54:33.049  2147  2177 V WindowManager: Adding window Window{1ef9a2be u0 Starting com.kiloo.subwaysurf} at 6 of 11 (after Window{10d9ccb u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+01-12 01:54:33.085  6351  6351 D houdini : [6351] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+01-12 01:54:33.086  2147  2486 I ActivityManager: Start proc 6351:com.kiloo.subwaysurf/u0a62 for activity com.kiloo.subwaysurf/com.idsky.android.impl.ui.IdskySplashActivity
+01-12 01:54:33.102  2276  2276 V PhoneStatusBar: setLightsOn(true)
+01-12 01:54:33.104  6351  6351 I ActivityThread: Switching default density from 160 to 240
+01-12 01:54:33.109  4665  4686 D OpenGLRenderer: endAllStagingAnimators on 0x7f1016de8400 (RippleDrawable) with handle 0x7f1016c20a40
+01-12 01:54:33.110  6351  6351 D SkynetApi: onApplicationCreate
+01-12 01:54:33.110  6351  6351 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:33.110  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.110  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:33.110  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:33.110  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4209)
+01-12 01:54:33.110  6351  6351 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3691)
+01-12 01:54:33.110  6351  6351 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:33.110  6351  6351 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:33.110  6351  6351 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:33.110  6351  6351 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:33.110  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:33.110  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:33.110  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:33.110  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:33.110  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.110  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.110  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:33.111  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:33.111  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:33.111  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.111  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.111  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:33.111  6351  6351 W System.err: 	... 17 more
+01-12 01:54:33.111  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:33.111  6351  6351 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.111  6351  6351 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:33.111  6351  6351 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:33.111  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.111  6351  6351 W System.err: 		... 18 more
+01-12 01:54:33.111  6351  6351 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:33.112  6351  6351 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-12 01:54:33.112  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.112  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:33.112  6351  6351 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-12 01:54:33.112  6351  6351 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-12 01:54:33.112  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.112  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.112  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:33.112  6351  6351 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3693)
+01-12 01:54:33.112  6351  6351 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:33.112  6351  6351 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:33.112  6351  6351 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:33.112  6351  6351 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:33.112  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:33.112  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:33.112  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:33.112  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:33.112  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.112  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.112  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:33.113  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:33.113  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:33.113  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.113  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.113  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:33.113  6351  6351 W System.err: 	... 20 more
+01-12 01:54:33.113  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-12 01:54:33.113  6351  6351 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.113  6351  6351 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:33.113  6351  6351 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:33.113  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.113  6351  6351 W System.err: 		... 21 more
+01-12 01:54:33.113  6351  6351 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:33.113  2147  2167 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.124  6351  6351 D houdini : [6351] Added shared library /data/app/com.kiloo.subwaysurf-1/lib/arm/libmegjb.so for ClassLoader by Native Bridge.
+01-12 01:54:33.177  6351  6351 D houdini : [6351] Added shared library /data/data/com.kiloo.subwaysurf/files/libmegbpp_02.02.16_01.so for ClassLoader by Native Bridge.
+01-12 01:54:33.228  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1169, 924).
+01-12 01:54:33.235  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1168, 924).
+01-12 01:54:33.244  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1168, 923).
+01-12 01:54:33.251  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1167, 923).
+01-12 01:54:33.260  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1166, 923).
+01-12 01:54:33.267  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1166, 922).
+01-12 01:54:33.276  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1165, 922).
+01-12 01:54:33.283  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1164, 922).
+01-12 01:54:33.291  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1163, 921).
+01-12 01:54:33.299  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1163, 920).
+01-12 01:54:33.307  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1162, 920).
+01-12 01:54:33.323  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1161, 920).
+01-12 01:54:33.347  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1160, 920).
+01-12 01:54:33.371  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1160, 919).
+01-12 01:54:33.387  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1159, 919).
+01-12 01:54:33.423  6385  6385 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-12 01:54:33.423  6385  6385 E cutils-trace: Error opening trace file: Permission denied (13)
+01-12 01:54:33.423  6385  6385 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.kiloo.subwaysurf/appsdk0_.dex --oat-fd=28 --oat-location=/data/data/com.kiloo.subwaysurf/files/appsdk0_.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m
+01-12 01:54:33.451  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1158, 919).
+01-12 01:54:33.460  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1158, 918).
+01-12 01:54:33.540  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1157, 918).
+01-12 01:54:33.548  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1157, 917).
+01-12 01:54:33.564  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1156, 916).
+01-12 01:54:33.580  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1155, 916).
+01-12 01:54:33.612  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1155, 915).
+01-12 01:54:33.616  2147  2167 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.616  2147  2297 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.617  2147  5371 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.620  2147  2167 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.621  2147  2297 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.622  2147  5371 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.623  2147  2166 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.628  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1154, 915).
+01-12 01:54:33.639  6385  6385 I dex2oat : dex2oat took 215.183ms (threads: 8) arena alloc=152KB java alloc=2MB native alloc=5MB free=2MB
+01-12 01:54:33.660  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1154, 914).
+01-12 01:54:33.668  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1153, 914).
+01-12 01:54:33.684  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1153, 913).
+01-12 01:54:33.700  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1152, 913).
+01-12 01:54:33.715  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1152, 912).
+01-12 01:54:33.723  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1151, 912).
+01-12 01:54:33.756  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1150, 912).
+01-12 01:54:33.763  6351  6351 E art     : ----- class 'Lcom/ir/gc/CustomContentProvider;' cl=0x12d692a0 -----
+01-12 01:54:33.763  6351  6351 E art     :   objectSize=412 (412 from super)
+01-12 01:54:33.763  6351  6351 E art     :   access=0x0000.0001
+01-12 01:54:33.763  6351  6351 E art     :   super='java.lang.Class<java.lang.Object>' (cl=0x0)
+01-12 01:54:33.763  6351  6351 E art     :   vtable (0 entries, 11 in super):
+01-12 01:54:33.763  6351  6351 E art     :   direct methods (23 entries):
+01-12 01:54:33.763  6351  6351 E art     :      0: void com.ir.gc.CustomContentProvider.<init>()
+01-12 01:54:33.763  6351  6351 E art     :      1: java.lang.String com.ir.gc.CustomContentProvider.GetInfoA(android.content.Context, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :      2: byte[] com.ir.gc.CustomContentProvider.GetInfoB(android.content.Context)
+01-12 01:54:33.763  6351  6351 E art     :      3: java.lang.String com.ir.gc.CustomContentProvider.GetNormalBillingReq(android.content.Context, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :      4: java.lang.String com.ir.gc.CustomContentProvider.GetSecureBillingRequest(android.content.Context, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :      5: java.lang.String com.ir.gc.CustomContentProvider.GetSecureSessionRequest(android.content.Context, java.lang.String, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :      6: java.lang.String com.ir.gc.CustomContentProvider.getAgentVersion()
+01-12 01:54:33.763  6351  6351 E art     :      7: java.lang.String com.ir.gc.CustomContentProvider.getAppid(android.content.Context)
+01-12 01:54:33.763  6351  6351 E art     :      8: java.lang.String com.ir.gc.CustomContentProvider.getContentValue(android.content.Context, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :      9: java.lang.String com.ir.gc.CustomContentProvider.getPublicKey(android.content.Context)
+01-12 01:54:33.763  6351  6351 E art     :     10: java.lang.String com.ir.gc.CustomContentProvider.nGetContentValue(java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     11: int com.ir.gc.CustomContentProvider.nSetContentValue(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     12: java.lang.String com.ir.gc.CustomContentProvider.ngetInfoA(java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     13: byte[] com.ir.gc.CustomContentProvider.ngetInfoB()
+01-12 01:54:33.763  6351  6351 E art     :     14: java.lang.String com.ir.gc.CustomContentProvider.ngetNormalBillingRequest(java.lang.String, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     15: java.lang.String com.ir.gc.CustomContentProvider.ngetSecureBillingRequest(java.lang.String, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     16: java.lang.String com.ir.gc.CustomContentProvider.ngetSecureSessionRequest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     17: java.lang.String com.ir.gc.CustomContentProvider.ngetVersion(int)
+01-12 01:54:33.763  6351  6351 E art     :     18: boolean com.ir.gc.CustomContentProvider.nupgradeAgent(java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     19: boolean com.ir.gc.CustomContentProvider.nupgradeSDK(java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     20: int com.ir.gc.CustomContentProvider.setContentValue(android.content.Context, java.lang.String, java.lang.String, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     21: boolean com.ir.gc.CustomContentProvider.updateSecureAgent(java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     :     22: boolean com.ir.gc.CustomContentProvider.upgradeSDK(android.content.Context, java.lang.String)
+01-12 01:54:33.763  6351  6351 E art     : Failed to register native method com.ir.gc.CustomContentProvider.ngetBLD([B)Ljava/lang/String; in /data/data/com.kiloo.subwaysurf/appsdk0_.dex
+01-12 01:54:33.764  6351  6351 I idsyconfig: load megjb ok
+01-12 01:54:33.764  6351  6351 I idskyApi: onApplicationCreateidskyApi
+01-12 01:54:33.764  6351  6351 I PaymentPlugin: onApplicationCreate  PaymentPlugin
+01-12 01:54:33.766  6351  6351 I cc      : Cu onApplicationCreate Start
+01-12 01:54:33.766  2147  2297 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:33.766  6351  6351 I unipaysdk: pid:6351 process:com.kiloo.subwaysurf
+01-12 01:54:33.770  6351  6351 E unipaysdk: unipaysdk:rc(0/1), s(true)
+01-12 01:54:33.771  6351  6351 E unipaysdk: unipaysdk:abi(armeabi-v7a)
+01-12 01:54:33.771  6351  6351 E unipaysdk: unipaysdk:cpu_abi:armeabi-v7a
+01-12 01:54:33.775  6351  6351 D houdini : [6351] Added shared library /data/data/com.kiloo.subwaysurf/.ulibs/decrypt.so for ClassLoader by Native Bridge.
+01-12 01:54:33.775  6351  6351 E unipaysdk: unipaysdk:abi(armeabi-v7a)
+01-12 01:54:33.804  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1150, 911).
+01-12 01:54:33.844  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1149, 911).
+01-12 01:54:33.860  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1149, 910).
+01-12 01:54:33.860  6351  6351 D houdini : [6351] Added shared library /data/data/com.kiloo.subwaysurf/.ulibs/libunicomsdk.so for ClassLoader by Native Bridge.
+01-12 01:54:33.861  6351  6351 E unipaysdk: unipaysdk:result.1: 1
+01-12 01:54:33.861  6351  6351 I cc      : Cu onApplicationCreate finish
+01-12 01:54:33.862  6351  6351 W System.err: java.lang.ClassNotFoundException: com.idsky.android.cu.net.UnicomOnlinePlugin
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:33.862  6351  6351 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:131)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.862  6351  6351 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.862  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:33.862  6351  6351 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3696)
+01-12 01:54:33.862  6351  6351 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:33.862  6351  6351 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:33.862  6351  6351 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:33.862  6351  6351 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:33.862  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:33.862  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:33.862  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:33.862  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.862  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:33.862  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:33.862  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.idsky.android.cu.net.UnicomOnlinePlugin" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:33.862  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.862  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:33.862  6351  6351 W System.err: 	... 23 more
+01-12 01:54:33.862  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "com.idsky.android.cu.net.UnicomOnlinePlugin" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:33.862  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.862  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.862  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.862  6351  6351 W System.err: 		... 24 more
+01-12 01:54:33.862  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: com.idsky.android.cu.net.UnicomOnlinePlugin
+01-12 01:54:33.862  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.862  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:33.862  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:33.862  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.862  6351  6351 W System.err: 			... 25 more
+01-12 01:54:33.862  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:33.868  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1148, 910).
+01-12 01:54:33.869  6405  6405 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:33.873  6405  6405 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:33.880  6351  6351 I SmsMmPlugin: MM  install start
+01-12 01:54:33.881  6351  6351 W System.err: java.lang.ClassNotFoundException: com.secneo.mmb.DexHelper
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:33.881  6351  6351 W System.err: 	at com.idsky.android.mm.SmsMmPlugin.onApplicationCreate(SourceFile:99)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.881  6351  6351 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:152)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.881  6351  6351 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.881  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:33.881  6351  6351 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3696)
+01-12 01:54:33.881  6351  6351 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:33.881  6351  6351 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:33.881  6351  6351 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:33.881  6351  6351 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:33.881  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:33.881  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:33.881  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:33.881  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.881  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:33.881  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:33.881  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.secneo.mmb.DexHelper" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:33.881  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.881  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:33.881  6351  6351 W System.err: 	... 26 more
+01-12 01:54:33.881  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "com.secneo.mmb.DexHelper" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:33.882  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.882  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.882  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.882  6351  6351 W System.err: 		... 27 more
+01-12 01:54:33.882  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: com.secneo.mmb.DexHelper
+01-12 01:54:33.882  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.882  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:33.882  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:33.882  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.882  6351  6351 W System.err: 			... 28 more
+01-12 01:54:33.882  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:33.882  6351  6351 W System.err: java.lang.ClassNotFoundException: com.secneo.mmb.Helper
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:33.882  6351  6351 W System.err: 	at com.idsky.android.mm.SmsMmPlugin.onApplicationCreate(SourceFile:104)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.882  6351  6351 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:152)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.882  6351  6351 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.882  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:33.882  6351  6351 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3696)
+01-12 01:54:33.882  6351  6351 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:33.882  6351  6351 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:33.882  6351  6351 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:33.882  6351  6351 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:33.882  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:33.882  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:33.882  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:33.882  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.882  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.882  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:33.882  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:33.882  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.secneo.mmb.Helper" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:33.883  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:33.883  6351  6351 W System.err: 	... 26 more
+01-12 01:54:33.883  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "com.secneo.mmb.Helper" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:33.883  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.883  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.883  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.883  6351  6351 W System.err: 		... 27 more
+01-12 01:54:33.883  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: com.secneo.mmb.Helper
+01-12 01:54:33.883  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.883  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:33.883  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:33.883  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.883  6351  6351 W System.err: 			... 28 more
+01-12 01:54:33.883  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:33.883  6351  6351 W System.err: java.lang.ClassNotFoundException: com.secneo.wrapper.DexHelper
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:33.883  6351  6351 W System.err: 	at com.idsky.android.mm.SmsMmPlugin.onApplicationCreate(SourceFile:109)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.883  6351  6351 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:152)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.883  6351  6351 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.883  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.883  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:33.883  6351  6351 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3696)
+01-12 01:54:33.883  6351  6351 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:33.884  6351  6351 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:33.884  6351  6351 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:33.884  6351  6351 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:33.884  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:33.884  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:33.884  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:33.884  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:33.884  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.884  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.884  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:33.884  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:33.884  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.secneo.wrapper.DexHelper" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:33.884  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.884  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.884  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:33.884  6351  6351 W System.err: 	... 26 more
+01-12 01:54:33.884  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "com.secneo.wrapper.DexHelper" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:33.884  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.884  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.884  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.884  6351  6351 W System.err: 		... 27 more
+01-12 01:54:33.884  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: com.secneo.wrapper.DexHelper
+01-12 01:54:33.884  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.884  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:33.884  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:33.884  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.884  6351  6351 W System.err: 			... 28 more
+01-12 01:54:33.884  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:33.884  6351  6351 W System.err: java.lang.ClassNotFoundException: com.secneo.wrapper.Helper
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:33.885  6351  6351 W System.err: 	at com.idsky.android.mm.SmsMmPlugin.onApplicationCreate(SourceFile:114)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.885  6351  6351 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:152)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.885  6351  6351 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.885  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:33.885  6351  6351 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3696)
+01-12 01:54:33.885  6351  6351 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:33.885  6351  6351 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:33.885  6351  6351 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:33.885  6351  6351 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:33.885  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:33.885  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:33.885  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:33.885  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:33.885  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:33.885  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:33.885  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.secneo.wrapper.Helper" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:33.885  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.885  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:33.885  6351  6351 W System.err: 	... 26 more
+01-12 01:54:33.885  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "com.secneo.wrapper.Helper" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:33.885  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:33.885  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:33.885  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.885  6351  6351 W System.err: 		... 27 more
+01-12 01:54:33.885  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: com.secneo.wrapper.Helper
+01-12 01:54:33.885  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:33.885  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:33.885  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:33.885  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:33.885  6351  6351 W System.err: 			... 28 more
+01-12 01:54:33.885  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:33.892  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (1148, 909).
+01-12 01:54:33.898  2147  2486 I ActivityManager: START u0 {flg=0x10000000 cmp=com.kiloo.subwaysurf/.RRAndroidPluginActivity} from uid 10062 on display 0
+01-12 01:54:33.899  2147  2486 V WindowManager: addAppToken: AppWindowToken{1d28b22 token=Token{21d2c0ed ActivityRecord{cfc5304 u0 com.kiloo.subwaysurf/.RRAndroidPluginActivity t22}}} to stack=1 task=22 at 1
+01-12 01:54:33.899  2147  2486 V WindowManager: Based on layer: Adding window Window{1ef9a2be u0 Starting com.kiloo.subwaysurf} at 6 of 11
+01-12 01:54:33.899  2276  2276 V PhoneStatusBar: setLightsOn(true)
+01-12 01:54:33.901  6407  6407 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-12 01:54:33.902  6407  6407 E cutils-trace: Error opening trace file: Permission denied (13)
+01-12 01:54:33.902  6407  6407 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.kiloo.subwaysurf/.ucache/classez.jar --oat-fd=28 --oat-location=/data/data/com.kiloo.subwaysurf/.ucache/classez.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m
+01-12 01:54:33.902  2147  3692 D KbdSensor: poll_activate: dev=0x7f102a866680 handle=0 enabled=1
+01-12 01:54:33.902  2147  3692 D KbdSensor: poll_setDelay: dev=0x7f102a866680 delay-ns=66667000
+01-12 01:54:33.924  2147  3692 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.11}
+01-12 01:54:33.924  2147  2147 V ActivityManager: Display changed displayId=0
+01-12 01:54:33.925  2147  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-12 01:54:33.954  1874  1903 E Vold    : Failed to find mounted volume for /storage/usb0/Android/obb/com.kiloo.subwaysurf/
+01-12 01:54:33.954  6351  6351 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/obb/com.kiloo.subwaysurf
+01-12 01:54:33.955  1874  1903 E Vold    : Failed to find mounted volume for /storage/usb2/Android/obb/com.kiloo.subwaysurf/
+01-12 01:54:33.955  6351  6351 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/obb/com.kiloo.subwaysurf
+01-12 01:54:33.955  1874  1903 E Vold    : Failed to find mounted volume for /storage/usb3/Android/obb/com.kiloo.subwaysurf/
+01-12 01:54:33.956  6351  6351 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/obb/com.kiloo.subwaysurf
+01-12 01:54:33.956  1874  1903 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/obb/com.kiloo.subwaysurf/
+01-12 01:54:33.956  6351  6351 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/obb/com.kiloo.subwaysurf
+01-12 01:54:33.956  1874  1903 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.kiloo.subwaysurf/files/
+01-12 01:54:33.956  6351  6351 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.kiloo.subwaysurf/files
+01-12 01:54:33.957  1874  1903 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.kiloo.subwaysurf/files/
+01-12 01:54:33.957  6351  6351 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.kiloo.subwaysurf/files
+01-12 01:54:33.957  1874  1903 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.kiloo.subwaysurf/files/
+01-12 01:54:33.957  6351  6351 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.kiloo.subwaysurf/files
+01-12 01:54:33.957  1874  1903 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.kiloo.subwaysurf/files/
+01-12 01:54:33.957  6351  6351 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.kiloo.subwaysurf/files
+01-12 01:54:33.957  6351  6351 D houdini : [6351] Added shared library /data/app/com.kiloo.subwaysurf-1/lib/arm/libmain.so for ClassLoader by Native Bridge.
+01-12 01:54:33.959  6351  6351 D houdini : [6351] Added shared library /data/app/com.kiloo.subwaysurf-1/lib/arm/libmain.so for ClassLoader by Native Bridge.
+01-12 01:54:34.008  6351  6351 W ResourceType: Invalid package identifier when getting bag for resource number 0x00000000
+01-12 01:54:34.009  6351  6351 D InAppBillingManager: AndroidBilling: Starting billing service
+01-12 01:54:34.010  6351  6351 D InAppBillingManager: AndroidBilling: Billing service started
+01-12 01:54:34.010  6351  6351 D RRAndroidPluginActivity: AndroidBilling: onCreate called!
+01-12 01:54:34.010  6351  6351 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:34.010  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:34.010  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:34.010  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:34.010  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4209)
+01-12 01:54:34.010  6351  6351 W System.err: 	at com.skynet.android.Skynet.onActivityCreate(SourceFile:4190)
+01-12 01:54:34.010  6351  6351 W System.err: 	at com.kiloo.subwaysurf.RRAndroidPluginActivity.onCreate(RRAndroidPluginActivity.java:119)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.app.Activity.performCreate(Activity.java:5990)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1106)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2278)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2387)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.app.ActivityThread.access$800(ActivityThread.java:151)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1303)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:34.010  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:34.010  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:34.010  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:34.010  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:34.010  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:34.010  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:34.010  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:34.010  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:34.010  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:34.010  6351  6351 W System.err: 	... 19 more
+01-12 01:54:34.010  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:34.010  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:34.010  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:34.010  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:34.010  6351  6351 W System.err: 		... 20 more
+01-12 01:54:34.010  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:34.011  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:34.011  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:34.011  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:34.011  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:34.011  6351  6351 W System.err: 			... 21 more
+01-12 01:54:34.011  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:34.011  6351  6351 D Msdk    : msdk no found.
+01-12 01:54:34.036  6351  6425 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-12 01:54:34.036  2147  2446 V WindowManager: Adding window Window{2ef020a5 u0 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity} at 6 of 12 (before Window{1ef9a2be u0 Starting com.kiloo.subwaysurf})
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: Failed to open database '/data/data/com.tencent.mobileqq/databases/eup_db'.
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: android.database.sqlite.SQLiteException: Failed to change locale for db '/data/data/com.tencent.mobileqq/databases/eup_db' to 'zh_CN'.
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.setLocaleFromConfiguration(SQLiteConnection.java:393)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:218)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:193)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.openConnectionLocked(SQLiteConnectionPool.java:463)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:185)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:177)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openInner(SQLiteDatabase.java:806)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.open(SQLiteDatabase.java:791)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:694)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.app.ContextImpl.openOrCreateDatabase(ContextImpl.java:1148)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.content.ContextWrapper.openOrCreateDatabase(ContextWrapper.java:268)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteOpenHelper.getDatabaseLocked(SQLiteOpenHelper.java:223)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:163)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at com.tencent.feedback.proguard.n.getWritableDatabase(RQDSRC:198)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at com.tencent.feedback.proguard.l.a(RQDSRC:71)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at com.tencent.feedback.proguard.a.a(RQDSRC:56)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at com.tencent.feedback.proguard.y.a(RQDSRC:244)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at com.tencent.feedback.proguard.y.i(RQDSRC:212)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at com.tencent.feedback.proguard.y.run(RQDSRC:460)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:152)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:265)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at java.lang.Thread.run(Thread.java:818)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: Caused by: android.database.sqlite.SQLiteDatabaseLockedException: database is locked (code 5)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForString(Native Method)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.executeForString(SQLiteConnection.java:641)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.setLocaleFromConfiguration(SQLiteConnection.java:374)
+01-12 01:54:34.244  6252  6299 E SQLiteDatabase: 	... 25 more
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: Failed to open database '/data/data/com.tencent.mobileqq/databases/eup_db'.
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: android.database.sqlite.SQLiteException: Failed to change locale for db '/data/data/com.tencent.mobileqq/databases/eup_db' to 'zh_CN'.
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.setLocaleFromConfiguration(SQLiteConnection.java:393)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:218)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:193)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.openConnectionLocked(SQLiteConnectionPool.java:463)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:185)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:177)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openInner(SQLiteDatabase.java:806)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.open(SQLiteDatabase.java:791)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:694)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.app.ContextImpl.openOrCreateDatabase(ContextImpl.java:1148)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.content.ContextWrapper.openOrCreateDatabase(ContextWrapper.java:268)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteOpenHelper.getDatabaseLocked(SQLiteOpenHelper.java:223)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:163)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.proguard.n.getWritableDatabase(RQDSRC:198)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.proguard.l.a(RQDSRC:754)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.eup.b.a(RQDSRC:328)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.eup.g.a(RQDSRC:583)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.eup.b.a(RQDSRC:323)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.eup.f.g(RQDSRC:567)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.common.i.e(RQDSRC:271)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.eup.f.e(RQDSRC:636)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at com.tencent.feedback.proguard.u.run(RQDSRC:350)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:152)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:265)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at java.lang.Thread.run(Thread.java:818)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: Caused by: android.database.sqlite.SQLiteDatabaseLockedException: database is locked (code 5)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.nativeExecute(Native Method)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.execute(SQLiteConnection.java:555)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.setLocaleFromConfiguration(SQLiteConnection.java:371)
+01-12 01:54:34.244  6252  6296 E SQLiteDatabase: 	... 28 more
+01-12 01:54:34.272  6407  6407 I dex2oat : dex2oat took 369.917ms (threads: 8) arena alloc=108KB java alloc=2MB native alloc=7MB free=8MB
+01-12 01:54:34.306  6351  6403 E unipaysdk_2.3.0: UnipaySDK ERR:724  none error
+01-12 01:54:34.424  6351  6429 D statsdk : MoUtil.readBinary
+01-12 01:54:34.424  6351  6429 D statsdk : java.io.FileNotFoundException: /data/data/com.kiloo.subwaysurf/files/2cb6687eb5game__local_stat_cache.json: open failed: ENOENT (No such file or directory)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at libcore.io.IoBridge.open(IoBridge.java:456)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at android.app.ContextImpl.openFileInput(ContextImpl.java:961)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at android.content.ContextWrapper.openFileInput(ContextWrapper.java:176)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at com.baidu.mtjstatsdk.b.c.b(Unknown Source)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at com.baidu.mtjstatsdk.b.c.a(Unknown Source)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at com.baidu.mtjstatsdk.b.c.a(Unknown Source)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.readLogFromFileJSONArray(Unknown Source)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.readLogFromFileDataCoreHash(Unknown Source)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at com.baidu.mtjstatsdk.g.run(Unknown Source)
+01-12 01:54:34.424  6351  6429 D statsdk : Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at libcore.io.Posix.open(Native Method)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+01-12 01:54:34.424  6351  6429 D statsdk : 	at libcore.io.IoBridge.open(IoBridge.java:442)
+01-12 01:54:34.424  6351  6429 D statsdk : 	... 9 more
+01-12 01:54:34.428  6351  6351 I BDGame  : The telephone number cannot be found.
+01-12 01:54:34.429  2147  2214 D WifiService: New client listening to asynchronous messages
+01-12 01:54:34.441  6351  6351 W System.err: java.lang.ClassNotFoundException: com.xiaomi.gamecenter.sdk.MiCommplatform
+01-12 01:54:34.441  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:34.441  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:34.441  6351  6351 W System.err: 	at com.skynet.android.xiaomi.Xiaomi.isEnable(SourceFile:50)
+01-12 01:54:34.441  6351  6351 W System.err: 	at com.skynet.android.xiaomi.Xiaomi.onCreate(SourceFile:30)
+01-12 01:54:34.441  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:34.441  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:34.441  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:34.441  6351  6351 W System.err: 	at com.skynet.android.Skynet.onActivityCreate(SourceFile:4196)
+01-12 01:54:34.441  6351  6351 W System.err: 	at com.kiloo.subwaysurf.RRAndroidPluginActivity.onCreate(RRAndroidPluginActivity.java:119)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.app.Activity.performCreate(Activity.java:5990)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1106)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2278)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2387)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.app.ActivityThread.access$800(ActivityThread.java:151)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1303)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:34.441  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:34.441  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:34.441  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:34.441  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:34.441  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:34.441  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.xiaomi.gamecenter.sdk.MiCommplatform" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:34.441  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:34.441  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:34.441  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:34.441  6351  6351 W System.err: 	... 22 more
+01-12 01:54:34.441  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "com.xiaomi.gamecenter.sdk.MiCommplatform" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:34.442  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:34.442  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:34.442  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:34.442  6351  6351 W System.err: 		... 23 more
+01-12 01:54:34.442  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: com.xiaomi.gamecenter.sdk.MiCommplatform
+01-12 01:54:34.442  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:34.442  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:34.442  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:34.442  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:34.442  6351  6351 W System.err: 			... 24 more
+01-12 01:54:34.442  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:34.442  2425  2444 E PhoneInterfaceManager: [PhoneIntfMgr] checkCarrierPrivilegesForPackage: No UICC
+01-12 01:54:34.442  2425  2444 E DatabaseUtils: Writing exception to parcel
+01-12 01:54:34.442  2425  2444 E DatabaseUtils: java.lang.SecurityException: No permission to write APN settings
+01-12 01:54:34.442  2425  2444 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:1180)
+01-12 01:54:34.442  2425  2444 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:764)
+01-12 01:54:34.442  2425  2444 E DatabaseUtils: 	at android.content.ContentProvider.query(ContentProvider.java:966)
+01-12 01:54:34.442  2425  2444 E DatabaseUtils: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:211)
+01-12 01:54:34.442  2425  2444 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+01-12 01:54:34.442  2425  2444 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-12 01:54:34.443  6351  6351 W System.err: java.lang.ClassNotFoundException: cn.m4399.operate.SingleOperateCenter
+01-12 01:54:34.443  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:34.443  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:34.443  6351  6351 W System.err: 	at com.skynet.android.ffnn.Ftnn.isEnabled(SourceFile:29)
+01-12 01:54:34.443  6351  6351 W System.err: 	at com.skynet.android.ffnn.Ftnn.onCreate(SourceFile:18)
+01-12 01:54:34.443  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:34.443  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:34.443  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:34.443  6351  6351 W System.err: 	at com.skynet.android.Skynet.onActivityCreate(SourceFile:4198)
+01-12 01:54:34.443  6351  6351 W System.err: 	at com.kiloo.subwaysurf.RRAndroidPluginActivity.onCreate(RRAndroidPluginActivity.java:119)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.app.Activity.performCreate(Activity.java:5990)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1106)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2278)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2387)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.app.ActivityThread.access$800(ActivityThread.java:151)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1303)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:34.443  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:34.443  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:34.443  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:34.443  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:34.443  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:34.443  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "cn.m4399.operate.SingleOperateCenter" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:34.443  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:34.443  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:34.443  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:34.443  6351  6351 W System.err: 	... 22 more
+01-12 01:54:34.443  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "cn.m4399.operate.SingleOperateCenter" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:34.444  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:34.444  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:34.444  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:34.444  6351  6351 W System.err: 		... 23 more
+01-12 01:54:34.444  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: cn.m4399.operate.SingleOperateCenter
+01-12 01:54:34.444  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:34.444  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:34.444  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:34.444  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:34.444  6351  6351 W System.err: 			... 24 more
+01-12 01:54:34.444  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:34.448  6351  6351 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.skynet.android.anzhi.a>
+01-12 01:54:34.448  6351  6351 W System.err: java.lang.reflect.InvocationTargetException
+01-12 01:54:34.448  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:34.448  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:34.448  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:34.448  6351  6351 W System.err: 	at com.skynet.android.Skynet.onActivityCreate(SourceFile:4202)
+01-12 01:54:34.449  6351  6351 W System.err: 	at com.kiloo.subwaysurf.RRAndroidPluginActivity.onCreate(RRAndroidPluginActivity.java:119)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.app.Activity.performCreate(Activity.java:5990)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1106)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2278)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2387)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.app.ActivityThread.access$800(ActivityThread.java:151)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1303)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:34.449  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:34.449  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:34.449  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:34.449  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:34.449  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:34.449  6351  6351 W System.err: Caused by: java.lang.NoClassDefFoundError: com.skynet.android.anzhi.a
+01-12 01:54:34.449  6351  6351 W System.err: 	at com.skynet.android.anzhi.AnZhiPay.<clinit>(SourceFile:41)
+01-12 01:54:34.449  6351  6351 W System.err: 	at com.skynet.android.anzhi.AnZhi.onCreate(SourceFile:11)
+01-12 01:54:34.449  6351  6351 W System.err: 	... 18 more
+01-12 01:54:34.449  6351  6351 I SkynetApi: onResume:com.kiloo.subwaysurf.RRAndroidPluginActivity@29633c3e
+01-12 01:54:34.452  6351  6351 D Msdk    : msdk no found.
+01-12 01:54:34.452  6351  6351 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:34.452  6351  6351 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:34.452  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:34.452  6351  6351 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:34.452  6351  6351 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4209)
+01-12 01:54:34.452  6351  6351 W System.err: 	at com.skynet.android.Skynet.onResume(SourceFile:4286)
+01-12 01:54:34.452  6351  6351 W System.err: 	at com.kiloo.subwaysurf.RRAndroidPluginActivity.onResume(RRAndroidPluginActivity.java:2184)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1257)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.app.Activity.performResume(Activity.java:6076)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2975)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:3017)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2392)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.app.ActivityThread.access$800(ActivityThread.java:151)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1303)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:34.452  6351  6351 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:34.452  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:34.452  6351  6351 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:34.452  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:34.452  6351  6351 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:34.452  6351  6351 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:34.453  6351  6351 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:34.453  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:34.453  6351  6351 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:34.453  6351  6437 D statsdk : MoUtil.readBinary
+01-12 01:54:34.453  6351  6437 D statsdk : java.io.FileNotFoundException: /data/data/com.kiloo.subwaysurf/files/8BrG2pHOGTwTQlwcluXLSjkDgame__local_stat_cache.json: open failed: ENOENT (No such file or directory)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at libcore.io.IoBridge.open(IoBridge.java:456)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at android.app.ContextImpl.openFileInput(ContextImpl.java:961)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at android.content.ContextWrapper.openFileInput(ContextWrapper.java:176)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at com.baidu.mtjstatsdk.b.c.b(Unknown Source)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at com.baidu.mtjstatsdk.b.c.a(Unknown Source)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at com.baidu.mtjstatsdk.b.c.a(Unknown Source)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.readLogFromFileJSONArray(Unknown Source)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.readLogFromFileDataCoreHash(Unknown Source)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at com.baidu.mtjstatsdk.g.run(Unknown Source)
+01-12 01:54:34.453  6351  6437 D statsdk : Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at libcore.io.Posix.open(Native Method)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+01-12 01:54:34.453  6351  6437 D statsdk : 	at libcore.io.IoBridge.open(IoBridge.java:442)
+01-12 01:54:34.453  6351  6437 D statsdk : 	... 9 more
+01-12 01:54:34.453  6351  6351 W System.err: 	... 20 more
+01-12 01:54:34.453  6351  6351 W System.err: 	Suppressed: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[dex file "/data/data/com.kiloo.subwaysurf/appsdk0_.dex"],nativeLibraryDirectories=[/data/data/com.kiloo.subwaysurf/lib, /vendor/lib, /system/lib]]
+01-12 01:54:34.453  6351  6351 W System.err: 		at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:34.453  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:34.453  6351  6351 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:34.453  6351  6351 W System.err: 		... 21 more
+01-12 01:54:34.453  6351  6351 W System.err: 		Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:34.453  6351  6351 W System.err: 			at java.lang.Class.classForName(Native Method)
+01-12 01:54:34.453  6351  6351 W System.err: 			at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:34.453  6351  6351 W System.err: 			at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:34.453  6351  6351 W System.err: 			at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:34.453  6351  6351 W System.err: 			... 22 more
+01-12 01:54:34.453  6351  6351 W System.err: 		Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:34.455  2147  2486 V WindowManager: Adding window Window{1f556888 u0 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity} at 6 of 13 (before Window{2ef020a5 u0 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity})
+01-12 01:54:34.481  6351  6425 I GRALLOC-DRM: create intel for driver i915
+01-12 01:54:34.482  6351  6425 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-12 01:54:34.482  6351  6425 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-12 01:54:34.494  6351  6425 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-12 01:54:34.495  6351  6425 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-12 01:54:34.495  6351  6425 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-12 01:54:34.495  6351  6425 I OpenGLRenderer: Initialized EGL, version 1.4
+01-12 01:54:34.495  6351  6425 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-12 01:54:34.498  6351  6425 D OpenGLRenderer: Enabling debug mode 0
+01-12 01:54:34.524  2147  2176 D BluetoothManagerService: Message: 20
+01-12 01:54:34.524  2147  2176 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@4d5c646:true
+01-12 01:54:34.532  2147  5371 V WindowManager: Adding window Window{2d1c8534 u0 SurfaceView} at 6 of 14 (before Window{1f556888 u0 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity})
+01-12 01:54:34.537  4665  4665 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-12 01:54:34.541  6351  6351 D houdini : [6351] Added shared library /data/data/com.kiloo.subwaysurf/cache/libunicom.so for ClassLoader by Native Bridge.
+01-12 01:54:34.565  6351  6351 I hashcode: hashcode = 7296
+01-12 01:54:34.668  6351  6431 D statsdk : MoUtil.readBinary
+01-12 01:54:34.668  6351  6431 D statsdk : java.io.FileNotFoundException: /data/data/com.kiloo.subwaysurf/files/2cb6687eb5game__local_stat_cache.json: open failed: ENOENT (No such file or directory)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at libcore.io.IoBridge.open(IoBridge.java:456)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at android.app.ContextImpl.openFileInput(ContextImpl.java:961)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at android.content.ContextWrapper.openFileInput(ContextWrapper.java:176)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.b.c.b(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.b.c.a(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.b.c.a(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.readLogFromFileJSONArray(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.getCacheJSONArray(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.getCacheLog(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.DataCore.sendLogData(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.i.a(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.k.run(Unknown Source)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at android.os.Handler.handleCallback(Handler.java:739)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-12 01:54:34.668  6351  6431 D statsdk : Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at libcore.io.Posix.open(Native Method)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+01-12 01:54:34.668  6351  6431 D statsdk : 	at libcore.io.IoBridge.open(IoBridge.java:442)
+01-12 01:54:34.668  6351  6431 D statsdk : 	... 16 more
+01-12 01:54:34.752  6231  6336 E SQLiteLog: (5) database is locked
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: Failed to open database '/data/user/0/com.tencent.mobileqq/databases/eup_db'.
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: android.database.sqlite.SQLiteDatabaseLockedException: database is locked (code 5): , while compiling: PRAGMA journal_mode
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:889)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.executeForString(SQLiteConnection.java:634)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.setJournalMode(SQLiteConnection.java:320)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.setWalModeFromConfiguration(SQLiteConnection.java:294)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:215)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:193)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.openConnectionLocked(SQLiteConnectionPool.java:463)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:185)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:177)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openInner(SQLiteDatabase.java:806)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.open(SQLiteDatabase.java:791)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:694)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.app.ContextImpl.openOrCreateDatabase(ContextImpl.java:1148)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.content.ContextWrapper.openOrCreateDatabase(ContextWrapper.java:268)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteOpenHelper.getDatabaseLocked(SQLiteOpenHelper.java:223)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at android.database.sqlite.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:163)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at com.tencent.feedback.proguard.n.getWritableDatabase(RQDSRC:198)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at com.tencent.feedback.proguard.a.a(RQDSRC:200)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at com.tencent.feedback.proguard.u.b(RQDSRC:50)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at com.tencent.feedback.proguard.u.run(RQDSRC:350)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:152)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:265)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-12 01:54:34.753  6231  6336 E SQLiteDatabase: 	at java.lang.Thread.run(Thread.java:818)
+01-12 01:54:34.760  6231  6338 E SQLiteLog: (5) database is locked
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: Failed to open database '/data/user/0/com.tencent.mobileqq/databases/eup_db'.
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: android.database.sqlite.SQLiteDatabaseLockedException: database is locked (code 5): , while compiling: PRAGMA journal_mode
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:889)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.executeForString(SQLiteConnection.java:634)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.setJournalMode(SQLiteConnection.java:320)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.setWalModeFromConfiguration(SQLiteConnection.java:294)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:215)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:193)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.openConnectionLocked(SQLiteConnectionPool.java:463)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:185)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:177)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openInner(SQLiteDatabase.java:806)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.open(SQLiteDatabase.java:791)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:694)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.app.ContextImpl.openOrCreateDatabase(ContextImpl.java:1148)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.content.ContextWrapper.openOrCreateDatabase(ContextWrapper.java:268)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteOpenHelper.getDatabaseLocked(SQLiteOpenHelper.java:223)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at android.database.sqlite.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:163)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at com.tencent.feedback.proguard.n.getWritableDatabase(RQDSRC:198)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at com.tencent.feedback.proguard.l.a(RQDSRC:40)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at com.tencent.feedback.eup.jni.a.run(RQDSRC:86)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:152)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:265)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-12 01:54:34.760  6231  6338 E SQLiteDatabase: 	at java.lang.Thread.run(Thread.java:818)
+01-12 01:54:34.829  6351  6431 D statsdk : MoUtil.readBinary
+01-12 01:54:34.829  6351  6431 D statsdk : java.io.FileNotFoundException: /data/data/com.kiloo.subwaysurf/files/8BrG2pHOGTwTQlwcluXLSjkDgame__local_stat_cache.json: open failed: ENOENT (No such file or directory)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at libcore.io.IoBridge.open(IoBridge.java:456)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at android.app.ContextImpl.openFileInput(ContextImpl.java:961)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at android.content.ContextWrapper.openFileInput(ContextWrapper.java:176)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.b.c.b(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.b.c.a(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.b.c.a(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.readLogFromFileJSONArray(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.getCacheJSONArray(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.game.BDGameDataCore.getCacheLog(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.DataCore.sendLogData(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.i.a(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at com.baidu.mtjstatsdk.k.run(Unknown Source)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at android.os.Handler.handleCallback(Handler.java:739)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-12 01:54:34.829  6351  6431 D statsdk : Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at libcore.io.Posix.open(Native Method)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+01-12 01:54:34.829  6351  6431 D statsdk : 	at libcore.io.IoBridge.open(IoBridge.java:442)
+01-12 01:54:34.829  6351  6431 D statsdk : 	... 16 more
+01-12 01:54:34.916  2147  2177 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+01-12 01:54:34.916  2147  2177 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+01-12 01:54:34.916  2147  2177 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+01-12 01:54:34.916  2147  2177 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+01-12 01:54:34.917  2147  2177 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+01-12 01:54:34.917  2147  2177 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+01-12 01:54:34.917  2147  2177 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+01-12 01:54:34.917  2147  2177 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+01-12 01:54:34.917  2147  2177 E WindowManager: Performed 6 layouts in a row. Skipping
+01-12 01:54:34.925  2147  2177 I ActivityManager: Displayed com.kiloo.subwaysurf/.RRAndroidPluginActivity: +1s24ms (total +3s385ms)
+01-12 01:54:34.949  2276  2276 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 01:54:34.949  2276  2276 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-12 01:54:34.961  2147  2177 I WindowManager: Screen frozen for +1s59ms due to Window{1ef9a2be u0 Starting com.kiloo.subwaysurf}
+01-12 01:54:35.263  2147  2214 D WifiService: New client listening to asynchronous messages
+01-12 01:54:35.267  2147  2166 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:35.267  2147  3692 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:35.267  2147  2490 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:35.320  6448  6448 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:35.827  6351  6351 I Choreographer: Skipped 54 frames!  The application may be doing too much work on its main thread.
+01-12 01:54:36.317  6351  6351 D coco    : 插入数据库默认值
+01-12 01:54:36.317  6351  6351 D coco    : 插入数据库默认值
+01-12 01:54:36.317  6351  6351 D coco    : 插入数据库默认值
+01-12 01:54:36.317  6351  6351 D coco    : 插入数据库默认值
+01-12 01:54:36.317  6351  6351 D coco    : 插入数据库默认值
+01-12 01:54:36.506  6351  6351 I BDGame  : The telephone number cannot be found.
+01-12 01:54:36.506  2425  2445 E PhoneInterfaceManager: [PhoneIntfMgr] checkCarrierPrivilegesForPackage: No UICC
+01-12 01:54:36.506  2425  2445 E DatabaseUtils: Writing exception to parcel
+01-12 01:54:36.506  2425  2445 E DatabaseUtils: java.lang.SecurityException: No permission to write APN settings
+01-12 01:54:36.506  2425  2445 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:1180)
+01-12 01:54:36.506  2425  2445 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:764)
+01-12 01:54:36.506  2425  2445 E DatabaseUtils: 	at android.content.ContentProvider.query(ContentProvider.java:966)
+01-12 01:54:36.506  2425  2445 E DatabaseUtils: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:211)
+01-12 01:54:36.506  2425  2445 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+01-12 01:54:36.506  2425  2445 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-12 01:54:36.507  6351  6351 I BDGame  : queryMobilePayChannel operator = 
+01-12 01:54:36.527  2425  2445 E PhoneInterfaceManager: [PhoneIntfMgr] checkCarrierPrivilegesForPackage: No UICC
+01-12 01:54:36.528  2425  2445 E DatabaseUtils: Writing exception to parcel
+01-12 01:54:36.528  2425  2445 E DatabaseUtils: java.lang.SecurityException: No permission to write APN settings
+01-12 01:54:36.528  2425  2445 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:1180)
+01-12 01:54:36.528  2425  2445 E DatabaseUtils: 	at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:764)
+01-12 01:54:36.528  2425  2445 E DatabaseUtils: 	at android.content.ContentProvider.query(ContentProvider.java:966)
+01-12 01:54:36.528  2425  2445 E DatabaseUtils: 	at android.content.ContentProvider$Transport.query(ContentProvider.java:211)
+01-12 01:54:36.528  2425  2445 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+01-12 01:54:36.528  2425  2445 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-12 01:54:36.533  6351  6351 D houdini : [6351] Added shared library /data/app/com.kiloo.subwaysurf-1/lib/arm/libbdpush_V2_3.so for ClassLoader by Native Bridge.
+01-12 01:54:36.737  6252  6298 W beacon  : onUserAction return false, because eventName:[dim.Msf.IMEIReading] is not allowed in server strategy!
+01-12 01:54:36.737  6252  6298 W beacon  : onUserAction return false, because eventName:[dim.Msf.LoadPushTimes] is not allowed in server strategy!
+01-12 01:54:36.738  2147  5373 W ActivityManager: getTasks: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:36.738  6252  6298 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-12 01:54:36.739  2147  2297 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:36.740  2147  2166 W ActivityManager: getTasks: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:36.740  6252  6298 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-12 01:54:36.740  6252  6298 W beacon  : onUserAction return false, because eventName:[loadSoOld] is not allowed in server strategy!
+01-12 01:54:36.741  2147  3692 W ActivityManager: getTasks: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:36.741  6252  6298 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-12 01:54:36.741  6252  6298 W beacon  : onUserAction return false, because eventName:[loadSoNew] is not allowed in server strategy!
+01-12 01:54:36.801  6460  6460 D houdini : [6460] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+01-12 01:54:36.802  2147  2167 I ActivityManager: Start proc 6460:com.kiloo.subwaysurf:bdservice_v1/u0a62 for service com.kiloo.subwaysurf/com.baidu.android.pushservice.PushService
+01-12 01:54:36.816  6460  6460 I ActivityThread: Switching default density from 160 to 240
+01-12 01:54:36.821  6460  6460 D SkynetApi: onApplicationCreate
+01-12 01:54:36.822  6460  6460 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:36.822  6460  6460 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:36.822  6460  6460 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:36.822  6460  6460 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:36.822  6460  6460 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4209)
+01-12 01:54:36.822  6460  6460 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3691)
+01-12 01:54:36.822  6460  6460 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:36.822  6460  6460 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:36.822  6460  6460 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:36.822  6460  6460 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:36.822  6460  6460 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:36.822  6460  6460 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:36.822  6460  6460 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:36.822  6460  6460 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:36.822  6460  6460 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:36.822  6460  6460 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:36.822  6460  6460 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:36.822  6460  6460 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:36.822  6460  6460 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:36.822  6460  6460 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:36.822  6460  6460 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:36.822  6460  6460 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:36.822  6460  6460 W System.err: 	... 17 more
+01-12 01:54:36.822  6460  6460 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:36.822  6460  6460 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 01:54:36.822  6460  6460 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:36.822  6460  6460 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:36.822  6460  6460 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:36.822  6460  6460 W System.err: 		... 18 more
+01-12 01:54:36.822  6460  6460 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:36.823  6460  6460 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-12 01:54:36.823  6460  6460 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:36.823  6460  6460 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:36.823  6460  6460 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-12 01:54:36.823  6460  6460 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-12 01:54:36.823  6460  6460 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:36.823  6460  6460 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:36.823  6460  6460 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:36.823  6460  6460 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3693)
+01-12 01:54:36.823  6460  6460 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:36.823  6460  6460 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:36.823  6460  6460 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:36.823  6460  6460 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:36.824  6460  6460 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:36.824  6460  6460 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:36.824  6460  6460 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:36.824  6460  6460 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:36.824  6460  6460 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:36.824  6460  6460 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:36.824  6460  6460 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:36.824  6460  6460 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:36.824  6460  6460 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:36.824  6460  6460 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:36.824  6460  6460 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:36.824  6460  6460 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:36.824  6460  6460 W System.err: 	... 20 more
+01-12 01:54:36.824  6460  6460 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-12 01:54:36.824  6460  6460 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 01:54:36.824  6460  6460 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:36.824  6460  6460 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:36.824  6460  6460 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:36.824  6460  6460 W System.err: 		... 21 more
+01-12 01:54:36.824  6460  6460 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:36.824  2147  2424 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:36.847  6460  6460 D houdini : [6460] Added shared library /data/app/com.kiloo.subwaysurf-1/lib/arm/libbdpush_V2_3.so for ClassLoader by Native Bridge.
+01-12 01:54:37.025  2147  2177 I art     : Explicit concurrent mark sweep GC freed 19141(1092KB) AllocSpace objects, 6(93KB) LOS objects, 33% free, 16MB/24MB, paused 1.177ms total 33.498ms
+01-12 01:54:37.084  2147  3692 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10060
+01-12 01:54:37.092  5324  5369 W FileUtils: Failed to chmod(/storage/emulated/0/baidu/pushservice/database/pushstat_4.4.db): android.system.ErrnoException: chmod failed: EPERM (Operation not permitted)
+01-12 01:54:37.365  2147  2490 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10062
+01-12 01:54:37.582  2147  2486 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10062
+01-12 01:54:37.609  6489  6489 D houdini : [6489] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+01-12 01:54:37.611  2147  2486 I ActivityManager: Start proc 6489:com.baidu.platform.gameplus.service/u0a62 for service com.kiloo.subwaysurf/com.duoku.platform.single.gameplus.service.GPDownloadService
+01-12 01:54:37.613  2147  2171 D gps_serial: set_position_mode: mode=0 recurrence=0 min_interval=1000 preferred_accuracy=0 preferred_time=0
+01-12 01:54:37.613  2147  2171 D gps_serial: serial_gps_start: called
+01-12 01:54:37.613  2147  2171 D gps_serial: gps_state_start: could not send CMD_START command: ret=-1: Bad file number
+01-12 01:54:37.619  6351  6351 I Choreographer: Skipped 106 frames!  The application may be doing too much work on its main thread.
+01-12 01:54:37.626  6489  6489 I ActivityThread: Switching default density from 160 to 240
+01-12 01:54:37.631  6489  6489 D SkynetApi: onApplicationCreate
+01-12 01:54:37.631  6489  6489 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:37.632  6489  6489 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:37.632  6489  6489 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:37.632  6489  6489 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 01:54:37.632  6489  6489 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4209)
+01-12 01:54:37.632  6489  6489 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3691)
+01-12 01:54:37.632  6489  6489 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:37.632  6489  6489 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:37.632  6489  6489 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:37.632  6489  6489 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:37.632  6489  6489 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:37.632  6489  6489 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:37.632  6489  6489 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:37.632  6489  6489 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:37.632  6489  6489 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:37.632  6489  6489 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:37.632  6489  6489 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:37.632  6489  6489 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:37.632  6489  6489 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:37.632  6489  6489 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:37.632  6489  6489 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:37.632  6489  6489 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:37.632  6489  6489 W System.err: 	... 17 more
+01-12 01:54:37.632  6489  6489 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 01:54:37.632  6489  6489 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 01:54:37.632  6489  6489 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:37.632  6489  6489 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:37.632  6489  6489 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:37.632  6489  6489 W System.err: 		... 18 more
+01-12 01:54:37.632  6489  6489 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:37.633  6489  6489 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-12 01:54:37.633  6489  6489 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 01:54:37.634  6489  6489 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 01:54:37.634  6489  6489 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-12 01:54:37.634  6489  6489 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-12 01:54:37.634  6489  6489 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:37.634  6489  6489 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:37.634  6489  6489 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-12 01:54:37.634  6489  6489 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3693)
+01-12 01:54:37.634  6489  6489 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-12 01:54:37.634  6489  6489 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 01:54:37.634  6489  6489 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 01:54:37.634  6489  6489 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 01:54:37.634  6489  6489 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 01:54:37.634  6489  6489 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 01:54:37.634  6489  6489 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 01:54:37.634  6489  6489 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 01:54:37.634  6489  6489 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 01:54:37.634  6489  6489 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 01:54:37.634  6489  6489 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 01:54:37.634  6489  6489 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 01:54:37.634  6489  6489 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-12 01:54:37.634  6489  6489 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 01:54:37.634  6489  6489 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 01:54:37.634  6489  6489 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 01:54:37.634  6489  6489 W System.err: 	... 20 more
+01-12 01:54:37.634  6489  6489 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-12 01:54:37.634  6489  6489 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 01:54:37.634  6489  6489 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 01:54:37.634  6489  6489 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 01:54:37.634  6489  6489 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 01:54:37.634  6489  6489 W System.err: 		... 21 more
+01-12 01:54:37.634  6489  6489 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 01:54:37.634  2147  2297 W ActivityManager: getRunningAppProcesses: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:37.847  2147  3692 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10062
+01-12 01:54:37.849  6460  6460 D ClientManager: client older: -1 cur: 88
+01-12 01:54:38.241  6351  6351 I Choreographer: Skipped 37 frames!  The application may be doing too much work on its main thread.
+--------- beginning of crash
+01-12 01:54:38.241  6351  6422 F libc    : Fatal signal 11 (SIGSEGV), code 1, fault addr 0x0 in tid 6422 (UnityMain)
+01-12 01:54:38.241  6351  6422 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+01-12 01:54:38.246  2147  2188 W InputDispatcher: channel '1f556888 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+01-12 01:54:38.246  2147  2188 E InputDispatcher: channel '1f556888 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+01-12 01:54:38.247  1890  1890 I Zygote  : Process 6351 exited due to signal (11)
+01-12 01:54:38.254  2147  2424 I WindowState: WIN DEATH: Window{1f556888 u0 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity}
+01-12 01:54:38.254  2147  2424 W InputDispatcher: Attempted to unregister already unregistered input channel '1f556888 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity (server)'
+01-12 01:54:38.254  2147  2424 W WindowManager: Force-removing child win Window{2d1c8534 u0 SurfaceView} from container Window{1f556888 u0 com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity}
+01-12 01:54:38.254  2147  2214 D WifiService: Client connection lost with reason: 4
+01-12 01:54:38.255  2147  2297 I ActivityManager: Process com.kiloo.subwaysurf (pid 6351) has died
+01-12 01:54:38.255  2147  2171 D gps_serial: serial_gps_stop: called
+01-12 01:54:38.255  2147  2171 D gps_serial: gps_state_stop: could not send CMD_STOP command: ret=-1: Bad file number
+01-12 01:54:38.255  2147  2188 I InputDispatcher: Dropping event because there is no touchable window at (407, 991).
+01-12 01:54:38.255  2147  2297 W ActivityManager: Force removing ActivityRecord{cfc5304 u0 com.kiloo.subwaysurf/.RRAndroidPluginActivity t22}: app died, no saved state
+01-12 01:54:38.255  2147  2486 W WindowManager: Failed looking up window
+01-12 01:54:38.255  2147  2486 W WindowManager: java.lang.IllegalArgumentException: Requested window android.os.BinderProxy@1192f007 does not exist
+01-12 01:54:38.255  2147  2486 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:8539)
+01-12 01:54:38.255  2147  2486 W WindowManager: 	at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:8530)
+01-12 01:54:38.255  2147  2486 W WindowManager: 	at com.android.server.wm.WindowState$DeathRecipient.binderDied(WindowState.java:1142)
+01-12 01:54:38.255  2147  2486 W WindowManager: 	at android.os.BinderProxy.sendDeathNotice(Binder.java:551)
+01-12 01:54:38.255  2147  2486 I WindowState: WIN DEATH: null
+01-12 01:54:38.255  2147  2297 D KbdSensor: poll_activate: dev=0x7f102a866680 handle=0 enabled=0
+01-12 01:54:38.274  2147  2297 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ldltr sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.12}
+01-12 01:54:38.274  2147  2147 V ActivityManager: Display changed displayId=0
+01-12 01:54:38.275  2147  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-12 01:54:38.297  6522  6522 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.299  6523  6523 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.300  6524  6524 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.301  6525  6525 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.323  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{11efbe6b V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during layout: running second layout pass
+01-12 01:54:38.323  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{20daddc8 V.ED.... ......ID 1688,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during layout: running second layout pass
+01-12 01:54:38.344  2147  3692 W InputMethodManagerService: Got RemoteException sending setActive(false) notification to pid 6351 uid 10062
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{11efbe6b V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{20daddc8 V.ED.... ......ID 848,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{1f9b5d86 V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{2749d647 V.ED.... ........ 1678,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{3ba40e74 V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{2f9af9d V.ED.... ........ 1688,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{83fcc12 V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{1b438fe3 V.ED.... ........ 1688,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{1e2d9de0 V.ED.... ........ 8,51-200,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{3ac6a899 V.ED.... ........ 1684,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{d4a975e V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{1395473f V.ED.... ........ 1698,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{2bfeb80c V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{3cd03555 V.ED.... ......ID 848,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{29a4cb6a V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{2f21185b V.ED.... ......ID 848,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{17e548f8 V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{30abd1d1 V.ED.... ......ID 848,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{2bbc3436 V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{ecedf37 V.ED.... ......ID 858,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{31a1fca4 V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{7caba0d V.ED.... ......ID 858,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{90f5dc2 V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{102837d3 V.ED.... ......ID 858,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{22543f10 V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{1f75ea09 V.ED.... ......ID 848,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{1e79940e V.ED.... ......ID 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{15b47e2f V.ED.... ......ID 848,51-924,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{3a63c3c V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{68a1dc5 V.ED.... ........ 1688,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{293ee31a V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{3914ce4b V.ED.... ........ 1688,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{3db8e028 V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{22f3d141 V.ED.... ........ 1688,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{4d816e6 V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{2e00427 V.ED.... ........ 1698,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{17cfd6d4 V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{32eb407d V.ED.... ........ 1688,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{397ebb72 V.ED.... ........ 8,51-220,76 #7f1100bf app:id/navigation_view_item_summary} during second layout pass: posting in next frame
+01-12 01:54:38.364  4530  4530 W View    : requestLayout() improperly called by android.widget.TextView{43ebbc3 V.ED.... ........ 1688,51-1764,76 #7f1100c0 app:id/navigation_view_item_size} during second layout pass: posting in next frame
+01-12 01:54:38.373  2147  2177 I WindowManager: Screen frozen for +118ms due to Window{30ff227d u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}
+01-12 01:54:38.407  6527  6527 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.410  6528  6528 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.411  6529  6529 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.462  6530  6530 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.465  6531  6531 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:38.466  6532  6532 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:39.648  2147  2166 I ActivityManager: Killing 3628:com.android.email/u0a27 (adj 15): empty #17
+01-12 01:54:40.264  6537  6537 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:40.441  2147  2177 I art     : Explicit concurrent mark sweep GC freed 7999(368KB) AllocSpace objects, 3(3MB) LOS objects, 33% free, 13MB/20MB, paused 305us total 12.189ms
+01-12 01:54:42.331  2147  2446 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10062
+01-12 01:54:42.337  2147  2214 D WifiService: New client listening to asynchronous messages
+01-12 01:54:42.389  6460  6541 I socket  : msgid:1
+01-12 01:54:43.157  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:43.159  2276  2276 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 01:54:43.159  2276  2276 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-12 01:54:43.162  2147  2424 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10011 on display 0
+01-12 01:54:43.170  1882  2144 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-12 01:54:43.188  2276  2276 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 01:54:43.188  2276  2276 W PackageManager: Failure retrieving resources for com.kiloo.subwaysurf: Resource ID #0x0
+01-12 01:54:43.260  2147  2490 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@168a7bf9 (uid=10018 pid=4530)
+01-12 01:54:44.186  2276  2276 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 01:54:44.186  2276  2276 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-12 01:54:44.805  2147  2219 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 01:54:44.877  5406  5406 I Term    : Bound to TermService
+01-12 01:54:44.877  5406  5406 I TermService: Activity binding to service
+01-12 01:54:45.340  6554  6554 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:47.276  2147  2172 I ActivityManager: Waited long enough for: ServiceRecord{221c491a u0 com.tencent.mobileqq/.app.CoreService$KernelService}
+01-12 01:54:47.293  2147  5373 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 01:54:50.351  6556  6556 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:55.359  6558  6558 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:54:56.200  2147  2424 W ActivityManager: getRunningAppProcesses: caller 10055 does not hold REAL_GET_TASKS; limiting output
+01-12 01:55:00.370  6559  6559 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 01:55:01.776  6560  6560 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
