@@ -35,6 +35,7 @@ Microsoft Powerpoint| NE| 未下载到x86版Microsoft Powerpoint版本，手机�
 1、QQ music 无法下载声音，只能播放本地音乐。后期需考虑APP识别有线网线，而非只支持WIFI和gms
 
 2、 在以下四种情况下rotation功能失效
+
       重启;休眠唤醒后;新安装APP;一段时间不操作再次打开竖屏程序时又回到竖屏
 
 3、设置-语言-中文（简体）后有的APP仍为英文显示，如note，打开后菜单项均为英文
