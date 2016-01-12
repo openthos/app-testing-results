@@ -2,9 +2,9 @@
 - cpu:skylake
 - os: android-x86-5.1+kernel-4.4.0-final user版本
 - 前提条件：
-- 1. 安装好系统后设置-应用兼容性-打开可兼容使用arm库的应用 
-- 2. 显示-设备旋转时-保持当前方向（横屏时设置）
-- 3. 双击预安装的rotation locker-landscape。使竖屏切换成横屏
+ - 1. 安装好系统后设置-应用兼容性-打开可兼容使用arm库的应用 
+ - 2. 显示-设备旋转时-保持当前方向（横屏时设置）
+ - 3. 双击预安装的rotation locker-landscape。使竖屏切换成横屏
 
 #app测试结果列表
 
