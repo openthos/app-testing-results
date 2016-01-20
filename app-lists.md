@@ -25,8 +25,7 @@ seafile| PASS| 使用正常
 地铁跑酷| PASS| 打开应用兼容性后可用，否则不可用
 开心消消乐| PASS| 打开应用兼容性后可用，否则不可用
 植物大战僵尸|PASS|打开应用兼容性后可用，否则不可用
-水果忍者| FAIL|双击已安装好的应用，无法打开使用。
-注：（通过在apk中将x86的lib进行删除，app可以正常启动）
+水果忍者| FAIL|双击已安装好的应用，无法打开使用.注：（通过在apk中将x86的lib进行删除，app可以正常启动）
 百度云| FAIL|双击已安装好的应用，一闪而过无法打开使用 注：（通过在apk中将x86的lib进行删除，app可以正常启动）
 Microsoft Excel| NE| 未下载到x86版Microsoft Excel版本，手机版安装不成功
 Microsoft Word| NE| 未下载到x86版Microsoft Word版本，手机版安装不成功
