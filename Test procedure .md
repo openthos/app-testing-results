@@ -14,7 +14,7 @@
   * #cat /dev/null>log.txt
   * 执行安装和运行APP使用测试 
   * #cp log.txt date-apkname-log-version.txt
-  * 将所有app的log.txt文件上传至 [[app-testing-results| https://github.com/openthos/app-testing-results]] 对应目录下
+  * 将所有app的log.txt文件上传至 [[app-testing-results |https://github.com/openthos/app-testing-results]] 对应目录下
 * 汇总各APP测试结果至app-list.md文件中。使其一目了解的看到测试结果
   * 当前版本测试结果始终放在最上面，方便查看。
   * 每版测试结果包含CPU，测试版本、各APP测试结果
