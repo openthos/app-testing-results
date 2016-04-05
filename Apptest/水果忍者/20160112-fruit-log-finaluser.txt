@@ -1,0 +1,609 @@
+01-12 03:05:43.405  2167  2188 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:44.407  2167  4279 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:44.469  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:44.481  1902  2164 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-12 03:05:44.482  2296  2296 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 03:05:44.482  2296  2296 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-12 03:05:44.484  2167  2188 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10011 on display 0
+01-12 03:05:44.529  4397  4397 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-12 03:05:45.171  5127  5127 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.409  2167  2188 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:45.497  2296  2296 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 03:05:45.497  2296  2296 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-12 03:05:45.708  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:45.740  5129  5129 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.744  5130  5130 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.750  5131  5131 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.754  5136  5136 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.867  5138  5138 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.872  5139  5139 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.875  5140  5140 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.915  5141  5141 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.918  5142  5142 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:45.919  5143  5143 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:46.412  2167  2188 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:47.300  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:47.305  2167  4268 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/fruitninja.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10018 on display 0
+01-12 03:05:47.307  2167  4268 V WindowManager: addAppToken: AppWindowToken{2c57ecb2 token=Token{3a116ebd ActivityRecord{2294d614 u0 com.android.packageinstaller/.PackageInstallerActivity t62}}} to stack=1 task=62 at 1
+01-12 03:05:47.408  4649  4649 I AppSecurityPermissions: Ignoring unknown permission:com.halfbrick.fruitninja.permission.C2D_MESSAGE
+01-12 03:05:47.408  4649  4649 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.c2dm.permission.RECEIVE
+01-12 03:05:47.409  4649  4649 I AppSecurityPermissions: Ignoring unknown permission:android.webkit.permission.PLUGIN
+01-12 03:05:47.414  2167  4278 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:47.417  2167  4278 V WindowManager: Adding window Window{14f33f80 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 11 (after Window{2746c481 u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-12 03:05:47.455  4649  4670 V RenderScript: 0x7f75e0ac3000 Launching thread(s), CPUs 8
+01-12 03:05:47.458  2167  2197 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +142ms (total +1m9s503ms)
+01-12 03:05:48.415  2167  2494 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:48.549  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:48.608  1894  1925 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.cyanogenmod.filemanager/cache/
+01-12 03:05:48.608  4514  5157 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.cyanogenmod.filemanager/cache
+01-12 03:05:48.609  1894  1925 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.cyanogenmod.filemanager/cache/
+01-12 03:05:48.609  4514  5157 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.cyanogenmod.filemanager/cache
+01-12 03:05:48.609  1894  1925 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.cyanogenmod.filemanager/cache/
+01-12 03:05:48.610  4514  5157 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.cyanogenmod.filemanager/cache
+01-12 03:05:48.610  1894  1925 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.cyanogenmod.filemanager/cache/
+01-12 03:05:48.611  4514  5157 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.cyanogenmod.filemanager/cache
+01-12 03:05:49.004  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:49.404  2167  4278 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/fruitninja.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10040 on display 0
+01-12 03:05:49.404  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:49.405  2167  4278 V WindowManager: addAppToken: AppWindowToken{1f4c600a token=Token{24fcb875 ActivityRecord{240cd3ac u0 com.android.packageinstaller/.InstallAppProgress t62}}} to stack=1 task=62 at 2
+01-12 03:05:49.417  2167  2494 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:49.435  2167  2494 V WindowManager: Adding window Window{122a4957 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 6 of 12 (after Window{14f33f80 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-12 03:05:49.466  2167  2197 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +50ms
+01-12 03:05:49.489  4649  4670 D OpenGLRenderer: endAllStagingAnimators on 0x7f75eabe9800 (RippleDrawable) with handle 0x7f75e11a5c80
+01-12 03:05:50.184  5162  5162 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:50.419  2167  2323 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:51.141  4678  4697 D DefContainer: Copying /storage/usb0/CTS/test-APK/fruitninja.apk to base.apk
+01-12 03:05:51.422  2167  4270 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:52.424  2167  2494 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:53.426  2167  4271 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:53.856  2167  2201 D PackageManager: Renaming /data/app/vmdl925900308.tmp to /data/app/com.halfbrick.fruitninja-1
+01-12 03:05:53.897  2167  2201 I PackageManager: Running dexopt on: /data/app/com.halfbrick.fruitninja-1/base.apk pkg=com.halfbrick.fruitninja isa=x86 vmSafeMode=false
+01-12 03:05:53.900  5164  5164 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-12 03:05:53.900  5164  5164 E cutils-trace: Error opening trace file: Permission denied (13)
+01-12 03:05:53.900  5164  5164 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.halfbrick.fruitninja-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.halfbrick.fruitninja-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-12 03:05:54.011  5164  5164 I dex2oat : Decided to run without swap.
+01-12 03:05:54.428  2167  2510 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:55.127  5164  5164 I dex2oat : dex2oat took 1.226s (threads: 8) arena alloc=546KB java alloc=11MB native alloc=26MB free=9MB
+01-12 03:05:55.197  5173  5173 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:55.227  2167  2201 W PackageManager: Unknown permission com.google.android.c2dm.permission.RECEIVE in package com.halfbrick.fruitninja
+01-12 03:05:55.227  2167  2201 W PackageManager: Not granting permission android.permission.MOUNT_UNMOUNT_FILESYSTEMS to package com.halfbrick.fruitninja (protectionLevel=18 flags=0x8be44)
+01-12 03:05:55.227  2167  2201 W PackageManager: Not granting permission android.permission.READ_LOGS to package com.halfbrick.fruitninja (protectionLevel=50 flags=0x8be44)
+01-12 03:05:55.227  2167  2201 W PackageManager: Not granting permission android.permission.ACCESS_DOWNLOAD_MANAGER to package com.halfbrick.fruitninja (protectionLevel=18 flags=0x8be44)
+01-12 03:05:55.227  2167  2201 W PackageManager: Not granting permission android.permission.CHANGE_CONFIGURATION to package com.halfbrick.fruitninja (protectionLevel=50 flags=0x8be44)
+01-12 03:05:55.227  2167  2201 W PackageManager: Unknown permission android.webkit.permission.PLUGIN in package com.halfbrick.fruitninja
+01-12 03:05:55.327  2167  2201 V BackupManagerService: restoreAtInstall pkg=com.halfbrick.fruitninja token=2 restoreSet=0
+01-12 03:05:55.327  2167  2201 V BackupManagerService: Finishing install immediately
+01-12 03:05:55.327  2167  2201 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-12 03:05:55.328  3663  3663 I plugin  : com.halfbrick.fruitninja install
+01-12 03:05:55.340  2167  4278 W ActivityManager: getTasks: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:55.341  2167  4270 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10052 on display 0
+01-12 03:05:55.351  2167  2208 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-12 03:05:55.353  2167  4270 V WindowManager: addAppToken: AppWindowToken{b3c028 token=Token{11af2e4b ActivityRecord{3446c31a u0 com.estrongs.android.pop/.app.InstallMonitorActivity t74}}} to stack=1 task=74 at 0
+01-12 03:05:55.376  3551  3551 W System.err: android.content.pm.PackageManager$NameNotFoundException
+01-12 03:05:55.376  3551  3551 W System.err: 	at android.app.ApplicationPackageManager.getApplicationInfo(ApplicationPackageManager.java:281)
+01-12 03:05:55.376  3551  3551 W System.err: 	at com.duoku.platform.single.l.g.a(Unknown Source)
+01-12 03:05:55.376  3551  3551 W System.err: 	at com.duoku.platform.single.gameplus.broadcast.GPNotificaionReceiver.onReceive(Unknown Source)
+01-12 03:05:55.376  3551  3551 W System.err: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-12 03:05:55.376  3551  3551 W System.err: 	at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-12 03:05:55.376  3551  3551 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-12 03:05:55.376  3551  3551 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:55.376  3551  3551 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:55.376  3551  3551 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:55.376  3551  3551 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:55.376  3551  3551 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:55.376  3551  3551 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:55.376  3551  3551 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:55.388  2167  2201 I art     : Explicit concurrent mark sweep GC freed 191834(9MB) AllocSpace objects, 14(4MB) LOS objects, 33% free, 15MB/23MB, paused 1.114ms total 60.495ms
+01-12 03:05:55.388  2167  2185 I art     : WaitForGcToComplete blocked for 25.995ms for cause Background
+01-12 03:05:55.399  2167  4279 I ActivityManager: Start proc 5179:com.baidu.netdisk/u0a63 for broadcast com.baidu.netdisk/.module.toolbox.AppInfoBroadcatReceiver
+01-12 03:05:55.404  2167  2323 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:55.404  2167  2188 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:55.409  5179  5179 I ActivityThread: Switching default density from 160 to 240
+01-12 03:05:55.410  5179  5179 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+01-12 03:05:55.415  2167  2167 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.halfbrick.fruitninja flg=0x4000010 (has extras) }
+01-12 03:05:55.416  5179  5179 I MultiDex: VM with version 2.1.0 has multidex support
+01-12 03:05:55.416  5179  5179 I MultiDex: install
+01-12 03:05:55.416  5179  5179 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+01-12 03:05:55.417  2167  2191 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-12 03:05:55.421  5179  5179 D ActivityThread: Loading provider com.baidu.netdisk.account: com.baidu.netdisk.account.storage.AccountProvider
+01-12 03:05:55.432  2167  2188 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:55.464  2167  4270 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:55.561  2167  4271 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3e3e116e attribute=null, token = android.os.BinderProxy@1a5872d6
+01-12 03:05:55.562  2167  2187 W ActivityManager: getRunningAppProcesses: caller 10052 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:55.569  2488  2488 I Launcher: Deferring update until onResume
+01-12 03:05:55.663  2488  2488 I Launcher: Deferring update until onResume
+01-12 03:05:55.710  2488  2816 E DatabaseUtils: Writing exception to parcel
+01-12 03:05:55.710  2488  2816 E DatabaseUtils: java.lang.SecurityException: Permission Denial: writing com.android.launcher3.LauncherProvider uri content://com.android.launcher3.settings/favorites/7?notify=true from pid=3296, uid=10057 requires com.android.launcher3.permission.WRITE_SETTINGS, or grantUriPermission()
+01-12 03:05:55.710  2488  2816 E DatabaseUtils: 	at android.content.ContentProvider.enforceWritePermissionInner(ContentProvider.java:604)
+01-12 03:05:55.710  2488  2816 E DatabaseUtils: 	at android.content.ContentProvider$Transport.enforceWritePermission(ContentProvider.java:461)
+01-12 03:05:55.710  2488  2816 E DatabaseUtils: 	at android.content.ContentProvider$Transport.update(ContentProvider.java:323)
+01-12 03:05:55.710  2488  2816 E DatabaseUtils: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:222)
+01-12 03:05:55.710  2488  2816 E DatabaseUtils: 	at android.os.Binder.execTransact(Binder.java:446)
+01-12 03:05:55.821  2167  4271 I ActivityManager: Start proc 5214:com.baidu.netdisk:bdservice_v1/u0a63 for service com.baidu.netdisk/com.baidu.android.pushservice.PushService
+01-12 03:05:55.823  5179  5179 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+01-12 03:05:55.837  5214  5214 I ActivityThread: Switching default density from 160 to 240
+01-12 03:05:55.838  5214  5214 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+01-12 03:05:55.844  5214  5214 I MultiDex: VM with version 2.1.0 has multidex support
+01-12 03:05:55.844  5214  5214 I MultiDex: install
+01-12 03:05:55.844  5214  5214 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+01-12 03:05:55.847  2167  2187 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:55.848  5214  5214 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+01-12 03:05:55.848  2167  4278 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10062
+01-12 03:05:55.854  2719  5109 W FileUtils: Failed to chmod(/storage/emulated/0/baidu/pushservice/database/pushstat_4.5.1.db): android.system.ErrnoException: chmod failed: EPERM (Operation not permitted)
+01-12 03:05:55.857  5214  5214 E BaiduAppSSOJni: Native library not found! Please copy libbdpush_V2_4.so into your project!
+01-12 03:05:55.857  5214  5214 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:55.857  5214  5214 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:55.859  5214  5214 E socket  : Native library not found! Please copy libbdpush_V2_4.so into your project!
+01-12 03:05:55.862  5214  5214 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:55.862  5214  5214 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:55.865  5214  5214 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:55.865  5214  5214 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:55.867  5214  5214 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:55.867  5214  5214 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:55.867  5214  5214 I Process : Sending signal. PID: 5214 SIG: 9
+01-12 03:05:55.877  2167  4268 I ActivityManager: Process com.baidu.netdisk:bdservice_v1 (pid 5214) has died
+01-12 03:05:55.947  5179  5179 D AndroidRuntime: Shutting down VM
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: Process: com.baidu.netdisk, PID: 5179
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/data/app/com.baidu.netdisk-1/base.apk"],nativeLibraryDirectories=[/data/app/com.baidu.netdisk-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libBaiduMapSDK_v3_2_0_15.so"
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at com.baidu.mapapi.a.<clinit>(Unknown Source)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at com.baidu.netdisk.NetDiskApplication.onCreate(SourceFile:234)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:55.947  5179  5179 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:55.948  5179  5179 I Process : Sending signal. PID: 5179 SIG: 9
+01-12 03:05:55.948  2488  2488 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@22561be new=com.android.launcher3.LauncherApplication@22561be
+01-12 03:05:55.949  2488  2488 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@22561be new=com.android.launcher3.LauncherApplication@22561be
+01-12 03:05:55.974  2167  4279 I ActivityManager: Process com.baidu.netdisk (pid 5179) has died
+01-12 03:05:55.974  2167  4279 W ActivityManager: Scheduling restart of crashed service com.baidu.netdisk/.service.NetdiskService in 1000ms
+01-12 03:05:56.066  2719  5109 E SQLiteLog: (28) cannot fstat db file /storage/emulated/0/baidu/pushservice/database/pushstat_4.5.1.db
+01-12 03:05:56.066  2719  5109 E SQLiteLog: (4106) os_unix.c:26202: (9) close(/storage/emulated/0/baidu/pushservice/database/pushstat_4.5.1.db) - 
+01-12 03:05:56.433  2167  2187 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:57.001  2167  2192 I ActivityManager: Start proc 5277:com.baidu.netdisk/u0a63 for service com.baidu.netdisk/.service.NetdiskService
+01-12 03:05:57.015  5277  5277 I ActivityThread: Switching default density from 160 to 240
+01-12 03:05:57.017  5277  5277 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+01-12 03:05:57.024  5277  5277 I MultiDex: VM with version 2.1.0 has multidex support
+01-12 03:05:57.024  5277  5277 I MultiDex: install
+01-12 03:05:57.024  5277  5277 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+01-12 03:05:57.031  5277  5277 D ActivityThread: Loading provider com.baidu.netdisk.account: com.baidu.netdisk.account.storage.AccountProvider
+01-12 03:05:57.076  2167  2511 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.halfbrick.fruitninja cmp=com.halfbrick.fruitninja/com.idsky.android.impl.ui.IdskySplashActivity} from uid 10040 on display 0
+01-12 03:05:57.077  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:57.079  2167  2511 V WindowManager: addAppToken: AppWindowToken{29307659 token=Token{3d8b0aa0 ActivityRecord{14b3b7a3 u0 com.halfbrick.fruitninja/com.idsky.android.impl.ui.IdskySplashActivity t75}}} to stack=1 task=75 at 0
+01-12 03:05:57.088  2167  2197 V WindowManager: Adding window Window{2078d22a u0 Starting com.halfbrick.fruitninja} at 6 of 12 (after Window{122a4957 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+01-12 03:05:57.089  1902  2164 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-12 03:05:57.146  2167  2494 I ActivityManager: Start proc 5299:com.halfbrick.fruitninja/u0a65 for activity com.halfbrick.fruitninja/com.idsky.android.impl.ui.IdskySplashActivity
+01-12 03:05:57.163  5299  5299 I ActivityThread: Switching default density from 160 to 240
+01-12 03:05:57.163  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1168, 924).
+01-12 03:05:57.170  5299  5299 D SkynetApi: onApplicationCreate
+01-12 03:05:57.171  5299  5299 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 03:05:57.171  5299  5299 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.171  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 03:05:57.171  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 03:05:57.171  5299  5299 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4060)
+01-12 03:05:57.171  5299  5299 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3542)
+01-12 03:05:57.171  5299  5299 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-12 03:05:57.171  5299  5299 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 03:05:57.171  5299  5299 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 03:05:57.171  5299  5299 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 03:05:57.171  5299  5299 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 03:05:57.171  5299  5299 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:57.171  5299  5299 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:57.171  5299  5299 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:57.171  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.171  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.171  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:57.171  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:57.171  5299  5299 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-12 03:05:57.171  5299  5299 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 03:05:57.171  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 03:05:57.171  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 03:05:57.171  5299  5299 W System.err: 	... 17 more
+01-12 03:05:57.171  5299  5299 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-12 03:05:57.171  5299  5299 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.171  5299  5299 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 03:05:57.171  5299  5299 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 03:05:57.171  5299  5299 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 03:05:57.171  5299  5299 W System.err: 		... 18 more
+01-12 03:05:57.171  5299  5299 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 03:05:57.173  5299  5299 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-12 03:05:57.173  5299  5299 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.173  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 03:05:57.173  5299  5299 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-12 03:05:57.173  5299  5299 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-12 03:05:57.173  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.173  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.173  5299  5299 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-12 03:05:57.173  5299  5299 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3544)
+01-12 03:05:57.173  5299  5299 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-12 03:05:57.173  5299  5299 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 03:05:57.173  5299  5299 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 03:05:57.173  5299  5299 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 03:05:57.173  5299  5299 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 03:05:57.173  5299  5299 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:57.173  5299  5299 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:57.173  5299  5299 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:57.173  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.173  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.173  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:57.173  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:57.173  5299  5299 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-12 03:05:57.173  5299  5299 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 03:05:57.173  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 03:05:57.173  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 03:05:57.173  5299  5299 W System.err: 	... 20 more
+01-12 03:05:57.173  5299  5299 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-12 03:05:57.173  5299  5299 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.173  5299  5299 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 03:05:57.173  5299  5299 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 03:05:57.173  5299  5299 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 03:05:57.173  5299  5299 W System.err: 		... 21 more
+01-12 03:05:57.173  5299  5299 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 03:05:57.173  2167  2323 W ActivityManager: getRunningAppProcesses: caller 10065 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:57.177  5299  5299 E art     : dlopen("/data/app/com.halfbrick.fruitninja-1/lib/x86/libmegjb.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.halfbrick.fruitninja-1/lib/x86/libmegjb.so" has unexpected e_machine: 40
+01-12 03:05:57.177  5299  5299 W IdskyConfig: megjb.so not found!
+01-12 03:05:57.177  5299  5299 I idskyApi: onApplicationCreateidskyApi
+01-12 03:05:57.178  5299  5299 I PaymentPlugin: onApplicationCreate  PaymentPlugin
+01-12 03:05:57.179  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1168, 925).
+01-12 03:05:57.180  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.cu.b>
+01-12 03:05:57.180  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.cu.b>
+01-12 03:05:57.181  5299  5299 I cc      : Cu onApplicationCreate Start
+01-12 03:05:57.181  2167  2510 W ActivityManager: getRunningAppProcesses: caller 10065 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:57.181  5299  5299 I unipaysdk: pid:5299 process:com.halfbrick.fruitninja
+01-12 03:05:57.181  5299  5299 E unipaysdk: unipaysdk:targetSdkVersion过高！
+01-12 03:05:57.183  5299  5299 E unipaysdk: unipaysdk:rc(0/1), s(true)
+01-12 03:05:57.183  5299  5299 E unipaysdk: unipaysdk:abi(x86)
+01-12 03:05:57.183  5299  5299 E unipaysdk: unipaysdk:cpu_abi:x86
+01-12 03:05:57.188  4649  4670 D OpenGLRenderer: endAllStagingAnimators on 0x7f75eabed800 (RippleDrawable) with handle 0x7f75e0a288a0
+01-12 03:05:57.194  5299  5299 E unipaysdk: unipaysdk:abi(x86)
+01-12 03:05:57.195  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1168, 926).
+01-12 03:05:57.215  2167  4279 I ActivityManager: Start proc 5333:com.baidu.netdisk:bdservice_v1/u0a63 for service com.baidu.netdisk/com.baidu.android.pushservice.PushService
+01-12 03:05:57.216  5277  5277 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+01-12 03:05:57.219  1906  1906 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 35us total 3.577ms
+01-12 03:05:57.221  2719  2719 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+01-12 03:05:57.221  1906  1906 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 33us total 2.320ms
+01-12 03:05:57.222  5333  5333 I ActivityThread: Switching default density from 160 to 240
+01-12 03:05:57.222  5333  5333 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+01-12 03:05:57.223  5299  5299 E unipaysdk: unipaysdk:result.1: 1
+01-12 03:05:57.223  5299  5299 I cc      : Cu onApplicationCreate finish
+01-12 03:05:57.223  5299  5299 W System.err: java.lang.ClassNotFoundException: com.idsky.android.cu.net.UnicomOnlinePlugin
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 03:05:57.223  5299  5299 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:131)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.223  5299  5299 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.223  5299  5299 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-12 03:05:57.223  5299  5299 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3547)
+01-12 03:05:57.223  5299  5299 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-12 03:05:57.223  5299  5299 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 03:05:57.223  5299  5299 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 03:05:57.223  5299  5299 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 03:05:57.223  5299  5299 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 03:05:57.223  5299  5299 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:57.223  5299  5299 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:57.223  5299  5299 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.223  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:57.223  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:57.223  5299  5299 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.idsky.android.cu.net.UnicomOnlinePlugin" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-12 03:05:57.223  5299  5299 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 03:05:57.223  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 03:05:57.223  5299  5299 W System.err: 	... 23 more
+01-12 03:05:57.223  5299  5299 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.idsky.android.cu.net.UnicomOnlinePlugin
+01-12 03:05:57.223  5299  5299 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.223  5299  5299 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 03:05:57.223  5299  5299 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 03:05:57.223  5299  5299 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 03:05:57.223  5299  5299 W System.err: 		... 24 more
+01-12 03:05:57.223  5299  5299 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 03:05:57.223  1906  1906 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 36us total 2.355ms
+01-12 03:05:57.225  5333  5333 I MultiDex: VM with version 2.1.0 has multidex support
+01-12 03:05:57.225  5333  5333 I MultiDex: install
+01-12 03:05:57.225  5333  5333 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+01-12 03:05:57.225  5368  5368 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:57.225  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.cm.c>
+01-12 03:05:57.225  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.cm.c>
+01-12 03:05:57.226  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.cm.b>
+01-12 03:05:57.226  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.cm.b>
+01-12 03:05:57.226  5299  5299 E art     : dlopen("/data/app/com.halfbrick.fruitninja-1/lib/x86/libmegjb.so", RTLD_LAZY) failed: dlopen failed: "/data/app/com.halfbrick.fruitninja-1/lib/x86/libmegjb.so" has unexpected e_machine: 40
+01-12 03:05:57.226  5333  5333 V CommonParams: cast to int com.baidu.android.pushservice.PushSettings.debug_mode Exception. 
+01-12 03:05:57.226  5368  5368 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:57.226  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.mm.h>
+01-12 03:05:57.226  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.mm.h>
+01-12 03:05:57.227  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.mm.e>
+01-12 03:05:57.227  5299  5299 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.idsky.android.mm.e>
+01-12 03:05:57.227  5299  5299 I SmsMmPlugin: MM  install start
+01-12 03:05:57.227  5299  5299 W System.err: java.lang.ClassNotFoundException: com.secneo.mmb.DexHelper
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 03:05:57.227  5299  5299 W System.err: 	at com.idsky.android.mm.SmsMmPlugin.onApplicationCreate(SourceFile:99)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.227  5299  5299 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:152)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.227  5299  5299 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.227  5299  5299 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-12 03:05:57.227  5299  5299 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3547)
+01-12 03:05:57.227  5299  5299 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-12 03:05:57.227  5299  5299 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 03:05:57.227  5299  5299 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 03:05:57.227  5299  5299 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 03:05:57.227  5299  5299 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 03:05:57.227  5299  5299 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:57.227  5299  5299 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:57.227  5299  5299 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.227  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:57.227  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:57.227  5299  5299 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.secneo.mmb.DexHelper" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-12 03:05:57.227  5299  5299 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 03:05:57.227  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 03:05:57.227  5299  5299 W System.err: 	... 26 more
+01-12 03:05:57.227  5299  5299 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.secneo.mmb.DexHelper
+01-12 03:05:57.227  5299  5299 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.227  5299  5299 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 03:05:57.227  5299  5299 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 03:05:57.227  5299  5299 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 03:05:57.227  5299  5299 W System.err: 		... 27 more
+01-12 03:05:57.227  5299  5299 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 03:05:57.228  5299  5299 W System.err: java.lang.ClassNotFoundException: com.secneo.mmb.Helper
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.idsky.android.mm.SmsMmPlugin.onApplicationCreate(SourceFile:104)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:152)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3547)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:57.228  5299  5299 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.secneo.mmb.Helper" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-12 03:05:57.228  5299  5299 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 03:05:57.228  5299  5299 W System.err: 	... 26 more
+01-12 03:05:57.228  5299  5299 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.secneo.mmb.Helper
+01-12 03:05:57.228  5299  5299 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 03:05:57.228  5299  5299 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 03:05:57.228  5299  5299 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 03:05:57.228  5299  5299 W System.err: 		... 27 more
+01-12 03:05:57.228  5299  5299 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 03:05:57.228  5299  5299 W System.err: java.lang.ClassNotFoundException: com.secneo.wrapper.DexHelper
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.idsky.android.mm.SmsMmPlugin.onApplicationCreate(SourceFile:109)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.idsky.android.frame.PaymentPlugin.onApplicationCreate(SourceFile:152)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.idsky.android.Idsky.onApplicationCreate(SourceFile:1411)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3547)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:57.228  5299  5299 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:57.228  5299  5299 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:57.228  5299  5299 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.secneo.wrapper.DexHelper" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-12 03:05:57.228  5299  5299 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-12 03:05:57.228  5299  5299 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-12 03:05:57.228  5299  5299 W System.err: 	... 26 more
+01-12 03:05:57.228  5299  5299 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.secneo.wrapper.DexHelper
+01-12 03:05:57.228  5299  5299 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-12 03:05:57.228  5299  5299 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-12 03:05:57.228  5299  5299 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-12 03:05:57.228  5299  5299 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-12 03:05:57.228  5299  5299 W System.err: 		... 27 more
+01-12 03:05:57.228  5299  5299 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-12 03:05:57.228  5299  5299 I SmsMmPlugin: MM Helper install 
+01-12 03:05:57.228  5299  5299 E sdk     : DexInstall begin
+01-12 03:05:57.229  5299  5299 E sdk     : DexInstall 11111
+01-12 03:05:57.229  5299  5299 E sdk     : installSecondarDexs
+01-12 03:05:57.229  5299  5299 E sdk     : v19 install
+01-12 03:05:57.229  5299  5299 W System  : ClassLoader referenced unknown path: /data/data/com.halfbrick.fruitninja/.cache/classes.jar
+01-12 03:05:57.229  5299  5299 E sdk     : DexInstall 22222
+01-12 03:05:57.229  5299  5299 I SmsMmPlugin: MM Helper install end  
+01-12 03:05:57.229  2167  4278 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:57.231  5333  5333 E BaiduAppSSOJni: Native library not found! Please copy libbdpush_V2_4.so into your project!
+01-12 03:05:57.231  5333  5333 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:57.231  5333  5333 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:57.234  5333  5333 E socket  : Native library not found! Please copy libbdpush_V2_4.so into your project!
+01-12 03:05:57.238  5333  5333 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:57.238  5333  5333 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:57.238  5381  5381 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-12 03:05:57.238  5381  5381 E cutils-trace: Error opening trace file: Permission denied (13)
+01-12 03:05:57.238  5381  5381 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.halfbrick.fruitninja/.ucache/classez.jar --oat-fd=14 --oat-location=/data/data/com.halfbrick.fruitninja/.ucache/classez.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m
+01-12 03:05:57.239  5333  5333 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:57.239  5333  5333 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:57.241  5333  5333 E art     : No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:57.241  5333  5333 E BaiduAppSSOJni: error = No implementation found for byte[] com.baidu.android.pushservice.jni.BaiduAppSSOJni.getKey(java.lang.String) (tried Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey and Java_com_baidu_android_pushservice_jni_BaiduAppSSOJni_getKey__Ljava_lang_String_2)
+01-12 03:05:57.242  5333  5333 I Process : Sending signal. PID: 5333 SIG: 9
+01-12 03:05:57.247  2167  4268 I ActivityManager: Process com.baidu.netdisk:bdservice_v1 (pid 5333) has died
+01-12 03:05:57.265  5299  5299 I idsyconfig: found another way to go to happiness or hell
+01-12 03:05:57.266  5299  5299 I RSA     : idskyver.txt={"sdk_version":"pay-3.2.1.27"}
+01-12 03:05:57.267  5299  5299 I DES     : idsky_config={"game_type":"2","is_carrier_version":"false","default_p_list":"0107","pay":"","count_url":"http://sdklog.uu.cc/","weixin_app_id":"wxa0b628feaef486cb","game_id":"10234"}
+01-12 03:05:57.268  2167  2494 I ActivityManager: START u0 {flg=0x10000000 cmp=com.halfbrick.fruitninja/com.halfbrick.mortar.MortarGameActivity} from uid 10065 on display 0
+01-12 03:05:57.307  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1167, 927).
+01-12 03:05:57.320  2167  2494 V WindowManager: addAppToken: AppWindowToken{1d5dc383 token=Token{389a0a32 ActivityRecord{12bb923d u0 com.halfbrick.fruitninja/com.halfbrick.mortar.MortarGameActivity t75}}} to stack=1 task=75 at 1
+01-12 03:05:57.320  2167  2494 V WindowManager: Based on layer: Adding window Window{2078d22a u0 Starting com.halfbrick.fruitninja} at 6 of 12
+01-12 03:05:57.323  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1167, 928).
+01-12 03:05:57.331  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1166, 928).
+01-12 03:05:57.336  5299  5299 D MTA_Fruitninja: [main(1): MortarGameActivity.java:368] - isDebugMode:false
+01-12 03:05:57.339  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1166, 929).
+01-12 03:05:57.347  2488  2488 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@22561be new=com.android.launcher3.LauncherApplication@22561be
+01-12 03:05:57.355  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1166, 930).
+01-12 03:05:57.355  2488  2488 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@22561be new=com.android.launcher3.LauncherApplication@22561be
+01-12 03:05:57.363  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1165, 930).
+01-12 03:05:57.371  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1165, 931).
+01-12 03:05:57.379  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1164, 932).
+01-12 03:05:57.403  5277  5277 D AndroidRuntime: Shutting down VM
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: Process: com.baidu.netdisk, PID: 5277
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/data/app/com.baidu.netdisk-1/base.apk"],nativeLibraryDirectories=[/data/app/com.baidu.netdisk-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libBaiduMapSDK_v3_2_0_15.so"
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at com.baidu.mapapi.a.<clinit>(Unknown Source)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at com.baidu.mapapi.SDKInitializer.initialize(Unknown Source)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at com.baidu.netdisk.NetDiskApplication.onCreate(SourceFile:234)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:57.403  5277  5277 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:57.404  5277  5277 I Process : Sending signal. PID: 5277 SIG: 9
+01-12 03:05:57.411  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1164, 933).
+01-12 03:05:57.418  5299  5299 D OpenUDID: 0 services matches OpenUDID
+01-12 03:05:57.418  5299  5299 D OpenUDID: Generating openUDID
+01-12 03:05:57.418  5299  5299 D OpenUDID: OpenUDID: d2a84b3141900652
+01-12 03:05:57.435  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1163, 933).
+01-12 03:05:57.436  2167  4268 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:57.516  2167  4278 I ActivityManager: Process com.baidu.netdisk (pid 5277) has died
+01-12 03:05:57.516  2167  4278 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{12d1200f u0 com.baidu.netdisk/.service.NetdiskService}
+01-12 03:05:57.617  5299  5299 I Version SDK: 22
+01-12 03:05:57.617  5299  5299 I Setting : fullscreen
+01-12 03:05:57.618  5299  5299 I JNI     : Trying to load libsmsiap.so
+01-12 03:05:57.619  5299  5299 E JNI     : WARNING: Could not load libsmsiap.so
+01-12 03:05:57.619  5299  5299 E JNI     : Reason: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libsmsiap.so"
+01-12 03:05:57.619  5299  5299 I JNI     : Trying to load libsmsprotocol.so
+01-12 03:05:57.619  5299  5299 E JNI     : WARNING: Could not load libsmsprotocol.so
+01-12 03:05:57.619  5299  5299 E JNI     : Reason: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libsmsprotocol.so"
+01-12 03:05:57.619  5299  5299 I JNI     : Trying to load libImmEmulatorJ.so
+01-12 03:05:57.619  5299  5299 E JNI     : WARNING: Could not load libImmEmulatorJ.so
+01-12 03:05:57.619  5299  5299 E JNI     : Reason: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libImmEmulatorJ.so"
+01-12 03:05:57.619  5299  5299 I JNI     : Trying to load libmortargame.so
+01-12 03:05:57.619  5299  5299 E JNI     : WARNING: Could not load libmortargame.so
+01-12 03:05:57.619  5299  5299 E JNI     : Reason: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libmortargame.so"
+01-12 03:05:57.619  5299  5299 V halfbrick.Mortar: Loading native lib, result: true
+01-12 03:05:57.620  5299  5299 E art     : No implementation found for int com.halfbrick.mortar.NativeGameLib.native_GLESVersion() (tried Java_com_halfbrick_mortar_NativeGameLib_native_1GLESVersion and Java_com_halfbrick_mortar_NativeGameLib_native_1GLESVersion__)
+01-12 03:05:57.620  5299  5299 D AndroidRuntime: Shutting down VM
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: Process: com.halfbrick.fruitninja, PID: 5299
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: java.lang.UnsatisfiedLinkError: No implementation found for int com.halfbrick.mortar.NativeGameLib.native_GLESVersion() (tried Java_com_halfbrick_mortar_NativeGameLib_native_1GLESVersion and Java_com_halfbrick_mortar_NativeGameLib_native_1GLESVersion__)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.halfbrick.mortar.NativeGameLib.native_GLESVersion(Native Method)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.halfbrick.mortar.NativeGameLib.GLESVersion(NativeGameLib.java:161)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.halfbrick.mortar.MortarGameView.init(MortarGameView.java:213)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.halfbrick.mortar.MortarGameView.<init>(MortarGameView.java:95)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.halfbrick.mortar.MortarGameView.InternalConstruct(MortarGameView.java:84)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.halfbrick.mortar.MortarGameView.Construct(MortarGameView.java:62)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.halfbrick.mortar.MortarGameActivity.onCreate(MortarGameActivity.java:533)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.app.Activity.performCreate(Activity.java:5990)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1106)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2278)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2387)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.app.ActivityThread.access$800(ActivityThread.java:151)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1303)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-12 03:05:57.621  5299  5299 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-12 03:05:57.621  2167  4268 W ActivityManager:   Force finishing activity 1 com.halfbrick.fruitninja/com.halfbrick.mortar.MortarGameActivity
+01-12 03:05:57.834  5381  5381 I dex2oat : dex2oat took 595.671ms (threads: 8) arena alloc=140KB java alloc=2MB native alloc=7MB free=8MB
+01-12 03:05:57.869  5299  5362 E unipaysdk_2.3.0: UnipaySDK ERR:724  none error
+01-12 03:05:57.922  2167  4268 I WindowManager: Screenshot max retries 4 of Token{389a0a32 ActivityRecord{12bb923d u0 com.halfbrick.fruitninja/com.halfbrick.mortar.MortarGameActivity t75 f}} appWin=Window{2078d22a u0 Starting com.halfbrick.fruitninja} drawState=4
+01-12 03:05:57.923  5299  5299 I Process : Sending signal. PID: 5299 SIG: 9
+01-12 03:05:57.974  2167  4270 I ActivityManager: Process com.halfbrick.fruitninja (pid 5299) has died
+01-12 03:05:57.975  2167  2197 E WindowState: getStack: Window{2078d22a u0 Starting com.halfbrick.fruitninja} couldn't find taskId=75 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowState.getWindowList:1354 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2774 com.android.server.wm.WindowManagerService.removeWindowLocked:2675 
+01-12 03:05:57.976  2167  2197 E WindowState: getStack: Window{2078d22a u0 Starting com.halfbrick.fruitninja} couldn't find taskId=75 Callers=com.android.server.wm.WindowState.getDisplayContent:782 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2779 com.android.server.wm.WindowManagerService.removeWindowLocked:2675 com.android.server.wm.WindowManagerService.removeWindow:2597 
+01-12 03:05:57.979  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1163, 934).
+01-12 03:05:57.987  5411  5411 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:57.992  5412  5412 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:57.997  5413  5413 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:58.001  5414  5414 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:58.003  2167  2207 I InputDispatcher: Dropping event because there is no touchable window at (1162, 934).
+01-12 03:05:58.117  5416  5416 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:58.122  5417  5417 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:58.125  5418  5418 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:58.162  5419  5419 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:58.164  5420  5420 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:58.165  5421  5421 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:58.437  2167  2188 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:59.125  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:59.133  2296  2296 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 03:05:59.133  2296  2296 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-12 03:05:59.135  2167  2188 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10011 on display 0
+01-12 03:05:59.162  2167  2510 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@d67bf4c (uid=10018 pid=4514)
+01-12 03:05:59.438  2167  4270 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:05:59.857  5423  5423 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:05:59.940  2167  2240 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-12 03:05:59.972  2296  5133 W art     : No such thread id for suspend: 40
+01-12 03:05:59.989  4397  4397 I Term    : Bound to TermService
+01-12 03:05:59.989  4397  4397 I TermService: Activity binding to service
+01-12 03:05:59.990  2336  2336 I LatinIME: Starting input. Cursor position = -1,-1
+01-12 03:06:00.009  2336  2336 I InputAttributes: InputType.TYPE_NULL is specified
+01-12 03:06:00.440  2167  4268 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:00.954  2296  2296 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-12 03:06:00.954  2296  2296 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-12 03:06:01.442  2167  2187 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:02.231  2719  2719 W ResourcesManager: Asset path '/system/framework/android.test.runner.jar' does not exist or contains no resources.
+01-12 03:06:02.444  2167  2494 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:02.587  2167  4278 W ActivityManager: getRunningAppProcesses: caller 10061 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:03.446  2167  4279 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:04.350  2167  4270 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10062
+01-12 03:06:04.355  5435  5435 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-12 03:06:04.448  2167  2510 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:05.451  2167  4278 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:06.454  2167  4271 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:07.456  2167  2494 W ActivityManager: getTasks: caller 10062 does not hold REAL_GET_TASKS; limiting output
+01-12 03:06:08.336  5438  5438 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

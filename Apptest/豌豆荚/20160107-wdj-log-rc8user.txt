@@ -1,0 +1,318 @@
+01-07 05:29:51.804  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:29:51.817  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:29:51.820  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:29:51.820  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:29:51.822  2145  2685 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:29:51.879  3061  3061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:29:52.684  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:29:52.729  4943  4943 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.733  4944  4944 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.739  4949  4949 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.743  4950  4950 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.747  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (1048, 558).
+01-07 05:29:52.847  4952  4952 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.852  4953  4953 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.855  4954  4954 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.888  4955  4955 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.891  4956  4956 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:52.892  4957  4957 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:53.707  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:29:53.707  2272  2272 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-07 05:29:54.440  4958  4958 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:56.196  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:29:56.200  2145  2305 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/wandoujia-wandoujia_web.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10017 on display 0
+01-07 05:29:56.208  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:29:56.210  2145  2305 V WindowManager: addAppToken: AppWindowToken{35703472 token=Token{3442fd7d ActivityRecord{3eec67d4 u0 com.android.packageinstaller/.PackageInstallerActivity t13}}} to stack=1 task=13 at 1
+01-07 05:29:56.242  3236  3236 W PackageParser: Unknown element under <application>: uses-sdk at /storage/usb0/CTS/test-APK/wandoujia-wandoujia_web.apk Binary XML file line #1784
+01-07 05:29:56.318  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.android.launcher.permission.CREATE_SHORTCUT
+01-07 05:29:56.318  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.android.launcher.permission.READ_SETTINGS
+01-07 05:29:56.318  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.android.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.adw.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.adw.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.qihoo360.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.qihoo360.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.lge.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.lge.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:net.qihoo.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:net.qihoo.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.adwfreak.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:org.adwfreak.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.launcher3.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.launcher3.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.fede.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.fede.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.sec.android.app.twlauncher.settings.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.sec.android.app.twlauncher.settings.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.anddoes.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.anddoes.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.lenovo.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.lenovo.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.oppo.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.oppo.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.yulong.android.launcher3.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.yulong.android.launcher3.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.android.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.huawei.android.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.htc.launcher.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.htc.launcher.permission.WRITE_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.bbk.launcher2.permission.READ_SETTINGS
+01-07 05:29:56.319  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.bbk.launcher2.permission.WRITE_SETTINGS
+01-07 05:29:56.320  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:android.permission.ACCESS_DRM
+01-07 05:29:56.320  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:android.permission.INSTALL_DRM
+01-07 05:29:56.320  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.google.android.providers.gsf.permission.READ_GSERVICES
+01-07 05:29:56.320  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:rs.permission.MDM_SERVICE
+01-07 05:29:56.320  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:com.ut.permission.DEVICE_STATE
+01-07 05:29:56.320  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:android.permission.READ_SETTINGS
+01-07 05:29:56.320  3236  3236 I AppSecurityPermissions: Ignoring unknown permission:ANDROID.PERMISSION.INTERNET
+01-07 05:29:56.330  2145  2164 V WindowManager: Adding window Window{12922d40 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 7 of 12 (after Window{2cac20df u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-07 05:29:56.364  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +150ms
+01-07 05:29:57.452  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:29:57.948  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:29:58.468  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:29:59.070  2145  3554 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/wandoujia-wandoujia_web.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10039 on display 0
+01-07 05:29:59.070  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:29:59.076  2145  3554 V WindowManager: addAppToken: AppWindowToken{c795f35 token=Token{260cdd6c ActivityRecord{39d9261f u0 com.android.packageinstaller/.InstallAppProgress t13}}} to stack=1 task=13 at 2
+01-07 05:29:59.113  2145  3551 V WindowManager: Adding window Window{30b22e96 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 8 of 13 (after Window{12922d40 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-07 05:29:59.149  2145  2175 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +62ms
+01-07 05:29:59.183  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421e2a7000 (RippleDrawable) with handle 0x7f421e4cf280
+01-07 05:29:59.451  4967  4967 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:29:59.488  3284  3303 D DefContainer: Copying /storage/usb0/CTS/test-APK/wandoujia-wandoujia_web.apk to base.apk
+01-07 05:29:59.777  2145  2179 W PackageParser: Unknown element under <application>: uses-sdk at /data/app/vmdl1992699582.tmp/base.apk Binary XML file line #1784
+01-07 05:29:59.944  2145  2179 D PackageManager: Renaming /data/app/vmdl1992699582.tmp to /data/app/com.wandoujia.phoenix2-1
+01-07 05:30:00.142  2145  2179 I PackageManager: Running dexopt on: /data/app/com.wandoujia.phoenix2-1/base.apk pkg=com.wandoujia.phoenix2 isa=x86 vmSafeMode=false
+01-07 05:30:00.148  4968  4968 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-07 05:30:00.149  4968  4968 E cutils-trace: Error opening trace file: Permission denied (13)
+01-07 05:30:00.149  4968  4968 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.wandoujia.phoenix2-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.wandoujia.phoenix2-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --swap-fd=13
+01-07 05:30:00.298  4968  4968 I dex2oat : Decided to run without swap.
+01-07 05:30:01.046  4968  4976 I dex2oat : Method exceeds compiler instruction limit: 21497 in void org.a.a.a.f.<init>()
+01-07 05:30:01.388  4968  4968 I dex2oat : dex2oat took 1.239s (threads: 8) arena alloc=136KB java alloc=18MB native alloc=25MB free=14MB
+01-07 05:30:01.397  2145  2179 W PackageManager: Package com.wandoujia.phoenix2 has activity com.alipay.android.mini.window.sdk.MiniPayActivity with priority > 0, forcing to 0
+01-07 05:30:01.490  2145  2179 W PackageManager: Not granting permission android.permission.READ_LOGS to package com.wandoujia.phoenix2 (protectionLevel=50 flags=0x18be44)
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.android.launcher.permission.CREATE_SHORTCUT in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Not granting permission com.android.launcher3.permission.WRITE_SETTINGS to package com.wandoujia.phoenix2 (protectionLevel=18 flags=0x18be44)
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission org.adw.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission org.adw.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.qihoo360.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.qihoo360.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.lge.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.lge.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission net.qihoo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission net.qihoo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission org.adwfreak.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission org.adwfreak.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.huawei.launcher3.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.huawei.launcher3.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.fede.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.fede.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.sec.android.app.twlauncher.settings.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.sec.android.app.twlauncher.settings.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.anddoes.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.anddoes.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.lenovo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.lenovo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.google.android.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.google.android.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.oppo.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.oppo.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.yulong.android.launcher3.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.yulong.android.launcher3.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.huawei.android.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.huawei.android.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.htc.launcher.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.htc.launcher.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.bbk.launcher2.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.bbk.launcher2.permission.WRITE_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Not granting permission android.permission.MOUNT_UNMOUNT_FILESYSTEMS to package com.wandoujia.phoenix2 (protectionLevel=18 flags=0x18be44)
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission android.permission.ACCESS_DRM in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission android.permission.INSTALL_DRM in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Not granting permission android.permission.BIND_ACCESSIBILITY_SERVICE to package com.wandoujia.phoenix2 (protectionLevel=2 flags=0x18be44)
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.google.android.providers.gsf.permission.READ_GSERVICES in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission rs.permission.MDM_SERVICE in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission com.ut.permission.DEVICE_STATE in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission android.permission.READ_SETTINGS in package com.wandoujia.phoenix2
+01-07 05:30:01.490  2145  2179 W PackageManager: Unknown permission ANDROID.PERMISSION.INTERNET in package com.wandoujia.phoenix2
+01-07 05:30:01.574  2145  2179 V BackupManagerService: restoreAtInstall pkg=com.wandoujia.phoenix2 token=8 restoreSet=0
+01-07 05:30:01.574  2145  2179 V BackupManagerService: Finishing install immediately
+01-07 05:30:01.575  2145  2179 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-07 05:30:01.580  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-07 05:30:01.580  2145  3553 W ActivityManager: getTasks: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:01.581  2145  3554 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10051 on display 0
+01-07 05:30:01.613  2145  3554 V WindowManager: addAppToken: AppWindowToken{304dd1f2 token=Token{2ec6a0fd ActivityRecord{13726954 u0 com.estrongs.android.pop/.app.InstallMonitorActivity t28}}} to stack=1 task=28 at 0
+01-07 05:30:01.613  2145  2179 I art     : Explicit concurrent mark sweep GC freed 132328(6MB) AllocSpace objects, 10(2MB) LOS objects, 33% free, 14MB/21MB, paused 1.241ms total 38.232ms
+01-07 05:30:01.638  2145  2165 I ActivityManager: Start proc 4981:sogou.mobile.explorer.hotwords/u0a56 for broadcast com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.browser.SogouBrowserInstallReceiver
+01-07 05:30:01.639  2145  2169 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-07 05:30:01.640  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:01.641  2145  3552 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:01.643  4981  4981 I ActivityThread: Switching default density from 160 to 240
+01-07 05:30:01.645  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:01.719  2145  2678 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3f31f325 attribute=null, token = android.os.BinderProxy@21edb9b1
+01-07 05:30:01.720  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:01.739  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:30:01.802  2145  2145 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.wandoujia.phoenix2 flg=0x4000010 (has extras) }
+01-07 05:30:01.845  2421  2421 I Launcher: Deferring update until onResume
+01-07 05:30:01.916  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10051 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.463  5005  5005 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:04.579  2145  2164 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.INFO] flg=0x10000000 pkg=com.wandoujia.phoenix2 cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity} from uid 10039 on display 0
+01-07 05:30:04.580  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:04.584  2145  2164 V WindowManager: addAppToken: AppWindowToken{29339ca1 token=Token{3cf53d08 ActivityRecord{330712ab u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity t29}}} to stack=1 task=29 at 0
+01-07 05:30:04.593  2145  2175 V WindowManager: Adding window Window{30cca520 u0 Starting com.wandoujia.phoenix2} at 8 of 13 (after Window{30b22e96 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+01-07 05:30:04.593  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:30:04.633  2145  2165 I ActivityManager: Start proc 5007:com.wandoujia.phoenix2/u0a57 for activity com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity
+01-07 05:30:04.685  2145  3554 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.12}
+01-07 05:30:04.686  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 05:30:04.687  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 05:30:04.721  3236  3257 D OpenGLRenderer: endAllStagingAnimators on 0x7f421e2ae400 (RippleDrawable) with handle 0x7f421e183d00
+01-07 05:30:04.723  5007  5007 I ActivityThread: Switching default density from 160 to 240
+01-07 05:30:04.746  2145  3552 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.746  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.746  2272  2674 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 05:30:04.747  2145  3552 W ActivityManager: getTasks: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.748  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.748  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.779  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.786  5031  5031 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:04.790  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.793  5035  5035 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:04.794  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.794  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.807  5007  5007 W ContextImpl: Implicit intents with startService are not safe: Intent { act=com.redstone.intent.action.CALL_DMSYS } android.content.ContextWrapper.bindService:539 com.redstone.a.a.b:66 android.support.v4.app.aw.<init>:17 
+01-07 05:30:04.807  2145  2492 W ActivityManager: Unable to start service Intent { act=com.redstone.intent.action.CALL_DMSYS } U=0: not found
+01-07 05:30:04.811  2145  3552 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.820  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.820  5007  5007 W ContextImpl: Implicit intents with startService are not safe: Intent { act=com.redstone.intent.action.CALL_DMSYS } android.content.ContextWrapper.bindService:539 com.redstone.a.a.b:66 android.support.v4.app.aw.<init>:17 
+01-07 05:30:04.820  2145  2305 W ActivityManager: Unable to start service Intent { act=com.redstone.intent.action.CALL_DMSYS } U=0: not found
+01-07 05:30:04.825  5007  5007 I GAv4    : Google Analytics 7.5.71 is starting up. To enable debug logging on a device run:
+01-07 05:30:04.825  5007  5007 I GAv4    :   adb shell setprop log.tag.GAv4 DEBUG
+01-07 05:30:04.825  5007  5007 I GAv4    :   adb logcat -s GAv4
+01-07 05:30:04.827  5007  5007 W GAv4    : AnalyticsReceiver is not registered or is disabled. Register the receiver for reliable dispatching on non-Google Play devices. See http://goo.gl/8Rd3yj for instructions.
+01-07 05:30:04.827  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.948  5007  5007 W GAv4    : CampaignTrackingReceiver is not registered, not exported or is disabled. Installation campaign tracking is not possible. See http://goo.gl/8Rd3yj for instructions.
+01-07 05:30:04.950  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:04.970  5064  5064 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:04.975  5066  5066 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:04.999  2145  2165 W ActivityManager: Unable to start service Intent { cmp=com.wandoujia.phoenix2.usbproxy/com.wandoujia.phoenix2.services.ConnectionService } U=0: not found
+01-07 05:30:05.000  2421  2421 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@13ef5714 new=com.android.launcher3.LauncherApplication@13ef5714
+01-07 05:30:05.092  2421  2421 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@13ef5714 new=com.android.launcher3.LauncherApplication@13ef5714
+01-07 05:30:05.216  5007  5056 W GAv4    : AnalyticsService not registered in the app manifest. Hits might not be delivered reliably. See http://goo.gl/8Rd3yj for instructions.
+01-07 05:30:05.639  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:30:05.639  2272  2272 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-07 05:30:06.128  2145  2211 D WifiService: New client listening to asynchronous messages
+01-07 05:30:06.644  2145  2175 W WindowManager: Window freeze timeout expired.
+01-07 05:30:06.644  2145  2175 W WindowManager: Force clearing orientation change: Window{30cca520 u0 Starting com.wandoujia.phoenix2}
+01-07 05:30:06.644  2145  2175 W WindowManager: Force clearing orientation change: Window{1f3ac48f u0 com.android.systemui.ImageWallpaper}
+01-07 05:30:06.665  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.665  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.668  2145  2547 I ActivityManager: START u0 {cmp=com.wandoujia.phoenix2/com.wandoujia.jupiter.onboard.OnboardActivity} from uid 10057 on display 0
+01-07 05:30:06.668  2145  2547 V WindowManager: addAppToken: AppWindowToken{21c535fe token=Token{641db9 ActivityRecord{3f13380 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.onboard.OnboardActivity t29}}} to stack=1 task=29 at 1
+01-07 05:30:06.717  5007  5123 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-07 05:30:06.718  2145  2165 V WindowManager: Adding window Window{2f95e47b u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity} at 8 of 14 (before Window{30cca520 u0 Starting com.wandoujia.phoenix2})
+01-07 05:30:06.744  2145  2492 I ActivityManager: Start proc 5124:com.wandoujia.phoenix2:update_service/u0a57 for service com.wandoujia.phoenix2/com.wandoujia.update.RemoteUpdateService
+01-07 05:30:06.754  5124  5124 I ActivityThread: Switching default density from 160 to 240
+01-07 05:30:06.761  2145  2165 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.761  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.761  2145  3552 W ActivityManager: getTasks: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.761  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.761  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.762  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.765  5148  5148 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:06.766  2145  2685 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.766  2145  3552 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.766  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.767  2145  3554 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.767  2145  2547 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.767  5152  5152 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:06.771  2145  2305 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:06.773  2145  2175 I WindowManager: Screen frozen for +2s129ms due to Window{30cca520 u0 Starting com.wandoujia.phoenix2}
+01-07 05:30:06.773  2145  2188 I InputDispatcher: Dropping event because there is no touchable window at (146, 1168).
+01-07 05:30:07.169  2145  2170 W ActivityManager: Activity pause timeout for ActivityRecord{330712ab u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity t29}
+01-07 05:30:07.459  5007  5007 I Choreographer: Skipped 44 frames!  The application may be doing too much work on its main thread.
+01-07 05:30:07.560  2145  2492 V WindowManager: Adding window Window{37787cb0 u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.onboard.OnboardActivity} at 9 of 14 (after Window{30cca520 u0 Starting com.wandoujia.phoenix2})
+01-07 05:30:07.650  2421  2421 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@13ef5714 new=com.android.launcher3.LauncherApplication@13ef5714
+01-07 05:30:07.660  5007  5123 I GRALLOC-DRM: create intel for driver i915
+01-07 05:30:07.661  5007  5123 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-07 05:30:07.661  5007  5123 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-07 05:30:07.667  5007  5123 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-07 05:30:07.667  5007  5123 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-07 05:30:07.667  5007  5123 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-07 05:30:07.667  5007  5123 I OpenGLRenderer: Initialized EGL, version 1.4
+01-07 05:30:07.667  5007  5123 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-07 05:30:07.668  5007  5123 D OpenGLRenderer: Enabling debug mode 0
+01-07 05:30:07.669  2145  2678 I ActivityManager: Activity reported stop, but no longer stopping: ActivityRecord{330712ab u0 com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity t29}
+01-07 05:30:07.669  3236  3236 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:30:07.711  2145  2175 I ActivityManager: Displayed com.wandoujia.phoenix2/com.wandoujia.jupiter.onboard.OnboardActivity: +958ms (total +6s71ms)
+01-07 05:30:07.731  2421  2421 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@13ef5714 new=com.android.launcher3.LauncherApplication@13ef5714
+01-07 05:30:07.741  5007  5007 E ActivityThread: Performing stop of activity that is not resumed: {com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity}
+01-07 05:30:07.741  5007  5007 E ActivityThread: java.lang.RuntimeException: Performing stop of activity that is not resumed: {com.wandoujia.phoenix2/com.wandoujia.jupiter.activity.HomeActivity}
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at android.app.ActivityThread.performStopActivityInner(ActivityThread.java:3344)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at android.app.ActivityThread.handleStopActivity(ActivityThread.java:3425)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at android.app.ActivityThread.access$1100(ActivityThread.java:151)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1332)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at android.os.Looper.loop(Looper.java:135)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at java.lang.reflect.Method.invoke(Native Method)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-07 05:30:07.741  5007  5007 E ActivityThread: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-07 05:30:07.827  5007  5056 W GAv4    : Error getting advertiser id: com.google.android.gms.common.GooglePlayServicesNotAvailableException
+01-07 05:30:07.969  2145  2305 W ActivityManager: Unable to start service Intent { act=com.google.android.gms.analytics.service.START cmp=com.google.android.gms/.analytics.service.AnalyticsService (has extras) } U=0: not found
+01-07 05:30:08.801  2145  2175 I art     : Explicit concurrent mark sweep GC freed 10155(714KB) AllocSpace objects, 10(157KB) LOS objects, 33% free, 17MB/25MB, paused 584us total 28.249ms
+01-07 05:30:09.470  5160  5160 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:12.640  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10053 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:13.140  2145  2188 W TelecomManager: Telecom Service not found.
+01-07 05:30:13.141  2145  2188 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+01-07 05:30:13.141  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:13.154  1890  2142 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-07 05:30:13.195  2145  2145 V ActivityManager: Display changed displayId=0
+01-07 05:30:13.202  2145  2678 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc zh_CN ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.13}
+01-07 05:30:13.203  2145  2189 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-07 05:30:13.226  2421  2421 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-07 05:30:13.226  2421  2421 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-07 05:30:13.250  2272  2675 E ActivityThread: Failed to find provider info for com.android.contacts
+01-07 05:30:13.302  2421  2548 D Launcher.Model: 11683562 - loadWorkspaceScreensDb()
+01-07 05:30:13.302  2421  2548 D Launcher.Model: 11683562 -   screens: { 0: 3 }
+01-07 05:30:13.303  2421  2548 D Launcher.LauncherProvider: 11683562 - generateNewScreenId(): 4
+01-07 05:30:13.329  5007  5007 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-07 05:30:13.336  2145  2175 I WindowManager: Screen frozen for +180ms due to Window{3f4b7214 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-07 05:30:13.450  2145  2305 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-07 05:30:13.558  2145  3554 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-07 05:30:13.675  2145  3551 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-07 05:30:13.675  2421  2548 D Launcher.Model: 11683562 - updateWorkspaceScreenOrder()
+01-07 05:30:13.675  2421  2548 D Launcher.Model: 11683562 -   screens: 3, 4
+01-07 05:30:13.676  2145  3552 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-07 05:30:13.677  2145  3553 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-07 05:30:13.677  2145  2164 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-07 05:30:13.775  2421  2421 D Launcher: 11683562 - bindAddScreens()
+01-07 05:30:13.775  2421  2421 D Launcher: 11683562 -   orderedScreenIds: 4
+01-07 05:30:13.775  2421  2421 D Launcher.Workspace: 11683562 - insertNewWorkspaceScreen(): 4 at index: 1
+01-07 05:30:13.780  2421  2421 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-07 05:30:13.780  2421  2421 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-07 05:30:13.823  2421  2728 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+01-07 05:30:14.245  2272  2272 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-07 05:30:14.245  2272  2272 W PackageManager: Failure retrieving resources for com.wandoujia.phoenix2: Resource ID #0x0
+01-07 05:30:14.480  5191  5191 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:15.052  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:15.055  2145  2685 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10010 on display 0
+01-07 05:30:15.061  2145  3553 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:15.062  2145  3551 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:15.063  2145  2678 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:15.063  2145  2492 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+01-07 05:30:15.084  2145  2165 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@2497be73 (uid=10033 pid=2421)
+01-07 05:30:15.381  2145  2175 I art     : Explicit concurrent mark sweep GC freed 6549(381KB) AllocSpace objects, 6(4MB) LOS objects, 33% free, 14MB/21MB, paused 888us total 31.205ms
+01-07 05:30:16.324  2145  2216 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-07 05:30:16.389  3061  3061 I Term    : Bound to TermService
+01-07 05:30:16.389  3061  3061 I TermService: Activity binding to service
+01-07 05:30:16.815  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.wandoujia.phoenix2/cache/
+01-07 05:30:16.816  5124  5124 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.wandoujia.phoenix2/cache
+01-07 05:30:16.816  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.wandoujia.phoenix2/cache/
+01-07 05:30:16.817  5124  5124 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.wandoujia.phoenix2/cache
+01-07 05:30:16.817  1878  1905 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.wandoujia.phoenix2/cache/
+01-07 05:30:16.818  5124  5124 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.wandoujia.phoenix2/cache
+01-07 05:30:16.819  1878  1905 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.wandoujia.phoenix2/cache/
+01-07 05:30:16.819  5124  5124 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.wandoujia.phoenix2/cache
+01-07 05:30:19.492  5207  5207 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-07 05:30:23.975  5208  5208 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

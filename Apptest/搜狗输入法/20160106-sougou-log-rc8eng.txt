@@ -1,0 +1,904 @@
+01-06 03:38:40.209  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:41.044  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:41.047  2267  2267 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-06 03:38:41.048  2267  2267 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-06 03:38:41.050  2149  2169 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10000 on display 0
+01-06 03:38:41.057  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 03:38:41.107  9354  9354 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-06 03:38:41.212  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:42.064  2267  2267 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-06 03:38:42.064  2267  2267 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+01-06 03:38:42.076  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:42.098  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1008, 463).
+01-06 03:38:42.099  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1006, 464).
+01-06 03:38:42.107  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1004, 464).
+01-06 03:38:42.115  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1000, 464).
+01-06 03:38:42.118 12257 12257 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.122 12258 12258 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.123  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (996, 464).
+01-06 03:38:42.127 12259 12259 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.131  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (990, 464).
+01-06 03:38:42.132 12261 12261 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.167 12266 12266 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.215  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:42.249 12267 12267 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.254 12268 12268 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.257 12269 12269 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.297 12270 12270 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.299 12271 12271 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:42.300 12272 12272 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:43.218  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:43.352  2149  2170 W ActivityManager: getRunningAppProcesses: caller 10120 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:44.068  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:44.074  2149  8057 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb0/CTS/test-APK/sougouinput.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10027 on display 0
+01-06 03:38:44.075  2149  8057 V WindowManager: addAppToken: AppWindowToken{2b94f14d token=Token{1e6188e4 ActivityRecord{265ff477 u0 com.android.packageinstaller/.PackageInstallerActivity t1079}}} to stack=1 task=1079 at 1
+01-06 03:38:44.092  3754  3754 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/sougouinput.apk Binary XML file line #338
+01-06 03:38:44.092  3754  3754 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/sougouinput.apk Binary XML file line #627
+01-06 03:38:44.093  3754  3754 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/sougouinput.apk Binary XML file line #704
+01-06 03:38:44.093  3754  3754 W PackageParser: No actions in intent filter at /storage/usb0/CTS/test-APK/sougouinput.apk Binary XML file line #826
+01-06 03:38:44.139  3754  3754 I AppSecurityPermissions: Ignoring unknown permission:sogou.mobile.explorer.permission.ACTIVATION
+01-06 03:38:44.148  2149  3128 V WindowManager: Adding window Window{19d56113 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 5 of 10 (after Window{79b689 u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+01-06 03:38:44.187  2149  2180 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +106ms
+01-06 03:38:44.221  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:45.222  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:45.548  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:46.181  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:46.225  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:47.177 12278 12278 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:47.227  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:48.230  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:48.468  2149  3042 I ActivityManager: START u0 {dat=file:///storage/usb0/CTS/test-APK/sougouinput.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10045 on display 0
+01-06 03:38:48.468  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:48.470  2149  3042 V WindowManager: addAppToken: AppWindowToken{36c3107c token=Token{192afb6f ActivityRecord{472be4e u0 com.android.packageinstaller/.InstallAppProgress t1079}}} to stack=1 task=1079 at 2
+01-06 03:38:48.493  2149  2377 V WindowManager: Adding window Window{28c46481 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 6 of 11 (after Window{19d56113 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+01-06 03:38:48.527  2149  2180 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +47ms
+01-06 03:38:48.554  3754  3777 D OpenGLRenderer: endAllStagingAnimators on 0x7f3148365800 (RippleDrawable) with handle 0x7f313f84b760
+01-06 03:38:49.113  3816  3837 D DefContainer: Copying /storage/usb0/CTS/test-APK/sougouinput.apk to base.apk
+01-06 03:38:49.233  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:49.996  2149  2184 W PackageParser: No actions in intent filter at /data/app/vmdl1609292599.tmp/base.apk Binary XML file line #338
+01-06 03:38:49.997  2149  2184 W PackageParser: No actions in intent filter at /data/app/vmdl1609292599.tmp/base.apk Binary XML file line #627
+01-06 03:38:49.998  2149  2184 W PackageParser: No actions in intent filter at /data/app/vmdl1609292599.tmp/base.apk Binary XML file line #704
+01-06 03:38:49.998  2149  2184 W PackageParser: No actions in intent filter at /data/app/vmdl1609292599.tmp/base.apk Binary XML file line #826
+01-06 03:38:50.236  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:50.354  2149  2184 D PackageManager: Renaming /data/app/vmdl1609292599.tmp to /data/app/com.sohu.inputmethod.sogou-1
+01-06 03:38:50.372  2149  2184 I PackageManager: Running dexopt on: /data/app/com.sohu.inputmethod.sogou-1/base.apk pkg=com.sohu.inputmethod.sogou isa=x86 vmSafeMode=false
+01-06 03:38:50.375 12283 12283 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+01-06 03:38:50.375 12283 12283 E cutils-trace: Error opening trace file: Permission denied (13)
+01-06 03:38:50.376 12283 12283 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.sohu.inputmethod.sogou-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.sohu.inputmethod.sogou-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only --swap-fd=7
+01-06 03:38:50.495 12283 12283 I dex2oat : Decided to run without swap.
+01-06 03:38:50.919 12283 12283 I dex2oat : dex2oat took 543.201ms (threads: 8) arena alloc=0B java alloc=14MB native alloc=1063KB free=10MB
+01-06 03:38:50.977  2149  2184 W PackageManager: Not granting permission android.permission.READ_LOGS to package com.sohu.inputmethod.sogou (protectionLevel=50 flags=0x83e44)
+01-06 03:38:50.977  2149  2184 W PackageManager: Unknown permission sogou.mobile.explorer.permission.ACTIVATION in package com.sohu.inputmethod.sogou
+01-06 03:38:51.050  2149  2184 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+01-06 03:38:51.051  9248  9248 I plugin  : com.sohu.inputmethod.sogou install
+01-06 03:38:51.055  2149  2191 I InputReader: Reconfiguring input devices.  changes=0x00000010
+01-06 03:38:51.081 12292 12292 D houdini : [12292] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+01-06 03:38:51.081  2149  2175 I ActivityManager: Start proc 12292:com.kiloo.subwaysurf:dservice_v1/u0a115 for broadcast com.kiloo.subwaysurf/cn.play.dserv.DsReceiver
+01-06 03:38:51.097 12292 12292 I ActivityThread: Switching default density from 160 to 240
+01-06 03:38:51.103 12292 12292 D SkynetApi: onApplicationCreate
+01-06 03:38:51.103 12292 12292 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 03:38:51.103 12292 12292 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 03:38:51.103 12292 12292 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 03:38:51.103 12292 12292 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-06 03:38:51.103 12292 12292 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4209)
+01-06 03:38:51.103 12292 12292 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3691)
+01-06 03:38:51.103 12292 12292 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-06 03:38:51.103 12292 12292 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 03:38:51.103 12292 12292 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 03:38:51.103 12292 12292 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 03:38:51.103 12292 12292 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 03:38:51.103 12292 12292 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.103 12292 12292 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.103 12292 12292 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.103 12292 12292 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.103 12292 12292 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.104 12292 12292 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.104 12292 12292 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.104 12292 12292 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-06 03:38:51.104 12292 12292 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 03:38:51.104 12292 12292 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 03:38:51.104 12292 12292 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 03:38:51.104 12292 12292 W System.err: 	... 17 more
+01-06 03:38:51.104 12292 12292 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 03:38:51.104 12292 12292 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 03:38:51.104 12292 12292 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 03:38:51.104 12292 12292 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 03:38:51.104 12292 12292 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 03:38:51.104 12292 12292 W System.err: 		... 18 more
+01-06 03:38:51.104 12292 12292 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 03:38:51.105 12292 12292 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 03:38:51.105 12292 12292 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 03:38:51.105 12292 12292 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 03:38:51.105 12292 12292 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-06 03:38:51.105 12292 12292 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-06 03:38:51.105 12292 12292 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.105 12292 12292 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.105 12292 12292 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4217)
+01-06 03:38:51.105 12292 12292 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3693)
+01-06 03:38:51.105 12292 12292 W System.err: 	at com.kiloo.subwaysurf.BaiDuApplication.onCreate(BaiDuApplication.java:11)
+01-06 03:38:51.105 12292 12292 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 03:38:51.105 12292 12292 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 03:38:51.105 12292 12292 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 03:38:51.105 12292 12292 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 03:38:51.105 12292 12292 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.105 12292 12292 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.105 12292 12292 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.105 12292 12292 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.105 12292 12292 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.105 12292 12292 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.105 12292 12292 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.105 12292 12292 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.kiloo.subwaysurf-1/base.apk"],nativeLibraryDirectories=[/data/app/com.kiloo.subwaysurf-1/lib/arm, /vendor/lib, /system/lib]]
+01-06 03:38:51.106 12292 12292 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 03:38:51.106 12292 12292 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 03:38:51.106 12292 12292 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 03:38:51.106 12292 12292 W System.err: 	... 20 more
+01-06 03:38:51.106 12292 12292 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 03:38:51.106 12292 12292 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 03:38:51.106 12292 12292 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 03:38:51.106 12292 12292 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 03:38:51.106 12292 12292 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 03:38:51.106 12292 12292 W System.err: 		... 21 more
+01-06 03:38:51.106 12292 12292 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 03:38:51.106  2149  2170 W ActivityManager: getRunningAppProcesses: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:51.110  2149  2149 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.sohu.inputmethod.sogou flg=0x4000010 (has extras) }
+01-06 03:38:51.114 12292 12292 D houdini : [12292] Added shared library /data/app/com.kiloo.subwaysurf-1/lib/arm/libdserv.so for ClassLoader by Native Bridge.
+01-06 03:38:51.115  2149  2184 I art     : Explicit concurrent mark sweep GC freed 250061(10MB) AllocSpace objects, 29(7MB) LOS objects, 33% free, 14MB/21MB, paused 1.314ms total 64.569ms
+01-06 03:38:51.116  2149  2174 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65] JNI DETECTED ERROR IN APPLICATION: GetStringUTFChars received null jstring
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]     in call to GetStringUTFChars
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]     from java.lang.String cn.play.dserv.CheckTool.Cd(android.content.Context)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65] "main" prio=5 tid=1 Runnable
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   | group="main" sCount=0 dsCount=0 obj=0x73bb3f10 self=0xf3c25800
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   | sysTid=12292 nice=0 cgrp=default sched=3/0 handle=0xf77ceea0
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   | state=R schedstat=( 28273095 2126692 51 ) utm=1 stm=1 core=1 HZ=100
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   | stack=0xff3c2000-0xff3c4000 stackSize=8MB
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   | held mutexes= "mutator lock"(shared held)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #00 pc 000063eb  /android/system/lib/libbacktrace_libc++.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #01 pc 00002f31  /android/system/lib/libbacktrace_libc++.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #02 pc 00427dda  /android/system/lib/libart.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #03 pc 003e3967  /android/system/lib/libart.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #04 pc 000f9454  /android/system/lib/libart.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #05 pc 000f9fa2  /android/system/lib/libart.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #06 pc 000fd550  /android/system/lib/libart.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #07 pc 000fe5a0  /android/system/lib/libart.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #08 pc 00104b91  /android/system/lib/libart.so (???)
+01-06 03:38:51.129 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #09 pc 0022e19a  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #10 pc 0021e884  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #11 pc 0026a004  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   native: #12 pc 007fb4c7  [stack] (???)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at cn.play.dserv.CheckTool.Cd(Native method)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at cn.play.dserv.DsReceiver.onReceive(unavailable:-1)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at java.lang.reflect.Method.invoke!(Native method)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65]   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.130 12292 12292 F art     : art/runtime/check_jni.cc:65] 
+01-06 03:38:51.144  2349  2349 I Launcher: Deferring update until onResume
+01-06 03:38:51.162  2349  2349 I Launcher: Deferring update until onResume
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] Runtime aborting...
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] Aborting thread:
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "main" prio=5 tid=1 Native
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x73bb3f10 self=0xf3c25800
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12292 nice=0 cgrp=default sched=3/0 handle=0xf77ceea0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=R schedstat=( 37175931 2381732 54 ) utm=2 stm=1 core=1 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xff3c2000-0xff3c4000 stackSize=8MB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes= "abort lock" "mutator lock"(shared held)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000063eb  /android/system/lib/libbacktrace_libc++.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #01 pc 00002f31  /android/system/lib/libbacktrace_libc++.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #02 pc 00427dda  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #03 pc 003e3967  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #04 pc 003c95d7  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #05 pc 000dba64  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #06 pc 000f97c4  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #07 pc 000f9fa2  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #08 pc 000fd550  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #09 pc 000fe5a0  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #10 pc 00104b91  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #11 pc 0022e19a  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #12 pc 0021e884  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #13 pc 0026a004  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #14 pc 007fb4c7  [stack] (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at cn.play.dserv.CheckTool.Cd(Native method)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at cn.play.dserv.DsReceiver.onReceive(unavailable:-1)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at java.lang.reflect.Method.invoke!(Native method)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] Dumping all threads without appropriate locks held: thread list lock mutator lock
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] All threads:
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] DALVIK THREADS (17):
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "main" prio=5 tid=1 Native
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x73bb3f10 self=0xf3c25800
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12292 nice=0 cgrp=default sched=3/0 handle=0xf77ceea0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=R schedstat=( 45084316 2411033 55 ) utm=2 stm=1 core=1 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xff3c2000-0xff3c4000 stackSize=8MB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes= "abort lock"
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000063eb  /android/system/lib/libbacktrace_libc++.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #01 pc 00002f31  /android/system/lib/libbacktrace_libc++.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #02 pc 00427dda  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #03 pc 003e3967  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #04 pc 003f2b4e  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #05 pc 003c9510  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #06 pc 000dba64  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #07 pc 000f97c4  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #08 pc 000f9fa2  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #09 pc 000fd550  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #10 pc 000fe5a0  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #11 pc 00104b91  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #12 pc 0022e19a  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #13 pc 0021e884  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #14 pc 0026a004  /system/lib/arm/libhoudini.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #15 pc 007fb4c7  [stack] (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at cn.play.dserv.CheckTool.Cd(Native method)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at cn.play.dserv.DsReceiver.onReceive(unavailable:-1)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at java.lang.reflect.Method.invoke!(Native method)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "Heap thread pool worker thread 0" prio=5 tid=2 Native (still starting up)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x0 self=0xedc3a400
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12298 nice=0 cgrp=default sched=3/0 handle=0xf3c51580
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 865597 0 12 ) utm=0 stm=0 core=5 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xf2bb7000-0xf2bb9000 stackSize=1020KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait_queue_me+0xb8/0xf9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait+0xeb/0x1f0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_user_pages_fast+0xc0/0x140
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_futex_key+0x1ad/0x1c6
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xb2/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: handle_mm_fault+0xd1d/0xe32
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: __do_page_fault+0x2c6/0x35c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000139a0  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "Heap thread pool worker thread 1" prio=5 tid=3 Native (still starting up)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x0 self=0xf3c25c00
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12299 nice=0 cgrp=default sched=3/0 handle=0xf3c51800
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 598130 0 3 ) utm=0 stm=0 core=1 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xf2ab7000-0xf2ab9000 stackSize=1020KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait_queue_me+0xb8/0xf9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait+0xeb/0x1f0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_user_pages_fast+0xc0/0x140
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: ttwu_stat+0x87/0xb9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_futex_key+0x1ad/0x1c6
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xb2/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: handle_mm_fault+0xde3/0xe32
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: rcu_is_watching+0xc/0x1c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: SyS_prctl+0xe5/0x36d
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000139a0  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "Heap thread pool worker thread 2" prio=5 tid=4 Native (still starting up)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x0 self=0xedc3b400
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12300 nice=0 cgrp=default sched=3/0 handle=0xf3c51a80
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 706681 61154 5 ) utm=0 stm=0 core=2 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xf29b7000-0xf29b9000 stackSize=1020KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait_queue_me+0xb8/0xf9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait+0xeb/0x1f0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_user_pages_fast+0xc0/0x140
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: ttwu_stat+0x87/0xb9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_futex_key+0x1ad/0x1c6
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xb2/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: blk_finish_plug+0x1a/0x27
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: rcu_is_watching+0xc/0x1c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: SyS_prctl+0xe5/0x36d
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000139a0  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "Heap thread pool worker thread 3" prio=5 tid=5 Native (still starting up)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x0 self=0xf3c26c00
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12301 nice=0 cgrp=default sched=3/0 handle=0xf3c51d00
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 656056 0 3 ) utm=0 stm=0 core=1 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xf28b7000-0xf28b9000 stackSize=1020KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait_queue_me+0xb8/0xf9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait+0xeb/0x1f0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_user_pages_fast+0xc0/0x140
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: ttwu_stat+0x87/0xb9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_futex_key+0x1ad/0x1c6
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xb2/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: handle_mm_fault+0xde3/0xe32
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: rcu_is_watching+0xc/0x1c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: SyS_prctl+0xe5/0x36d
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000139a0  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "Heap thread pool worker thread 4" prio=5 tid=6 Native (still starting up)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x0 self=0xedc3c400
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12302 nice=0 cgrp=default sched=3/0 handle=0xf3c51f80
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 634013 0 4 ) utm=0 stm=0 core=2 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xf27b7000-0xf27b9000 stackSize=1020KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait_queue_me+0xb8/0xf9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait+0xeb/0x1f0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_user_pages_fast+0xc0/0x140
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: ttwu_stat+0x87/0xb9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_futex_key+0x1ad/0x1c6
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xb2/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: blk_finish_plug+0x1a/0x27
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: rcu_is_watching+0xc/0x1c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: SyS_prctl+0xe5/0x36d
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000139a0  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "Heap thread pool worker thread 5" prio=5 tid=7 Native (still starting up)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x0 self=0xf3c32000
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12303 nice=0 cgrp=default sched=3/0 handle=0xf3c53b00
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 654668 6667 3 ) utm=0 stm=0 core=1 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xf26b7000-0xf26b9000 stackSize=1020KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait_queue_me+0xb8/0xf9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait+0xeb/0x1f0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_user_pages_fast+0xc0/0x140
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: ttwu_stat+0x87/0xb9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_futex_key+0x1ad/0x1c6
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xb2/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: handle_mm_fault+0xde3/0xe32
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: rcu_is_watching+0xc/0x1c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: SyS_prctl+0xe5/0x36d
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000139a0  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "Heap thread pool worker thread 6" prio=5 tid=8 Native (still starting up)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x0 self=0xedc3d400
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12304 nice=0 cgrp=default sched=3/0 handle=0xf3c53d80
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 622924 0 3 ) utm=0 stm=0 core=2 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xf25b7000-0xf25b9000 stackSize=1020KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait_queue_me+0xb8/0xf9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait+0xeb/0x1f0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_user_pages_fast+0xc0/0x140
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: ttwu_stat+0x87/0xb9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_futex_key+0x1ad/0x1c6
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xb2/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: blk_finish_plug+0x1a/0x27
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: rcu_is_watching+0xc/0x1c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: SyS_prctl+0xe5/0x36d
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000139a0  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "Signal Catcher" prio=5 tid=9 WaitingInMainSignalCatcherLoop
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x12c000a0 self=0xf3c33000
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12305 nice=0 cgrp=default sched=3/0 handle=0xf3c54000
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 667468 0 1 ) utm=0 stm=0 core=5 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xf24b9000-0xf24bb000 stackSize=1012KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xdb/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: recalc_sigpending+0x12/0x41
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_sigtimedwait+0xea/0x1c1
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_rt_sigtimedwait+0x78/0xb5
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: SyS_prctl+0xe5/0x36d
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 0007bfab  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #01 pc 0002581c  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #02 pc 003d164b  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #03 pc 003d5d99  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #04 pc 00022168  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #05 pc 0001cc69  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #06 pc 000137c6  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "JDWP" prio=5 tid=10 WaitingInMainDebuggerLoop
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x12c050a0 self=0xedc3e400
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12306 nice=0 cgrp=default sched=3/0 handle=0xf3c54500
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 686462 0 2 ) utm=0 stm=0 core=1 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xee259000-0xee25b000 stackSize=1012KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: put_prev_entity+0x32/0x52b
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_page_from_freelist+0x4fc/0x711
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: unix_stream_read_generic+0x2b1/0x70e
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: autoremove_wake_function+0x0/0x2a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: unix_stream_recvmsg+0x3a/0x3f
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: unix_stream_read_actor+0x0/0x1c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: ___sys_recvmsg+0xc8/0x165
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: SyS_sendto+0xd8/0xec
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: __fget+0x6b/0x75
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: __sys_recvmsg+0x39/0x5a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_socketcall+0x152/0x18f
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 0007af41  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #01 pc 004a5b60  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #02 pc 002b7817  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #03 pc 002b9f09  /android/system/lib/libart.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #04 pc 00022168  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #05 pc 0001cc69  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #06 pc 000137c6  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   (no managed stack frames)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "ReferenceQueueDaemon" prio=5 tid=11 Waiting
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x12c060a0 self=0xf3c30800
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12307 nice=0 cgrp=default sched=3/0 handle=0xf3c54780
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 592846 0 1 ) utm=0 stm=0 core=1 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xee155000-0xee157000 stackSize=1036KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait_queue_me+0xb8/0xf9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: futex_wait+0xeb/0x1f0
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_user_pages_fast+0xc0/0x140
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: ttwu_stat+0x87/0xb9
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: get_futex_key+0x1ad/0x1c6
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_futex+0xb2/0x86c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: handle_mm_fault+0x3bd/0xe32
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: cap_safe_nice+0x69/0x6e
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_futex+0xb1/0x12a
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: __do_page_fault+0x2c6/0x35c
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: do_syscall_32_irqs_off+0x4c/0x86
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: entry_INT80_compat+0x2a/0x40
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 000139a0  /android/system/lib/libc.so (???)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at java.lang.Object.wait!(Native method)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   - waiting on <0x3db6cf45> (a java.lang.Class<java.lang.ref.ReferenceQueue>)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at java.lang.Daemons$ReferenceQueueDaemon.run(Daemons.java:134)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   - locked <0x3db6cf45> (a java.lang.Class<java.lang.ref.ReferenceQueue>)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   at java.lang.Thread.run(Thread.java:818)
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] 
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289] "FinalizerDaemon" prio=5 tid=12 Waiting
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | group="" sCount=0 dsCount=0 obj=0x12c06100 self=0xf3c30c00
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | sysTid=12308 nice=0 cgrp=default sched=3/0 handle=0xf3c54a00
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | state=S schedstat=( 809864 41323 5 ) utm=0 stm=0 core=6 HZ=100
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | stack=0xedafe000-0xedb00000 stackSize=1036KB
+01-06 03:38:51.210 12292 12292 F art     : art/runtime/runtime.cc:289]   | held mutexes=
+01-06 03:38:51.211 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: hrtimer_start_range_ns+0x257/0x2a6
+01-06 03:38:51.211 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_nanosleep+0x89/0xdf
+01-06 03:38:51.211 12292 12292 F art     : art/runtime/runtime.cc:289]   kernel: compat_SyS_clock_gettime+0x45/0x5b
+01-06 03:38:51.211 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #00 pc 0007b391  /android/system/lib/libc.so (???)
+01-06 03:38:51.211 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #02 pc 00025764  /android/system/lib/libbinder.so (???)
+01-06 03:38:51.211 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #05 pc 0002fa7e  /android/system/lib/libbinder.so (???)
+01-06 03:38:51.211 12292 12292 F art     : art/runtime/runtime.cc:289]   native: #06 pc 00017ee4  /android/system/lib/libutils.so (???)
+01-06 03:38:51.211 12292 12292 F libc    : Fatal signal 6 (SIGABRT), code -6 in tid 12292 (urf:dservice_v1)
+01-06 03:38:51.237  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:51.261  1872  1872 I DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+01-06 03:38:51.261  1872  1872 I DEBUG   : Build fingerprint: 'Android-x86/android_x86_64/x86_64:5.1.1/LMY48Z/01050708:eng/test-keys'
+01-06 03:38:51.261  1872  1872 I DEBUG   : Revision: '0'
+01-06 03:38:51.261  1872  1872 I DEBUG   : ABI: 'x86'
+01-06 03:38:51.261  1872  1872 I DEBUG   : pid: 12292, tid: 12292, name: urf:dservice_v1  >>> com.kiloo.subwaysurf:dservice_v1 <<<
+01-06 03:38:51.261  1872  1872 I DEBUG   : signal 6 (SIGABRT), code -6 (SI_TKILL), fault addr --------
+01-06 03:38:51.264  1872  1872 I DEBUG   : Abort message: 'art/runtime/check_jni.cc:65] JNI DETECTED ERROR IN APPLICATION: GetStringUTFChars received null jstring'
+01-06 03:38:51.264  1872  1872 I DEBUG   :     eax 00000000  ebx 00003004  ecx 00003004  edx 00000006
+01-06 03:38:51.264  1872  1872 I DEBUG   :     esi f77cec48  edi 0000000b
+01-06 03:38:51.264  1872  1872 I DEBUG   :     xcs 00000023  xds 0000002b  xes 0000002b  xfs 00000007  xss 0000002b
+01-06 03:38:51.264  1872  1872 I DEBUG   :     eip f755bd26  ebp 00003004  esp ffbbc620  flags 00200286
+01-06 03:38:51.264  1872  1872 I DEBUG   : 
+01-06 03:38:51.264  1872  1872 I DEBUG   : backtrace:
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #00 pc 0007ad26  /system/lib/libc.so (tgkill+22)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #01 pc 00023125  /system/lib/libc.so (pthread_kill+117)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #02 pc 00024d1a  /system/lib/libc.so (raise+42)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #03 pc 0001c4c4  /system/lib/libc.so (abort+84)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #04 pc 003c9396  /system/lib/libart.so (art::Runtime::Abort()+342)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #05 pc 000dba64  /system/lib/libart.so (art::LogMessage::~LogMessage()+2756)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #06 pc 000f97c4  /system/lib/libart.so (art::JniAbort(char const*, char const*)+2468)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #07 pc 000f9fa2  /system/lib/libart.so (art::JniAbortF(char const*, char const*, ...)+98)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #08 pc 000fd550  /system/lib/libart.so (art::ScopedCheck::CheckInstance(art::ScopedCheck::InstanceKind, _jobject*)+640)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #09 pc 000fe5a0  /system/lib/libart.so (_ZN3art11ScopedCheck5CheckEbPKcz.constprop.109+1216)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #10 pc 00104b91  /system/lib/libart.so (art::CheckJNI::GetStringUTFChars(_JNIEnv*, _jstring*, unsigned char*)+113)
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #11 pc 0022e19a  /android/system/lib/arm/libhoudini.so
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #12 pc 0021e884  /android/system/lib/arm/libhoudini.so
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #13 pc 0026a004  /android/system/lib/arm/libhoudini.so
+01-06 03:38:51.264  1872  1872 I DEBUG   :     #14 pc 007fb4c7  [stack]
+01-06 03:38:51.316  1872  1872 I DEBUG   : 
+01-06 03:38:51.316  1872  1872 I DEBUG   : Tombstone written to: /data/tombstones/tombstone_09
+01-06 03:38:51.316  2149  2176 I BootReceiver: Copying /data/tombstones/tombstone_09 to DropBox (SYSTEM_TOMBSTONE)
+01-06 03:38:51.316  1865  1865 E lowmemorykiller: Error writing /proc/12292/oom_score_adj; errno=22
+01-06 03:38:51.321  1865  1865 E lowmemorykiller: Error writing /proc/12292/oom_score_adj; errno=22
+01-06 03:38:51.326  1880  1880 I Zygote  : Process 12292 exited due to signal (6)
+01-06 03:38:51.326  2149  4763 I ActivityManager: Process com.kiloo.subwaysurf:dservice_v1 (pid 12292) has died
+01-06 03:38:51.352  2149  3972 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 03:38:51.352  2149  3972 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 03:38:51.364  2149  3972 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 03:38:51.364  2149  3972 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 03:38:51.364  2149  3972 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 03:38:51.364  2149  3972 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 03:38:51.383  8729  8729 W System.err: android.content.pm.PackageManager$NameNotFoundException
+01-06 03:38:51.383  8729  8729 W System.err: 	at android.app.ApplicationPackageManager.getApplicationInfo(ApplicationPackageManager.java:281)
+01-06 03:38:51.383  8729  8729 W System.err: 	at com.duoku.platform.single.l.g.a(Unknown Source)
+01-06 03:38:51.383  8729  8729 W System.err: 	at com.duoku.platform.single.gameplus.broadcast.GPNotificaionReceiver.onReceive(Unknown Source)
+01-06 03:38:51.383  8729  8729 W System.err: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-06 03:38:51.383  8729  8729 W System.err: 	at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-06 03:38:51.383  8729  8729 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-06 03:38:51.383  8729  8729 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.383  8729  8729 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.383  8729  8729 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.383  8729  8729 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.383  8729  8729 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.384  8729  8729 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.384  8729  8729 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.385  2149  2295 W ActivityManager: getTasks: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:51.385  2149  4763 I ActivityManager: START u0 {flg=0x10800000 cmp=com.estrongs.android.pop/.app.InstallMonitorActivity (has extras)} from uid 10117 on display 0
+01-06 03:38:51.391  2149  4763 V WindowManager: addAppToken: AppWindowToken{1644ccf4 token=Token{22147ec7 ActivityRecord{1ebd5806 u0 com.estrongs.android.pop/.app.InstallMonitorActivity t1094}}} to stack=1 task=1094 at 0
+01-06 03:38:51.401  2149  2169 W ActivityManager: getRunningAppProcesses: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:51.402  2149  9351 W ActivityManager: getRunningAppProcesses: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:51.453  2149  9351 W ActivityManager: getRunningAppProcesses: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:51.457 10668 10668 W System.err: android.content.pm.PackageManager$NameNotFoundException
+01-06 03:38:51.457 10668 10668 W System.err: 	at android.app.ApplicationPackageManager.getApplicationInfo(ApplicationPackageManager.java:281)
+01-06 03:38:51.457 10668 10668 W System.err: 	at com.duoku.platform.single.l.g.a(Unknown Source)
+01-06 03:38:51.457 10668 10668 W System.err: 	at com.duoku.platform.single.gameplus.broadcast.GPNotificaionReceiver.onReceive(Unknown Source)
+01-06 03:38:51.457 10668 10668 W System.err: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:2609)
+01-06 03:38:51.457 10668 10668 W System.err: 	at android.app.ActivityThread.access$1700(ActivityThread.java:151)
+01-06 03:38:51.457 10668 10668 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1380)
+01-06 03:38:51.457 10668 10668 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.458 10668 10668 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.458 10668 10668 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.458 10668 10668 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.458 10668 10668 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.458 10668 10668 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.458 10668 10668 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.527  2149  2169 I ActivityManager: Start proc 12332:com.halfbrick.fruitninja:egameCore/u0a118 for service com.halfbrick.fruitninja/cn.egame.terminal.sdk.EgameCoreService
+01-06 03:38:51.542 12332 12332 I ActivityThread: Switching default density from 160 to 240
+01-06 03:38:51.549 12332 12332 D SkynetApi: onApplicationCreate
+01-06 03:38:51.549 12332 12332 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 03:38:51.550 12332 12332 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 03:38:51.550 12332 12332 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 03:38:51.550 12332 12332 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-06 03:38:51.550 12332 12332 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4060)
+01-06 03:38:51.550 12332 12332 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3542)
+01-06 03:38:51.550 12332 12332 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-06 03:38:51.550 12332 12332 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 03:38:51.550 12332 12332 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 03:38:51.550 12332 12332 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 03:38:51.550 12332 12332 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 03:38:51.550 12332 12332 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.550 12332 12332 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.550 12332 12332 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.550 12332 12332 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.550 12332 12332 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.550 12332 12332 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.550 12332 12332 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.550 12332 12332 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-06 03:38:51.550 12332 12332 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 03:38:51.550 12332 12332 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 03:38:51.550 12332 12332 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 03:38:51.550 12332 12332 W System.err: 	... 17 more
+01-06 03:38:51.550 12332 12332 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 03:38:51.550 12332 12332 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 03:38:51.550 12332 12332 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 03:38:51.550 12332 12332 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 03:38:51.550 12332 12332 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 03:38:51.550 12332 12332 W System.err: 		... 18 more
+01-06 03:38:51.550 12332 12332 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 03:38:51.551 12332 12332 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 03:38:51.551 12332 12332 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 03:38:51.551 12332 12332 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 03:38:51.551 12332 12332 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-06 03:38:51.551 12332 12332 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-06 03:38:51.551 12332 12332 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.551 12332 12332 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.552 12332 12332 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-06 03:38:51.552 12332 12332 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3544)
+01-06 03:38:51.552 12332 12332 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-06 03:38:51.552 12332 12332 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 03:38:51.552 12332 12332 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 03:38:51.552 12332 12332 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 03:38:51.552 12332 12332 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 03:38:51.552 12332 12332 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.552 12332 12332 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.552 12332 12332 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.552 12332 12332 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.552 12332 12332 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.552 12332 12332 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.552 12332 12332 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.552 12332 12332 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-06 03:38:51.552 12332 12332 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 03:38:51.552 12332 12332 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 03:38:51.552 12332 12332 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 03:38:51.552 12332 12332 W System.err: 	... 20 more
+01-06 03:38:51.552 12332 12332 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 03:38:51.552 12332 12332 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 03:38:51.552 12332 12332 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 03:38:51.552 12332 12332 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 03:38:51.552 12332 12332 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 03:38:51.552 12332 12332 W System.err: 		... 21 more
+01-06 03:38:51.552 12332 12332 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 03:38:51.552  2149  9351 W ActivityManager: getRunningAppProcesses: caller 10118 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:51.553 12332 12332 D AndroidRuntime: Shutting down VM
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: FATAL EXCEPTION: main
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: Process: com.halfbrick.fruitninja:egameCore, PID: 12332
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libegamepay_dr2.so"
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at cn.egame.terminal.sdk.jni.EgamePayProtocol.<clinit>(EgamePayProtocol.java:25)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at cn.egame.terminal.sdk.jni.EgamePayProtocol.initCore(Native Method)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at cn.egame.terminal.sdk.EgameCoreService.onCreate(EgameCoreService.java:74)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2761)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at android.app.ActivityThread.access$1800(ActivityThread.java:151)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1386)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:51.554 12332 12332 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:51.661  2149  3044 W ActivityManager: getRunningAppProcesses: caller 10117 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:52.182  2149  2170 W ActivityManager: getRunningAppProcesses: caller 10114 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:52.186 12355 12355 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:53.584  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:53.597  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 03:38:53.597 12332 12332 I Process : Sending signal. PID: 12332 SIG: 9
+01-06 03:38:53.600  2149  3972 D OpenGLRenderer: endAllStagingAnimators on 0x7f313a256c00 (RippleDrawable) with handle 0x7f3138ab27c0
+01-06 03:38:53.611  2149  3042 I ActivityManager: Process com.halfbrick.fruitninja:egameCore (pid 12332) has died
+01-06 03:38:53.611  2149  3042 W ActivityManager: Scheduling restart of crashed service com.halfbrick.fruitninja/cn.egame.terminal.sdk.EgameCoreService in 4144ms
+01-06 03:38:54.535  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:55.380  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:55.403  2149  3972 D OpenGLRenderer: endAllStagingAnimators on 0x7f3138ade000 (RippleDrawable) with handle 0x7f3138ea50c0
+01-06 03:38:55.405  2149  8057 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@3617fe8e attribute=null, token = android.os.BinderProxy@296eb868
+01-06 03:38:55.537  2149  3128 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:56.540  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:57.199 12360 12360 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:38:57.300  2149  2170 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.sohu.inputmethod.sogou cmp=com.sohu.inputmethod.sogou/.SogouIMELauncher} from uid 10045 on display 0
+01-06 03:38:57.300  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:38:57.303  2149  2170 V WindowManager: addAppToken: AppWindowToken{10416a45 token=Token{24b0eabc ActivityRecord{79ad6af u0 com.sohu.inputmethod.sogou/.SogouIMELauncher t1095}}} to stack=1 task=1095 at 0
+01-06 03:38:57.312  2149  2180 V WindowManager: Adding window Window{2a491df2 u0 Starting com.sohu.inputmethod.sogou} at 6 of 11 (after Window{28c46481 u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+01-06 03:38:57.365  2149  3042 I ActivityManager: Start proc 12362:com.sohu.inputmethod.sogou/u0a123 for activity com.sohu.inputmethod.sogou/.SogouIMELauncher
+01-06 03:38:57.392 12362 12362 I ActivityThread: Switching default density from 160 to 240
+01-06 03:38:57.397  3754  3777 D OpenGLRenderer: endAllStagingAnimators on 0x7f314836b800 (RippleDrawable) with handle 0x7f314812b340
+01-06 03:38:57.406  2149  3128 W ActivityManager: getRunningAppProcesses: caller 10123 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:57.426  2149  3044 W ActivityManager: getRunningAppProcesses: caller 10123 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:57.459  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1170, 920).
+01-06 03:38:57.467  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1170, 919).
+01-06 03:38:57.475  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1169, 919).
+01-06 03:38:57.483  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1168, 918).
+01-06 03:38:57.539  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1168, 917).
+01-06 03:38:57.543  2149  8057 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:57.563  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1167, 917).
+01-06 03:38:57.595  2149  2204 D WifiService: New client listening to asynchronous messages
+01-06 03:38:57.619  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1166, 917).
+01-06 03:38:57.640  2149  2295 I ActivityManager: START u0 {cmp=com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.guide.SettingGuideActivity (has extras)} from uid 10123 on display 0
+01-06 03:38:57.691  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1165, 917).
+01-06 03:38:57.696  2149  2295 V WindowManager: addAppToken: AppWindowToken{2e06bf6d token=Token{29f3b84 ActivityRecord{2b504d97 u0 com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.guide.SettingGuideActivity t1095}}} to stack=1 task=1095 at 1
+01-06 03:38:57.696  2149  2295 V WindowManager: Based on layer: Adding window Window{2a491df2 u0 Starting com.sohu.inputmethod.sogou} at 6 of 11
+01-06 03:38:57.699  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1164, 917).
+01-06 03:38:57.715  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1162, 917).
+01-06 03:38:57.723  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1161, 916).
+01-06 03:38:57.731  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (1160, 916).
+01-06 03:38:57.769  2149  4763 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.16}
+01-06 03:38:57.770  2149  2149 V ActivityManager: Display changed displayId=0
+01-06 03:38:57.772  2149  2191 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-06 03:38:57.776 11952 11952 D GeckoApplication: onConfigurationChanged: en_US, background: false
+01-06 03:38:57.778 11952 11952 D GeckoSharedPrefs: Current version = 1, prefs version = 1
+01-06 03:38:57.778 11952 11952 D GeckoLocales: No selected locale. No correction needed.
+01-06 03:38:57.802 12362 12389 D Event   : No subscribers registered for event class com.sogou.androidtool.event.LoaderFinishEvent
+01-06 03:38:57.802 12362 12389 D Event   : No subscribers registered for event class chf
+01-06 03:38:57.814  2149  2175 I ActivityManager: Start proc 12408:com.halfbrick.fruitninja:egameCore/u0a118 for service com.halfbrick.fruitninja/cn.egame.terminal.sdk.EgameCoreService
+01-06 03:38:57.831 12408 12408 I ActivityThread: Switching default density from 160 to 240
+01-06 03:38:57.833 12362 12431 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-06 03:38:57.834  2149  2169 V WindowManager: Adding window Window{250d7ac6 u0 com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.guide.SettingGuideActivity} at 6 of 13 (before Window{2a491df2 u0 Starting com.sohu.inputmethod.sogou})
+01-06 03:38:57.835 12408 12408 D SkynetApi: onApplicationCreate
+01-06 03:38:57.835 12408 12408 W System.err: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 03:38:57.835 12408 12408 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 03:38:57.835 12408 12408 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 03:38:57.835 12408 12408 W System.err: 	at java.lang.Class.forName(Class.java:273)
+01-06 03:38:57.835 12408 12408 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4060)
+01-06 03:38:57.835 12408 12408 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3542)
+01-06 03:38:57.835 12408 12408 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-06 03:38:57.835 12408 12408 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 03:38:57.835 12408 12408 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 03:38:57.835 12408 12408 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 03:38:57.835 12408 12408 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 03:38:57.835 12408 12408 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:57.835 12408 12408 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:57.835 12408 12408 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:57.835 12408 12408 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:57.835 12408 12408 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:57.835 12408 12408 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:57.835 12408 12408 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:57.835 12408 12408 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.skynet.android.uc.UC" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-06 03:38:57.835 12408 12408 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 03:38:57.835 12408 12408 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 03:38:57.835 12408 12408 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 03:38:57.835 12408 12408 W System.err: 	... 17 more
+01-06 03:38:57.835 12408 12408 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.skynet.android.uc.UC
+01-06 03:38:57.835 12408 12408 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 03:38:57.835 12408 12408 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 03:38:57.835 12408 12408 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 03:38:57.835 12408 12408 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 03:38:57.835 12408 12408 W System.err: 		... 18 more
+01-06 03:38:57.835 12408 12408 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 03:38:57.836 12408 12408 W System.err: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 03:38:57.836 12408 12408 W System.err: 	at java.lang.Class.classForName(Native Method)
+01-06 03:38:57.836 12408 12408 W System.err: 	at java.lang.Class.forName(Class.java:309)
+01-06 03:38:57.836 12408 12408 W System.err: 	at com.skynet.android.amigo.Amigo.isEnable(SourceFile:27)
+01-06 03:38:57.836 12408 12408 W System.err: 	at com.skynet.android.amigo.Amigo.onApplicationCreate(SourceFile:17)
+01-06 03:38:57.836 12408 12408 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:57.836 12408 12408 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:57.836 12408 12408 W System.err: 	at com.skynet.android.Skynet.invoke(SourceFile:4068)
+01-06 03:38:57.836 12408 12408 W System.err: 	at com.skynet.android.Skynet.onApplicationCreate(SourceFile:3544)
+01-06 03:38:57.836 12408 12408 W System.err: 	at com.halfbrick.mortar.MortarApplication.onCreate(MortarApplication.java:29)
+01-06 03:38:57.836 12408 12408 W System.err: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1012)
+01-06 03:38:57.836 12408 12408 W System.err: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4553)
+01-06 03:38:57.836 12408 12408 W System.err: 	at android.app.ActivityThread.access$1500(ActivityThread.java:151)
+01-06 03:38:57.836 12408 12408 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1364)
+01-06 03:38:57.836 12408 12408 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:57.836 12408 12408 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:57.836 12408 12408 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:57.836 12408 12408 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:57.836 12408 12408 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:57.836 12408 12408 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:57.836 12408 12408 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:57.836 12408 12408 W System.err: Caused by: java.lang.ClassNotFoundException: Didn't find class "com.gionee.game.offlinesdk.GamePlatform" on path: DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]
+01-06 03:38:57.836 12408 12408 W System.err: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+01-06 03:38:57.836 12408 12408 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+01-06 03:38:57.836 12408 12408 W System.err: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+01-06 03:38:57.836 12408 12408 W System.err: 	... 20 more
+01-06 03:38:57.836 12408 12408 W System.err: 	Suppressed: java.lang.ClassNotFoundException: com.gionee.game.offlinesdk.GamePlatform
+01-06 03:38:57.836 12408 12408 W System.err: 		at java.lang.Class.classForName(Native Method)
+01-06 03:38:57.836 12408 12408 W System.err: 		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+01-06 03:38:57.836 12408 12408 W System.err: 		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+01-06 03:38:57.836 12408 12408 W System.err: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+01-06 03:38:57.836 12408 12408 W System.err: 		... 21 more
+01-06 03:38:57.836 12408 12408 W System.err: 	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+01-06 03:38:57.836  2149  4763 W ActivityManager: getRunningAppProcesses: caller 10118 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:57.837 12408 12408 D AndroidRuntime: Shutting down VM
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: FATAL EXCEPTION: main
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: Process: com.halfbrick.fruitninja:egameCore, PID: 12408
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.halfbrick.fruitninja-1/base.apk"],nativeLibraryDirectories=[/data/app/com.halfbrick.fruitninja-1/lib/x86, /vendor/lib, /system/lib]]] couldn't find "libegamepay_dr2.so"
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at java.lang.Runtime.loadLibrary(Runtime.java:366)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at java.lang.System.loadLibrary(System.java:988)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at cn.egame.terminal.sdk.jni.EgamePayProtocol.<clinit>(EgamePayProtocol.java:25)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at cn.egame.terminal.sdk.jni.EgamePayProtocol.initCore(Native Method)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at cn.egame.terminal.sdk.EgameCoreService.onCreate(EgameCoreService.java:74)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:2761)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at android.app.ActivityThread.access$1800(ActivityThread.java:151)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1386)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:135)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+01-06 03:38:57.837 12408 12408 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+01-06 03:38:57.863  2149  3972 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 03:38:57.863  2149  3972 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 03:38:57.867  2149  3972 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 03:38:57.867  2149  3972 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 03:38:57.867  2149  3972 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 03:38:57.867  2149  3972 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 03:38:57.880 12362 12431 I GRALLOC-DRM: create intel for driver i915
+01-06 03:38:57.880 12362 12431 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+01-06 03:38:57.880 12362 12431 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+01-06 03:38:57.884 12362 12431 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+01-06 03:38:57.884 12362 12431 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+01-06 03:38:57.884 12362 12431 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+01-06 03:38:57.884 12362 12431 I OpenGLRenderer: Initialized EGL, version 1.4
+01-06 03:38:57.884 12362 12431 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-06 03:38:57.885 12362 12431 D OpenGLRenderer: Enabling debug mode 0
+01-06 03:38:58.545  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:38:58.584 12362 12362 I Choreographer: Skipped 43 frames!  The application may be doing too much work on its main thread.
+01-06 03:38:58.638  2149  2180 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+01-06 03:38:58.638  2149  2180 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+01-06 03:38:58.638  2149  2180 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+01-06 03:38:58.638  2149  2180 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+01-06 03:38:58.638  2149  2180 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+01-06 03:38:58.638  2149  2180 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+01-06 03:38:58.638  2149  2180 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+01-06 03:38:58.638  2149  2180 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+01-06 03:38:58.638  2149  2180 E WindowManager: Performed 6 layouts in a row. Skipping
+01-06 03:38:58.648  2149  2180 I ActivityManager: Displayed com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.guide.SettingGuideActivity: +917ms (total +7s249ms)
+01-06 03:38:58.688  2149  2180 I WindowManager: Screen frozen for +956ms due to Window{2a491df2 u0 Starting com.sohu.inputmethod.sogou}
+01-06 03:38:58.790  2267  2267 W ResourceType: No package identifier when getting value for resource number 0x00000000
+01-06 03:38:58.790  2267  2267 W PackageManager: Failure retrieving resources for com.cyanogenmod.filemanager: Resource ID #0x0
+01-06 03:38:59.548  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:00.551  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:00.726  2149  2180 I art     : Explicit concurrent mark sweep GC freed 19572(1125KB) AllocSpace objects, 14(1358KB) LOS objects, 33% free, 17MB/25MB, paused 764us total 35.569ms
+01-06 03:39:01.554  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:02.210 12436 12436 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:39:02.452  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:39:02.464 12408 12408 I Process : Sending signal. PID: 12408 SIG: 9
+01-06 03:39:02.464  1876  2146 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+01-06 03:39:02.467  2149  3972 D OpenGLRenderer: endAllStagingAnimators on 0x7f313a25a000 (RippleDrawable) with handle 0x7f3138b51600
+01-06 03:39:02.470  3754  3754 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-06 03:39:02.477  2149  3042 I ActivityManager: Process com.halfbrick.fruitninja:egameCore (pid 12408) has died
+01-06 03:39:02.477  2149  3042 W ActivityManager: Service crashed 2 times, stopping: ServiceRecord{3f504063 u0 com.halfbrick.fruitninja/cn.egame.terminal.sdk.EgameCoreService}
+01-06 03:39:02.557  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:03.560  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:04.563  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:05.181  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:39:05.181  2149  2190 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+01-06 03:39:05.236  2149  9351 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.17}
+01-06 03:39:05.238  2149  2191 I InputReader: Reconfiguring input devices.  changes=0x00000004
+01-06 03:39:05.240 11952 11952 D GeckoApplication: onConfigurationChanged: en_US, background: false
+01-06 03:39:05.240 11952 11952 D GeckoLocales: No selected locale. No correction needed.
+01-06 03:39:05.257  2349  2349 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-06 03:39:05.257  2349  2349 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-06 03:39:05.257  2349  2349 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-06 03:39:05.257  2349  2349 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-06 03:39:05.257  2149  2149 V ActivityManager: Display changed displayId=0
+01-06 03:39:05.257  2349  2349 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-06 03:39:05.257  2349  2349 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-06 03:39:05.302  2349  2535 D Launcher.Model: 11683562 - loadWorkspaceScreensDb()
+01-06 03:39:05.302  2349  2535 D Launcher.Model: 11683562 -   screens: { 0: 3 }
+01-06 03:39:05.303  2349  2535 D Launcher.LauncherProvider: 11683562 - generateNewScreenId(): 4
+01-06 03:39:05.323 12362 12362 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+01-06 03:39:05.329  2149  2180 I WindowManager: Screen frozen for +128ms due to Window{6606a62 u0 StatusBar}
+01-06 03:39:05.385  2149  2170 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-06 03:39:05.385  2349  2535 D Launcher.Model: 11683562 - updateWorkspaceScreenOrder()
+01-06 03:39:05.385  2349  2535 D Launcher.Model: 11683562 -   screens: 3, 4
+01-06 03:39:05.386  2149  3044 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-06 03:39:05.386  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (566, 1881).
+01-06 03:39:05.386  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (566, 1880).
+01-06 03:39:05.387  2149  8057 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-06 03:39:05.387  2149  2377 W BackupManagerService: dataChanged but no participant pkg='com.android.launcher3' uid=10033
+01-06 03:39:05.425  2349  2349 D Launcher: 11683562 - bindAddScreens()
+01-06 03:39:05.426  2349  2349 D Launcher: 11683562 -   orderedScreenIds: 4
+01-06 03:39:05.426  2349  2349 D Launcher.Workspace: 11683562 - insertNewWorkspaceScreen(): 4 at index: 1
+01-06 03:39:05.428  2349  2349 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+01-06 03:39:05.428  2349  2349 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+01-06 03:39:05.565  2149  2169 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:05.816  2349  2609 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+01-06 03:39:06.567  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:07.223 12439 12439 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:39:07.418  2149  2180 I art     : Explicit concurrent mark sweep GC freed 8757(550KB) AllocSpace objects, 6(3MB) LOS objects, 33% free, 15MB/22MB, paused 862us total 32.051ms
+01-06 03:39:07.436  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:39:07.447  2149  4763 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10000 on display 0
+01-06 03:39:07.475  2149  8057 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@1a889a7f (uid=10033 pid=2349)
+01-06 03:39:07.570  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:08.388  2149  2209 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+01-06 03:39:08.411  2149  2190 I InputDispatcher: Dropping event because there is no touchable window at (949, 350).
+01-06 03:39:08.450  9354  9354 I Term    : Bound to TermService
+01-06 03:39:08.450  9354  9354 I TermService: Activity binding to service
+01-06 03:39:08.573  2149  9351 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:09.094  8360  8399 D ++++++++: IsGetNotificationTimeOut = 4217094 dis = 28800000
+01-06 03:39:09.576  2149  3128 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:10.579  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:11.582  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:12.236 12447 12447 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:39:12.585  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:13.352  2149  3128 W ActivityManager: getRunningAppProcesses: caller 10120 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:13.586  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:14.587  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:15.590  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:16.594  2149  3042 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:17.247 12448 12448 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:39:17.597  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:18.600  2149  2170 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:19.603  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:20.605  2149  4763 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:21.608  2149  3044 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:22.258 12449 12449 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+01-06 03:39:22.611  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:23.613  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:24.616  2149  2394 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:25.617  2149  2377 W ActivityManager: getTasks: caller 10115 does not hold REAL_GET_TASKS; limiting output
+01-06 03:39:25.639 12450 12450 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

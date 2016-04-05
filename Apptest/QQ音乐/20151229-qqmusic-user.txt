@@ -1,0 +1,1322 @@
+12-29 06:06:05.909  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:06.911  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:07.914  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:08.917  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:09.096  5311  5311 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:09.920  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:10.923  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:11.328  2169  2218 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-29 06:06:11.328  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:11.340  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 06:06:11.388  7061  7061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 06:06:11.926  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:12.344  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 06:06:12.344  2299  2299 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-29 06:06:12.929  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:13.932  2169  7590 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:14.103  5314  5314 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:14.935  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:15.938  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:16.941  2169  7590 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:17.106  1042  1042 V xiaomi  : [Thread:1] Service called on timer
+12-29 06:06:17.944  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:18.946  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:19.115  5315  5315 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:19.948  2169  7590 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:20.951  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:21.953  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:22.957  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:23.959  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:24.127  5316  5316 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:24.961  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:25.655  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:25.667  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 06:06:25.964  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:26.967  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:27.970  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:28.138  5318  5318 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:28.969  2169  2501 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.qqmusic/.activity.AppStarterActivity (has extras)} from uid 10036 on display 0
+12-29 06:06:28.969  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:28.971  2169  2501 V WindowManager: addAppToken: AppWindowToken{28854d65 token=Token{2b17e65c ActivityRecord{2dd7fccf u0 com.tencent.qqmusic/.activity.AppStarterActivity t266}}} to stack=1 task=266 at 0
+12-29 06:06:28.973  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:28.983  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 06:06:29.016  2169 15111 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.34}
+12-29 06:06:29.017  2169  2169 V ActivityManager: Display changed displayId=0
+12-29 06:06:29.019  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 06:06:29.021  3692  3692 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-29 06:06:29.021  3692  3692 D GeckoLocales: No selected locale. No correction needed.
+12-29 06:06:29.044   796   796 I Delta   : [+1735214] activity oncreate , total: 1735255
+12-29 06:06:29.102   796   796 D gdt_ad_mob: WillDoExposure:exp_url=http://v.gdt.qq.com/gdt_stats.fcg?viewid=kpV3gGoEOiAt3K7ovu_1Xhf!wkXaanm8BNtPKsoDu8G_3tnRIc9Z38lTy6SU4ffLZf!PAIBylGzMm6Qk1dJh!OVRVXSbxl1uzqOk4cbA_XItvVl4WCbB61LqylVhBYvqCYLv2FMzECY&i=1&os=2
+12-29 06:06:29.102   796   796 I Delta   : [+58] activity oncreate end , total: 1735313
+12-29 06:06:29.103   796   796 W beacon  : API Level: 22
+12-29 06:06:29.105   796   796 I tyrael  : setWnsBackground
+12-29 06:06:29.105   854   948 W tyrael  : dispatchApplicationEnterForeground:com.tencent.wns.ipcclient.b@3feea437
+12-29 06:06:29.107   796   796 D LogPoint: scansongs-0|scan songs start|<11505979084186>
+12-29 06:06:29.107   796   796 D Profiler: perf.扫描性能测试.begin 1451369189107
+12-29 06:06:29.107   796   796 D Profiler: perf.1_APP_FULL_SCAN_LOCAL_FINISH.begin 1451369189107
+12-29 06:06:29.107   796   796 D Profiler: perf.1_APP_SCAN_LOCAL_FINISH.begin 1451369189107
+12-29 06:06:29.108   796   796 I Delta   : [+6] activity onstart , total: 1735319
+12-29 06:06:29.108   796   796 I Delta   : [+0] activity onresume , total: 1735319
+12-29 06:06:29.109   796  5332 D FilterUtil: setFileFilter: com.tencent.qqmusic.business.local.a.v@3004dfee
+12-29 06:06:29.109   796  5332 W DBHelper: initDirDatabase
+12-29 06:06:29.109   796  5332 W DBHelper: initializeDB
+12-29 06:06:29.109  2169  2188 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:29.109  2169 20953 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:29.109  2169  2501 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:29.113   796  5336 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-29 06:06:29.114  2169 15111 V WindowManager: Adding window Window{d41e6b6 u0 com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity} at 6 of 12 (after Window{7889cfb u0 jackpal.androidterm/jackpal.androidterm.Term})
+12-29 06:06:29.117  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.117   854  5338 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.118  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.118   854  5338 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.118  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.118   854  5338 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.118  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.118   854  5338 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.148   796  5336 I GRALLOC-DRM: create intel for driver i915
+12-29 06:06:29.149   796  5336 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-29 06:06:29.149   796  5336 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-29 06:06:29.161   796  5336 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-29 06:06:29.161   796  5336 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-29 06:06:29.161   796  5336 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-29 06:06:29.161   796  5336 I OpenGLRenderer: Initialized EGL, version 1.4
+12-29 06:06:29.161   796  5336 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-29 06:06:29.165   796  5336 D OpenGLRenderer: Enabling debug mode 0
+12-29 06:06:29.172   796   796 I Delta   : [+64] activity focus , total: 1735383
+12-29 06:06:29.173  2479  2479 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 06:06:29.229   796   796 I Delta   : [+57] init base , total: 1735440
+12-29 06:06:29.230  2169  2198 I ActivityManager: Displayed com.tencent.qqmusic/.activity.AppStarterActivity: +256ms
+12-29 06:06:29.237  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/files/
+12-29 06:06:29.237   796   796 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/files
+12-29 06:06:29.238  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/files/
+12-29 06:06:29.238   796   796 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/files
+12-29 06:06:29.238  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/files/
+12-29 06:06:29.238   796   796 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/files
+12-29 06:06:29.239  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/files/
+12-29 06:06:29.239   796   796 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/files
+12-29 06:06:29.243   854   919 V NetworkDash: isDeviceIdBySlot:0
+12-29 06:06:29.243   854   919 V NetworkDash: isDeviceIdBySlot:1
+12-29 06:06:29.243   854   919 I NetworkDash: imsi: null
+12-29 06:06:29.243   796  5339 D FileOutput: threadStart
+12-29 06:06:29.243   796   796 I Delta   : [+14] programStart1 1  , total: 1735454
+12-29 06:06:29.243   796  5340 D FileOutput: threadStart
+12-29 06:06:29.245  2169  2198 I WindowManager: Screen frozen for +270ms due to Window{d41e6b6 u0 com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}
+12-29 06:06:29.388   796  5351 I rubik   : {"bannerlist":[],"code":0,"msg":"success","uid":"3288301264","uin":"0"}
+12-29 06:06:29.411   796  5332 D houdini : [5332] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libfilescanner.so for ClassLoader by Native Bridge.
+12-29 06:06:29.412   796  5332 I FILE_SCANER: ---------execute init----------
+12-29 06:06:29.412   796  5332 I FILE_SCANER:  getSupportedFileTypes 
+12-29 06:06:29.413   796  5332 I FILE_SCANER: count : 24 
+12-29 06:06:29.414   796  5332 I FILE_SCANER:  getBlackList 
+12-29 06:06:29.414   796  5332 I FILE_SCANER: count : 22 
+12-29 06:06:29.415   796  5332 I FILE_SCANER:  getWhiteList 
+12-29 06:06:29.415   796  5332 I FILE_SCANER: count : 9 
+12-29 06:06:29.416   796  5332 I FILE_SCANER: DIR_DEPTH_LIMIT: 10, is_debug 0,filter_nomedia_dir 1,filter_hidden_dir 1
+12-29 06:06:29.417   796  5332 I FILE_SCANER: filescanner JNI_OnLoad 65540
+12-29 06:06:29.420   796  5332 D Profiler: perf.scanner_speed_test.begin 1451369189420
+12-29 06:06:29.420   796  5332 D Profiler: perf.2_SCAN_MEDIA_STORE.begin 1451369189420
+12-29 06:06:29.423   796  5332 D Profiler: perf.扫描性能测试.媒体数据库查询完成 duration: 316.0
+12-29 06:06:29.423   796  5332 D Profiler: perf.扫描性能测试.媒体完成 duration: 316.0
+12-29 06:06:29.424   796  5332 D Profiler: perf.2_SCAN_MEDIA_STORE.end duration: 4.0
+12-29 06:06:29.426   796  5332 D Profiler: perf.scanner_speed_test.Scan Songs From MediaStore Finish. duration: 6.0
+12-29 06:06:29.426   796  5332 D Profiler: perf.扫描性能测试.媒体库扫描完成 duration: 319.0
+12-29 06:06:29.427   796  5332 W DBHelper: simpleQueryForLong: 1063
+12-29 06:06:29.427   796  5332 D Profiler: perf.扫描性能测试.增量扫描开始 duration: 320.0
+12-29 06:06:29.427   796  5355 I FILE_SCANER: init
+12-29 06:06:29.427   796  5355 I FILE_SCANER: ---------execute init----------
+12-29 06:06:29.428   796  5355 I FILE_SCANER:  getSupportedFileTypes 
+12-29 06:06:29.428   796  5355 I FILE_SCANER: count : 24 
+12-29 06:06:29.429   796  5355 I FILE_SCANER:  getBlackList 
+12-29 06:06:29.429   796  5355 I FILE_SCANER: count : 22 
+12-29 06:06:29.429   796  5355 I FILE_SCANER:  getWhiteList 
+12-29 06:06:29.429   796  5355 I FILE_SCANER: count : 9 
+12-29 06:06:29.430   796  5355 I FILE_SCANER: DIR_DEPTH_LIMIT: 10, is_debug 0,filter_nomedia_dir 1,filter_hidden_dir 1
+12-29 06:06:29.430   796  5355 D Profiler: perf.performance_test.begin 1451369189430
+12-29 06:06:29.430   796  5355 D FileScanner: --------onScanBegin----------
+12-29 06:06:29.430   796  5355 D LocalFileCacheManager: updateFiles
+12-29 06:06:29.441  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.441   796  5357 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.442  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.442   796  5357 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.442  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.443   796  5357 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.443  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.443   796  5357 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.445  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.445   796  5347 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.446  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.446   796  5347 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.447  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.447   796  5347 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.448  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.448   796  5347 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.449  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.449   796  5348 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.449  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.450   796  5348 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.450  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.450   796  5348 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.451  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.451   796  5348 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.468   796  5355 D Profiler: perf.扫描性能测试.获取改变过内容的目录列表完成 duration: 361.0
+12-29 06:06:29.490   796  5355 D Profiler: perf.扫描性能测试.根据改变过内容的目录列表更新扫描记录完成 duration: 383.0
+12-29 06:06:29.490   796  5355 D Profiler: perf.扫描性能测试.删除不再存在文件的文件和目录完成 duration: 383.0
+12-29 06:06:29.560  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.560   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.561  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.561   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.562  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.562   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.563  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.563   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.565  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.565   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.566  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.566   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.567  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.567   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.568  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:29.568   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:29.580  5362  5362 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:29.653   796   796 I Delta   : [+410] programStart1 2  , total: 1735864
+12-29 06:06:29.655   796   796 I Delta   : [+2] programStart1 3  , total: 1735866
+12-29 06:06:29.655  2169 20953 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:29.656   796   796 I Delta   : [+1] programStart1 end  , total: 1735867
+12-29 06:06:29.663   796  5364 I TMSelfUpdateManager: enter
+12-29 06:06:29.663   796  5364 D TMLog   : addLogToCache failed!
+12-29 06:06:29.664   796  5364 I TMSelfUpdateManager: exit
+12-29 06:06:29.664   796  5364 D TMLog   : addLogToCache failed!
+12-29 06:06:29.665  2169  2193 W BroadcastQueue: Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4000010 (has extras) } from null (pid=-1, uid=-1) requires com.tencent.qqmusic.permission.SEND_BROADCAST_PERMISSION due to registered receiver BroadcastFilter{15114a u0 ReceiverList{262066b5 796 com.tencent.qqmusic/10068/u0 remote:45552ec}}
+12-29 06:06:29.669   796   796 I Delta   : [+13] init view , total: 1735880
+12-29 06:06:29.671   796   796 D Profiler: perf.MainDesktopFragment_ON_ATTACH_TO_ON_RESUME.begin 1451369189671
+12-29 06:06:29.672   796   796 I Delta   : [+3] create main desktop , total: 1735883
+12-29 06:06:29.689   796   796 I Delta   : [+17] create main desktop end , total: 1735900
+12-29 06:06:29.689   796   796 D Profiler: perf.MainDesktopFragment_ON_ATTACH_TO_ON_RESUME.end duration: 18.0
+12-29 06:06:29.717   796   796 I Delta   : [+28] init view end , total: 1735928
+12-29 06:06:29.718   796   796 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/color_t1.xml , cost:0
+12-29 06:06:29.718   796   796 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/color_t2.xml , cost:0
+12-29 06:06:29.718   796   796 I TMSelfUpdateManager: onActivityResume enter
+12-29 06:06:29.718   796   796 D TMLog   : addLogToCache failed!
+12-29 06:06:29.718   796   796 E TMSelfUpdateManager: exception: you must input an application context!
+12-29 06:06:29.718   796   796 D TMLog   : addLogToCache failed!
+12-29 06:06:29.718   796   796 I Delta   : [+1] base resume end , total: 1735929
+12-29 06:06:29.719   796   796 I Delta   : [+1] step h , total: 1735930
+12-29 06:06:29.722   796   796 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.722   796   796 I TencentPay: insertTimeData timeName= | timename.init
+12-29 06:06:29.722   796   796 I TencentPay: APMidasPayHelper | init initCount:0
+12-29 06:06:29.722   796   796 I Delta   : [+3] step h end , total: 1735933
+12-29 06:06:29.722   796  5366 I TencentPay: 时耗 | timeName:sdk.plugin.init.isNeedLocalUpdate.time,time0
+12-29 06:06:29.722   796  5366 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.722   796  5366 I TencentPay: insertTimeData timeName= | sdk.plugin.init.isNeedLocalUpdate.time
+12-29 06:06:29.722   796  5366 I TencentPay: insertTimeData time= | 0
+12-29 06:06:29.722   796  5366 I TencentPay: APMidasPayHelper | preLoadMidasPay isNeedUpdateFromLocal:false
+12-29 06:06:29.722   796  5366 I TencentPay: APPluginUtils | isNeedUpdateFromAssets isInstall:true fileName:MidasPay.zip
+12-29 06:06:29.722   796  5366 I TencentPay: APPluginUtils | APPluginUtils getInstallPath pluginName:MidasCore sInstallPathMap:{}
+12-29 06:06:29.722   796  5366 I TencentPay: APPluginUtils | APPluginUtils getInstallPath installFile:null
+12-29 06:06:29.722   796  5366 I TencentPay: APPluginUtils | APPluginUtils getInstallPath fileList.length =4
+12-29 06:06:29.722   796  5366 I TencentPay: APPluginUtils | APPluginUtils getInstallPath file:MidasCFT_1.5.1_30_fbb92fa0aae554849c22c44284b14572.apk
+12-29 06:06:29.722   796  5366 I TencentPay: APPluginUtils | APPluginUtils getInstallPath file:MidasCore_1.5.1_30_350caaa3441e9771548f86b0954a1aa4.apk
+12-29 06:06:29.722   796  5366 I TencentPay: APPluginUtils | APPluginUtils getInstallPath true
+12-29 06:06:29.727   796  5366 I TencentPay: assets 目录下内核版本号： | versionCode:30
+12-29 06:06:29.727   796  5366 I TencentPay: APPluginUtils | isNeedUpdateFromAssets assetsVersionCode:30 coreVersionCode:30
+12-29 06:06:29.727   796  5366 I TencentPay: 时耗 | timeName:sdk.plugin.init.isNeedAssetsUpdate.time,time5
+12-29 06:06:29.727   796  5366 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.727   796  5366 I TencentPay: insertTimeData timeName= | sdk.plugin.init.isNeedAssetsUpdate.time
+12-29 06:06:29.727   796  5366 I TencentPay: insertTimeData time= | 5
+12-29 06:06:29.727   796  5366 I TencentPay: APMidasPayHelper | preLoadMidasPay isNeedUpdateFromAssets:false
+12-29 06:06:29.727   796  5366 I TencentPay: APMidasPayHelper | preLoadMidasPay installPlugin ret:0
+12-29 06:06:29.727   796  5366 I TencentPay: APMidasPayHelper | preLoadMidasPay initRequest:null
+12-29 06:06:29.727   796  5366 I TencentPay: APPluginUtils | isPluginValid
+12-29 06:06:29.727   796  5366 I TencentPay: APPluginUtils | isPluginValid sline:MidasCore_1.5.1_30_350caaa3441e9771548f86b0954a1aa4.apk:78F78935AF528D81D4A2D5CEC01701E66DECE0C2821FBE8162B553CC1B0157B8C85A34B2AF86DF130EC4801D27ED149352256E495807044CD9E3F133C53763B27B5F02862FB641FD44E26895FD44590134C5A1E3C865CAD585262BDDB103124509E6BD06292380C8A24B0DF05C67701F0B098FFD7629B1BFE8D61312283EB35679F3E23FCD8784B5B6B981825BE6CD5F16622CA72A924F8A60F16BB261C7C7D42FA6E7BBC5333BBEB2C26078433E8043950F465D33B0F15A14EAB60CA0CF3839BF734A88D1FC0C9AD236D3F2E84A5BB4E61F1CF6FD2E2EA2E095F6CAA7B95916168F85B7F9450D550A29B3079C1FEB7BBF5289E4943297B7D0DC8236AB0CBFE8
+12-29 06:06:29.728   796  5366 I TencentPay: APMidasRSATools | resultData=255
+12-29 06:06:29.728   796  5366 I TencentPay: APPluginUtils | isPluginValid name:MidasCore
+12-29 06:06:29.728   796  5366 I TencentPay: APPluginUtils | isPluginValid md5:350caaa3441e9771548f86b0954a1aa4
+12-29 06:06:29.728   796  5366 I TencentPay: APPluginUtils | isPluginValid sline:MidasPay_1.5.1_30_22090f2c0331f878865f9967e6b97dc6.apk:0B51AB6865F93EF80A354465DD878D677F74987D59627A1D4385C3669565E70B7470C01109EA1F726C3B6550A43A3E6095C0F911D6D6129AF5C12DA964157F7F057AA02AEE170C3DD994A7660FED4F4A0C65F3708CB537E0A259587EC63DA450C33515E71D68FBA61B7CA0760AC6A4C67E63C22F245F08D49CA082ADBE19C414D556C7299B10F3AAB55BA57A56E6AFE7D3CE6CB5903335E7225196F542BBC5B09C2D0A3462CC7A5AF7CB7DD0DC16564CDD7BEB67EDC41F5CC57299426976B1ACCE54ECD163693EF76F3E95BED4510986E5ED1BCED2BABDE0FC305021A948844152A9936DC0DA3FA331A8C0A8CC0DA8031D56EB0A5954DDB45FB88EB9875F71C9
+12-29 06:06:29.728   796  5366 I TencentPay: APMidasRSATools | resultData=255
+12-29 06:06:29.728   796  5366 I TencentPay: APPluginUtils | isPluginValid name:MidasPay
+12-29 06:06:29.728   796  5366 I TencentPay: APPluginUtils | isPluginValid md5:22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.728   796  5366 I TencentPay: APPluginUtils | isPluginValid sline:MidasCFT_1.5.1_30_fbb92fa0aae554849c22c44284b14572.apk:B3EA7A94C49323FE919CF1DBBC2D8811F1A3C88A181F926DB3C5934F9BB23B41A602542D74FECCC6024F06B7296AD6F8A5775A8D6AA517538BF2694C34B2FAB737EBAAD50722A4A2DD39159BD2E76A91EEC5D9DE4AABD5DEA0868045F39285CAD12352735DD81B5B6ABEB589342DA2B26F2460597DB450FF2AC735F8229ACBC9A673C6C41AE7EB7B5F60AB9B38E38CCBD85B483FD4426B2034AD8C48CED5DF624DC51735D4C6842018A27080FF2D0F0E2C0620F50F3B7458A5BD9F21F44861070F2863FE51DA233F050A3271389792CDCD2F6C1B87C617F39C2708F8EF75E2E04F90644ECFCB80CB99B0BC1F760A3330CB717CC7AC9CAA03AD955AB38609FA71
+12-29 06:06:29.728   796  5366 I TencentPay: APMidasRSATools | resultData=255
+12-29 06:06:29.728   796  5366 I TencentPay: APPluginUtils | isPluginValid name:MidasCFT
+12-29 06:06:29.728   796  5366 I TencentPay: APPluginUtils | isPluginValid md5:fbb92fa0aae554849c22c44284b14572
+12-29 06:06:29.729   796  5366 I TencentPay: APPluginUtils | isPluginValid file:MidasCFT_1.5.1_30_fbb92fa0aae554849c22c44284b14572.apk MD5:fbb92fa0aae554849c22c44284b14572
+12-29 06:06:29.729  5369  5369 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:29.729   796  5370 W System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-29 06:06:29.729   796  5370 W System.err: 	at android.app.ContextImpl.createPackageContextAsUser(ContextImpl.java:2156)
+12-29 06:06:29.729   796  5370 W System.err: 	at android.app.ContextImpl.createPackageContext(ContextImpl.java:2148)
+12-29 06:06:29.729   796  5370 W System.err: 	at android.content.ContextWrapper.createPackageContext(ContextWrapper.java:671)
+12-29 06:06:29.729   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.c(Unknown Source)
+12-29 06:06:29.729   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.a(Unknown Source)
+12-29 06:06:29.729   796  5367 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/color_t1.xml , cost:0
+12-29 06:06:29.729   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.i(Unknown Source)
+12-29 06:06:29.729   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.k(Unknown Source)
+12-29 06:06:29.729   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.g(Unknown Source)
+12-29 06:06:29.729   796  5370 W System.err: 	at com.tencent.smtt.sdk.QbSdk.a(Unknown Source)
+12-29 06:06:29.729   796  5370 W System.err: 	at com.tencent.smtt.sdk.as.a(Unknown Source)
+12-29 06:06:29.729   796  5366 I TencentPay: APPluginUtils | checkFileMD5 sMD5:FBB92FA0AAE554849C22C44284B14572
+12-29 06:06:29.729   796  5370 W System.err: 	at com.tencent.smtt.sdk.aq.run(Unknown Source)
+12-29 06:06:29.729   796  5366 I TencentPay: APPluginUtils | checkFileMD5 MD5:fbb92fa0aae554849c22c44284b14572
+12-29 06:06:29.729   796  5367 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/color_t2.xml , cost:0
+12-29 06:06:29.729   796  5366 I TencentPay: APPluginUtils | isPluginValid file:MidasCore_1.5.1_30_350caaa3441e9771548f86b0954a1aa4.apk MD5:350caaa3441e9771548f86b0954a1aa4
+12-29 06:06:29.729   796  5370 E loaderror: TBS:302
+12-29 06:06:29.729   796  5366 I TencentPay: APPluginUtils | checkFileMD5 sMD5:350CAAA3441E9771548F86B0954A1AA4
+12-29 06:06:29.729   796  5366 I TencentPay: APPluginUtils | checkFileMD5 MD5:350caaa3441e9771548f86b0954a1aa4
+12-29 06:06:29.729   796  5366 I TencentPay: APPluginUtils | isPluginValid file:MidasPay_1.5.1_30_22090f2c0331f878865f9967e6b97dc6.apk MD5:22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.730   796  5370 W System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-29 06:06:29.730   796  5370 W System.err: 	at android.app.ContextImpl.createPackageContextAsUser(ContextImpl.java:2156)
+12-29 06:06:29.730   796  5370 W System.err: 	at android.app.ContextImpl.createPackageContext(ContextImpl.java:2148)
+12-29 06:06:29.730   796  5370 W System.err: 	at android.content.ContextWrapper.createPackageContext(ContextWrapper.java:671)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.c(Unknown Source)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.a(Unknown Source)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.i(Unknown Source)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.k(Unknown Source)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.g(Unknown Source)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.e.h(Unknown Source)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.bj.c(Unknown Source)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.as.a(Unknown Source)
+12-29 06:06:29.730   796  5370 W System.err: 	at com.tencent.smtt.sdk.aq.run(Unknown Source)
+12-29 06:06:29.730   796  5370 E TbsShareManager: TBS:isShareTbsCoreAvailable forceSysWebViewInner!
+12-29 06:06:29.730   796  5370 E QbSdk   : TBS:sys WebView: SysWebViewForcedInner
+12-29 06:06:29.730   796  5370 E loaderror: TBS:321
+12-29 06:06:29.730   796  5370 E SDKEngine: TBS:SDKEngine--init canLoadTbs=false
+12-29 06:06:29.730   796  5370 E SDKEngine: TBS:SDKEngine--init can_load_x5=false
+12-29 06:06:29.731   796  5370 E SDKEngine: TBS:SDKEngine--init is_compatible=true
+12-29 06:06:29.731   796  5370 E SDKEngine: TBS:SDKEngine--init isTbsCoreLegaL=false
+12-29 06:06:29.731   796  5370 E SDKEngine: TBS:useSystemWebView by !canLoadTbs
+12-29 06:06:29.731   796  5370 E loaderror: TBS:324
+12-29 06:06:29.731   796  5366 I TencentPay: APPluginUtils | checkFileMD5 sMD5:22090F2C0331F878865F9967E6B97DC6
+12-29 06:06:29.731   796  5366 I TencentPay: APPluginUtils | checkFileMD5 MD5:22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.731   796  5366 I TencentPay: APPluginUtils | isPluginValid count:3
+12-29 06:06:29.731   796  5366 I TencentPay: 时耗 | timeName:sdk.plugin.init.pluginvalid.time,time4
+12-29 06:06:29.731   796  5366 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.731   796  5366 I TencentPay: insertTimeData timeName= | sdk.plugin.init.pluginvalid.time
+12-29 06:06:29.731   796  5366 I TencentPay: insertTimeData time= | 4
+12-29 06:06:29.731   796  5366 I TencentPay: APPluginUtils | getMD5FromPath lastIndexOf startpos:65 endpos:98
+12-29 06:06:29.731   796  5366 I TencentPay: APPluginUtils | getMD5FromPath MD5:22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.731   796  5366 D TencentPay: APPluginStatic | getOrCreateClassLoader apkFilePath: /data/data/com.tencent.qqmusic/app_midasplugins/MidasPay_1.5.1_30_22090f2c0331f878865f9967e6b97dc6.apk
+12-29 06:06:29.731   796  5366 D TencentPay: APPluginStatic | getOrCreateClassLoader MD5: 22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.731   796  5366 D TencentPay: APPluginStatic | getOrCreateClassLoader key: MidasPay_22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.731   796  5366 D TencentPay: APPluginStatic | getOrCreateClassLoader dexClassLoader: null
+12-29 06:06:29.731   796  5366 I TencentPay: APPluginUtils | extractLibs ABI:armeabi-v7a
+12-29 06:06:29.732   796  5366 I TencentPay: APPluginUtils | extractLibs end to dirToExtract:armeabi
+12-29 06:06:29.734   796  5366 I TencentPay: APPluginUtils | fileName:lib/armeabi/libufoPatch.so
+12-29 06:06:29.735   796  5366 I TencentPay: APPluginUtils | fileName:lib/armeabi/libunipayutils.so
+12-29 06:06:29.735   796  5366 I TencentPay: APPluginUtils | fileName:lib/x86/libunipayutils.so
+12-29 06:06:29.735   796  5366 I TencentPay: 时耗 | timeName:sdk.plugin.init.unzip.so.time,time4
+12-29 06:06:29.735   796  5366 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.735   796  5366 I TencentPay: insertTimeData timeName= | sdk.plugin.init.unzip.so.time
+12-29 06:06:29.735   796  5366 I TencentPay: insertTimeData time= | 4
+12-29 06:06:29.735  5373  5373 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:29.737   796  5371 W System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-29 06:06:29.737   796  5371 W System.err: 	at android.app.ContextImpl.createPackageContextAsUser(ContextImpl.java:2156)
+12-29 06:06:29.737   796  5371 W System.err: 	at android.app.ContextImpl.createPackageContext(ContextImpl.java:2148)
+12-29 06:06:29.737   796  5371 W System.err: 	at android.content.ContextWrapper.createPackageContext(ContextWrapper.java:671)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.e.c(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.e.a(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.e.i(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.e.k(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.e.g(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.e.h(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.e.d(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.bj.a(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at com.tencent.smtt.sdk.bg.handleMessage(Unknown Source)
+12-29 06:06:29.737   796  5371 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-29 06:06:29.737   796  5371 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+12-29 06:06:29.737   796  5371 W System.err: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+12-29 06:06:29.737   796  5371 E TbsShareManager: TBS:isShareTbsCoreAvailable forceSysWebViewInner!
+12-29 06:06:29.737   796  5371 E QbSdk   : TBS:sys WebView: SysWebViewForcedInner
+12-29 06:06:29.738   796   796 I WebViewFactory: Loading com.android.webview version 39 (eng.-x86_64) (code 399998)
+12-29 06:06:29.740   796   796 I LibraryLoader: Time to load native libraries: 1 ms (timestamps 6611-6612)
+12-29 06:06:29.740   796   796 I LibraryLoader: Expected native library version number "",actual native library version number ""
+12-29 06:06:29.741   796  5367 I art     : Explicit concurrent mark sweep GC freed 22242(1702KB) AllocSpace objects, 20(455KB) LOS objects, 39% free, 13MB/21MB, paused 335us total 11.881ms
+12-29 06:06:29.741   796   796 V WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {3b153f43}
+12-29 06:06:29.741   796   796 I LibraryLoader: Expected native library version number "",actual native library version number ""
+12-29 06:06:29.741   796   796 I chromium: [INFO:library_loader_hooks.cc(104)] Chromium logging enabled: level = 0, default verbosity = 0
+12-29 06:06:29.742   796   796 I BrowserStartupController: Initializing chromium process, singleProcess=true
+12-29 06:06:29.742   796   796 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-29 06:06:29.744   796   796 W chromium: [WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+12-29 06:06:29.744   796   796 I chromium: [INFO:aw_browser_main_parts.cc(65)] Load from apk succesful, fd=91 off=46184 len=3037
+12-29 06:06:29.744   796   796 I chromium: [INFO:aw_browser_main_parts.cc(78)] Loading webviewchromium.pak from, fd:92 off:229484 len:1089587
+12-29 06:06:29.744  2169  2197 D BluetoothManagerService: Message: 20
+12-29 06:06:29.744  2169  2197 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@2cc67fa2:true
+12-29 06:06:29.744   796  5380 D BluetoothAdapter: 304384448: getState() :  mService = null. Returning STATE_OFF
+12-29 06:06:29.748   796  5355 D Profiler: perf.preHandleNewDirs 8.begin 1451369189748
+12-29 06:06:29.749   796  5366 D TencentPay: APPluginStatic | getOrCreateClassLoader new DexClassLoader cache: /data/data/com.tencent.qqmusic/app_midasodex libDir: /data/data/com.tencent.qqmusic/app_midaslib_0
+12-29 06:06:29.749   796  5366 D TencentPay: APPluginStatic | getOrCreateClassLoader midasClassLoader: 631800300
+12-29 06:06:29.749   796  5366 I TencentPay: 时耗 | timeName:sdk.plugin.init.loadDex.time,time18
+12-29 06:06:29.749   796  5366 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.749   796  5366 I TencentPay: insertTimeData timeName= | sdk.plugin.init.loadDex.time
+12-29 06:06:29.749   796  5366 I TencentPay: insertTimeData time= | 18
+12-29 06:06:29.749   796  5355 D LocalFileCacheManager: preHandleNewDirs scanedDirCount: 8 file_total_count: 0
+12-29 06:06:29.749   796  5355 D Profiler: perf.preHandleNewDirs 8.end duration: 1.0
+12-29 06:06:29.753   796   796 W chromium: [WARNING:data_reduction_proxy_settings.cc(331)] SPDY proxy OFF at startup
+12-29 06:06:29.754   796   796 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-29 06:06:29.754   796   796 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+12-29 06:06:29.755   796   796 I TencentPay: APPLuginProxyActivity | initPluginInterface pluginName=MidasPay
+12-29 06:06:29.755   796   796 I TencentPay: APPLuginProxyActivity | initPluginInterface interfaceClass=com.tencent.midas.pay.APMidasDistribute
+12-29 06:06:29.755   796   796 I TencentPay: APPLuginProxyActivity | initPluginInterface methodName=golbalInit
+12-29 06:06:29.755   796   796 I TencentPay: APPLuginProxyActivity | initPluginInterface methodName=golbalInit
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath pluginName:MidasPay sInstallPathMap:{MidasCore=/data/data/com.tencent.qqmusic/app_midasplugins/MidasCore_1.5.1_30_350caaa3441e9771548f86b0954a1aa4.apk}
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath installFile:null
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath fileList.length =4
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath file:MidasCFT_1.5.1_30_fbb92fa0aae554849c22c44284b14572.apk
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath file:MidasCore_1.5.1_30_350caaa3441e9771548f86b0954a1aa4.apk
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath file:MidasPay_1.5.1_30_22090f2c0331f878865f9967e6b97dc6.apk
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath true
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | getMD5FromPath lastIndexOf startpos:65 endpos:98
+12-29 06:06:29.755   796   796 I TencentPay: APPluginUtils | getMD5FromPath MD5:22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.755   796   796 D TencentPay: APPluginStatic | getOrCreateClassLoader apkFilePath: /data/data/com.tencent.qqmusic/app_midasplugins/MidasPay_1.5.1_30_22090f2c0331f878865f9967e6b97dc6.apk
+12-29 06:06:29.755   796   796 D TencentPay: APPluginStatic | getOrCreateClassLoader MD5: 22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.755   796   796 D TencentPay: APPluginStatic | getOrCreateClassLoader key: MidasPay_22090f2c0331f878865f9967e6b97dc6
+12-29 06:06:29.755   796   796 D TencentPay: APPluginStatic | getOrCreateClassLoader dexClassLoader: dalvik.system.DexClassLoader[DexPathList[[zip file "/data/data/com.tencent.qqmusic/app_midasplugins/MidasPay_1.5.1_30_22090f2c0331f878865f9967e6b97dc6.apk"],nativeLibraryDirectories=[/data/data/com.tencent.qqmusic/app_midaslib_0, /vendor/lib, /system/lib]]]
+12-29 06:06:29.755   796   796 D TencentPay: APPluginStatic | getOrCreateClassLoader midasClassLoader: 631800300
+12-29 06:06:29.755   796   796 I TencentPay: APPLuginProxyActivity | initPluginInterface method:public static void com.tencent.midas.pay.APMidasDistribute.golbalInit(android.app.Activity,android.content.Intent)
+12-29 06:06:29.756   796   796 I TencentPay: APMidasDistribute | golbalInit intent:Intent { (has extras) }
+12-29 06:06:29.756   796   796 I TencentPay: APMidasDistribute | golbalInit midasRequest:null
+12-29 06:06:29.770   796   796 I TencentPay: networktype | -1
+12-29 06:06:29.771   796   796 I TencentPay: APMidasJS | isWSJ2 e:java.lang.NoSuchFieldException: wsjIdentify
+12-29 06:06:29.771   796   796 I TencentPay: APMidasLoadJS | init enter jsVersion:1.0.1 context:com.tencent.qqmusic.MusicApplication@282edda4
+12-29 06:06:29.774   796   796 I TencentPay: APMidasUpdateJS | getJSVersionFromFile version:
+12-29 06:06:29.774   796   796 I TencentPay: APMidasUpdateJS | getJSMD5FromFile rsaMD5:
+12-29 06:06:29.774   796   796 I TencentPay: APMidasLoadJS | init version: md5:
+12-29 06:06:29.780   796   796 I MemTotal:       16322740 kB: MemTotal:	
+12-29 06:06:29.780   796   796 I MemTotal:       16322740 kB: 16322740	
+12-29 06:06:29.780   796   796 I MemTotal:       16322740 kB: kB	
+12-29 06:06:29.781   796   796 I System.out: cpuinfo=ARMv7 processor rev 1 (v7l)  cupinfo2=1500.0
+12-29 06:06:29.783   796   796 I MID     : read mid from Settings.System
+12-29 06:06:29.783   796  5396 I TencentPay: shihao | timeName:sdk.init.getApkVersion.time,time:8; action:
+12-29 06:06:29.784   796  5396 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.784   796  5396 I TencentPay: insertTimeData timeName= | sdk.init.getApkVersion.time
+12-29 06:06:29.784   796  5396 I TencentPay: insertTimeData time= | 8
+12-29 06:06:29.786   796   796 I TencentPay: initOnce | isNeedExtra:true initso:false
+12-29 06:06:29.786   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath pluginName:MidasPay sInstallPathMap:{MidasCore=/data/data/com.tencent.qqmusic/app_midasplugins/MidasCore_1.5.1_30_350caaa3441e9771548f86b0954a1aa4.apk, MidasPay=/data/data/com.tencent.qqmusic/app_midasplugins/MidasPay_1.5.1_30_22090f2c0331f878865f9967e6b97dc6.apk}
+12-29 06:06:29.786   796   796 I TencentPay: APPluginUtils | APPluginUtils getInstallPath installFile:/data/data/com.tencent.qqmusic/app_midasplugins/MidasPay_1.5.1_30_22090f2c0331f878865f9967e6b97dc6.apk
+12-29 06:06:29.787   796  5396 I TencentPay: insertData format | sdk.apk.time
+12-29 06:06:29.788   796   796 I TencentPay: APPluginUtils | extractLibs end to dirToExtract:armeabi
+12-29 06:06:29.794   796  5396 I TencentPay: shihao | timeName:sdk.init.getLocalIp.time,time:0; action:
+12-29 06:06:29.794   796  5396 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.794   796  5396 I TencentPay: insertTimeData timeName= | sdk.init.getLocalIp.time
+12-29 06:06:29.794   796  5396 I TencentPay: insertTimeData time= | 0
+12-29 06:06:29.794   796  5396 I TencentPay: insertData format | sdk.apk.time
+12-29 06:06:29.795   796  5396 I TencentPay: shihao | timeName:sdk.init.getDeviceId.time,time:0; action:
+12-29 06:06:29.795   796  5396 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.795   796  5396 I TencentPay: insertTimeData timeName= | sdk.init.getDeviceId.time
+12-29 06:06:29.795   796  5396 I TencentPay: insertTimeData time= | 0
+12-29 06:06:29.795   796  5396 I TencentPay: insertData format | sdk.apk.time
+12-29 06:06:29.798   796   796 I TencentPay: initOnce | init so done
+12-29 06:06:29.798   796   796 I TencentPay: insertData format | sdk.wsj.isInstall
+12-29 06:06:29.798   796   796 I TencentPay: 微信版本号 | 微信版本号：6.3.8.56_re6b2553
+12-29 06:06:29.799   796  5396 I TencentPay: shihao | timeName:sdk.init.readSDinfo.time,time:3; action:
+12-29 06:06:29.799   796  5396 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.799   796  5396 I TencentPay: insertTimeData timeName= | sdk.init.readSDinfo.time
+12-29 06:06:29.799   796  5396 I TencentPay: insertTimeData time= | 3
+12-29 06:06:29.799   796  5396 I TencentPay: insertData format | sdk.apk.time
+12-29 06:06:29.799   796   796 D houdini : [796] Added shared library /data/data/com.tencent.qqmusic/app_midaslib_0/libunipayutils.so for ClassLoader by Native Bridge.
+12-29 06:06:29.814   796   796 I TencentPay: APIPList | random = 7 ipArrayList.size = 8
+12-29 06:06:29.815   796   796 I TencentPay: MidasDeviceId | f30fe128-d050-4a8e-8e71-92d201536ed6
+12-29 06:06:29.816   796   796 I MID     : read mid from Settings.System
+12-29 06:06:29.817   796   796 I TencentPay: GlobalInitialize |  plugin version
+12-29 06:06:29.817   796   796 I TencentPay: shihao | timeName:sdk.init.totaltime,time:48; action:
+12-29 06:06:29.817   796   796 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:29.817   796   796 I TencentPay: insertTimeData timeName= | sdk.init.totaltime
+12-29 06:06:29.817   796   796 I TencentPay: insertTimeData time= | 48
+12-29 06:06:29.817   796   796 I TencentPay: insertData format | sdk.apk.time
+12-29 06:06:29.975  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:29.992   796  5355 D Profiler: perf.扫描性能测试.添加新目录扫描目录完成 duration: 884.0
+12-29 06:06:29.992   796  5355 E LocalFileCacheManager: finishScan!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+12-29 06:06:29.992   796  5355 D Profiler: perf.performance_test.end duration: 562.0
+12-29 06:06:29.992   796  5355 E FileScanner: scanListener is null!!!!!
+12-29 06:06:29.992   796  5355 D Profiler: perf.performance_test.all task finish refresh UI! duration: 562.0
+12-29 06:06:29.992   796  5355 D LogPoint: scansongs-1|scan songs end|<11506863989485>
+12-29 06:06:29.992   796  5355 D Profiler: perf.扫描性能测试.自动扫描完成 duration: 885.0
+12-29 06:06:29.992   796  5355 D Profiler: perf.scanner_speed_test.Auto scan Songs Finish. duration: 572.0
+12-29 06:06:29.993   796  5355 D Profiler: perf.扫描性能测试.getExistsPaths完成 duration: 886.0
+12-29 06:06:29.993   796  5355 D ScannerUtils: queryAllFiles
+12-29 06:06:29.994   796  5355 D Profiler: perf.扫描性能测试.queryAllFiles完成 duration: 887.0
+12-29 06:06:29.994   796  5355 D Profiler: perf.扫描性能测试.getNewEntities完成 duration: 887.0
+12-29 06:06:29.994   796  5355 D Profiler: perf.过滤时长.begin 1451369189994
+12-29 06:06:29.994   796  5355 D Profiler: perf.扫描性能测试.getSongIds完成 duration: 887.0
+12-29 06:06:29.994   796  5355 D Profiler: perf.扫描性能测试.getID3完成 duration: 887.0
+12-29 06:06:29.994   796  5355 D Profiler: perf.过滤时长.end duration: 0.0
+12-29 06:06:29.994   796  5355 D Profiler: perf.扫描性能测试.自动后过滤分类完成 duration: 887.0
+12-29 06:06:29.995   796  5355 D Profiler: perf.scanner_speed_test.process auto scan result Finish. duration: 575.0
+12-29 06:06:29.995   796  5355 D Profiler: perf.扫描性能测试.入库开始 duration: 888.0
+12-29 06:06:29.995   796  5355 D Profiler: perf.scanner_speed_test.save to repository result start. duration: 575.0
+12-29 06:06:29.998   796  5355 D Profiler: perf.scanner_speed_test.save to repository result finish. duration: 578.0
+12-29 06:06:29.998   796  5355 D Profiler: perf.扫描性能测试.入库完成 duration: 891.0
+12-29 06:06:29.998   796  5355 D LogPoint: scansongs-2|scan songs in table|<11506869835550>
+12-29 06:06:29.998   796  5355 D Profiler: perf.scanner_speed_test.update UI. duration: 578.0
+12-29 06:06:29.998   796  5355 D Profiler: perf.扫描性能测试.更新界面 duration: 891.0
+12-29 06:06:29.998   796  5355 D Profiler: perf.扫描性能测试.end duration: 891.0
+12-29 06:06:29.998   796  5355 D Profiler: perf.1_APP_SCAN_LOCAL_FINISH.end duration: 891.0
+12-29 06:06:29.998   796  5355 D Profiler: perf.scanner_speed_test.Scan Songs From Disk Finish. duration: 578.0
+12-29 06:06:29.999   796  5355 I FILE_SCANER: reset
+12-29 06:06:30.046   796  5325 E beacon  : ChannelID: 73820
+12-29 06:06:30.047  2169  7590 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:30.047  2169  7588 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:30.048   796  5325 E beacon  : ChannelID: 73820
+12-29 06:06:30.049  2169 20952 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:30.049  2169  3042 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:30.050   796  5325 E beacon  : ChannelID: 73820
+12-29 06:06:30.051   796  5325 E beacon  : ChannelID: 73820
+12-29 06:06:30.214  5400  5400 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:30.226  5402  5402 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:30.237  5404  5404 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:30.322   796  5325 E beacon  : ChannelID: 73820
+12-29 06:06:30.511   796   796 I TencentPay: 上报查询DB dataReport searchDatas | num == 12
+12-29 06:06:30.512   796   796 I TencentPay: getLogRecord extend pre | name%25253Dsdk.init.getApkVersion.time%252526times%25253D9%252526
+12-29 06:06:30.512   796   796 I TencentPay: getLogRecord extend pre | name%25253Dsdk.init.getLocalIp.time%252526times%25253D0%252526
+12-29 06:06:30.512   796   796 I TencentPay: getLogRecord extend pre | name%25253Dsdk.init.getDeviceId.time%252526times%25253D0%252526
+12-29 06:06:30.512   796   796 I TencentPay: getLogRecord extend pre | name%25253Dsdk.init.readSDinfo.time%252526times%25253D3%252526
+12-29 06:06:30.513   796   796 I TencentPay: getLogRecord extend pre | 
+12-29 06:06:30.513   796   796 I TencentPay: getLogRecord extend pre | name%25253Dsdk.init.totaltime%252526times%25253D44%252526
+12-29 06:06:30.513   796   796 I TencentPay: getLogRecord extend pre | name%25253Dsdk.init.getApkVersion.time%252526times%25253D8%252526
+12-29 06:06:30.513   796   796 I TencentPay: getLogRecord extend pre | name%25253Dsdk.init.getLocalIp.time%252526times%25253D0%252526
+12-29 06:06:30.513   796   796 I TencentPay: APDataReportManager | num = 1
+12-29 06:06:30.513   796   796 I TencentPay: 上报准备  dataReportDelete  | stemp == num=8&record0=3=|7=0|13=0|24=|21=sdk.apk.time|26=|8=name%25253Dsdk.init.getApkVersion.time%252526times%25253D9%252526|47=game|29=|31=android_v1.5.1|38=1451367002001|34=|35=|37=|43=|53=3658c8db-bd9a-4a9f-a4dd-9e411900f115&record1=3=|7=0|13=1|24=|21=sdk.apk.time|26=|8=name%25253Dsdk.init.getLocalIp.time%252526times%25253D0%252526|47=game|29=|31=android_v1.5.1|38=1451367002004|34=|35=|37=|43=|53=3658c8db-bd9a-4a9f-a4dd-9e411900f115&record2=3=|7=0|13=2|24=|21=sdk.apk.time|26=|8=name%25253Dsdk.init.getDeviceId.time%252526times%25253D0%252526|47=game|29=|31=android_v1.5.1|38=1451367002006|34=|35=|37=|43=|53=3658c8db-bd9a-4a9f-a4dd-9e411900f115&record3=3=|7=0|13=3|24=|21=sdk.apk.time|26=|8=name%25253Dsdk.init.readSDinfo.time%252526times%25253D3%252526|47=game|29=|31=android_v1.5.1|38=1451367002009|34=|35=|37=|43=|53=3658c8db-bd9a-4a9f-a4dd-9e411900f115&record4=3=|7=0|13=4|24=|21=sdk.wsj.isInstall|26=|20=0|47=game|29=|31=android_v1.5.1|38=1451367002009|34=|35=|37=|43=|53=3658c8db-bd9a-4a9f-a4dd-9e411900f115&record5=3=|7=0|13=5|24=|21=sdk.apk.time|26=|8=name%25253Dsdk.init.totaltime%252526times%25253D44%252526|47=game|29=|31=android_v1.5.1|38=1451367002027|34=|35=|37=|43=|53=3658c8db-bd9a-4a9f-a4dd-9e411900f115&record6=3=|7=0|13=6|24=|21=sdk.apk.time|26=|8=name%25253Dsdk.init.getApkVersion.time%252526times%25253D8%252526|47=game|29=|31=android_v1.5.1|38=1451369189787|34=|35=|37=|43=|53=abdd0208-2196-4e73-ad6b-2d9196ab9a21&record7=3=|7=0|13=7|24=|21=sdk.apk.time|26=|8=name%25253Dsdk.init.getLocalIp.time%252526times%25253D0%252526|47=game|29=|31=android_v1.5.1|38=1451369189794|34=|35=|37=|43=|53=abdd0208-2196-4e73-ad6b-2d9196ab9a21
+12-29 06:06:30.513   796   796 I TencentPay: 上报准备  dataReportDelete  | itemList == [com.pay.data.report.APReportItem@2427faac, com.pay.data.report.APReportItem@206e5375, com.pay.data.report.APReportItem@2de55f0a, com.pay.data.report.APReportItem@395ab37b, com.pay.data.report.APReportItem@1a701598, com.pay.data.report.APReportItem@33ddb1f1, com.pay.data.report.APReportItem@330261d6, com.pay.data.report.APReportItem@33570c57]
+12-29 06:06:30.513   796   796 I TencentPay: APPLuginProxyActivity | initPluginInterface obj=null
+12-29 06:06:30.513   796   796 I TencentPay: 时耗 | timeName:sdk.plugin.init.kernel.totaltime,time758
+12-29 06:06:30.513   796   796 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:30.513   796   796 I TencentPay: insertTimeData timeName= | sdk.plugin.init.kernel.totaltime
+12-29 06:06:30.513   796   796 I TencentPay: insertTimeData time= | 758
+12-29 06:06:30.513   796   796 I TencentPay: APMidasPayHelper | init ret:0 msg:succ
+12-29 06:06:30.513   796   796 I TencentPay: APMidasPayHelper | openPlugin obj:null
+12-29 06:06:30.513   796   796 I TencentPay: insertTimeData interfaceName= | init
+12-29 06:06:30.513   796   796 I TencentPay: insertTimeData timeName= | sdk.plugin.init.totaltime
+12-29 06:06:30.522   796   796 D LogPoint: scansongs-3|scan songs flush ui|<11507394674762>
+12-29 06:06:30.978  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:31.260  2169  2198 I art     : Explicit concurrent mark sweep GC freed 28054(1605KB) AllocSpace objects, 16(5MB) LOS objects, 33% free, 18MB/27MB, paused 449us total 10.565ms
+12-29 06:06:31.980  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:32.103   796   796 D LogPoint: scansongs-0|scan songs start|<11508974777888>
+12-29 06:06:32.103   796   796 D Profiler: perf.扫描性能测试.begin 1451369192103
+12-29 06:06:32.103   796   796 D Profiler: perf.1_APP_FULL_SCAN_LOCAL_FINISH.begin 1451369192103
+12-29 06:06:32.103   796   796 D Profiler: perf.1_APP_SCAN_LOCAL_FINISH.begin 1451369192103
+12-29 06:06:32.103   796   796 I Delta   : [+2381] going to start mainview , total: 1738314
+12-29 06:06:32.103   796   796 I Delta   : [+0] start main view , total: 1738314
+12-29 06:06:32.103   796  5332 D FilterUtil: setFileFilter: com.tencent.qqmusic.business.local.a.v@3004dfee
+12-29 06:06:32.103   796  5332 D Profiler: perf.scanner_speed_test.begin 1451369192103
+12-29 06:06:32.103   796  5332 D Profiler: perf.2_SCAN_MEDIA_STORE.begin 1451369192103
+12-29 06:06:32.104   796  5332 D Profiler: perf.扫描性能测试.媒体数据库查询完成 duration: 1.0
+12-29 06:06:32.104   796  5332 D Profiler: perf.扫描性能测试.媒体完成 duration: 1.0
+12-29 06:06:32.104   796  5332 D Profiler: perf.2_SCAN_MEDIA_STORE.end duration: 1.0
+12-29 06:06:32.104   796  5332 D Profiler: perf.scanner_speed_test.Scan Songs From MediaStore Finish. duration: 1.0
+12-29 06:06:32.104   796  5332 D Profiler: perf.扫描性能测试.媒体库扫描完成 duration: 1.0
+12-29 06:06:32.105   796   796 I Delta   : [+2] init minibar end , total: 1738316
+12-29 06:06:32.105   796  5332 W DBHelper: simpleQueryForLong: 1071
+12-29 06:06:32.106   796  5332 D Profiler: perf.扫描性能测试.增量扫描开始 duration: 3.0
+12-29 06:06:32.106   796   796 I Delta   : [+1] pre start end , total: 1738317
+12-29 06:06:32.106   796  5355 I FILE_SCANER: init
+12-29 06:06:32.106   796  5355 I FILE_SCANER: ---------execute init----------
+12-29 06:06:32.106   796  5355 I FILE_SCANER:  getSupportedFileTypes 
+12-29 06:06:32.106   796  5355 I FILE_SCANER: count : 24 
+12-29 06:06:32.106   796  5355 I FILE_SCANER:  getBlackList 
+12-29 06:06:32.106   796  5355 I FILE_SCANER: count : 22 
+12-29 06:06:32.106   796  5355 I FILE_SCANER:  getWhiteList 
+12-29 06:06:32.106   796  5355 I FILE_SCANER: count : 9 
+12-29 06:06:32.106   796  5355 I FILE_SCANER: DIR_DEPTH_LIMIT: 10, is_debug 0,filter_nomedia_dir 1,filter_hidden_dir 1
+12-29 06:06:32.106   796  5355 D Profiler: perf.performance_test.begin 1451369192106
+12-29 06:06:32.106   796  5355 D FileScanner: --------onScanBegin----------
+12-29 06:06:32.106   796  5355 D LocalFileCacheManager: updateFiles
+12-29 06:06:32.108   796   796 I Delta   : [+2] doresume end , total: 1738319
+12-29 06:06:32.112   796  5355 D Profiler: perf.扫描性能测试.获取改变过内容的目录列表完成 duration: 9.0
+12-29 06:06:32.112   796   796 D Profiler: perf.MyMusicFragment_ON_ATTACH_TO_ON_RESUME.begin 1451369192112
+12-29 06:06:32.112   796   796 I Delta   : [+4] create my music , total: 1738323
+12-29 06:06:32.113   796  5355 D Profiler: perf.扫描性能测试.根据改变过内容的目录列表更新扫描记录完成 duration: 10.0
+12-29 06:06:32.113   796  5355 D Profiler: perf.扫描性能测试.删除不再存在文件的文件和目录完成 duration: 10.0
+12-29 06:06:32.121  1042  1075 V xiaomi  : [Thread:2328] JOB: check the ping-pong.
+12-29 06:06:32.129   796   796 I Delta   : [+17] create my music end , total: 1738340
+12-29 06:06:32.130   796   796 D Profiler: perf.MyMusicEntranceFragment_ON_ATTACH_TO_ON_RESUME.begin 1451369192130
+12-29 06:06:32.135   796   796 D Profiler: perf.MyMusicFragment_ON_ATTACH_TO_ON_RESUME.end duration: 23.0
+12-29 06:06:32.136   796   796 D Profiler: perf.MyMusicEntranceFragment_ON_ATTACH_TO_ON_RESUME.end duration: 6.0
+12-29 06:06:32.137   796   796 D Profiler: perf.MusicHallsFragment_ON_ATTACH_TO_ON_RESUME.begin 1451369192137
+12-29 06:06:32.137   796   796 I Delta   : [+8] create com.tencent.qqmusic.fragment.musichalls.MusicHallsFragment , total: 1738348
+12-29 06:06:32.137   796   796 I Delta   : [+0] create end , total: 1738348
+12-29 06:06:32.137   796   796 D Profiler: perf.DiscoveryFragment_ON_ATTACH_TO_ON_RESUME.begin 1451369192137
+12-29 06:06:32.138   796   796 I Delta   : [+1] create discover view , total: 1738349
+12-29 06:06:32.138   796   796 I Delta   : [+0] create discover view end , total: 1738349
+12-29 06:06:32.138   796   796 D Profiler: perf.MusicHallsFragment_ON_ATTACH_TO_ON_RESUME.end duration: 1.0
+12-29 06:06:32.138   796   796 D Profiler: perf.DiscoveryFragment_ON_ATTACH_TO_ON_RESUME.end duration: 1.0
+12-29 06:06:32.163   796   796 I Delta   : [+25] Step F , total: 1738374
+12-29 06:06:32.163   796   796 D Profiler: perf.PlayerComponent init.begin 1451369192163
+12-29 06:06:32.169   796   796 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/common_grid_title_color_selector.xml , cost:0
+12-29 06:06:32.169   796   796 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/color_b18.xml , cost:0
+12-29 06:06:32.178   796   796 D Profiler: perf.PlayerComponent init.end duration: 15.0
+12-29 06:06:32.178   796   796 I Delta   : [+15] Step F end , total: 1738389
+12-29 06:06:32.178   796   796 I Delta   : [+0] step I , total: 1738389
+12-29 06:06:32.233   796  5355 D Profiler: perf.preHandleNewDirs 0.begin 1451369192233
+12-29 06:06:32.233   796  5355 D LocalFileCacheManager: preHandleNewDirs scanedDirCount: 8 file_total_count: 0
+12-29 06:06:32.233   796  5355 D Profiler: perf.preHandleNewDirs 0.end duration: 0.0
+12-29 06:06:32.233   796  5355 D Profiler: perf.扫描性能测试.添加新目录扫描目录完成 duration: 130.0
+12-29 06:06:32.233   796  5355 E LocalFileCacheManager: finishScan!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+12-29 06:06:32.233   796  5355 D Profiler: perf.performance_test.end duration: 127.0
+12-29 06:06:32.233   796  5355 E FileScanner: scanListener is null!!!!!
+12-29 06:06:32.233   796  5355 D Profiler: perf.performance_test.all task finish refresh UI! duration: 127.0
+12-29 06:06:32.233  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.233   796  5355 D LogPoint: scansongs-1|scan songs end|<11509105728281>
+12-29 06:06:32.234   796  5355 D Profiler: perf.扫描性能测试.自动扫描完成 duration: 130.0
+12-29 06:06:32.234   796  5355 D Profiler: perf.scanner_speed_test.Auto scan Songs Finish. duration: 131.0
+12-29 06:06:32.234   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.235  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.235   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.235   796  5355 D Profiler: perf.扫描性能测试.getExistsPaths完成 duration: 132.0
+12-29 06:06:32.235   796  5355 D ScannerUtils: queryAllFiles
+12-29 06:06:32.236  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.236   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.237  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.237   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.239  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.239   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.240  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.240   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.241  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.241   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.242  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.242   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.244   796  5355 D Profiler: perf.扫描性能测试.queryAllFiles完成 duration: 141.0
+12-29 06:06:32.244   796  5355 D Profiler: perf.扫描性能测试.getNewEntities完成 duration: 141.0
+12-29 06:06:32.245   796  5355 D Profiler: perf.过滤时长.begin 1451369192245
+12-29 06:06:32.245   796  5355 D Profiler: perf.扫描性能测试.getSongIds完成 duration: 142.0
+12-29 06:06:32.245   796  5355 D Profiler: perf.扫描性能测试.getID3完成 duration: 142.0
+12-29 06:06:32.245   796  5355 D Profiler: perf.过滤时长.end duration: 0.0
+12-29 06:06:32.245   796  5355 D Profiler: perf.扫描性能测试.自动后过滤分类完成 duration: 142.0
+12-29 06:06:32.245   796  5355 D Profiler: perf.scanner_speed_test.process auto scan result Finish. duration: 142.0
+12-29 06:06:32.245   796  5355 D Profiler: perf.扫描性能测试.入库开始 duration: 142.0
+12-29 06:06:32.245   796  5355 D Profiler: perf.scanner_speed_test.save to repository result start. duration: 142.0
+12-29 06:06:32.248   796  5355 D Profiler: perf.scanner_speed_test.save to repository result finish. duration: 145.0
+12-29 06:06:32.248   796  5355 D Profiler: perf.扫描性能测试.入库完成 duration: 145.0
+12-29 06:06:32.248   796  5355 D LogPoint: scansongs-2|scan songs in table|<11509120135643>
+12-29 06:06:32.248   796  5355 D Profiler: perf.scanner_speed_test.update UI. duration: 145.0
+12-29 06:06:32.248   796  5355 D Profiler: perf.扫描性能测试.更新界面 duration: 145.0
+12-29 06:06:32.248   796  5355 D Profiler: perf.扫描性能测试.end duration: 145.0
+12-29 06:06:32.248   796  5355 D Profiler: perf.1_APP_SCAN_LOCAL_FINISH.end duration: 145.0
+12-29 06:06:32.248   796  5355 D Profiler: perf.scanner_speed_test.Scan Songs From Disk Finish. duration: 145.0
+12-29 06:06:32.248   796  5355 I FILE_SCANER: reset
+12-29 06:06:32.249   796   796 D LogPoint: scansongs-3|scan songs flush ui|<11509120990463>
+12-29 06:06:32.250  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.250   796  5357 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.251  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.251   796  5357 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.251  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.251   796  5357 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.252  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:32.252   796  5357 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:32.471   796  5347 D AutoLyricLoadHelper: <?xml version="1.0" encoding="utf-8"?>
+12-29 06:06:32.471   796  5347 D AutoLyricLoadHelper: <root>
+12-29 06:06:32.471   796  5347 D AutoLyricLoadHelper: <meta><uid>3288301264</uid><cid>111</cid><v>5080018</v><ret>0</ret><num>1</num><cmd>0</cmd><rewrite>1</rewrite></meta><body><item><songid>1113359</songid><singerid>171</singerid><albumid>94682</albumid><song>54Gr6bif</song><singer>5p2o5Y2D5ayF</singer><album>54Gr6bif</album><songTran></songTran><singerTran>TWlyaWFtIFlldW5n</singerTran><albumTran></albumTran><duration>215</duration><action>509</action><docid></docid><song_type>0</song_type><hq>8613333</hq><sq>21158428</sq><aacsize>0</aacsize><size128>3445552</size128><payTrackMonth>0</payTrackMonth><payTrackPrice>0</payTrackPrice><payAlbumPrice>0</payAlbumPrice><payPlay>0</payPlay><payDownload>0</payDownload><payStatus>0</payStatus><trySize>0</trySize><tryBegin>0</tryBegin><tryEnd>0</tryEnd><switch>65537</switch><alert>0</alert><mvid>i0011l5wqc5</mvid><kmid>003vo8UT3fiyFw</kmid><songmid>001zqDeq11CI9l</songmid><singermid>000xogLP35ayzS</singermid><albummid>001EaXAO16tJhY</albummid><type>36</type><lrc></lrc><qrc>31684E1988FDA2085A99ED7FA769C446F215D9D4DE30F82C150E32FDE7561B369DAE413B5FBB55A4FD012418F0961D6B906A4FBBCDEA5FE37EBF90E7ACDAB6149EDF05BBC54F5BAA7337F76CAAC3EECFB4EDA8A49795662448A65E892F8DB1C4E8A1D2892DEE811E6F68E8EDDBAB9BAB1CE49F38EE711D9A2673235DE9DBBA0CF5594C664D48404EB4F14CE44E9F0B89A0F1E92E5A6E56D97DE924C874165EDD8B84F2B4570495628A721808A21FA4E04AC8EBF4808B5533535750ADC30C5B070A8880BEE067617FDF4FDA3C2C27E0AC1344A9A19FE16FA34E03076F9C41A9A2C4E8DEA04E127456E98822C121CFDACB563FCA7E06276CF0B8110C833C79AEAEABE12CB548EDF55AE64A8B80122D121C0E58AF7426D8479BCE972D3680AD6F8F0E0C0C1F1E2DFF9EC984EC525D3E6755CC37AC7B2C6FB6148CD27EA7D2B642AB2072E8ECBE27A01560FBEC776A5974A7F8CDB383580E3679E180D1E144E10F309D02963C6705AF5F2F278E52659CC82944EF2FEF2D28A5B9547D42EB057EC43E9DADF931F4303461C9DEA65B2DA9507EDB9A6CC5FB4EACB3589BE2F1D2AECEDA40083EA6C0F605D96794DEBB46844904AEE320E547371E8EF71D5C00D385476FD3E721B842F091C8796A22CA31AA85A88CB554F48715EE0F4FD1672611B892927C0F5CF71F7B1242087A3D6A4FE8452A560B40AA800EAC031FEFA4FCD2E9F955D48C65F7AAA29064A70A5B76B222451EA004033A7DFC08C92DAE3CF1941A1CC2FE458BA3F360990E241E7D6AC6B2D2A96795F84434805F4157F743F06265096692EB5D27BC52C30062B0EE3B4EBC81D44A1D68BB873C3FE0807752FC0F9728F60DEA3B078C1C41390E70A20826768E2A49CE9D24396128FF09220ADB4D9C3095362FBE2948B1206B6CD6558CC9B0B5973CB252527B65D658E265F42F754EA09268E7908A4FC20383595E3B2A7678F5AA4A51A2FEAE575A35641573E50D6CA9F46899856B15C174BCB595E1094397D3F9B713CD0F22A0E9F37E0F4833C3371B4C3E3442A2F06176F5E54C2D47663F794DC9579CA9941910521C25D54A92D5802146BEA4DC9580C3BEAEEA522692D3CC8AF37513E13166904805464FFB4693FBD5F8D2DA8351C207057C2D12A88C51BAC35FE20D4D298616A2746F9AEA7413AE4CA57B3E1C2D6E2B2869F2423EB94E4BBAB87A2CB5CA780DDF49DBB233D91DE928A6E1457A13245745B8D9BA236C2A16D4B4C756D3D38605D1F1403768091BBEA904966D9A66437556662AFAD74B6A5A8FDCF65433B8E1E9544B44C16B71E2B489BFD860A81A9871FF0529AA398836B6EC0FC96BC6AB134A05CDABC516D9D7CBA1DE162A9A9700F14B089ACC883F7227C657DAD96FD95715082D46D464F5F171D5B844C737473BEFF5153BE6866E3752D5B04F18A82127AAD412F170AC551F2359691A18E82C54F19648EDFE97B52B466803F3E90134BDF0C12CFDA45EFF4D4A1B4C3754680DC163FDAC1453836AEE470C1F185168ED94A7C34FB115751C1F08EFABDE02F64F31095F77FB13994D8D35C1D1D3A82C4555DEAE00D8BCF0B3D9A70A45147ACDA720103F4F1F4CEEF4AD6B03941CE9432EA0EC6AD778DC5679B1CA16C6669F4A1DE52217564912FF5E2AD98EEDD2F3346CCECB56F420234AD8B62C5EC81D4DC7E1C35BB14CA38BB70BDC71C4AEF7B844755829368A6C87C8D54497D978EBA3019C8D347C74F21576FA689EBE64D692F3BBF31A8D1DD3AE24BEA1C4CA5604B9032A0ACC7199141CCB79B6C5B1AE8AB4CBA0AD8AE25E9C72B728A186964E224933691AD4996D71ECFA15A7F796A5D26CD97502F3F92EBD8D3DA0B02349664EFBBA99BF7A9AACF1C39F1BA883A0489F762DA038C5C7BAD2BD880D04AEF9509F5F4E0D724E4AECDC09A91685B7DCE92CB259A9BAC53CD9D28D722546855F7E6BC8F7E92CFE03853B423B64B9B95EEFE897A32F3143D29846DF194F4B5038E12DFE066D9B3994A2B70C7B236760CE70211A81CB0000BA71F0C838AC077646EC4A679D00971F6F51DA9109AEF8214849BFAE3A57C69F62C31748046D813ED4266B173FC99F2C350D34E50FF29BB86931844B869F85CCAB88FF5C028C00EE98432CC34122535E88563D6D5
+12-29 06:06:32.474   796  1321 D houdini : [1321] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libdesdecrypt.so for ClassLoader by Native Bridge.
+12-29 06:06:32.483   796  1321 E QRCDesDecrypt: put cache key = key_-173583333
+12-29 06:06:32.495   796  1321 E QRCDesDecrypt: put cache key = key_-1421410523
+12-29 06:06:32.506   796   917 E QRCDesDecrypt: doDecryptionLyric pid = 796key = key_-173583333,hit cache,return
+12-29 06:06:32.981  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:33.144  5425  5425 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:33.179   796   796 I Delta   : [+1001] step G , total: 1739390
+12-29 06:06:33.187   796   796 D HorizontalScrollTab: getParent width = 1008
+12-29 06:06:33.187   796   796 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/color_t8.xml , cost:0
+12-29 06:06:33.188   796   796 D Profiler: perf.RecommendFragment_ON_ATTACH_TO_ON_RESUME.begin 1451369193188
+12-29 06:06:33.188   796   796 I Delta   : [+9] create recommend view , total: 1739399
+12-29 06:06:33.192   796   796 I Delta   : [+4] create recommend view end , total: 1739403
+12-29 06:06:33.192   796   796 D Profiler: perf.RecommendFragment_ON_ATTACH_TO_ON_RESUME.end duration: 4.0
+12-29 06:06:33.193   796   796 D LogPoint: musicHall#tab-0|get data start|<11510065040673>
+12-29 06:06:33.193   796   796 D Profiler: perf.RankHallFragment_ON_ATTACH_TO_ON_RESUME.begin 1451369193193
+12-29 06:06:33.193   796   796 I Delta   : [+1] create rank view , total: 1739404
+12-29 06:06:33.194   796   796 I Delta   : [+1] create rank view end , total: 1739405
+12-29 06:06:33.194   796   796 D Profiler: perf.RankHallFragment_ON_ATTACH_TO_ON_RESUME.end duration: 1.0
+12-29 06:06:33.195   796   796 D LogPoint: musicHall#tab-6|get data start|<11510067030984>
+12-29 06:06:33.195   796   796 I Delta   : [+1] step G end , total: 1739406
+12-29 06:06:33.292   796  1346 D LogPoint: musicHall#tab-7|return data start|<11510164520534>
+12-29 06:06:33.308  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.309   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.309  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.309   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.309  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.309   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.309  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.309   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.309  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.309   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.309  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.310   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.310  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.310   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.310  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.310   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.310  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.310   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.311  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.311   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.311  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.311   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.311  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.311   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.311  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.311   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.311  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.311   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.311  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.311   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.312  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.312   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.312  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.312   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.312  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.312   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.313  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.313   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.313  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.313   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.314   796  5348 D LogPoint: musicHall#tab-1|return data start|<11510186626346>
+12-29 06:06:33.316   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://i.gtimg.cn/music/common/upload/t_musichall_pic/1436952101168137030.png And picinfo date is :{"srcpic":"http://i.gtimg.cn/music/common/upload/t_musichall_pic/1436952101168137030.png"}
+12-29 06:06:33.316   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://i.gtimg.cn/music/common/upload/t_musichall_pic/1436952067776137030.png And picinfo date is :{"srcpic":"http://i.gtimg.cn/music/common/upload/t_musichall_pic/1436952067776137030.png"}
+12-29 06:06:33.316   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://i.gtimg.cn/music/common/upload/t_musichall_pic/1436952082777170150.png And picinfo date is :{"srcpic":"http://i.gtimg.cn/music/common/upload/t_musichall_pic/1436952082777170150.png"}
+12-29 06:06:33.317   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_shengdian/1451310484570226790.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_shengdian/1451310484570226790.jpg"}
+12-29 06:06:33.317   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_debut_single_lan/1451298981353226790.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_debut_single_lan/1451298981353226790.jpg"}
+12-29 06:06:33.317   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T002R300x300M000004Tvu0F207cps.jpg And picinfo date is :{"m":"M000","mid":"004Tvu0F207cps","size":["150x150","300x300"],"srcpic":"http://imgcache.qq.com/music/photo_new/T002R300x300M000004Tvu0F207cps.jpg","type":"T002"}
+12-29 06:06:33.317   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T002R300x300M000000pkzzu0dJgnx.jpg And picinfo date is :{"m":"M000","mid":"000pkzzu0dJgnx","size":["150x150","300x300"],"srcpic":"http://imgcache.qq.com/music/photo_new/T002R300x300M000000pkzzu0dJgnx.jpg","type":"T002"}
+12-29 06:06:33.318   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000004Z59Ao47kH2o.jpg And picinfo date is :{"m":"M000","mid":"004Z59Ao47kH2o","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/VV0r92V7YpdU50dyfViaLvtkcg7e0bTuPGRuzYSk4nQoBqzlTJ8icJ4Q/300?n=1","type":"T006"}
+12-29 06:06:33.319   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000003t8mA03GJctO.jpg And picinfo date is :{"m":"M000","mid":"003t8mA03GJctO","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/lf1r0g4UylyZHjvIIYZ5RE68cSbPBM64ovO7dax79hWibxxv1gticUTg/300?n=1","type":"T006"}
+12-29 06:06:33.319   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000003dsfqX24SK1E.jpg And picinfo date is :{"m":"M000","mid":"003dsfqX24SK1E","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/GqOe2D3GoaJLoorsX3hp0lZmNlxibwRELPgdVzEMqrwmIMfH4D18u1A/300?n=1","type":"T006"}
+12-29 06:06:33.319   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M00000062wkr3VQaGy.jpg And picinfo date is :{"m":"M000","mid":"00062wkr3VQaGy","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/5EZ4tCd98UpfE2mEHibdribiazolGxHhJfwLL4gzygENetzh2e9ttwN5w/300?n=1","type":"T006"}
+12-29 06:06:33.320   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000004Y3UN32fWgln.jpg And picinfo date is :{"m":"M000","mid":"004Y3UN32fWgln","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/axb263zuP8AetVPTFIM2qsdpAVibcCpL9nMyrIlHicIzLDZUpNmjZqzw/300?n=1","type":"T006"}
+12-29 06:06:33.320   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M0000044rbvo3tDyhY.jpg And picinfo date is :{"m":"M000","mid":"0044rbvo3tDyhY","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/PiajxSqBRaELYnC3MAkziaU05FFDbnXcwYQKsoicwad5X8/300?n=1","type":"T006"}
+12-29 06:06:33.320   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000000NW7P3322bi4.jpg And picinfo date is :{"m":"M000","mid":"000NW7P3322bi4","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/anUUDT6sibJtWzOoDS2UFO03reEds4n5rOgeoTqCxwKL2NdicXzwCgnA/300?n=1","type":"T006"}
+12-29 06:06:33.321   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000004Gi2f62zCYI5.jpg And picinfo date is :{"m":"M000","mid":"004Gi2f62zCYI5","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/1dm18V48HlASic5yHAFRaInJcGWrhDEzDkRVmSAQWhVusIIzAU5T0mw/300?n=1","type":"T006"}
+12-29 06:06:33.321   796  5411 D Profiler: perf.PlayEventBus.begin 1451369193321
+12-29 06:06:33.321   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M0000024TaUY4dbNCD.jpg And picinfo date is :{"m":"M000","mid":"0024TaUY4dbNCD","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/xjBX9k8QoGbAUicX1ialfQPCXCcNPBU7REGTrYicntUyc4lopPicOma9Ng/300?n=1","type":"T006"}
+12-29 06:06:33.321   796  5411 D Profiler: perf.PlayEventBus.begin 1451369193321
+12-29 06:06:33.322   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000003xbYW34UBjGQ.jpg And picinfo date is :{"m":"M000","mid":"003xbYW34UBjGQ","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/EaMuZw6CrPnK1caYEakpSJVnRZKyfQalNxCcFIJPm0vRAjs5MlD3Mg/300?n=1","type":"T006"}
+12-29 06:06:33.322   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000000b9GkI4CH3UB.jpg And picinfo date is :{"m":"M000","mid":"000b9GkI4CH3UB","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/ZrLMIRjQae1EuBxKAetniblV0MNB2KRWd5bicU9ZpmE1GfGQGXH8wwyg/300?n=1","type":"T006"}
+12-29 06:06:33.322   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T006R300x300M000002HYZKB1un26P.jpg And picinfo date is :{"m":"M000","mid":"002HYZKB1un26P","size":["150x150","300x300"],"srcpic":"http://p.qpic.cn/music_cover/N981xWR5WSyQKHfq59elvtMIib2icu5gFo53a3AVwo0iaLOMFLiaMOKLPA/300?n=1","type":"T006"}
+12-29 06:06:33.322   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=202, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_PLAYSONG_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 1.0
+12-29 06:06:33.323   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/THEME_CHANNEL_SETTINGS/20151223172805.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/THEME_CHANNEL_SETTINGS/20151223172805.jpg"}
+12-29 06:06:33.323   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/THEME_CHANNEL_SETTINGS/20151225145350.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/THEME_CHANNEL_SETTINGS/20151225145350.jpg"}
+12-29 06:06:33.323   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/THEME_CHANNEL_SETTINGS/20151225153232.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/THEME_CHANNEL_SETTINGS/20151225153232.jpg"}
+12-29 06:06:33.323   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/photo_new/T002R300x300M000001hBGK00bVj9R.jpg And picinfo date is :{"m":"M000","mid":"001hBGK00bVj9R","size":["150x150","300x300"],"srcpic":"http://imgcache.qq.com/music/photo/album_300/27/300_albumpic_1220127_0.jpg","type":"T002"}
+12-29 06:06:33.323   796   796 D Profiler: perf.PlayEventBus.player get message duration: 2.0
+12-29 06:06:33.324   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common//upload/t_yinyueren/1439817707897324850.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common//upload/t_yinyueren/1439817707897324850.jpg"}
+12-29 06:06:33.324   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450969033950309250.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450969033950309250.jpg"}
+12-29 06:06:33.324   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450885363238257640.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450885363238257640.jpg"}
+12-29 06:06:33.324   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1451360113403145770.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1451360113403145770.jpg"}
+12-29 06:06:33.325   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1451302830826226790.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1451302830826226790.jpg"}
+12-29 06:06:33.325   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450919669560202070.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450919669560202070.jpg"}
+12-29 06:06:33.325   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1451360863796145770.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1451360863796145770.jpg"}
+12-29 06:06:33.325   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450429892776081060.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450429892776081060.jpg"}
+12-29 06:06:33.325   796   917 E QRCDesDecrypt: doDecryptionLyric pid = 796key = key_-173583333,hit cache,return
+12-29 06:06:33.325   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450341354768291220.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1450341354768291220.jpg"}
+12-29 06:06:33.325   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1449478351204027850.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1449478351204027850.jpg"}
+12-29 06:06:33.326   796  5348 D PicInfo : In MusicHallSubContentJsonParser of MusicHallRecommandJsonResponse, picinfo is : http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1448421719677018120.jpg And picinfo date is :{"srcpic":"http://imgcache.qq.com/music/common/upload/t_musichall_tuijian_feature/1448421719677018120.jpg"}
+12-29 06:06:33.330   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=201, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_PLAYLIST_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 9.0
+12-29 06:06:33.335   796   796 D Profiler: perf.PlayEventBus.player get message duration: 14.0
+12-29 06:06:33.345   796   796 D RecommendListAdapter: use old = false,time = 0,holder = e
+12-29 06:06:33.346   796   796 D RecommendListAdapter: use old = false,time = 1,holder = b
+12-29 06:06:33.347   796   796 D RecommendListAdapter: use old = false,time = 0,holder = e
+12-29 06:06:33.349   796   796 D RecommendListAdapter: use old = false,time = 2,holder = d
+12-29 06:06:33.350   796   796 D RecommendListAdapter: use old = false,time = 0,holder = x
+12-29 06:06:33.351   796   796 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/color_t7.xml , cost:0
+12-29 06:06:33.352   796   796 D RecommendListAdapter: use old = false,time = 1,holder = w
+12-29 06:06:33.353   796   796 D RecommendListAdapter: use old = false,time = 0,holder = x
+12-29 06:06:33.355   796   796 D RecommendListAdapter: use old = false,time = 1,holder = w
+12-29 06:06:33.372  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.372   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.372  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.373   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.373  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.373   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.373  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.373   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.374  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.374   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.374  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.374   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.374  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.374   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.374  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.374   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.393  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.393   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.393  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.393   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.393  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.393   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.394  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.394   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.394  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.394   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.394  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.394   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.394  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.394   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.395  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.395   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.452  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.452   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.452  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.452   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.453  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.453   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.453  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.453   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.454  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.454   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.454  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.454   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.454  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.454   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.454  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.454   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.475  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.475   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.475  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.475   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.475  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.475   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.475  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.475   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.476  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.476   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.476  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.476   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.476  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.476   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.477  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.477   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.477  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.477   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.477  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.477   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.477  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.477   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.477  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.477   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.533  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.533   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.534  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.534   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.534  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.534   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.534  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.534   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.535  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.535   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.535  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.535   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.535  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.535   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.535  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.535   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.614  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.614   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.614  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.614   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.615  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.615   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.615  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.615   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.616  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.616   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.616  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.616   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.616  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.616   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.616  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.616   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.689  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.689   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.689  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.689   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.690  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.690   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.690  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.690   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.690  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.690   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.691  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.691   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.691  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.691   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.691  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.691   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.878  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.878   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.878  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.878   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.878  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.879   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.879  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.879   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.879  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.879   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.880  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.880   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.880  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.880   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.880  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.880   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.880  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.880   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.881  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.881   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.881  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.881   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.881  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:33.881   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:33.983  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:34.984  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:35.986  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:36.989  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:37.129   796   796 E SkinProtocol: url is http://proxy.music.qq.com/base/fcgi-bin/fcg_skin.fcg
+12-29 06:06:37.129   796   796 E SkinProtocol: sendXml is <cid>205360319</cid><uid>3288301264</uid><sid>201512291338343288301264</sid><OpenUDID>0000000002e716f60033c5d7ec37dfaf</OpenUDID><opt>3</opt><sin>0</sin><len>100</len><ct>11</ct><cv>5080018</cv>
+12-29 06:06:37.991  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:38.154  5429  5429 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:38.994  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:39.657   796   796 W eup     : 'setLogAble(boolean)' is true , so running in debug model , close it when you release!
+12-29 06:06:39.657   796   796 D eup     : rqdp{  init cominfo}
+12-29 06:06:39.658   796   796 I eup     : rqdp{  version:} 5.8.0.18
+12-29 06:06:39.658  2169 20952 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:39.658   796   796 D eup     : set sha1 5.8.0.18294
+12-29 06:06:39.658   796   796 D eup     : setsofile libvad.so armeabi ea891f09f33b0340fead5b0c7a87265804a3307c
+12-29 06:06:39.658   796   796 D eup     : setsofile libwtecdh.so armeabi c7063df20f11590003ceac47581347dac3938ea6
+12-29 06:06:39.658   796   796 D eup     : setsofile libfilescanner.so armeabi e0a424fddd78fb1ee51cfe7eb47f861e9566f651
+12-29 06:06:39.658   796   796 D eup     : setsofile libfingerprintV2jni.so armeabi a565c837fc539e7e8de98eb9e9c31af7fa26aa44
+12-29 06:06:39.658   796   796 D eup     : setsofile libdalvik_patch.so armeabi c00fedfc2d2791227579cf6c2ccf45abddf97e1a
+12-29 06:06:39.658   796   796 D eup     : setsofile libsta_jni.so armeabi c481725f3c498bb59d2b1b5578775687777a7d2c
+12-29 06:06:39.658   796   796 D eup     : setsofile libfingerprintjni.so armeabi 13c223e315a7edd34ff27a48dfd82da8a508a3bf
+12-29 06:06:39.658   796   796 D eup     : setsofile libNativeRQD.so armeabi de7770d2256ec71a458afdd58344a85c9784e518
+12-29 06:06:39.658   796   796 D eup     : setsofile libimage_filter_common.so armeabi f9b5df2a273f934f299ee62f6865f3df11e8bd96
+12-29 06:06:39.658   796   796 D eup     : setsofile libinh.so armeabi 4a0937f2e5c11003e6dd5447473c677f84cf139e
+12-29 06:06:39.658   796   796 D eup     : setsofile libWXVoice.so armeabi 52dd89487aea3289b5c06837f9d32c8496a31660
+12-29 06:06:39.658   796   796 D eup     : setsofile libQPlayAuto.so armeabi fdf2e6603ad9ade63d6a754ad2ea99e15d60a072
+12-29 06:06:39.658   796   796 D eup     : setsofile libsearch.so armeabi 205ebffad915fe3fe809fa60a120d5e8bfa862f6
+12-29 06:06:39.658   796   796 D eup     : setsofile libTUpdateService.so armeabi da8492ebfd84b7aaa5665cd3ab3a0c7255e2116d
+12-29 06:06:39.658   796   796 D eup     : setsofile libmresearch.so armeabi 7399f79660db8aafd028113d65060480373813bd
+12-29 06:06:39.658   796   796 D eup     : setsofile libQQMMANDKSignature.so armeabi b836a03cf5bec21e3e1d59c59090502603f1c280
+12-29 06:06:39.658   796   796 D eup     : setsofile libwnsnetwork.so armeabi 9dc03eb11972e16db00f227d96338950086fcf6b
+12-29 06:06:39.658   796   796 D eup     : setsofile libupnp-jni.so armeabi aa52904393f0970773505d6679f93518fceaa74f
+12-29 06:06:39.658   796   796 D eup     : setsofile libnetworkbase.so armeabi a0e8db20a0c33ab4ec13a667431ff64ba5f4f52c
+12-29 06:06:39.658   796   796 D eup     : setsofile libpbpinyin.so armeabi 8671c35252282defa7f80e555b636fe91dc7e5d8
+12-29 06:06:39.659   796   796 D eup     : setsofile libtmfe30.so armeabi bdaf4a86046b9a43948106f013e931857c689cd3
+12-29 06:06:39.659   796   796 D eup     : setsofile libPlayerCore_neon.so armeabi ca1dfffe4214c18df6f511c12b125e1345e16d31
+12-29 06:06:39.659   796   796 D eup     : setsofile libdesdecrypt.so armeabi 945d63ce54c8fce706811314eedd1090db91656d
+12-29 06:06:39.659   796   796 D eup     : setsofile libexpress_verify.so armeabi a51c6f53042524b6b39105ba8501caa99f2eb828
+12-29 06:06:39.659   796   796 D eup     : setsofile libimage_filter_gpu.so armeabi f4ab2a1bfc308442d5350e9390b85720e6f4625a
+12-29 06:06:39.659   796   796 D eup     : setsofile libckey.so armeabi d800c5f033823b739b41a67cca48824c6822d7a1
+12-29 06:06:39.659   796   796 D eup     : setsofile libckeygenerator.so armeabi 52795e793ff5d1ae9596263f9b990e493c3a3bf1
+12-29 06:06:39.659   796   796 D eup     : setsofile libSongUrlFactory.so armeabi 372fe054c2427076f2970f8a446aaa8801846806
+12-29 06:06:39.659   796   796 D eup     : setsofile libh.so armeabi ba2ff2c65d7aac33aa94abc40ea0af796b43ba05
+12-29 06:06:39.659   796   796 D eup     : setsofile libTxCodec_neon.so armeabi c47ee08f2acb9afe9d6f386f3b923516b05468f8
+12-29 06:06:39.659   796   796 D eup     : setsofile libFormatDetector.so armeabi ce98b51d1a1f882572e3acaa0039d4d1c1ddf143
+12-29 06:06:39.659   796   796 D eup     : setted so count 31
+12-29 06:06:39.660   796   917 D eup     : rqdp{  create uphandler up:}true
+12-29 06:06:39.660   796   917 I eup     : rqdp{  eup create instance}
+12-29 06:06:39.661   796   917 D eup     : rqdp{  cus eupstrategy} [MSNum:10 ,Wifi:10,GPRS:3,ODay:10,isMerged:true,AfQ:false,Silent:true,mLog:300,tag:null,assert:false, interval:50, limit:60]
+12-29 06:06:39.662   796   917 I eup     : rqdp{  mid:}3 rqdp{  change user switch} true
+12-29 06:06:39.662   796   917 I eup     : rqdp{ eup regist}
+12-29 06:06:39.664   796   917 D houdini : [917] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libNativeRQD.so for ClassLoader by Native Bridge.
+12-29 06:06:39.664   796   917 I eup     : load lib sucess default!
+12-29 06:06:39.665   796   917 I eup     : add clean task to query listener
+12-29 06:06:39.665   796   917 E art     : No implementation found for java.lang.String com.tencent.feedback.eup.jni.NativeExceptionUpload.registNativeExceptionHandler2(java.lang.String, java.lang.String, int, int) (tried Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2 and Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2__Ljava_lang_String_2Ljava_lang_String_2II)
+12-29 06:06:39.665   796  5430 D eup     : rqdp{  parse bean}
+12-29 06:06:39.665   796   917 W eup     : regist fail:No implementation found for java.lang.String com.tencent.feedback.eup.jni.NativeExceptionUpload.registNativeExceptionHandler2(java.lang.String, java.lang.String, int, int) (tried Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2 and Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler2__Ljava_lang_String_2Ljava_lang_String_2II) , try old regist
+12-29 06:06:39.665   796  5430 D eup     : rqdp{  read strategy key:}300
+12-29 06:06:39.665   796   917 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler start
+12-29 06:06:39.666   796   917 I native_eup: found native exception upload!
+12-29 06:06:39.666   796   917 I native_eup: found native exception handler!
+12-29 06:06:39.666   796  5430 D eup     : rqdp{  useSStrategy changed to} false
+12-29 06:06:39.666   796  5430 D eup     : rqdp{  url same to} http://monitor.uu.qq.com/analytics/upload
+12-29 06:06:39.666   796  5430 D eup     : rqdp{  upStrategy changed to} 3
+12-29 06:06:39.666   796  5430 D eup     : rqdp{  za changed:}2
+12-29 06:06:39.667   796  5430 D eup     : rqdp{  mid:}3 rqdp{  , need detail changed:}true 
+12-29 06:06:39.667   796  5430 D eup     : rqdp{  mid:}3 rqdp{  , url same:}http://monitor.uu.qq.com/analytics/upload
+12-29 06:06:39.667   796   917 I native_eup: regist handler start procType 1 , level 22 , tombDir:/storage/emulated/0/qqmusic/eup/
+12-29 06:06:39.667   796  5430 W eup     : rqdp{  imposiable! module base strategy not ready! mId:}1
+12-29 06:06:39.667   796  5430 W eup     : rqdp{  imposiable! module base strategy not ready! mId:}2
+12-29 06:06:39.667   796  5430 D eup     : rqdp{  com strategy changed notify!}
+12-29 06:06:39.667   796  5430 D eup     : rqdp{  com strateyg changed }class com.tencent.feedback.eup.n
+12-29 06:06:39.667   796   917 I native_eup: registSignal start
+12-29 06:06:39.667   796  5430 D eup     : rqdp{  common strategy setted by history}
+12-29 06:06:39.667   796  5430 I eup     : rqdp{  onlaunch}
+12-29 06:06:39.667   796  5430 D eup     : rqdp{  step }1
+12-29 06:06:39.667   796   917 I native_eup: registSignal end
+12-29 06:06:39.667   796   917 I native_eup: regist handler end
+12-29 06:06:39.667   796   917 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_registNativeExceptionHandler end
+12-29 06:06:39.667   796  5430 D eup     : rqdp{  FileDAO.query() start query name:}/data/app/com.tencent.qqmusic-1/base.apk rqdp{   , type}:0 rqdp{  , num:}10 
+12-29 06:06:39.667   796   917 I native_eup: NativeRQDVersion:NRQD_1.7
+12-29 06:06:39.667   796   917 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_enableHandler start
+12-29 06:06:39.667   796   917 I native_eup: Java_com_tencent_feedback_eup_jni_NativeExceptionUpload_enableHandler end
+12-29 06:06:39.669   796  5430 D eup     : rqdp{  queryFile: n:}/data/app/com.tencent.qqmusic-1/base.apk rqdp{  , sha:}5.8.0.18294 rqdp{  , tp:}0 rqdp{  ,arh:}5.8.0.18
+12-29 06:06:39.669   796  5430 D eup     : rqdp{  FileDAO.query() end success} 1
+12-29 06:06:39.669   796  5430 D eup     : rqdp{  queryFile result num } 1
+12-29 06:06:39.669   796  5430 D eup     : rqdp{  on Query Start}
+12-29 06:06:39.669   796  5430 D eup     : rqdp{  step }2
+12-29 06:06:39.669   796  5430 D eup     : rqdp{  notify Query Start}
+12-29 06:06:39.669   796  5430 D eup     : rqdp{  com query start }class com.tencent.feedback.eup.n
+12-29 06:06:39.670  2169 13566 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:39.670   796  5430 D eup     : rqdp{ next day 64401000}
+12-29 06:06:39.670   796  5430 I eup     : lastUpdate:1451367000348 ,return not query
+12-29 06:06:39.670   796  5430 D eup     : rqdp{  on query end!}
+12-29 06:06:39.670   796  5430 D eup     : rqdp{  step }3
+12-29 06:06:39.670   796  5430 D eup     : rqdp{  notify Query end}
+12-29 06:06:39.670   796  5430 D eup     : rqdp{  com query end }class com.tencent.feedback.eup.n
+12-29 06:06:39.670   796  5430 D eup     : rqdp{  step after query}
+12-29 06:06:39.670   796  5430 D eup     : rqdp{  isable}
+12-29 06:06:39.672   796  5430 D eup     : rqdp{  parse bean}
+12-29 06:06:39.672   796  5430 D eup     : rqdp{  read strategy key:}302
+12-29 06:06:39.672   796  5430 D eup     : rqdp{  init eup sStrategy by uStrategy}
+12-29 06:06:39.672   796  5430 D eup     : rqdp{  is merged changed} false
+12-29 06:06:39.672   796  5430 D eup     : rqdp{ Assert enable changed: } true
+12-29 06:06:39.672   796  5430 D eup     : crashstrategy vmap size:3
+12-29 06:06:39.672   796  5430 D eup     : key isBroadcast
+12-29 06:06:39.672   796  5430 D eup     : key isAnr
+12-29 06:06:39.672   796  5430 D eup     : key isReceiveBroadcast
+12-29 06:06:39.672   796  5430 D eup     : true
+12-29 06:06:39.672   796  5430 D eup     : false
+12-29 06:06:39.672   796  5430 D eup     : false
+12-29 06:06:39.672   796  5430 D eup     : rqdp{  crashStrategy}[]
+12-29 06:06:39.672   796  5430 D eup     : rqdp{  needDetail} true rqdp{  allQ:}false rqdp{  result:}false
+12-29 06:06:39.672   796  5430 D eup     : rqdp{  in merge}
+12-29 06:06:39.673   796  5430 D eup     : rqdp{  getEupInMe}
+12-29 06:06:39.673   796   917 I native_eup: setLogMode 3 current 4
+12-29 06:06:39.673   796  5430 D eup     : rqdp{  EUPDAO.queryEupRecent() start}
+12-29 06:06:39.673   796  5430 D eup     : rqdp{  in AnalyticsDAO.query() start}
+12-29 06:06:39.673   796  5430 D eup     : rqdp{  query}  ( _type = 1 or _type = 2 )  and _upCounts <= 3  and _time >= 1451347200000  and _state = 0 
+12-29 06:06:39.675   796  5430 D eup     : rqdp{  in AnalyticsDAO.query() end}
+12-29 06:06:39.675   796  5430 D eup     : rqdp{  EUPDAO.queryEupRecent() start}
+12-29 06:06:39.675   796  5430 D eup     : rqdp{  in AnalyticsDAO.query() start}
+12-29 06:06:39.675   796  5430 D eup     : rqdp{  query}  ( _type = 1 or _type = 2 )  and _count >= 2  and _upCounts <= 3  and _time <= 1451347200000 
+12-29 06:06:39.677   796  5430 D eup     : rqdp{  in AnalyticsDAO.query() end}
+12-29 06:06:39.677   796  5430 D eup     : rqdp{  EUPDAO.queryEupRecent() start}
+12-29 06:06:39.677   796  5430 D eup     : rqdp{  in AnalyticsDAO.query() start}
+12-29 06:06:39.677   796  5430 D eup     : rqdp{  query}  ( _type = 1 or _type = 2 )  and _count >= 0  and _count <= 1  and _time >= 3  and _time <= 1451347200000  and _state = 0 
+12-29 06:06:39.679   796  5430 D eup     : rqdp{  in AnalyticsDAO.query() end}
+12-29 06:06:39.679   796  5430 D eup     : rqdp{  EUPDAO.insertOrUpdateEupList() start}
+12-29 06:06:39.679   796  5430 W eup     : rqdp{  context == null ||| list == null || list.size() <= 0,pls check}
+12-29 06:06:39.679   796  5430 D eup     : rqdp{  EUPDAO.deleteEup() start}
+12-29 06:06:39.679   796  5430 D eup     : rqdp{  AnalyticsDAO.delete() start}
+12-29 06:06:39.679   796  5430 D eup     : rqdp{  delete where: }_time >= -1 and _time <= 9223372036854775807 and _upCounts >= 3 and ( _type = 1 or _type = 2 )
+12-29 06:06:39.680   796  5430 D eup     : rqdp{  deleted num: }0
+12-29 06:06:39.680   796  5430 D eup     : rqdp{  AnalyticsDAO.delete() end}
+12-29 06:06:39.680   796  5430 D eup     : remove fail updata num :0
+12-29 06:06:39.680   796  5430 I eup     : close brocast!
+12-29 06:06:39.680   796  5430 I eup     : on query end clear
+12-29 06:06:39.680   796  5430 I eup     : rqdp{ start to find native record}
+12-29 06:06:39.681   796  5430 I eup     : rqdp{  start to clean} tomb_.* rqdp{  in dir} /storage/emulated/0/qqmusic/eup rqdp{  which time <} 1450483200000 rqdp{  and max file nums should <} 10
+12-29 06:06:39.681   796  5430 I eup     : rqdp{  clean end!}
+12-29 06:06:39.681   796  5430 D eup     : rqdp{  next time} 21600000
+12-29 06:06:39.681   796  5430 D eup     : rqdp{  step }4
+12-29 06:06:39.947  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:39.951   796   796 D Profiler: perf.RecentPlaylistFragment_ON_ATTACH_TO_ON_RESUME.begin 1451369199951
+12-29 06:06:39.952   796   796 D SkinEngine: load colorList:/data/data/com.tencent.qqmusic/skin/2/res/color/color_b2.xml , cost:0
+12-29 06:06:39.960  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 06:06:39.978   796   796 D Profiler: perf.RecentPlaylistFragment_ON_ATTACH_TO_ON_RESUME.end duration: 27.0
+12-29 06:06:39.997  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:40.999  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:41.687  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:41.705   796   917 D houdini : [917] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libSongUrlFactory.so for ClassLoader by Native Bridge.
+12-29 06:06:41.718   796  5411 D Profiler: perf.PlayEventBus.begin 1451369201718
+12-29 06:06:41.718   854   876 D BluetoothAdapter: 705460673: getState() :  mService = null. Returning STATE_OFF
+12-29 06:06:41.719   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=200, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_META_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 1.0
+12-29 06:06:41.720   796   796 D Profiler: perf.PlayEventBus.player get message duration: 2.0
+12-29 06:06:41.723   796  5411 D Profiler: perf.PlayEventBus.begin 1451369201723
+12-29 06:06:41.723   854   937 D BluetoothAdapter: 705460673: getState() :  mService = null. Returning STATE_OFF
+12-29 06:06:41.728  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.729   854  5444 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.729   854   933 D BluetoothAdapter: 705460673: getState() :  mService = null. Returning STATE_OFF
+12-29 06:06:41.729   796  5411 D Profiler: perf.PlayEventBus.begin 1451369201729
+12-29 06:06:41.729   796  5411 D Profiler: perf.PlayEventBus.begin 1451369201729
+12-29 06:06:41.730  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.730   854  5444 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.731  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.731   854  5444 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.732   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=202, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_PLAYSONG_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 3.0
+12-29 06:06:41.733  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.733   854  5444 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.734  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.734   854  1345 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.735   796   796 D Profiler: perf.PlayEventBus.player get message duration: 6.0
+12-29 06:06:41.735  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.736   854  1345 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.737  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.737   854  1345 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.738  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.738   854  1345 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.754  2169  2320 V WindowManager: not Base app: Adding window Window{29abe55f u0 com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity} at 7 of 12
+12-29 06:06:41.754   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=201, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_PLAYLIST_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 25.0
+12-29 06:06:41.755   796   796 D Profiler: perf.PlayEventBus.player get message duration: 26.0
+12-29 06:06:41.757   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=202, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_PLAYSONG_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 28.0
+12-29 06:06:41.758   796   796 D Profiler: perf.PlayEventBus.player get message duration: 29.0
+12-29 06:06:41.779  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.779   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.779  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.779   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.779  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.779   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.780  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.780   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.781  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.781   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.781  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.781   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.781  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.781   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.782  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.782   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.782  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.782   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.782  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.782   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.782  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.783   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.783  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.783   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.784  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.784   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.784  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.785   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.785  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.785   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.785  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.785   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.786   796   796 I Delta   : [+8591] activity focus , total: 1747997
+12-29 06:06:41.827  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.827   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.828  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.829   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.829  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.830   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.830  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.831   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.833  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.833   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.834  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.834   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.835  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.835   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.836  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.836   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.847  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.848   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.848  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.849   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.849  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.850   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.850  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.851   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.853  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.853   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.854  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.854   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.855  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.855   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.856  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.856   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.858  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.858   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.859  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.859   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.859   796  5348 D AutoLyricLoadHelper: <?xml version="1.0" encoding="utf-8"?>
+12-29 06:06:41.859   796  5348 D AutoLyricLoadHelper: <root>
+12-29 06:06:41.859   796  5348 D AutoLyricLoadHelper: <meta><uid>3288301264</uid><cid>111</cid><v>5080018</v><ret>0</ret><num>1</num><cmd>0</cmd><rewrite>1</rewrite></meta><body><item><songid>705449</songid><singerid>0</singerid><albumid>0</albumid><song></song><singer></singer><album></album><songTran></songTran><singerTran></singerTran><albumTran></albumTran><duration>0</duration><action>0</action><docid></docid><song_type>0</song_type><hq>0</hq><sq>0</sq><aacsize>0</aacsize><size128>0</size128><payTrackMonth>0</payTrackMonth><payTrackPrice>0</payTrackPrice><payAlbumPrice>0</payAlbumPrice><payPlay>0</payPlay><payDownload>0</payDownload><payStatus>0</payStatus><trySize>0</trySize><tryBegin>0</tryBegin><tryEnd>0</tryEnd><switch>0</switch><alert>0</alert><mvid></mvid><kmid></kmid><songmid></songmid><singermid></singermid><albummid></albummid><type>12</type><lrc></lrc><qrc>1B8065503D77B284CE1F73222B9D2A55908FE5F595E91F1206D957E307612356866AD2B774F4E397C8794FF8D7EBF79BEDE305D06C76BF76E3B7D197A68750FCB614F51E94F2BD548527455AC98D300F55BE32ED89902B9B581713425131C0D0179B70E9E49FD3A4076EA54E6DBD63CA3FD3B8BE6321BE8CBB123F07EA8F7E6A22335D3677A317217353C1446ECE7BA0C1A4FB5AAC57C9C877BB7ADF91D805E75AA63E1C1011E2FC56C5C38ED2E679646B8C54E3AF63910B09F70E6EC9B097A96442DE3AE1CF3ED576585DE7301E5DDF00C13138CC486B053268A8341E90E99121815CA8B680041940C500805EED7AADFAF8704C2A311BACEB4B10DA345869F769FAEB12E374F0E3BA1A717BC913A0FD54E0AB4F5F6F59297E5299FB0A8A4E89DFD408B44E60D470E4193E78E716649A4551C8DD32D87261EE603CA34E7EF83B1BFEC1D90BA9AD0AFD6EB3FF7CCAA11152F7345722F1ADD34D79E62F3AA5B760A3C73078B3165CC2B52B51DA599AD02C3F232D7A4AC324A682323C18BC06A1068D526564B61E7B77AAFA3A3C477F90214AC619EF9FEE11C76B7BDA7795BAE9B9B2C5C195D3B7067B52A1B2274E45EDE7C733B033EAD7BDF1315C457BA02E567A60A7E286C1A64A864EF436B98DB80E64256EE6D2F2431665B9829B47E1CCD51F9EF559EC39665E1B44E7EDDB20580457CD1D6F11A69EAD0E2E73B5844E88ECCB891C76A6FC011D67C50D514F274915626B3B8EA8B702AA71F677FB432CBDC3A5D3B35442B65EBDF16B393ECBC38C9EB6220225B3B9E582358B28DF42AE7A9E5210592F11E2FD2D17E64C911264376D571466D306E9964290F5815142AD3D58ECB4E32F115B78C8ADC3763EB8EDAEB40B09CA0EB90E3BDA64D3565FF64E2965D9F209C51B12E29AA049DE70CC1208181CC37BCA5205BD1CE169C02E24F652805BD94C3A9CACA2EB06E993AB6116777B26F58B848D221067B78F1C0886D629D6BDCC7CB0549500CCCF08423F3E7A3F6B95AD6C2F62A8D2FC9B3F9DD8DF8E7228D73B294459F924439B26A8B4C73D02CD94C385A79D808EEA7751526CCE6E63BFF289DD86D37BCC2482B4DE8AE4F7AB6149AFBC33EA2645F2127ABBBB7FE9704536FCB82B40543EF8B5E2B3756716C98A126919263A17056CC5DA660B15ED52339191F40831AFA6F14655BF848CFC17200A0830967FB654EAAC6CA37E1FF15CED4E58D832CF0E698C30F4BC96B1CF2C15BD62F9474BCEEA8E01646D4D8ED3D7C020048474C3F6403D693996DFFE31B1B6F7E0E5DBC979A80DDB56BFCC5B4FADD3A86583913BF1D13F9A329962AC7367596BC9D07408C7859C3293FF04CA5B8CBF1E955B53B82F1D60B7FD3F20A9BC74ABBD57C7E218D59E743646949568EDAD00205BECE0A4CE65FBD5168A08BB4C56A8E98F8579309928C47E9BAD76F4B165327764972A52FC68704CE1C01131DA11802B96FDBD2C07A6A2615C64221ED265FA97E63D2706DD230457D3B9D4605BD2AB814BCE7CA646C0F308DC50A36511A6FCAFD1CF40476F6772FD18B04B1568A803051559A34CD1F31EC7F2880E196E54A221843654BE6F73901CAD5998F27FAF62AE1D9A0F8F93D3D2E190A350A4E8F3A7ED0E1959383B8EDB861A7FCB93496A347DE56468E6CF82161E567903BF71CE4A82447942C79C5E95573C81EC636636AE43A0E84DD1B33E11E5DB4D2A9E503A4D7EA25D738627329ED8E23C92FD24B6FBA6067041FF599598E9C65F9950099F6BC611384ED82C57259A0A2CAC6092B65B27D2F9BB52E73B50EB0A5E8D6F796FF87A4A63233C7AC84EF522E599EACB3A305D102CFF0959BB54E0C6B7809CC57DB20A135FCA568D48A52AD97DB28B52F3FB0E61AA7D503119CF97E9E6FF319390E53104ACEB10C0ABEF1CADBB07A85F3F586A0178FA3C1C3072762B2BA08E8C3076B3ED518F3EEBAB53323EF4BED69D84081D7E2B1E6D919781B13C34EA6EBD34F53891FF541A8F7D99F69786B773E61CA6BB9089F6891231DCEAD7E2285F6749FA7591C57E072593BC9AE13DBCB5065B5F7660CDB16C98916007C176447A1725389EB14308D1E563448ED10885BBBE41F715459F67F48803B76A4801997341224935CE90CEFB7416E57CCC5FC2A3E6AA022A769432BC1AF11BB259A7E4AB5EEDFBEE4A9DA4007662F3CAF9BBE4916789234DFD571727FAE41100C6384384DDF4220DE21C6CF39EBDF3789B621492BEDD2336FF6E4BF2
+12-29 06:06:41.860  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.860   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.861  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.861   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.875  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.875   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.876  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.876   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.877  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.877   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.878  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.878   854  5446 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.880  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.880   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.881  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.881   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.882  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.882   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.883  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.883   854  5446 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.883  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.884   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.884  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.885   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.886  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.886   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.887  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.887   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.889  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.889   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.890  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.890   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.890  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.890   796  5358 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.891  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.891   796  5358 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.893   796   917 E QRCDesDecrypt: put cache key = key_-1339393996
+12-29 06:06:41.893  5451  5451 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:41.900  5453  5453 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:41.902  2169  3018 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:41.902   854  5455 W BlobCache: cannot read header
+12-29 06:06:41.910   796  1321 E QRCDesDecrypt: doDecryptionLyric pid = 796key = key_-1339393996,hit cache,return
+12-29 06:06:41.910   796   917 E QRCDesDecrypt: doDecryptionLyric pid = 796key = key_-1339393996,hit cache,return
+12-29 06:06:41.955  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.955   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.956  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.956   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.956  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.957   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.957  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.957   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.960  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.960   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.960  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.961   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.961  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.961   796  5414 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:41.962  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:41.962   796  5414 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:42.002  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:43.005  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:43.166  5456  5456 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:44.007  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:44.343  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:44.373   796  5411 D Profiler: perf.PlayEventBus.begin 1451369204373
+12-29 06:06:44.373   854   876 D BluetoothAdapter: 705460673: getState() :  mService = null. Returning STATE_OFF
+12-29 06:06:44.374   796   796 I Delta   : [+2588] activity focus , total: 1750585
+12-29 06:06:44.380   854   854 D houdini : [854] Added shared library /data/app/com.tencent.qqmusic-1/lib/arm/libSongUrlFactory.so for ClassLoader by Native Bridge.
+12-29 06:06:44.383   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=202, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_PLAYSONG_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 10.0
+12-29 06:06:44.383   796  1321 E QRCDesDecrypt: doDecryptionLyric pid = 796key = key_-1339393996,hit cache,return
+12-29 06:06:44.384   796   917 E QRCDesDecrypt: doDecryptionLyric pid = 796key = key_-1339393996,hit cache,return
+12-29 06:06:44.399   796   796 D Profiler: perf.PlayEventBus.player get message duration: 26.0
+12-29 06:06:44.407   854   854 D BluetoothAdapter: 705460673: getState() :  mService = null. Returning STATE_OFF
+12-29 06:06:44.407   854  5459 I createWeakExpressKey: Start createContentKey songname:  C200000egQIl0gxxiZ.m4a  
+12-29 06:06:44.408   854  5459 I createWeakExpressKey: qqmusic_create_content_key: i_iPaidContent 0
+12-29 06:06:44.408   854  5459 I createWeakExpressKey: Start createContentKey str_contentKey:  C55EFF1339C74A53E18D2E05FCDE59BDA5BE6A4AA02E6E7C  
+12-29 06:06:44.410  2169  7590 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:44.413   854  5459 D LogPoint: player-2|playerservice changed state is : 101|<11521285332684>
+12-29 06:06:44.416   796  5411 D Profiler: perf.PlayEventBus.begin 1451369204416
+12-29 06:06:44.417   854   879 D BluetoothAdapter: 705460673: getState() :  mService = null. Returning STATE_OFF
+12-29 06:06:44.418   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=200, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_META_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 2.0
+12-29 06:06:44.419   796   796 D Profiler: perf.PlayEventBus.player get message duration: 3.0
+12-29 06:06:44.472   854  5459 D LogPoint: player-2|playerservice changed state is : 1|<11521343918611>
+12-29 06:06:44.479   796  5411 D Profiler: perf.PlayEventBus.begin 1451369204479
+12-29 06:06:44.479   854   879 D BluetoothAdapter: 705460673: getState() :  mService = null. Returning STATE_OFF
+12-29 06:06:44.496   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=200, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_META_CHANGED.QQMusicPhone flg=0x10 (has extras) }} duration: 17.0
+12-29 06:06:44.498   796   796 D Profiler: perf.PlayEventBus.player get message duration: 19.0
+12-29 06:06:44.510  2169 14271 I MediaFocusControl:  AudioFocus  requestAudioFocus() from android.media.AudioManager@3bae7ddacom.tencent.qqmusicplayerprocess.servicenew.listener.c@440320b req=1flags=0x0
+12-29 06:06:44.531   854  5459 D houdini : [5459] Added shared library /data/data/com.tencent.qqmusic/backuplib/libm4adecoder_v7a.so for ClassLoader by Native Bridge.
+12-29 06:06:44.533   854  5459 D LogPoint: player-2|playerservice changed state is : 3|<11521404772436>
+12-29 06:06:44.534   854  5465 E FfmpegDecoder: init filename = /storage/emulated/0/qqmusic/oltmp/QQPlayerbuffer04537573992102.tmp
+12-29 06:06:44.548   854  5465 D FfmpegDecoder: decode: mov,mp4,m4a,3gp,3g2,mj2, (null)
+12-29 06:06:44.571   854  5463 I createWeakExpressKey: Start createContentKey songname:  C200000vArrl4AAiKB.m4a  
+12-29 06:06:44.571   854  5463 I createWeakExpressKey: qqmusic_create_content_key: i_iPaidContent 0
+12-29 06:06:44.571   854  5463 I createWeakExpressKey: Start createContentKey str_contentKey:  E1E541844BDCC75EBE520FCB507FFEAB0166A79CC3E0C2AE  
+12-29 06:06:44.572  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:44.572   854  5463 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:44.573  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:44.573   854  5463 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:44.573  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:44.573   854  5463 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:44.573  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:44.573   854  5463 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:44.579   854  5465 E FfmpegDecoder: TTT1
+12-29 06:06:44.580   854  5465 E FfmpegDecoder: TTT2
+12-29 06:06:44.580   854  5465 E FfmpegDecoder: av_frame_alloc addr = -606353408
+12-29 06:06:44.580   854  5465 E FfmpegDecoder: TTT3
+12-29 06:06:44.580   854  5465 E FfmpegDecoder: TTT4
+12-29 06:06:44.580   854  5465 E FfmpegDecoder: init ok
+12-29 06:06:44.589  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:44.589   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:44.589  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:44.589   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:44.590  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:44.590   854  5446 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:44.590  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.tencent.qqmusic/cache/
+12-29 06:06:44.590   854  5446 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.tencent.qqmusic/cache
+12-29 06:06:44.601   854  5464 D LogPoint: player-2|playerservice changed state is : 2|<11521473566568>
+12-29 06:06:44.603  2169  3042 D WifiService: acquireWifiLockLocked: WifiLock{APlayer type=3 binder=android.os.BinderProxy@25b71b29}
+12-29 06:06:44.603   854  5459 D LogPoint: player-2|playerservice changed state is : 4|<11521475334675>
+12-29 06:06:44.619   796  5411 D Profiler: perf.PlayEventBus.begin 1451369204619
+12-29 06:06:44.619   796   796 D Profiler: perf.PlayEventBus.base activity PlayEvent{eventType=204, mContext=com.tencent.qqmusic.MusicApplication@282edda4, mIntent=Intent { act=com.tencent.qqmusic.ACTION_START_PLAYSONG.QQMusicPhone flg=0x10 (has extras) }} duration: 0.0
+12-29 06:06:44.619   796   796 D Profiler: perf.PlayEventBus.player get message duration: 0.0
+12-29 06:06:44.645   854  5465 D LogPoint: player-2|playerservice changed state is : 4|<11521517414718>
+12-29 06:06:45.010  2169  7590 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:46.013  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:48.178  5468  5468 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:49.862  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:50.865  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:51.867  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:52.870  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:53.189  5470  5470 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:53.873  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:54.687  2169  2218 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-29 06:06:54.688  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:54.698   796   796 W Event   : Subscriber to unregister was not registered before: class com.tencent.qqmusic.fragment.discovery.DiscoveryFragment
+12-29 06:06:54.699   796   796 W Event   : Subscriber to unregister was not registered before: class com.tencent.qqmusic.fragment.musichalls.RecommendFragment
+12-29 06:06:54.699   796   796 W Event   : Subscriber to unregister was not registered before: class com.tencent.qqmusic.fragment.musichalls.RankHallFragment
+12-29 06:06:54.699   796   796 W Event   : Subscriber to unregister was not registered before: class com.tencent.qqmusic.fragment.discovery.DiscoveryFragment
+12-29 06:06:54.699  2169 14271 W ActivityManager: getTasks: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:54.719  2169  2169 V ActivityManager: Display changed displayId=0
+12-29 06:06:54.733  2169 13566 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.35}
+12-29 06:06:54.733  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 06:06:54.734  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 06:06:54.737  3692  3692 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-29 06:06:54.737  3692  3692 D GeckoLocales: No selected locale. No correction needed.
+12-29 06:06:54.759   796   796 I Delta   : [+10385] activity focus , total: 1760970
+12-29 06:06:54.835   796   796 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 06:06:54.875  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:54.945  2169  2198 I WindowManager: Screen frozen for +242ms due to Window{784aa35 u0 com.android.systemui.ImageWallpaper}
+12-29 06:06:55.101   796   796 I tyrael  : setWnsBackground
+12-29 06:06:55.101   854   948 W tyrael  : dispatchApplicationEnterBackground:com.tencent.wns.ipcclient.b@3feea437
+12-29 06:06:55.103   796   817 E QQMusicPatchManager: getAppRunTime = 1761s
+12-29 06:06:55.103   796   817 E QQMusicPatchManager: checkUpdate 
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager: onResult result = {
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:    "msg" : 0,
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:    "patchs" : [
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:       {
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:          "describe" : "微信登陆后无法分享到空间 ",
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:          "filters" : [
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:             {
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:                "filterName" : "QQMusicVersionFilter",
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:                "versionList" : [ 5080018 ]
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:             }
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:          ],
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:          "length" : 15903,
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:          "md5" : "b9bcfd2d17a2ac90e56b3e6bf780d375",
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:          "url" : "http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip",
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:          "version" : "110"
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:       }
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager:    ]
+12-29 06:06:55.184   796  5403 D QQMusicPatchManager: }
+12-29 06:06:55.185   796  5403 E PatchUpdateManager: handleNewPatchs add patch =  PatchConfig:,version:110,describe:微信登陆后无法分享到空间 ,length:15903,md5:b9bcfd2d17a2ac90e56b3e6bf780d375,url:http://dldir1.qq.com/music/andoridHotfix/patch_5080018_20151210195559.zip,score:10,isClose:false,versionCode:294
+12-29 06:06:55.185   796  5403 E PatchUpdateManager: is same patch,don't update 
+12-29 06:06:55.330  2479  2668 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-29 06:06:55.760  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 06:06:55.760  2299  2299 W PackageManager: Failure retrieving resources for com.tencent.qqmusic: Resource ID #0x0
+12-29 06:06:55.876  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:56.878  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:57.026  2169  2198 I art     : Explicit concurrent mark sweep GC freed 121396(6MB) AllocSpace objects, 9(3MB) LOS objects, 33% free, 17MB/25MB, paused 546us total 43.424ms
+12-29 06:06:57.679  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:57.681  2169 20952 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-29 06:06:57.881  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:58.202  5475  5475 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:06:58.671  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 06:06:58.736  7061  7061 I Term    : Bound to TermService
+12-29 06:06:58.736  7061  7061 I TermService: Activity binding to service
+12-29 06:06:58.884  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:06:59.887  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:00.050  2169 20952 W ActivityManager: getRunningAppProcesses: caller 10068 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:00.890  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:01.893  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:02.895  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:03.214  5482  5482 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:07:03.898  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:04.900  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:05.903  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:06.906  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:07.909  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:08.226  5483  5483 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 06:07:08.912  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:09.914  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:10.917  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:11.920  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 06:07:12.923  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output

@@ -1,0 +1,215 @@
+12-23 09:26:09.538  2207  2656 W ActivityManager: getRunningAppProcesses: caller 10059 does not hold REAL_GET_TASKS; limiting output
+12-23 09:26:10.192  1925  1925 D SurfaceFlinger: Set power mode=2, type=0 flinger=0x7fadac462000
+12-23 09:26:10.192  1925  2177 D GRALLOC-DRM: set master
+12-23 09:26:12.001  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:26:12.013  1933  2203 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 09:26:12.465  9929  9929 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:26:17.477  9930  9930 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:26:17.681  2207  4404 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.pdragon.new2048/.StartAct (has extras)} from uid 10020 on display 0
+12-23 09:26:17.681  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:26:17.691  2207  4404 V WindowManager: addAppToken: AppWindowToken{100b8acb token=Token{3020c19a ActivityRecord{1f666645 u0 com.pdragon.new2048/.StartAct t158}}} to stack=1 task=158 at 0
+12-23 09:26:17.693  2207  2238 V WindowManager: Adding window Window{21ec154 u0 Starting com.pdragon.new2048} at 5 of 10 (after Window{f4eb78 u0 com.halfbrick.fruitninjafree/com.halfbrick.mortar.ExpansionDownloaderActivity})
+12-23 09:26:17.693  1933  2203 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 09:26:17.721  9932  9932 D houdini : [9932] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+12-23 09:26:17.722  2207  4367 I ActivityManager: Start proc 9932:com.pdragon.new2048/u0a63 for activity com.pdragon.new2048/.StartAct
+12-23 09:26:17.771  2207  2630 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v dpad/v s.32}
+12-23 09:26:17.771  2207  2207 V ActivityManager: Display changed displayId=0
+12-23 09:26:17.772  2207  2254 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-23 09:26:17.774  9593  9593 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-23 09:26:17.774  9593  9593 D GeckoLocales: No selected locale. No correction needed.
+12-23 09:26:17.811  9932  9932 I ActivityThread: Switching default density from 160 to 240
+12-23 09:26:17.829  9932  9932 D houdini : [9932] Added shared library /data/app/com.pdragon.new2048-1/lib/arm/libappJni.so for ClassLoader by Native Bridge.
+12-23 09:26:17.909  2327  2327 V PhoneStatusBar: setLightsOn(true)
+12-23 09:26:17.927  2207  2264 D WifiService: New client listening to asynchronous messages
+12-23 09:26:17.961  2207  5160 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+12-23 09:26:17.962  9932  9932 D com.umeng.message.MessageSharedPrefs: Constructor()
+12-23 09:26:17.984  2207  2657 V WindowManager: Adding window Window{2459659f u0 com.pdragon.new2048/com.pdragon.new2048.StartAct} at 5 of 11 (before Window{21ec154 u0 Starting com.pdragon.new2048})
+12-23 09:26:17.985  9932  9932 D BaseIntentService: runIntent to receive one messageIntent { act=com.pdragon.new2048.intent.action.COMMAND flg=0x10 pkg=com.pdragon.new2048 cmp=com.pdragon.new2048/com.umeng.message.RegistrationReceiver (has extras) }|com.umeng.message.UmengIntentService
+12-23 09:26:17.986  4685  9970 V ProxyFactroy: getInstance[base] successfully
+12-23 09:26:17.986  4685  9970 D ControlService: onHandleIntent [com.pdragon.new2048][com.pdragon.new2048.intent.action.COMMAND]
+12-23 09:26:17.986  4685  9970 D ControlService: command --->[register]
+12-23 09:26:17.987  4685  9970 D ElectionService: registerApp save[{"com.pdragon.new2048":"{\"appInstallTime\":1450858358780,\"appSdkVersion\":20151015,\"appVersionHash\":1815136302,\"appKey\":\"umeng:53872bf756240be6d002147c\"}"}]
+12-23 09:26:17.988  4685  9970 I ElectionService: checkPackage[pack:com.pdragon.new2048][enabled]
+12-23 09:26:17.988  4685  9970 D ElectionService: getCurrentSudo[currentSudo:com.pdragon.new2048]
+12-23 09:26:17.988  2207  2655 W ActivityManager: Unable to start service Intent { act=org.agoo.android.intent.action.PING_V4 cmp=com.taobao.taobao/com.taobao.accs.ChannelService (has extras) } U=0: not found
+12-23 09:26:17.989  4685  9970 I ElectionService: checkPackage[pack:com.pdragon.new2048][enabled]
+12-23 09:26:17.989  4685  9970 D ElectionService: getCurrentSudo[currentSudo:com.pdragon.new2048]
+12-23 09:26:17.989  4685  9970 D ControlService: messageConnection [bind]
+12-23 09:26:17.989  4685  4685 D PushService: onBind:[org.agoo.android.intent.action.PING_V4],intent categries[{umeng}]
+12-23 09:26:17.989  4685  4685 W ControlService: messageService.proble
+12-23 09:26:17.989  4685  4685 D PushService: messageServiceBinder [probe]
+12-23 09:26:17.989  4685  4685 D ControlService: messageConnection [unbind]
+12-23 09:26:17.990  4685  9972 I ElectionService: checkPackage[pack:com.pdragon.new2048][enabled]
+12-23 09:26:17.990  4685  9972 D ElectionService: getCurrentSudo[currentSudo:com.pdragon.new2048]
+12-23 09:26:17.990  4685  9972 D AbsMessage: startTaskAtDelayed[action_ping]
+12-23 09:26:17.991  4685  9972 D AbsMessage: startTaskAtDelayed[action_ping_unlock]
+12-23 09:26:17.991  4685  9972 D PushService: messageServiceBinder [probe][successfully]
+12-23 09:26:17.999  9932  9932 D BaseIntentService: runIntent to receive one messageIntent { act=com.pdragon.new2048.intent.action.COMMAND flg=0x10 pkg=com.pdragon.new2048 cmp=com.pdragon.new2048/com.umeng.message.RegistrationReceiver (has extras) }|com.umeng.message.UmengIntentService
+12-23 09:26:18.000  4685  9973 V ProxyFactroy: getInstance[base] successfully
+12-23 09:26:18.000  4685  9973 D ControlService: onHandleIntent [com.pdragon.new2048][com.pdragon.new2048.intent.action.COMMAND]
+12-23 09:26:18.000  2501  2501 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-23 09:26:18.000  4685  9973 D ControlService: command --->[so_manager]
+12-23 09:26:18.019  9932  9932 I GRALLOC-DRM: create intel for driver i915
+12-23 09:26:18.030  2207  2238 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:26:18.030  2207  2238 V WindowManager: Layouts looping: loop number 4, mPendingLayoutChanges = 0x0
+12-23 09:26:18.030  2207  2238 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:26:18.030  2207  2238 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:26:18.030  2207  2238 V WindowManager: Layouts looping: On entry to LockedInner, mPendingLayoutChanges = 0x1
+12-23 09:26:18.030  2207  2238 V WindowManager: Layouts looping: loop number 5, mPendingLayoutChanges = 0x0
+12-23 09:26:18.030  2207  2238 V WindowManager: Layouts looping: after finishPostLayoutPolicyLw, mPendingLayoutChanges = 0x0
+12-23 09:26:18.030  2207  2238 V WindowManager: Layouts looping: mLayoutNeeded, mPendingLayoutChanges = 0x1
+12-23 09:26:18.030  2207  2238 E WindowManager: Performed 6 layouts in a row. Skipping
+12-23 09:26:18.031  2207  2238 I ActivityManager: Displayed com.pdragon.new2048/.StartAct: +335ms
+12-23 09:26:18.070  2207  2238 I WindowManager: Screen frozen for +335ms due to Window{21ec154 u0 Starting com.pdragon.new2048}
+12-23 09:26:19.245 10001 10001 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:26:19.256 10003 10003 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:26:19.269 10004 10004 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-23 09:26:19.271 10004 10004 E cutils-trace: Error opening trace file: Permission denied (13)
+12-23 09:26:19.271 10004 10004 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.pdragon.new2048/app_e_qq_com_plugin/gdt_plugin.jar --oat-fd=33 --oat-location=/data/data/com.pdragon.new2048/app_e_qq_com_dex/gdt_plugin.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only
+12-23 09:26:19.347 10004 10004 I dex2oat : dex2oat took 75.549ms (threads: 8) arena alloc=0B java alloc=579KB native alloc=465KB free=7MB
+12-23 09:26:19.353  2207  2232 D gps_serial: set_position_mode: mode=0 recurrence=0 min_interval=1000 preferred_accuracy=0 preferred_time=0
+12-23 09:26:19.353  2207  2232 D gps_serial: serial_gps_start: called
+12-23 09:26:19.353  2207  2232 D gps_serial: gps_state_start: could not send CMD_START command: ret=-1: Bad file number
+12-23 09:26:19.390  9932  9932 I WebViewFactory: Loading com.android.webview version 39 (eng.-x86_64) (code 399998)
+12-23 09:26:19.451  2207  2657 W ActivityManager: getRunningAppProcesses: caller 10056 does not hold REAL_GET_TASKS; limiting output
+12-23 09:26:19.581  9932  9932 I LibraryLoader: Time to load native libraries: 159 ms (timestamps 358-517)
+12-23 09:26:19.581  9932  9932 I LibraryLoader: Expected native library version number "",actual native library version number ""
+12-23 09:26:19.606  9932  9932 V WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {2b871009}
+12-23 09:26:19.606  9932  9932 I LibraryLoader: Expected native library version number "",actual native library version number ""
+12-23 09:26:19.624  9932  9932 I chromium: [INFO:library_loader_hooks.cc(104)] Chromium logging enabled: level = 0, default verbosity = 0
+12-23 09:26:19.627  9932  9932 I BrowserStartupController: Initializing chromium process, singleProcess=true
+12-23 09:26:19.631  9932  9932 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-23 09:26:19.671  9932 10022 W AudioManagerAndroid: Requires BLUETOOTH permission
+12-23 09:26:19.700  9932  9932 W chromium: [WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+12-23 09:26:19.700  9932  9932 I chromium: [INFO:aw_browser_main_parts.cc(65)] Load from apk succesful, fd=27 off=46184 len=3037
+12-23 09:26:19.701  9932  9932 I chromium: [INFO:aw_browser_main_parts.cc(78)] Loading webviewchromium.pak from, fd:46 off:229484 len:1089587
+12-23 09:26:19.709  9932  9932 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-23 09:26:19.709  9932  9932 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-23 09:26:19.713  9932  9932 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-23 09:26:19.713  9932  9932 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-23 09:26:19.713  9932  9932 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-23 09:26:19.763  9932  9932 W chromium: [WARNING:data_reduction_proxy_settings.cc(331)] SPDY proxy OFF at startup
+12-23 09:26:19.877  9932  9932 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-23 09:26:19.887  9932  9932 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+12-23 09:26:19.905  1924  1996 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.pdragon.new2048/cache/
+12-23 09:26:19.905  9932  9932 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.pdragon.new2048/cache
+12-23 09:26:19.906  1924  1996 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.pdragon.new2048/cache/
+12-23 09:26:19.906  9932  9932 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.pdragon.new2048/cache
+12-23 09:26:19.907  1924  1996 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.pdragon.new2048/cache/
+12-23 09:26:19.907  9932  9932 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.pdragon.new2048/cache
+12-23 09:26:19.908  1924  1996 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.pdragon.new2048/cache/
+12-23 09:26:19.908  9932  9932 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.pdragon.new2048/cache
+12-23 09:26:19.913  9932  9932 E gdt_ad_mob: 当前设备的网络类型不符合加载广告的条件，请尝试WIFI环境。如仍有问题请联系客服
+12-23 09:26:19.913  9932  9932 I Choreographer: Skipped 41 frames!  The application may be doing too much work on its main thread.
+12-23 09:26:20.107  2207  2238 I art     : Explicit concurrent mark sweep GC freed 14483(1093KB) AllocSpace objects, 26(416KB) LOS objects, 33% free, 14MB/21MB, paused 512us total 34.294ms
+12-23 09:26:20.114  2207  4405 I ActivityManager: START u0 {cmp=com.pdragon.new2048/.GameAct} from uid 10063 on display 0
+12-23 09:26:20.116  2207  4405 V WindowManager: addAppToken: AppWindowToken{3d1994a1 token=Token{29581508 ActivityRecord{a4e4aab u0 com.pdragon.new2048/.GameAct t158}}} to stack=1 task=158 at 1
+12-23 09:26:20.120  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (940, 602).
+12-23 09:26:20.128  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1024, 593).
+12-23 09:26:20.136  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 590).
+12-23 09:26:20.144  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 587).
+12-23 09:26:20.152  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 590).
+12-23 09:26:20.159  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 596).
+12-23 09:26:20.167  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 602).
+12-23 09:26:20.175  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 614).
+12-23 09:26:20.183  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 635).
+12-23 09:26:20.191  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 665).
+12-23 09:26:20.198  9932  9932 D houdini : [9932] Added shared library /data/app/com.pdragon.new2048-1/lib/arm/libcocos2dcpp.so for ClassLoader by Native Bridge.
+12-23 09:26:20.198  9932  9932 D JniHelper: JniHelper::setJavaVM(0xf2e8a6e4), pthread_self() = -143413600
+12-23 09:26:20.199  9932  9932 W SoundPool: App requested 50 channels
+12-23 09:26:20.199  9932  9932 D main    : cocos_android_app_init
+12-23 09:26:20.199  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 701).
+12-23 09:26:20.201  9932  9932 D Cocos2dxActivity: model=H170-PRO
+12-23 09:26:20.201  9932  9932 D Cocos2dxActivity: product=android_x86_64
+12-23 09:26:20.201  9932  9932 D Cocos2dxActivity: isEmulator=false
+12-23 09:26:20.208  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 743).
+12-23 09:26:20.216  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 794).
+12-23 09:26:20.224  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (1079, 845).
+12-23 09:26:20.228  2207  4404 V WindowManager: Adding window Window{12d14952 u0 com.pdragon.new2048/com.pdragon.new2048.GameAct} at 6 of 11 (after Window{2459659f u0 com.pdragon.new2048/com.pdragon.new2048.StartAct})
+12-23 09:26:20.230  2327  2327 V PhoneStatusBar: setLightsOn(true)
+12-23 09:26:20.232  2207  4405 V WindowManager: Adding window Window{3bb27d20 u0 SurfaceView} at 6 of 12 (before Window{12d14952 u0 com.pdragon.new2048/com.pdragon.new2048.GameAct})
+12-23 09:26:20.239  2207  4367 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+12-23 09:26:20.247  2207  5160 W ActivityManager: getRunningAppProcesses: caller 10063 does not hold REAL_GET_TASKS; limiting output
+12-23 09:26:20.277  2207  2238 I ActivityManager: Displayed com.pdragon.new2048/.GameAct: +160ms
+12-23 09:26:20.499  9932 10047 D cocos2d-x debug info: jni:hideBannerStatic true
+12-23 09:26:22.485 10083 10083 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:26:22.992  4685  5560 D bo      : onHandlerHeart-->[currentTime：1450862782992][mLastSendDataTime:1450862721414][checkHeartInterval:210000]
+12-23 09:26:22.992  4685  5560 D bo      : onHandlerHeart-->[send heart]
+12-23 09:26:23.029  4685  5580 D SpdyClient: spdyPingRecvCallback[13]
+12-23 09:26:23.029  4685  5580 D bo      : heart-->[init_connect_1287][client_receive]
+12-23 09:26:24.098  2207  2253 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-23 09:26:24.098  2207  2269 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-23 09:26:24.110  1933  2203 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-23 09:26:24.155  2207  2207 V ActivityManager: Display changed displayId=0
+12-23 09:26:24.171  2207  5160 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v dpad/v s.33}
+12-23 09:26:24.173  2207  2254 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-23 09:26:24.174  2207  2254 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-23 09:26:24.175  9593  9593 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-23 09:26:24.175  9593  9593 D GeckoLocales: No selected locale. No correction needed.
+12-23 09:26:24.246  9932  9932 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-23 09:26:24.381  2207  2238 I WindowManager: Screen frozen for +265ms due to Window{a9795a u0 com.android.systemui.ImageWallpaper}
+12-23 09:26:24.438  2207  2253 I InputDispatcher: Dropping event because there is no touchable window at (546, 1879).
+12-23 09:26:24.732  2501  2680 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-23 09:26:25.190  2327  2327 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-23 09:26:25.190  2327  2327 W PackageManager: Failure retrieving resources for com.pdragon.new2048: Resource ID #0x0
+12-23 09:26:25.281  9932  9932 I d       : static
+12-23 09:26:25.286  9932 10088 I Android : Creating get ConfigClass ...
+12-23 09:26:25.598  9932  9932 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-23 09:26:25.598  9932  9932 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+12-23 09:26:25.615  9932  9932 W System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.length()' on a null object reference
+12-23 09:26:25.615  9932  9932 W System.err: 	at libcore.net.UriCodec.encode(UriCodec.java:132)
+12-23 09:26:25.615  9932  9932 W System.err: 	at java.net.URLEncoder.encode(URLEncoder.java:57)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.kuaiyou.a.a.e(Unknown Source)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.kuaiyou.adbid.AdInstlBIDView.initApplyBean(Unknown Source)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.kuaiyou.adbid.AdInstlBIDView.<init>(Unknown Source)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.kuaiyou.adbid.AdInstlBIDView.<init>(Unknown Source)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.kyview.screen.interstitial.adapters.AdViewBIDAdapter.handle(Unknown Source)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.kyview.adapters.AdViewAdapter.handleInstl(Unknown Source)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.kyview.screen.interstitial.AdInstlManager.handle(Unknown Source)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.kyview.screen.AdViewManager$b.run(Unknown Source)
+12-23 09:26:25.615  9932  9932 W System.err: 	at android.os.Handler.handleCallback(Handler.java:739)
+12-23 09:26:25.615  9932  9932 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-23 09:26:25.615  9932  9932 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+12-23 09:26:25.615  9932  9932 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5254)
+12-23 09:26:25.615  9932  9932 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+12-23 09:26:25.615  9932  9932 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:903)
+12-23 09:26:25.615  9932  9932 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:698)
+12-23 09:26:26.248  1925  1925 D SurfaceFlinger: Set power mode=0, type=0 flinger=0x7fadac462000
+12-23 09:26:26.450  2207  2238 I art     : Explicit concurrent mark sweep GC freed 7552(503KB) AllocSpace objects, 11(176KB) LOS objects, 33% free, 15MB/23MB, paused 272us total 12.499ms
+12-23 09:26:27.136  9932  9932 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-23 09:26:27.136  9932  9932 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+12-23 09:26:27.136  1924  1996 E Vold    : Failed to find mounted volume for /storage/usb1/Android/data/com.pdragon.new2048/cache/
+12-23 09:26:27.137  9932  9932 W ContextImpl: Failed to ensure directory: /storage/usb1/Android/data/com.pdragon.new2048/cache
+12-23 09:26:27.137  1924  1996 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.pdragon.new2048/cache/
+12-23 09:26:27.137  9932  9932 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.pdragon.new2048/cache
+12-23 09:26:27.137  1924  1996 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.pdragon.new2048/cache/
+12-23 09:26:27.137  9932  9932 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.pdragon.new2048/cache
+12-23 09:26:27.137  1924  1996 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.pdragon.new2048/cache/
+12-23 09:26:27.137  9932  9932 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.pdragon.new2048/cache
+12-23 09:26:27.498 10106 10106 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:26:27.710  9932 10108 W chromium: [WARNING:simple_index_file.cc(337)] Could not map Simple Index file.
+12-23 09:26:27.805  9932 10108 W chromium: [WARNING:simple_index_file.cc(337)] Could not map Simple Index file.
+12-23 09:26:27.857  9932  9932 I chromium: [INFO:CONSOLE(0)] "Creating Application Cache with manifest http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.appcache", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.857  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.857  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Downloading event", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.865  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (0 of 7) http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/js/lib/require.js", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.867  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (1 of 7) http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/js-release/20151123/interstitial.js", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.898  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (2 of 7) http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/images/icon-ad.png", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.898  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (3 of 7) http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/images/popup_ad_car_bg.jpg", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.967  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (4 of 7) http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/images/score.png", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.967  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (5 of 7) http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/images/icon-close.png", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:27.968  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (6 of 7) http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/images/inter_close_logo.png", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:28.252  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Progress event (7 of 7) ", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:28.252  9932  9932 I chromium: [INFO:CONSOLE(0)] "Application Cache Cached event", source: http://qzonestyle.gtimg.cn/qzone/biz/gdt/mob/sdk/v2/android01/interstitial.html#posId=9060702165319163&conn=0&apil=22&random=1450862787138&supportForm=true (0)
+12-23 09:26:28.381  9932  9932 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-23 09:26:28.382  9932  9932 W AwContents: onDetachedFromWindow called when already detached. Ignoring
+12-23 09:26:28.382  9932  9932 W art     : Attempt to remove local handle scope entry from IRT, ignoring
+12-23 09:26:28.384  9932  9932 D s       : s
+12-23 09:26:28.648  9932 10122 W ResponseProcessCookies: Invalid cookie header: "Set-Cookie: BAIDUID=01EC2BC122205DF2B87A886D20A59A19:FG=1; expires=Thu, 22-Dec-16 09:26:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1". Unable to parse expires attribute: Thu
+12-23 09:26:28.649  9932 10122 W ResponseProcessCookies: Invalid cookie header: "Set-Cookie: BAIDUID=0CAECB2065E15C8F64A11D95EA1F1249:FG=1; expires=Thu, 22-Dec-16 09:26:28 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1". Unable to parse expires attribute: Thu
+12-23 09:26:29.828  9932 10040 D houdini : [10040] Added shared library /data/app/com.pdragon.new2048-1/lib/arm/libMD5_v1.so for ClassLoader by Native Bridge.
+12-23 09:26:29.918  9932 10040 D houdini : [10040] Added shared library /data/app/com.pdragon.new2048-1/lib/arm/libbase64encoder_v1_4.so for ClassLoader by Native Bridge.
+12-23 09:26:30.138  9932  9932 I chromium: [INFO:CONSOLE(179)] "Uncaught ReferenceError: checkList is not defined", source: http://btlaunch.baidu.com/baitong/wap/app/ascreen.php (179)
+12-23 09:26:32.508 10129 10129 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-23 09:26:35.805 10130 10130 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

@@ -1,0 +1,609 @@
+12-29 05:44:21.938  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:22.941  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:23.719  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:44:23.719  2169  2218 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-29 05:44:23.732  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:44:23.774  7061  7061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:44:23.833  3219  3219 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:23.944  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:24.283  2479  2668 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-29 05:44:24.746  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 05:44:24.746  2299  2299 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-29 05:44:24.947  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:25.949  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:26.952  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:27.486  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:44:27.498  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:44:27.955  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:28.845  3221  3221 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:28.957  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:29.323 11948 11972 E plugin  : 从服务端拉配置消息
+12-29 05:44:29.324 11948 11972 I plugin  : AppId List:10389:BD0S0N50666
+12-29 05:44:29.324 11948 11972 I plugin  : Tag List:null
+12-29 05:44:29.325 11948 11972 I plugin  : http://push.gxpan.cn/Plugin/config?appids=10389%3ABD0S0N50666&sign=e8f809929f1335b5f2311667e3951571
+12-29 05:44:29.437 11948 11972 I plugin  : {"data":null,"ret": 0,"msg": "ok","error_code": 0}
+12-29 05:44:29.437 11948 11972 I plugin  : {"data":null,"ret":0,"msg":"ok","error_code":0}
+12-29 05:44:29.960  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:30.962  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:31.530  2169  7588 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10036 on display 0
+12-29 05:44:31.530  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:44:31.533  2169  7588 V WindowManager: addAppToken: AppWindowToken{30bb57b3 token=Token{3a3d9122 ActivityRecord{388e1eed u0 com.tencent.mm/.ui.LauncherUI t261}}} to stack=1 task=261 at 0
+12-29 05:44:31.542  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:44:31.596  2169  3018 W ActivityManager: getTasks: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:31.627 29818 29818 V NFC     : this device does not have NFC support
+12-29 05:44:31.714  2169 15111 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.28}
+12-29 05:44:31.715  2169  2169 V ActivityManager: Display changed displayId=0
+12-29 05:44:31.717  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 05:44:31.718  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 05:44:31.809  2169 20952 W ActivityManager: getRunningAppProcesses: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:31.819 29818  3228 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-29 05:44:31.819  2169  3736 V WindowManager: Adding window Window{38d4227a u0 com.tencent.mm/com.tencent.mm.ui.LauncherUI} at 6 of 12 (after Window{7889cfb u0 jackpal.androidterm/jackpal.androidterm.Term})
+12-29 05:44:31.846 29818  3228 I GRALLOC-DRM: create intel for driver i915
+12-29 05:44:31.846 29818  3228 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-29 05:44:31.846 29818  3228 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-29 05:44:31.849 29818  3228 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-29 05:44:31.849 29818  3228 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-29 05:44:31.849 29818  3228 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-29 05:44:31.849 29818  3228 I OpenGLRenderer: Initialized EGL, version 1.4
+12-29 05:44:31.849 29818  3228 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-29 05:44:31.850 29818  3228 D OpenGLRenderer: Enabling debug mode 0
+12-29 05:44:31.855  2479  2479 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:44:31.881  2169  2198 I ActivityManager: Displayed com.tencent.mm/.ui.LauncherUI: +344ms
+12-29 05:44:31.895  2169  2198 I WindowManager: Screen frozen for +240ms due to Window{564b64b u0 NavigationBar}
+12-29 05:44:31.964  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:32.966  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:33.857  3235  3235 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:33.967  2169  2198 I art     : Explicit concurrent mark sweep GC freed 12307(735KB) AllocSpace objects, 11(176KB) LOS objects, 33% free, 20MB/30MB, paused 1.021ms total 35.192ms
+12-29 05:44:33.968  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:34.969  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:35.972  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:36.767  2169  7590 I ActivityManager: START u0 {cmp=com.tencent.mm/.ui.account.RegByMobileRegAIOUI (has extras)} from uid 10070 on display 0
+12-29 05:44:36.767  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:44:36.770  2169  7590 V WindowManager: addAppToken: AppWindowToken{23419d5d token=Token{f041b34 ActivityRecord{2ea31e07 u0 com.tencent.mm/.ui.account.RegByMobileRegAIOUI t261}}} to stack=1 task=261 at 1
+12-29 05:44:36.779  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:44:36.911  2169 15111 W ActivityManager: getTasks: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:36.962  2169  2478 V WindowManager: Adding window Window{114993a3 u0 com.tencent.mm/com.tencent.mm.ui.account.RegByMobileRegAIOUI} at 7 of 12 (after Window{38d4227a u0 com.tencent.mm/com.tencent.mm.ui.LauncherUI})
+12-29 05:44:36.974  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:36.982 29818 29818 D ViewRootImpl: changeCanvasOpacity: opaque=true
+12-29 05:44:37.019  2169  2198 I ActivityManager: Displayed com.tencent.mm/.ui.account.RegByMobileRegAIOUI: +154ms
+12-29 05:44:37.975  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:38.869  3244  3244 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:38.977  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:39.980  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:40.750  2169  2193 I ActivityManager: Start proc 3248:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:44:40.763  3248  3248 I ActivityThread: Switching default density from 160 to 240
+12-29 05:44:40.780  3248  3248 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:44:40.780  3248  3248 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:44:40.780  3248  3248 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:44:40.795  3272  3272 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:40.798  3248  3275 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:44:40.798  3248  3275 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:44:40.798  3248  3275 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:44:40.798  3248  3275 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:44:40.799  3248  3275 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:44:40.799  3248  3275 W System.err: 	at o.vi.run(:257)
+12-29 05:44:40.799  3248  3275 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:44:40.799  3248  3275 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:44:40.799  3248  3275 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:44:40.799  3248  3275 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:44:40.799  3248  3275 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:44:40.799  3248  3275 W System.err: 	... 5 more
+12-29 05:44:40.800  3277  3277 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:40.810  3248  3282 D account : cost time = 2
+12-29 05:44:40.814  2169  2478 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:40.815  3248  3248 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:44:40.815  3248  3248 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:44:40.815  3248  3248 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:44:40.816  3248  3248 D account : sdk get default auth
+12-29 05:44:40.819  2169  7588 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:40.821  3248  3291 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:44:40.822  3248  3290 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:44:40.958  3248  3248 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3248 (baba.kunlun.wdj)
+12-29 05:44:40.958  3248  3248 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:44:40.960  1911  1911 I Zygote  : Process 3248 exited due to signal (11)
+12-29 05:44:40.973  2169 13566 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3248) has died
+12-29 05:44:40.973  2169 13566 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:40.973  2169 13566 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:40.973  2169 13566 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 256000ms
+12-29 05:44:40.983  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:41.984  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:42.273  2169 20953 W ActivityManager: getRunningAppProcesses: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:42.986  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:43.983  3312  3312 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:43.988  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:44.990  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:45.993  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:46.511  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:44:46.511  2169  2218 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-29 05:44:46.523  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:44:46.732  2169  2169 V ActivityManager: Display changed displayId=0
+12-29 05:44:46.747  2169  2188 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.29}
+12-29 05:44:46.748  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 05:44:46.842  2169  2212 I ActivityManager: Start proc 3316:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:44:46.843 29818 29818 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:44:46.849  3316  3316 I ActivityThread: Switching default density from 160 to 240
+12-29 05:44:46.856  3316  3316 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:44:46.856  3316  3316 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:44:46.856  3316  3316 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:44:46.863  3340  3340 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:46.868  3316  3342 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:44:46.868  3316  3342 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:44:46.868  3316  3342 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:44:46.868  3316  3342 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:44:46.868  3316  3342 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:44:46.868  3316  3342 W System.err: 	at o.vi.run(:257)
+12-29 05:44:46.868  3316  3342 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:44:46.868  3316  3342 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:44:46.868  3316  3342 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:44:46.868  3316  3342 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:44:46.868  3316  3342 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:44:46.868  3316  3342 W System.err: 	... 5 more
+12-29 05:44:46.869  3343  3343 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:46.878  3316  3349 D account : cost time = 3
+12-29 05:44:46.883  2169  2320 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:46.884  3316  3316 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:44:46.884  3316  3316 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:44:46.884  3316  3316 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:44:46.885  3316  3316 D account : sdk get default auth
+12-29 05:44:46.888  2169  3042 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:46.890  3316  3358 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:44:46.891  3316  3357 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:44:46.933  2169  2198 I WindowManager: Screen frozen for +248ms due to Window{784aa35 u0 com.android.systemui.ImageWallpaper}
+12-29 05:44:47.035  3316  3316 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3316 (baba.kunlun.wdj)
+12-29 05:44:47.035  3316  3316 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:44:47.037  1911  1911 I Zygote  : Process 3316 exited due to signal (11)
+12-29 05:44:47.050  2169  7590 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3316) has died
+12-29 05:44:47.050  2169  7590 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:47.050  2169  7590 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:47.050  2169  7590 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 1000ms
+12-29 05:44:47.329  2479  2668 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-29 05:44:47.571  2169  3042 W ActivityManager: getRunningAppProcesses: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:47.771  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 05:44:47.771  2299  2299 W PackageManager: Failure retrieving resources for com.tencent.mm: Resource ID #0x0
+12-29 05:44:48.076  2169  2193 I ActivityManager: Start proc 3375:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:44:48.090  3375  3375 I ActivityThread: Switching default density from 160 to 240
+12-29 05:44:48.106  3375  3375 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:44:48.107  3375  3375 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:44:48.107  3375  3375 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:44:48.121  3399  3399 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:48.124  3375  3402 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:44:48.124  3375  3402 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:44:48.124  3375  3402 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:44:48.124  3375  3402 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:44:48.124  3375  3402 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:44:48.124  3375  3402 W System.err: 	at o.vi.run(:257)
+12-29 05:44:48.124  3375  3402 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:44:48.124  3375  3402 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:44:48.124  3375  3402 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:44:48.124  3375  3402 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:44:48.124  3375  3402 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:44:48.124  3375  3402 W System.err: 	... 5 more
+12-29 05:44:48.125  3404  3404 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:48.138  3375  3409 D account : cost time = 4
+12-29 05:44:48.142  2169 13566 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:48.143  3375  3375 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:44:48.143  3375  3375 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:44:48.143  3375  3375 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:44:48.145  3375  3375 D account : sdk get default auth
+12-29 05:44:48.149  2169 20952 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:48.151  3375  3418 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:44:48.152  3375  3417 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:44:48.293  3375  3375 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3375 (baba.kunlun.wdj)
+12-29 05:44:48.293  3375  3375 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:44:48.295  1911  1911 I Zygote  : Process 3375 exited due to signal (11)
+12-29 05:44:48.306  2169  7588 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3375) has died
+12-29 05:44:48.306  2169  7588 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:48.306  2169  7588 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:48.306  2169  7588 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 4000ms
+12-29 05:44:48.308  3434  3434 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:49.040  2169  2198 I art     : Explicit concurrent mark sweep GC freed 9779(519KB) AllocSpace objects, 11(5MB) LOS objects, 33% free, 16MB/24MB, paused 648us total 35.547ms
+12-29 05:44:49.857  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:50.858  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:51.860  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:52.332  2169  2193 I ActivityManager: Start proc 3437:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:44:52.351  3437  3437 I ActivityThread: Switching default density from 160 to 240
+12-29 05:44:52.367  3437  3437 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:44:52.368  3437  3437 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:44:52.368  3437  3437 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:44:52.388  3461  3461 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:52.394  3437  3464 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:44:52.395  3437  3464 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:44:52.395  3437  3464 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:44:52.395  3437  3464 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:44:52.395  3437  3464 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:44:52.395  3437  3464 W System.err: 	at o.vi.run(:257)
+12-29 05:44:52.395  3437  3464 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:44:52.395  3437  3464 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:44:52.395  3437  3464 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:44:52.395  3437  3464 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:44:52.395  3437  3464 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:44:52.395  3437  3464 W System.err: 	... 5 more
+12-29 05:44:52.398  3466  3466 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:52.422  3437  3470 D account : cost time = 4
+12-29 05:44:52.429  2169  7590 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:52.430  3437  3437 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:44:52.430  3437  3437 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:44:52.430  3437  3437 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:44:52.432  3437  3437 D account : sdk get default auth
+12-29 05:44:52.439  2169  7590 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:52.440  3437  3479 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:44:52.441  3437  3478 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:44:52.441  2169  2189 W ActivityManager: getRunningAppProcesses: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:52.586  3437  3437 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3437 (baba.kunlun.wdj)
+12-29 05:44:52.586  3437  3437 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:44:52.591  1911  1911 I Zygote  : Process 3437 exited due to signal (11)
+12-29 05:44:52.601  2169  2501 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3437) has died
+12-29 05:44:52.601  2169  2501 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:52.601  2169  2501 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:52.601  2169  2501 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push flg=0x4 cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService (has extras) } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:52.601  2169  2501 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 16000ms
+12-29 05:44:52.863  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:53.609  3497  3497 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:53.866  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:54.869  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:55.872  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:56.875  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:57.877  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:58.454  2169  2212 I ActivityManager: Start proc 3498:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:44:58.464  3498  3498 I ActivityThread: Switching default density from 160 to 240
+12-29 05:44:58.468  3498  3498 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:44:58.468  3498  3498 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:44:58.468  3498  3498 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:44:58.475  3522  3522 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:58.477  3498  3524 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:44:58.477  3498  3524 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:44:58.477  3498  3524 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:44:58.477  3498  3524 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:44:58.477  3498  3524 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:44:58.477  3498  3524 W System.err: 	at o.vi.run(:257)
+12-29 05:44:58.477  3498  3524 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:44:58.477  3498  3524 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:44:58.477  3498  3524 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:44:58.477  3498  3524 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:44:58.477  3498  3524 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:44:58.477  3498  3524 W System.err: 	... 5 more
+12-29 05:44:58.478  3526  3526 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:58.489  3498  3530 D account : cost time = 3
+12-29 05:44:58.494  2169  3018 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:58.495  3498  3498 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:44:58.495  3498  3498 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:44:58.495  3498  3498 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:44:58.496  3498  3498 D account : sdk get default auth
+12-29 05:44:58.501  2169 20953 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:58.502  3498  3539 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:44:58.503  3498  3538 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:44:58.617  3546  3546 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:58.651  3498  3498 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3498 (baba.kunlun.wdj)
+12-29 05:44:58.651  3498  3498 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:44:58.653  1911  1911 I Zygote  : Process 3498 exited due to signal (11)
+12-29 05:44:58.663  2169  2189 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3498) has died
+12-29 05:44:58.663  2169  2189 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:58.663  2169  2189 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:58.663  2169  2189 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 1000ms
+12-29 05:44:58.880  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:59.575  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:44:59.581  2169 20953 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-29 05:44:59.588  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:44:59.637  2169  3042 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@36ccd6b7 (uid=10036 pid=2479)
+12-29 05:44:59.690  2169  2193 I ActivityManager: Start proc 3557:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:44:59.704  3557  3557 I ActivityThread: Switching default density from 160 to 240
+12-29 05:44:59.721  3557  3557 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:44:59.721  3557  3557 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:44:59.721  3557  3557 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:44:59.737  3581  3581 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:59.741  3557  3584 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:44:59.741  3557  3584 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:44:59.741  3557  3584 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:44:59.741  3557  3584 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:44:59.741  3557  3584 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:44:59.741  3557  3584 W System.err: 	at o.vi.run(:257)
+12-29 05:44:59.741  3557  3584 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:44:59.742  3557  3584 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:44:59.742  3557  3584 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:44:59.742  3557  3584 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:44:59.742  3557  3584 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:44:59.742  3557  3584 W System.err: 	... 5 more
+12-29 05:44:59.744  3586  3586 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:44:59.767  3557  3590 D account : cost time = 6
+12-29 05:44:59.774  2169  2478 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:59.776  3557  3557 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:44:59.776  3557  3557 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:44:59.776  3557  3557 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:44:59.777  3557  3557 D account : sdk get default auth
+12-29 05:44:59.782  2169  2501 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:59.783  3557  3599 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:44:59.783  3557  3598 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:44:59.882  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:44:59.927  3557  3557 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3557 (baba.kunlun.wdj)
+12-29 05:44:59.927  3557  3557 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:44:59.929  1911  1911 I Zygote  : Process 3557 exited due to signal (11)
+12-29 05:44:59.941  2169  3018 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3557) has died
+12-29 05:44:59.941  2169  3018 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:59.941  2169  3018 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:44:59.941  2169  3018 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 4000ms
+12-29 05:45:00.742  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:45:00.817  7061  7061 I Term    : Bound to TermService
+12-29 05:45:00.817  7061  7061 I TermService: Activity binding to service
+12-29 05:45:00.883  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:01.885  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:02.887  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:03.889  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:03.952  3621  3621 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:03.968  2169  2193 I ActivityManager: Start proc 3622:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:45:03.983  3622  3622 I ActivityThread: Switching default density from 160 to 240
+12-29 05:45:03.999  3622  3622 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:45:03.999  3622  3622 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:45:03.999  3622  3622 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:45:04.016  3646  3646 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:04.020  3622  3649 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:45:04.020  3622  3649 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:45:04.020  3622  3649 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:45:04.020  3622  3649 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:45:04.020  3622  3649 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:45:04.020  3622  3649 W System.err: 	at o.vi.run(:257)
+12-29 05:45:04.020  3622  3649 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:45:04.020  3622  3649 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:45:04.020  3622  3649 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:45:04.020  3622  3649 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:45:04.020  3622  3649 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:45:04.020  3622  3649 W System.err: 	... 5 more
+12-29 05:45:04.022  3651  3651 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:04.035  3622  3656 D account : cost time = 3
+12-29 05:45:04.039  2169  2320 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:04.040  3622  3622 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:45:04.040  3622  3622 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:45:04.040  3622  3622 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:45:04.041  3622  3622 D account : sdk get default auth
+12-29 05:45:04.043  2169  2320 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:04.047  3622  3665 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:45:04.048  3622  3664 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:45:04.183  3622  3622 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3622 (baba.kunlun.wdj)
+12-29 05:45:04.183  3622  3622 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:45:04.185  1911  1911 I Zygote  : Process 3622 exited due to signal (11)
+12-29 05:45:04.194  2169  3042 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3622) has died
+12-29 05:45:04.194  2169  3042 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:04.194  2169  3042 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:04.194  2169  3042 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push flg=0x4 cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService (has extras) } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:04.194  2169  3042 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 16000ms
+12-29 05:45:04.891  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:05.894  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:06.823  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:45:06.830  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 05:45:06.830  2299  2299 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-29 05:45:06.832  2169 20952 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-29 05:45:06.835  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:45:06.896  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:06.923  7061  7061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:45:07.857  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 05:45:07.857  2299  2299 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-29 05:45:07.898  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:08.206  3685  3685 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:08.494  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:45:08.573  2169  2169 V ActivityManager: Display changed displayId=0
+12-29 05:45:08.581  2169  2478 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.30}
+12-29 05:45:08.582  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 05:45:08.693  2299  2299 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:45:08.695  2169  2198 I WindowManager: Screen frozen for +182ms due to Window{564b64b u0 NavigationBar}
+12-29 05:45:08.748  2169  2218 I InputDispatcher: Dropping event because there is no touchable window at (1089, 239).
+12-29 05:45:08.748  2169  2218 I InputDispatcher: Dropping event because there is no touchable window at (1090, 239).
+12-29 05:45:08.900  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:09.426 32005  3691 V CommonParams: cast to int com.baidu.pushservice.sd Exception. 
+12-29 05:45:09.426 32005 32005 V CommonParams: cast to Long com.baidu.pushservice.clt Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-29 05:45:09.427 32005  3691 V CommonParams: cast to Long com.baidu.pushservice.cst Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-29 05:45:09.428 32005 32005 V CommonParams: cast to int com.baidu.pushservice.lsi Exception. 
+12-29 05:45:09.429 32005  3691 V CommonParams: cast to Long com.baidu.pushservice.st Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-29 05:45:09.449  2169  2212 I ActivityManager: Start proc 3692:org.mozilla.firefox/u0a62 for service org.mozilla.firefox/org.mozilla.gecko.background.healthreport.upload.HealthReportUploadService
+12-29 05:45:09.468  3692  3692 I ActivityThread: Switching default density from 160 to 240
+12-29 05:45:09.507  2169  2242 D NsdService: startMDnsDaemon
+12-29 05:45:09.507  1902  2138 D MDnsDS  : Starting MDNSD
+12-29 05:45:09.647 32005 32042 I socket  : msgid:5
+12-29 05:45:09.708  2169  2242 D NsdService: New client listening to asynchronous messages
+12-29 05:45:09.708  2169  2242 D NsdService: New client, channel: com.android.internal.util.AsyncChannel@1d2d0edc messenger: android.os.Messenger@de8be5
+12-29 05:45:09.712  3692  3716 D GeckoHardwareUtils: HardwareUtils already inited.
+12-29 05:45:09.712  3692  3715 D GeckoHardwareUtils: HardwareUtils already inited.
+12-29 05:45:09.774  3692  3715 I GeckoHealth: firefox :: SubmissionPolicy :: Need to wait 86400000 before first upload.
+12-29 05:45:09.902  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:10.784  2169  2198 I art     : Explicit concurrent mark sweep GC freed 10710(611KB) AllocSpace objects, 5(80KB) LOS objects, 33% free, 18MB/28MB, paused 942us total 36.184ms
+12-29 05:45:10.903  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:11.905  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:12.407  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:45:12.407  2169  2218 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-29 05:45:12.419  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:45:12.465  2169  2169 V ActivityManager: Display changed displayId=0
+12-29 05:45:12.481  2169 15111 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.31}
+12-29 05:45:12.482  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 05:45:12.483  3692  3692 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-29 05:45:12.486  3692  3692 D GeckoSharedPrefs: Current version = 1, prefs version = 1
+12-29 05:45:12.486  3692  3692 D GeckoLocales: No selected locale. No correction needed.
+12-29 05:45:12.550 29818 29818 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:45:12.645  2169  2188 I WindowManager: Screen frozen for +222ms due to Window{784aa35 u0 com.android.systemui.ImageWallpaper}
+12-29 05:45:12.907  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:13.046  2479  2668 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-29 05:45:13.309  2169  3736 W ActivityManager: getRunningAppProcesses: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:13.509  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 05:45:13.509  2299  2299 W PackageManager: Failure retrieving resources for com.tencent.mm: Resource ID #0x0
+12-29 05:45:13.518  3721  3721 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:13.910  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:14.716  2169  2198 I art     : Explicit concurrent mark sweep GC freed 3467(182KB) AllocSpace objects, 6(2MB) LOS objects, 33% free, 18MB/27MB, paused 909us total 35.347ms
+12-29 05:45:14.799  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:45:14.814  2169  2320 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-29 05:45:14.913  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:15.914  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:16.916  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:17.918  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:18.529  3724  3724 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:18.920  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:19.923  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:20.142  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:45:20.149  2169  2218 I InputDispatcher: Dropping event because there is no touchable window at (1115, 516).
+12-29 05:45:20.154  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:45:20.157  2169  2218 I InputDispatcher: Dropping event because there is no touchable window at (1116, 516).
+12-29 05:45:20.189  2169  2218 I InputDispatcher: Dropping event because there is no touchable window at (1117, 515).
+12-29 05:45:20.205  2169  2218 I InputDispatcher: Dropping event because there is no touchable window at (1118, 515).
+12-29 05:45:20.222  2169  2193 I ActivityManager: Start proc 3730:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:45:20.222  7061  7061 I Term    : Bound to TermService
+12-29 05:45:20.222  7061  7061 I TermService: Activity binding to service
+12-29 05:45:20.235  3730  3730 I ActivityThread: Switching default density from 160 to 240
+12-29 05:45:20.251  3730  3730 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:45:20.251  3730  3730 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:45:20.251  3730  3730 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:45:20.265  3756  3756 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:20.269  3730  3758 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:45:20.269  3730  3758 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:45:20.269  3730  3758 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:45:20.269  3730  3758 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:45:20.269  3730  3758 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:45:20.269  3730  3758 W System.err: 	at o.vi.run(:257)
+12-29 05:45:20.269  3730  3758 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:45:20.269  3730  3758 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:45:20.269  3730  3758 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:45:20.269  3730  3758 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:45:20.269  3730  3758 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:45:20.269  3730  3758 W System.err: 	... 5 more
+12-29 05:45:20.270  3760  3760 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:20.280  3730  3765 D account : cost time = 3
+12-29 05:45:20.284  2169  2501 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:20.285  3730  3730 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:45:20.285  3730  3730 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:45:20.285  3730  3730 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:45:20.286  3730  3730 D account : sdk get default auth
+12-29 05:45:20.290  2169  7590 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:20.293  3730  3774 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:45:20.294  3730  3773 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:45:20.432  3730  3730 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3730 (baba.kunlun.wdj)
+12-29 05:45:20.432  3730  3730 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:45:20.434  1911  1911 I Zygote  : Process 3730 exited due to signal (11)
+12-29 05:45:20.444  2169  3736 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3730) has died
+12-29 05:45:20.444  2169  3736 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:20.444  2169  3736 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:20.444  2169  3736 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 64000ms
+12-29 05:45:20.926  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:21.929  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:22.931  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:23.454  3791  3791 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:23.933  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:24.935  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:25.936  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:26.298  2169  2212 I ActivityManager: Start proc 3792:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:45:26.299  3792  3792 I ActivityThread: Switching default density from 160 to 240
+12-29 05:45:26.306  3792  3792 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:45:26.306  3792  3792 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:45:26.306  3792  3792 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:45:26.315  3816  3816 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:26.319  3792  3819 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:45:26.319  3792  3819 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:45:26.319  3792  3819 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:45:26.319  3792  3819 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:45:26.319  3792  3819 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:45:26.319  3792  3819 W System.err: 	at o.vi.run(:257)
+12-29 05:45:26.319  3792  3819 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:45:26.319  3792  3819 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:45:26.319  3792  3819 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:45:26.319  3792  3819 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:45:26.319  3792  3819 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:45:26.319  3792  3819 W System.err: 	... 5 more
+12-29 05:45:26.320  3821  3821 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:26.334  3792  3826 D account : cost time = 4
+12-29 05:45:26.339  2169  2188 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:26.340  3792  3792 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:45:26.340  3792  3792 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:45:26.340  3792  3792 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:45:26.341  3792  3792 D account : sdk get default auth
+12-29 05:45:26.345  2169  3736 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:26.349  3792  3835 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:45:26.349  3792  3834 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:45:26.486  3792  3792 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3792 (baba.kunlun.wdj)
+12-29 05:45:26.486  3792  3792 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:45:26.487  1911  1911 I Zygote  : Process 3792 exited due to signal (11)
+12-29 05:45:26.497  2169  2478 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3792) has died
+12-29 05:45:26.497  2169  2478 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:26.497  2169  2478 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:26.497  2169  2478 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 1000ms
+12-29 05:45:26.938  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:27.524  2169  2193 I ActivityManager: Start proc 3851:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:45:27.534  1911  1911 I art     : Explicit concurrent mark sweep GC freed 709(30KB) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 140us total 9.510ms
+12-29 05:45:27.538  3851  3851 I ActivityThread: Switching default density from 160 to 240
+12-29 05:45:27.546  1911  1911 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 209us total 11.953ms
+12-29 05:45:27.557  3851  3851 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:45:27.557  3851  3851 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:45:27.557  1911  1911 I art     : Explicit concurrent mark sweep GC freed 5(160B) AllocSpace objects, 0(0B) LOS objects, 40% free, 1904KB/3MB, paused 136us total 10.939ms
+12-29 05:45:27.557  3851  3851 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:45:27.568  3875  3875 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:27.571  3851  3877 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:45:27.571  3851  3877 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:45:27.571  3851  3877 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:45:27.571  3851  3877 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:45:27.571  3851  3877 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:45:27.571  3851  3877 W System.err: 	at o.vi.run(:257)
+12-29 05:45:27.571  3851  3877 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:45:27.571  3851  3877 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:45:27.571  3851  3877 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:45:27.571  3851  3877 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:45:27.571  3851  3877 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:45:27.571  3851  3877 W System.err: 	... 5 more
+12-29 05:45:27.572  3879  3879 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:27.584  3851  3883 D account : cost time = 3
+12-29 05:45:27.588  2169  3018 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:27.589  3851  3851 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:45:27.589  3851  3851 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:45:27.589  3851  3851 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:45:27.590  3851  3851 D account : sdk get default auth
+12-29 05:45:27.594  2169 13566 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:27.596  3851  3892 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:45:27.596  3851  3891 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:45:27.743  3851  3851 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3851 (baba.kunlun.wdj)
+12-29 05:45:27.743  3851  3851 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:45:27.745  1911  1911 I Zygote  : Process 3851 exited due to signal (11)
+12-29 05:45:27.753  2169  3736 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3851) has died
+12-29 05:45:27.753  2169  3736 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:27.753  2169  3736 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:27.753  2169  3736 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 4000ms
+12-29 05:45:27.941  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:28.761  3908  3908 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:28.944  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:29.947  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:30.949  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:31.773  2169  2193 I ActivityManager: Start proc 3909:com.rovio.baba.kunlun.wdj/u0a60 for service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService
+12-29 05:45:31.782  3909  3909 I ActivityThread: Switching default density from 160 to 240
+12-29 05:45:31.786  3909  3909 V PluginFrameworkInitor: need install plugins:[]
+12-29 05:45:31.786  3909  3909 I System.out: start plugin is = mario-sdk-plugin
+12-29 05:45:31.786  3909  3909 V ContextClassLoaderUtility: doing inject, paths:[/data/data/com.rovio.baba.kunlun.wdj/files/plugins/mario-sdk-plugin.apk]
+12-29 05:45:31.793  3933  3933 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:31.795  3909  3936 W System.err: java.io.FileNotFoundException: /data/local/tmp/.wdj_config/.udid: open failed: ENOENT (No such file or directory)
+12-29 05:45:31.795  3909  3936 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:456)
+12-29 05:45:31.795  3909  3936 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:87)
+12-29 05:45:31.795  3909  3936 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:72)
+12-29 05:45:31.795  3909  3936 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:42)
+12-29 05:45:31.795  3909  3936 W System.err: 	at o.vi.run(:257)
+12-29 05:45:31.795  3909  3936 W System.err: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:45:31.795  3909  3936 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+12-29 05:45:31.795  3909  3936 W System.err: 	at libcore.io.Posix.open(Native Method)
+12-29 05:45:31.795  3909  3936 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+12-29 05:45:31.795  3909  3936 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:442)
+12-29 05:45:31.795  3909  3936 W System.err: 	... 5 more
+12-29 05:45:31.796  3938  3938 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:31.804  3909  3942 D account : cost time = 2
+12-29 05:45:31.808  2169  2320 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:31.809  3909  3909 I Wandoujia-PaySdk_GameApi: init,100029127
+12-29 05:45:31.809  3909  3909 D Wandoujia-PaySdk_LocalStorage: LocalStorage init, id: 100029127
+12-29 05:45:31.809  3909  3909 D LocalStorage: New LocalStorage -- AppID: 100029127
+12-29 05:45:31.810  3909  3909 D account : sdk get default auth
+12-29 05:45:31.813  2169  7588 W ActivityManager: getRunningAppProcesses: caller 10060 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:31.815  3909  3951 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/app/get?content=%7B%22uid%22%3A%22%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22gameVersionCode%22%3A%22440%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22appkey%22%3A100029127%2C%22sdkBaseVersion%22%3A%224.0.0.0%22%7D&sign=a994d4b53013496f2ad04f5131f34e01
+12-29 05:45:31.816  3909  3950 D HTTP    : http://mario.sdk.wandoujia.com/api/v1/game/profile?content=%7B%22ffFunctionOptions%22%3A%7B%22needHasScreenshot%22%3Atrue%7D%2C%22appkey%22%3A100029127%2C%22gameVersionCode%22%3A%22440%22%2C%22gameVersionName%22%3A%222.4.1%22%2C%22sdkVersion%22%3A%224.0.0%22%2C%22udid%22%3A%22ec08a023f8264a6bb502341cf19b4e8a8acc6d34%22%7D&sign=287f32d9de6ef97fc708217d2cf08693
+12-29 05:45:31.951  3909  3909 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xf3670000 in tid 3909 (baba.kunlun.wdj)
+12-29 05:45:31.951  3909  3909 I libc    : Suppressing debuggerd output because prctl(PR_GET_DUMPABLE)==0
+12-29 05:45:31.952  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:32.108  1911  1911 I Zygote  : Process 3909 exited due to signal (11)
+12-29 05:45:32.108  2169 20953 I ActivityManager: Process com.rovio.baba.kunlun.wdj (pid 3909) has died
+12-29 05:45:32.108  2169 20953 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:32.108  2169 20953 W ActivityManager: Canceling start item Intent { cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:32.108  2169 20953 W ActivityManager: Canceling start item Intent { act=com.wandoujia.mariosdk.plugin.apk.push flg=0x4 cmp=com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService (has extras) } in service ComponentInfo{com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService}
+12-29 05:45:32.108  2169 20953 W ActivityManager: Scheduling restart of crashed service com.rovio.baba.kunlun.wdj/com.wandoujia.mariosdk.plugin.api.WandouPluginService in 16000ms
+12-29 05:45:32.953  2169  7590 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:33.956  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:34.119  3967  3967 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:45:34.958  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:35.960  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:36.963  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:45:37.393  3968  3968 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

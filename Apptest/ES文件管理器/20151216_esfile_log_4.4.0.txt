@@ -1,0 +1,187 @@
+12-16 03:01:43.109  5019  5019 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:01:46.571  4580  4600 D MSF.D.QLogImpl: [E]set UIN_REPORTLOG_LEVEL 1
+12-16 03:01:48.120  5020  5020 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:01:50.648  2183  2464 W ActivityManager: getRunningAppProcesses: caller 10054 does not hold REAL_GET_TASKS; limiting output
+12-16 03:01:52.676  1909  1909 D SurfaceFlinger: Set power mode=2, type=0 flinger=0x7f98ef862000
+12-16 03:01:52.676  1909  2154 D GRALLOC-DRM: set master
+12-16 03:01:53.131  5021  5021 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:01:58.143  5023  5023 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:01.413  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:01.426  1917  2180 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 03:02:01.435  2183  4848 D OpenGLRenderer: endAllStagingAnimators on 0x7fb6f964ec00 (RippleDrawable) with handle 0x7fb70691a980
+12-16 03:02:01.438  4444  4444 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-16 03:02:03.152  5026  5026 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:08.160  5027  5027 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:09.525  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:09.530  2183  2608 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb1/moffice_cn00563.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10034 on display 0
+12-16 03:02:09.532  2183  2608 V WindowManager: addAppToken: AppWindowToken{25cb8389 token=Token{23824e90 ActivityRecord{30ed553 u0 com.android.packageinstaller/.PackageInstallerActivity t11}}} to stack=1 task=11 at 1
+12-16 03:02:09.537  1917  2180 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 03:02:09.622  4444  4444 W PackageParser: No actions in intent filter at /storage/usb1/moffice_cn00563.apk Binary XML file line #845
+12-16 03:02:09.751  4444  4444 I AppSecurityPermissions: Ignoring unknown permission:com.xiaomi.permission.AUTH_SERVICE
+12-16 03:02:09.757  2183  2609 V WindowManager: Adding window Window{102773af u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 3 of 8 (after Window{2cb1cba7 u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+12-16 03:02:09.829  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:09.835  2183  2205 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb1/moffice_cn00563.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10034 on display 0
+12-16 03:02:09.837  2183  2205 V WindowManager: addAppToken: AppWindowToken{850769a token=Token{25fcf45 ActivityRecord{e65c3bc u0 com.android.packageinstaller/.PackageInstallerActivity t11}}} to stack=1 task=11 at 2
+12-16 03:02:09.840  4444  4467 V RenderScript: 0x7fb6fdc93000 Launching thread(s), CPUs 8
+12-16 03:02:09.866  4444  4444 W PackageParser: No actions in intent filter at /storage/usb1/moffice_cn00563.apk Binary XML file line #845
+12-16 03:02:09.950  4444  4444 I AppSecurityPermissions: Ignoring unknown permission:com.xiaomi.permission.AUTH_SERVICE
+12-16 03:02:09.955  2183  2606 V WindowManager: Adding window Window{25a95fa8 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 4 of 9 (after Window{102773af u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+12-16 03:02:09.991  2183  2214 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +134ms (total +1m23s888ms)
+12-16 03:02:13.157  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:13.170  1917  2180 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 03:02:13.172  5041  5041 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:13.195  4444  4467 D OpenGLRenderer: endAllStagingAnimators on 0x7fb6fe4e0800 (RippleDrawable) with handle 0x7fb6fe552180
+12-16 03:02:15.253  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:15.268  2183  2205 W InputMethodManagerService: Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@a95a1fd (uid=10025 pid=4444)
+12-16 03:02:15.297  4444  4467 D OpenGLRenderer: endAllStagingAnimators on 0x7fb706b8f400 (RippleDrawable) with handle 0x7fb6fdcaec00
+12-16 03:02:18.183  5043  5043 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:20.648  2183  2608 W ActivityManager: getRunningAppProcesses: caller 10054 does not hold REAL_GET_TASKS; limiting output
+12-16 03:02:22.845  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:22.847  2183  2326 I ActivityManager: START u0 {act=android.intent.action.VIEW dat=file:///storage/usb1/com.estrongs.android.pop_248.apk typ=application/vnd.android.package-archive cmp=com.android.packageinstaller/.PackageInstallerActivity} from uid 10034 on display 0
+12-16 03:02:22.852  2183  2326 V WindowManager: addAppToken: AppWindowToken{7fe583e token=Token{79f60f9 ActivityRecord{1e4e7bc0 u0 com.android.packageinstaller/.PackageInstallerActivity t11}}} to stack=1 task=11 at 1
+12-16 03:02:22.856  1917  2180 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 03:02:22.859  4444  4444 W ResourceType: Failure getting entry for 0x7f02038a (t=1 e=906) (error -75)
+12-16 03:02:22.909  4444  4444 I AppSecurityPermissions: Ignoring unknown permission:.PERMISSION
+12-16 03:02:22.918  2183  2608 V WindowManager: Adding window Window{2f7f93ec u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity} at 3 of 8 (after Window{2cb1cba7 u0 com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity})
+12-16 03:02:22.971  2183  2214 I ActivityManager: Displayed com.android.packageinstaller/.PackageInstallerActivity: +116ms
+12-16 03:02:23.192  5047  5047 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:26.333  2183  2608 I ActivityManager: START u0 {dat=file:///storage/usb1/com.estrongs.android.pop_248.apk cmp=com.android.packageinstaller/.InstallAppProgress (has extras)} from uid 10025 on display 0
+12-16 03:02:26.333  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:26.337  2183  2608 V WindowManager: addAppToken: AppWindowToken{27c802d8 token=Token{27150dbb ActivityRecord{183ba4a u0 com.android.packageinstaller/.InstallAppProgress t11}}} to stack=1 task=11 at 2
+12-16 03:02:26.346  1917  2180 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 03:02:26.358  2183  2607 V WindowManager: Adding window Window{1af8046d u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress} at 4 of 9 (after Window{2f7f93ec u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity})
+12-16 03:02:26.417  2183  2214 I ActivityManager: Displayed com.android.packageinstaller/.InstallAppProgress: +71ms
+12-16 03:02:26.447  4444  4467 D OpenGLRenderer: endAllStagingAnimators on 0x7fb706b90400 (RippleDrawable) with handle 0x7fb706a56a60
+12-16 03:02:26.571  4473  4493 D DefContainer: Copying /storage/usb1/com.estrongs.android.pop_248.apk to base.apk
+12-16 03:02:26.744  2183  2218 W ResourceType: Failure getting entry for 0x7f02038a (t=1 e=906) (error -75)
+12-16 03:02:26.882  2183  2218 D PackageManager: Renaming /data/app/vmdl934195799.tmp to /data/app/com.estrongs.android.pop-1
+12-16 03:02:26.905  2183  2218 I PackageManager: Running dexopt on: /data/app/com.estrongs.android.pop-1/base.apk pkg=com.estrongs.android.pop isa=x86 vmSafeMode=false
+12-16 03:02:26.910  5051  5051 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-16 03:02:26.911  5051  5051 E cutils-trace: Error opening trace file: Permission denied (13)
+12-16 03:02:26.911  5051  5051 I dex2oat : /system/bin/dex2oat --zip-fd=5 --zip-location=/data/app/com.estrongs.android.pop-1/base.apk --oat-fd=6 --oat-location=/data/dalvik-cache/x86/data@app@com.estrongs.android.pop-1@base.apk@classes.dex --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only --swap-fd=7
+12-16 03:02:27.026  5051  5051 I dex2oat : Decided to run without swap.
+12-16 03:02:27.042  5051  5059 W dex2oat : Before Android 4.1, method int android.support.v7.internal.widget.ListViewCompat.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+12-16 03:02:27.487  5051  5051 I dex2oat : dex2oat took 575.727ms (threads: 8) arena alloc=0B java alloc=13MB native alloc=1162KB free=10MB
+12-16 03:02:27.563  2183  2218 W PackageManager: Not granting permission android.permission.WRITE_MEDIA_STORAGE to package com.estrongs.android.pop (protectionLevel=18 flags=0x48be44)
+12-16 03:02:27.563  2183  2218 W PackageManager: Unknown permission .PERMISSION in package com.estrongs.android.pop
+12-16 03:02:27.621  2183  2218 V BackupManagerService: restoreAtInstall pkg=com.estrongs.android.pop token=2 restoreSet=0
+12-16 03:02:27.621  2183  2218 V BackupManagerService: Finishing install immediately
+12-16 03:02:27.622  2183  2218 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+12-16 03:02:27.626  2183  2229 I InputReader: Reconfiguring input devices.  changes=0x00000010
+12-16 03:02:27.636  2183  2183 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.estrongs.android.pop flg=0x4000010 (has extras) }
+12-16 03:02:27.645  2183  2208 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+12-16 03:02:27.676  2183  2218 I art     : Explicit concurrent mark sweep GC freed 92712(4MB) AllocSpace objects, 11(553KB) LOS objects, 33% free, 11MB/17MB, paused 941us total 54.569ms
+12-16 03:02:27.694  2424  2424 I Launcher: Deferring update until onResume
+12-16 03:02:27.762  2424  2424 I Launcher: Deferring update until onResume
+12-16 03:02:28.205  5068  5068 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.165  2183  2326 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.estrongs.android.pop cmp=com.estrongs.android.pop/.app.adgad.GdtSplashActivity} from uid 10025 on display 0
+12-16 03:02:31.166  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:31.170  2183  2326 V WindowManager: addAppToken: AppWindowToken{38f8510c token=Token{2281a43f ActivityRecord{1eea485e u0 com.estrongs.android.pop/.app.adgad.GdtSplashActivity t13}}} to stack=1 task=13 at 0
+12-16 03:02:31.178  1917  2180 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 03:02:31.187  2183  2214 V WindowManager: Adding window Window{342d46d1 u0 Starting com.estrongs.android.pop} at 4 of 9 (after Window{1af8046d u0 com.android.packageinstaller/com.android.packageinstaller.InstallAppProgress})
+12-16 03:02:31.242  2183  2609 I ActivityManager: Start proc 5070:com.estrongs.android.pop/u0a57 for activity com.estrongs.android.pop/.app.adgad.GdtSplashActivity
+12-16 03:02:31.262  5070  5070 I ActivityThread: Switching default density from 160 to 240
+12-16 03:02:31.281  4444  4467 D OpenGLRenderer: endAllStagingAnimators on 0x7fb706bad800 (RippleDrawable) with handle 0x7fb6fe552900
+12-16 03:02:31.476  2183  2606 I ActivityManager: START u0 {cmp=com.estrongs.android.pop/.view.FileExplorerActivity} from uid 10057 on display 0
+12-16 03:02:31.496  2183  2606 V WindowManager: addAppToken: AppWindowToken{3c8a457d token=Token{3a23cfd4 ActivityRecord{14944127 u0 com.estrongs.android.pop/.view.FileExplorerActivity t13}}} to stack=1 task=13 at 1
+12-16 03:02:31.496  2183  2606 V WindowManager: Based on layer: Adding window Window{342d46d1 u0 Starting com.estrongs.android.pop} at 4 of 9
+12-16 03:02:31.638  5070  5070 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-16 03:02:31.646  5100  5100 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.654  5103  5103 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.659  2183  2213 D BluetoothManagerService: Message: 20
+12-16 03:02:31.659  2183  2213 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@13c9456c:true
+12-16 03:02:31.661  5105  5105 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.669  5107  5107 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.673  2183  2238 D WifiService: New client listening to asynchronous messages
+12-16 03:02:31.680  5110  5110 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.688  5111  5111 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.694  5113  5113 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.699  5114  5114 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.704  5115  5115 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:31.827  2183  2607 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10057
+12-16 03:02:32.045  5070  5132 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-16 03:02:32.047  2183  2608 V WindowManager: Adding window Window{8bb4c58 u0 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity} at 4 of 10 (before Window{342d46d1 u0 Starting com.estrongs.android.pop})
+12-16 03:02:32.096  2183  2204 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-16 03:02:32.097  2183  2205 W ActivityManager: getRunningAppProcesses: caller 10057 does not hold REAL_GET_TASKS; limiting output
+12-16 03:02:32.098  5070  5132 I GRALLOC-DRM: create intel for driver i915
+12-16 03:02:32.099  5070  5132 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-16 03:02:32.099  5070  5132 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-16 03:02:32.111  5070  5132 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-16 03:02:32.111  5070  5132 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-16 03:02:32.111  5070  5132 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-16 03:02:32.111  5070  5132 I OpenGLRenderer: Initialized EGL, version 1.4
+12-16 03:02:32.111  5070  5132 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-16 03:02:32.115  5070  5132 D OpenGLRenderer: Enabling debug mode 0
+12-16 03:02:32.117  2183  2607 D BluetoothManagerService: checkIfCallerIsForegroundUser: valid=true callingUser=0 parentUser=-10000 foregroundUser=0
+12-16 03:02:32.180  2183  2205 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10057
+12-16 03:02:32.214  5070  5132 W GraphicBufferMapper: registerBuffer(0xe0600800) failed -22 (Invalid argument)
+12-16 03:02:32.214  5070  5132 E GraphicBuffer: unflatten: registerBuffer failed: Invalid argument (-22)
+12-16 03:02:32.214  5070  5132 E Surface : dequeueBuffer: IGraphicBufferProducer::requestBuffer failed: -22
+12-16 03:02:32.220  5070  5132 F libc    : Fatal signal 11 (SIGSEGV), code 1, fault addr 0x1a8 in tid 5132 (RenderThread)
+12-16 03:02:32.251  2183  2607 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10057
+12-16 03:02:32.254  5136  5136 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.270  1913  1913 I DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+12-16 03:02:32.270  1913  1913 I DEBUG   : Build fingerprint: 'Android-x86/android_x86_64/x86_64:5.1.1/LVY48I/12080507:eng/test-keys'
+12-16 03:02:32.270  1913  1913 I DEBUG   : Revision: '0'
+12-16 03:02:32.270  1913  1913 I DEBUG   : ABI: 'x86'
+12-16 03:02:32.270  1913  1913 I DEBUG   : pid: 5070, tid: 5132, name: RenderThread  >>> com.estrongs.android.pop <<<
+12-16 03:02:32.270  1913  1913 I DEBUG   : signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x1a8
+12-16 03:02:32.273  1913  1913 I DEBUG   :     eax 00000000  ebx e10d8cec  ecx 00000001  edx edd2e200
+12-16 03:02:32.273  1913  1913 I DEBUG   :     esi edf37014  edi edd93b00
+12-16 03:02:32.273  1913  1913 I DEBUG   :     xcs 00000023  xds 0000002b  xes 0000002b  xfs 0000010f  xss 0000002b
+12-16 03:02:32.273  1913  1913 I DEBUG   :     eip e0b7752d  ebp edd93a90  esp e13e74a0  flags 00210246
+12-16 03:02:32.274  1913  1913 I DEBUG   : 
+12-16 03:02:32.274  1913  1913 I DEBUG   : backtrace:
+12-16 03:02:32.274  1913  1913 I DEBUG   :     #00 pc 000fc52d  /android/system/lib/dri/i965_dri.so
+12-16 03:02:32.274  1913  1913 I DEBUG   :     #01 pc 12345677  <unknown>
+12-16 03:02:32.310  2183  2608 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10057
+12-16 03:02:32.338  1913  1913 I DEBUG   : 
+12-16 03:02:32.338  1913  1913 I DEBUG   : Tombstone written to: /data/tombstones/tombstone_05
+12-16 03:02:32.339  2183  2210 I BootReceiver: Copying /data/tombstones/tombstone_05 to DropBox (SYSTEM_TOMBSTONE)
+12-16 03:02:32.339  2183  5141 W ActivityManager:   Force finishing activity 1 com.estrongs.android.pop/.view.FileExplorerActivity
+12-16 03:02:32.347  2183  2228 W InputDispatcher: channel '8bb4c58 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-16 03:02:32.347  2183  2228 E InputDispatcher: channel '8bb4c58 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-16 03:02:32.347  2183  2238 D WifiService: Client connection lost with reason: 4
+12-16 03:02:32.347  2183  2608 I WindowState: WIN DEATH: Window{8bb4c58 u0 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}
+12-16 03:02:32.347  2183  2608 W InputDispatcher: Attempted to unregister already unregistered input channel '8bb4c58 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity (server)'
+12-16 03:02:32.347  1921  1921 I Zygote  : Process 5070 exited due to signal (11)
+12-16 03:02:32.439  2183  5141 W ActivityManager: Exception thrown during pause
+12-16 03:02:32.439  2183  5141 W ActivityManager: android.os.DeadObjectException
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at android.os.BinderProxy.transactNative(Native Method)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at android.os.BinderProxy.transact(Binder.java:496)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at android.app.ApplicationThreadProxy.schedulePauseActivity(ApplicationThreadNative.java:704)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.ActivityStack.startPausingLocked(ActivityStack.java:825)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.ActivityStack.finishActivityLocked(ActivityStack.java:2726)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.ActivityStack.finishTopRunningActivityLocked(ActivityStack.java:2583)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.ActivityStackSupervisor.finishTopRunningActivityLocked(ActivityStackSupervisor.java:2497)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.ActivityManagerService.handleAppCrashLocked(ActivityManagerService.java:11505)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.ActivityManagerService.makeAppCrashingLocked(ActivityManagerService.java:11402)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.ActivityManagerService.crashApplication(ActivityManagerService.java:12086)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.ActivityManagerService.handleApplicationCrashInner(ActivityManagerService.java:11597)
+12-16 03:02:32.439  2183  5141 W ActivityManager: 	at com.android.server.am.NativeCrashListener$NativeCrashReporter.run(NativeCrashListener.java:86)
+12-16 03:02:32.440  1906  1906 E lowmemorykiller: Error opening /proc/5070/oom_score_adj; errno=2
+12-16 03:02:32.446  2183  2205 I ActivityManager: Process com.estrongs.android.pop (pid 5070) has died
+12-16 03:02:32.472  5143  5143 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.477  5144  5144 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.481  2183  4848 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-16 03:02:32.481  2183  4848 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-16 03:02:32.483  5145  5145 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.487  5146  5146 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.493  2183  4848 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-16 03:02:32.493  2183  4848 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-16 03:02:32.493  2183  4848 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-16 03:02:32.493  2183  4848 I OpenGLRenderer: Initialized EGL, version 1.4
+12-16 03:02:32.604  5150  5150 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.608  5151  5151 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.610  5152  5152 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.652  5154  5154 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.654  5155  5155 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:32.655  5156  5156 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:36.677  2183  2243 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-16 03:02:36.681  2183  4848 D OpenGLRenderer: endAllStagingAnimators on 0x7fb6f964fc00 (RippleDrawable) with handle 0x7fb706b4a6e0
+12-16 03:02:36.689  1917  2180 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-16 03:02:37.319  5158  5158 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:40.020  1909  1909 D SurfaceFlinger: Set power mode=0, type=0 flinger=0x7f98ef862000
+12-16 03:02:42.331  5159  5159 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:47.342  5160  5160 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-16 03:02:48.689  5161  5161 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160

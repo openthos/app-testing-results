@@ -1,0 +1,291 @@
+12-29 05:47:25.940  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:26.942  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:27.945  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:28.311  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:47:28.311  2169  2218 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-29 05:47:28.323  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:47:28.384  7061  7061 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:47:28.697  4147  4147 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:47:28.913  2479  2668 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-29 05:47:28.947  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:29.344  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 05:47:29.344  2299  2299 W PackageManager: Failure retrieving resources for jackpal.androidterm: Resource ID #0x0
+12-29 05:47:29.949  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:29.974  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:47:30.951  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:31.780  2169  3736 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mtt.x86/.SplashActivity (has extras)} from uid 10036 on display 0
+12-29 05:47:31.781  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:47:31.791  2169  3736 V WindowManager: addAppToken: AppWindowToken{335d7790 token=Token{14290253 ActivityRecord{2dc2c242 u0 com.tencent.mtt.x86/.SplashActivity t262}}} to stack=1 task=262 at 0
+12-29 05:47:31.820  2169  7590 I ActivityManager: Start proc 4150:com.tencent.mtt.x86/u0a64 for activity com.tencent.mtt.x86/.SplashActivity
+12-29 05:47:31.839  4150  4150 I ActivityThread: Switching default density from 160 to 240
+12-29 05:47:31.860  2169  3042 I ActivityManager: START u0 {cmp=com.tencent.mtt.x86/.MainActivity} from uid 10064 on display 0
+12-29 05:47:31.866  2169  3042 V WindowManager: addAppToken: AppWindowToken{3d3770af token=Token{283ec08e ActivityRecord{2299f889 u0 com.tencent.mtt.x86/.MainActivity t262}}} to stack=1 task=262 at 1
+12-29 05:47:31.931  2169  3736 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w720dp h1206dp 240dpi lrg long port -touch qwerty/v/v -nav/h s.32}
+12-29 05:47:31.932  2169  2169 V ActivityManager: Display changed displayId=0
+12-29 05:47:31.935  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 05:47:31.935  3692  3692 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-29 05:47:31.935  3692  3692 D GeckoLocales: No selected locale. No correction needed.
+12-29 05:47:31.953  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:32.018  4174  4174 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:47:32.145  4150  4176 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+12-29 05:47:32.145  2169 15111 V WindowManager: Based on layer: Adding window Window{33865366 u0 com.tencent.mtt.x86/com.tencent.mtt.x86.MainActivity} at 8 of 13
+12-29 05:47:32.167  4150  4176 I GRALLOC-DRM: create intel for driver i915
+12-29 05:47:32.167  4150  4176 I EGL-DRI2: DRI2: found extension DRI_Core version 1
+12-29 05:47:32.167  4150  4176 I EGL-DRI2: DRI2: found extension DRI_DRI2 version 4
+12-29 05:47:32.170  4150  4176 I EGL-DRI2: DRI2: found extension DRI_TexBuffer version 3
+12-29 05:47:32.170  4150  4176 I EGL-DRI2: DRI2: found extension DRI2_Flush version 4
+12-29 05:47:32.170  4150  4176 I EGL-DRI2: DRI2: found extension DRI_IMAGE version 11
+12-29 05:47:32.170  4150  4176 I OpenGLRenderer: Initialized EGL, version 1.4
+12-29 05:47:32.170  4150  4176 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-29 05:47:32.171  4150  4176 D OpenGLRenderer: Enabling debug mode 0
+12-29 05:47:32.196  2169  2198 I ActivityManager: Displayed com.tencent.mtt.x86/.MainActivity: +326ms (total +401ms)
+12-29 05:47:32.196  2479  2479 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:47:32.215  2169  2240 D WifiService: New client listening to asynchronous messages
+12-29 05:47:32.216  2169  2198 I WindowManager: Screen frozen for +346ms due to Window{33865366 u0 com.tencent.mtt.x86/com.tencent.mtt.x86.MainActivity}
+12-29 05:47:32.225  4183  4183 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-29 05:47:32.225  4183  4183 E cutils-trace: Error opening trace file: Permission denied (13)
+12-29 05:47:32.225  4183  4183 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.tencent.mtt.x86/app_x5_share/x5core/webview_dex.jar --oat-fd=45 --oat-location=/data/data/com.tencent.mtt.x86/app_x5_share/x5core/webview_dex.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m
+12-29 05:47:32.571  4183  4183 I dex2oat : dex2oat took 345.985ms (threads: 8) arena alloc=371KB java alloc=3MB native alloc=7MB free=8MB
+12-29 05:47:32.596  4150  4178 W System.err: com.tencent.smtt.webkit.service.SmttServiceProxy$SmttServiceIsNullException: smttservice instance is null. If using X5, please set smttservice using webviewwizard. If using SDK, please wait until the sevice connection established
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.smtt.webkit.service.SmttServiceProxy.getSmttServiceInvoker(Unknown Source)
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.smtt.webkit.service.SmttServiceProxy.getAndroidEnableFreakfixer(Unknown Source)
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.smtt.webkit.ContextHolder.setContext(Unknown Source)
+12-29 05:47:32.596  4150  4178 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+12-29 05:47:32.596  4150  4178 W System.err: 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.smtt.export.external.DexLoader.invokeMethod(DexLoader.java:76)
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.smtt.export.external.WebViewWizardBase.invokeMethod(WebViewWizardBase.java:1344)
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.smtt.export.external.WebViewWizardBase.setContextHolderParams(WebViewWizardBase.java:158)
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.mtt.browser.x5.b.b.B(RQDSRC:198)
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.mtt.browser.x5.b.b.load(RQDSRC:92)
+12-29 05:47:32.596  4150  4178 W System.err: 	at com.tencent.mtt.boot.browser.d.run(RQDSRC:60)
+12-29 05:47:32.596  4150  4178 W System.err: 	at android.os.Handler.handleCallback(Handler.java:739)
+12-29 05:47:32.596  4150  4178 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-29 05:47:32.596  4150  4178 W System.err: 	at android.os.Looper.loop(Looper.java:135)
+12-29 05:47:32.596  4150  4178 W System.err: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+12-29 05:47:32.637  2169 15111 W BackupManagerService: dataChanged but no participant pkg='com.android.providers.settings' uid=10064
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd719488, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd71948c, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd719490, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd719494, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd719498, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd71949c, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194a0, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194a4, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194a8, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194ac, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 12.000000, p = dd7194b0, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 1.000000, p = dd7194b4, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194b8, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -171465219159395612776962580279835230208.000000, p = dd7194bc, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.101011, p = dd7194c0, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : iOffsetSkPaintfWidth = 56, p = dd7194c0, base = dd719488
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.010101, p = dd7194c4, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : iOffsetSkPaintfMiterLimit = 60, p = dd7194c4, base = dd719488
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194c8, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194cc, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -870003833599117048424568669077504.000000, p = dd7194d0, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194d4, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194d8, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194dc, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194e0, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194e4, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd7194e8, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -4377802875267286674322541839908864.000000, p = dd7194ec, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -31299700750876147712.000000, p = dd7194f0, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -31299720542085447680.000000, p = dd7194f4, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -31299700750876147712.000000, p = dd7194f8, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -4107499596144353355333524239941632.000000, p = dd7194fc, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd719500, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd719504, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd719508, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = 0.000000, p = dd71950c, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -4116655091189898206501609437921280.000000, p = dd719510, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -31299720542085447680.000000, p = dd719514, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -31299700750876147712.000000, p = dd719518, end = dd719520
+12-29 05:47:32.659  4150  4178 I skpaint : *(float*)p = -383994231158472704.000000, p = dd71951c, end = dd719520
+12-29 05:47:32.943  4150  4179 W FileUtils: Failed to chmod(/data/data/com.tencent.mm/app_tbs): android.system.ErrnoException: chmod failed: ENOENT (No such file or directory)
+12-29 05:47:32.946  4150  4179 W FileUtils: Failed to chmod(/data/data/com.tencent.mobileqq/app_tbs): android.system.ErrnoException: chmod failed: ENOENT (No such file or directory)
+12-29 05:47:32.956  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:32.963  4196  4196 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-29 05:47:32.965  4196  4196 E cutils-trace: Error opening trace file: Permission denied (13)
+12-29 05:47:32.965  4196  4196 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.tencent.mtt.x86/app_dynamic_jar_output/com.tencent.mtt.share.jar --oat-fd=48 --oat-location=/data/data/com.tencent.mtt.x86/app_dynamic_jar_output/com.tencent.mtt.share.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m
+12-29 05:47:33.156  4196  4196 I dex2oat : dex2oat took 191.177ms (threads: 8) arena alloc=243KB java alloc=1761KB native alloc=3MB free=4MB
+12-29 05:47:33.644  4205  4205 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:47:33.958  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:33.970  4150  4150 D TilesManager: Starting TG #0, 0xf3fcd8e0
+12-29 05:47:33.989  4150  4150 I Choreographer: Skipped 108 frames!  The application may be doing too much work on its main thread.
+12-29 05:47:33.994  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.994  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.994  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.994  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.994  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.994  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.994  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.995  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.995  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.995  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.995  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.995  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.996  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.996  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.996  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.996  4150  4150 D skia    : --- SkImageDecoder::Factory returned null
+12-29 05:47:33.997  4150  4150 E SQLiteLog: (1) no such table: recent
+12-29 05:47:33.997  4150  4150 E SQLiteLog: (1) no such table: recent
+12-29 05:47:34.157  4150  4211 D websettingsExtension: WebSettings
+12-29 05:47:34.232  2169  2198 I art     : Explicit concurrent mark sweep GC freed 21975(1237KB) AllocSpace objects, 8(1662KB) LOS objects, 33% free, 18MB/27MB, paused 473us total 15.132ms
+12-29 05:47:34.347  2169 20953 I ActivityManager: Activity reported stop, but no longer stopping: ActivityRecord{2dc2c242 u0 com.tencent.mtt.x86/.SplashActivity t262 f}
+12-29 05:47:34.788  4150  4237 E SQLiteLog: (1) no such table: IconDatabaseInfo
+12-29 05:47:34.959  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:35.961  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:36.963  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:37.965  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:38.657  4241  4241 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:47:38.971  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:39.973  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:40.975  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:41.976  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:42.979  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:43.669  4244  4244 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:47:43.982  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:44.710  1134  1175 E SQLiteLog: (1555) abort at 11 in [INSERT INTO push(body,expired,type,id) VALUES (?,?,?,?)]: UNIQUE constraint failed: push.id
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: Error inserting body={"id":"8119973657438800971","type":0,"title":"为你准备：智能手机必备应用","description":"装机一步到位 点此查看>>","icon":"http://img.wdjimg.com/static-files/auv/push/essential.jpg","intent":"#Intent;action=phoenix.intent.action.NAVIGATE_TO_ACTIVITY;S.intent=wdj%3A%2F%2Ftopics%2Fapps%2F021230nudidapppush%23Intent%3Baction%3Dandroid.intent.action.VIEW%3Bend;end","style":0,"gold_style":null,"iron_style":{"text":"","icon":""},"popup_style":null,"download":null} expired=1451491140000 type=1 id=1451349000002
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: push.id (code 1555)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:782)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:788)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:86)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.insertWithOnConflict(SQLiteDatabase.java:1471)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.insert(SQLiteDatabase.java:1341)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at com.wandoujia.push2.p.run(PushStorage.java:50)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-29 05:47:44.711  1134  1175 E SQLiteDatabase: 	at java.lang.Thread.run(Thread.java:818)
+12-29 05:47:44.984  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:45.986  2169 13566 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:46.999  4247  4247 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0xec
+12-29 05:47:47.001  4247  4247 E cutils-trace: Error opening trace file: Permission denied (13)
+12-29 05:47:47.001  4247  4247 I dex2oat : /system/bin/dex2oat --runtime-arg -classpath --runtime-arg  --instruction-set=x86 --instruction-set-features=default --runtime-arg -Xrelocate --boot-image=/system/framework/boot.art --dex-file=/data/data/com.tencent.mtt.x86/app_dynamic_jar_output/com.tencent.mtt.market.jar --oat-fd=38 --oat-location=/data/data/com.tencent.mtt.x86/app_dynamic_jar_output/com.tencent.mtt.market.dex --runtime-arg -Xms64m --runtime-arg -Xmx512m
+12-29 05:47:47.139  4247  4247 I dex2oat : dex2oat took 137.606ms (threads: 8) arena alloc=1024KB java alloc=3MB native alloc=4MB free=3MB
+12-29 05:47:48.681  4259  4259 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:47:49.861  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:50.863  2169 20953 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:51.865  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:52.868  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:53.690  4260  4260 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:47:53.870  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:54.873  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:55.527  2169  2218 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher} from uid 1000 on display 0
+12-29 05:47:55.527  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:47:55.539  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:47:55.590  2169  2169 V ActivityManager: Display changed displayId=0
+12-29 05:47:55.598  2169  7590 I ActivityManager: Config changes=480 {1.0 ?mcc?mnc en_US ?layoutDir sw720dp w1280dp h646dp 240dpi lrg long land -touch qwerty/v/v -nav/h s.33}
+12-29 05:47:55.599  2169  2219 I InputReader: Reconfiguring input devices.  changes=0x00000004
+12-29 05:47:55.602  3692  3692 D GeckoApplication: onConfigurationChanged: en_US, background: false
+12-29 05:47:55.602  3692  3692 D GeckoLocales: No selected locale. No correction needed.
+12-29 05:47:55.686  4150  4150 W IInputConnectionWrapper: showStatusIcon on inactive InputConnection
+12-29 05:47:55.795  2169  2198 I WindowManager: Screen frozen for +230ms due to Window{784aa35 u0 com.android.systemui.ImageWallpaper}
+12-29 05:47:55.831  2169  2218 I InputDispatcher: Dropping event because there is no touchable window at (558, 1882).
+12-29 05:47:55.875  2169  3736 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:55.966  2169  7590 W ActivityManager: getTasks: caller 10064 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:55.970  4150  4150 D webviewglue: OnTrimMemory with EGL Context 0x0 level 20
+12-29 05:47:56.011  4150  4178 E SQLiteLog: (1) no such table: recent
+12-29 05:47:56.012  4150  4178 E SQLiteLog: (1) no such table: recent
+12-29 05:47:56.012  4150  4178 E SQLiteLog: (1) no such table: recent
+12-29 05:47:56.012  4150  4178 E SQLiteLog: (1) no such table: recent
+12-29 05:47:56.180  2479  2668 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+12-29 05:47:56.625  2299  2299 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-29 05:47:56.625  2299  2299 W PackageManager: Failure retrieving resources for com.tencent.mtt.x86: Resource ID #0x0
+12-29 05:47:56.878  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:57.845  2169  2198 I art     : Explicit concurrent mark sweep GC freed 6074(342KB) AllocSpace objects, 7(1883KB) LOS objects, 33% free, 18MB/27MB, paused 475us total 13.571ms
+12-29 05:47:57.881  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:58.703  4262  4262 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:47:58.882  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:47:59.303  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:47:59.314  2169  2188 I ActivityManager: START u0 {act=com.android.systemui.recents.SHOW_RECENTS flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity} from uid 10013 on display 0
+12-29 05:47:59.315  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:47:59.885  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:00.887  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:01.889  2169  7590 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:02.891  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:03.716  4267  4267 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:48:03.894  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:03.967  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:48:03.979  1907  2166 D audio_hw_primary: found out /dev/snd/pcmC0D0p
+12-29 05:48:04.347  2169  2478 I ActivityManager: Killing 29818:com.tencent.mm/u0a70 (adj 9): remove task
+12-29 05:48:04.370  2169  2218 W InputDispatcher: channel '114993a3 com.tencent.mm/com.tencent.mm.ui.account.RegByMobileRegAIOUI (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-29 05:48:04.370  2169  2218 E InputDispatcher: channel '114993a3 com.tencent.mm/com.tencent.mm.ui.account.RegByMobileRegAIOUI (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-29 05:48:04.374  2169  2218 W InputDispatcher: channel '38d4227a com.tencent.mm/com.tencent.mm.ui.LauncherUI (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-29 05:48:04.374  2169  2218 E InputDispatcher: channel '38d4227a com.tencent.mm/com.tencent.mm.ui.LauncherUI (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-29 05:48:04.377  2169  2189 I WindowState: WIN DEATH: Window{114993a3 u0 com.tencent.mm/com.tencent.mm.ui.account.RegByMobileRegAIOUI}
+12-29 05:48:04.377  2169  2189 W InputDispatcher: Attempted to unregister already unregistered input channel '114993a3 com.tencent.mm/com.tencent.mm.ui.account.RegByMobileRegAIOUI (server)'
+12-29 05:48:04.382  2169  2320 I WindowState: WIN DEATH: Window{38d4227a u0 com.tencent.mm/com.tencent.mm.ui.LauncherUI}
+12-29 05:48:04.382  2169  2320 W InputDispatcher: Attempted to unregister already unregistered input channel '38d4227a com.tencent.mm/com.tencent.mm.ui.LauncherUI (server)'
+12-29 05:48:04.408  2169  3042 I ActivityManager: Killing 12342:com.tencent.mm:push/u0a70 (adj 5): remove task
+12-29 05:48:04.435  2169  3736 W ActivityManager: Scheduling restart of crashed service com.tencent.mm/.booter.CoreService in 1000ms
+12-29 05:48:04.436  2169  2256 D TaskPersister: removeObsoleteFile: deleting file=261_task.xml
+12-29 05:48:04.436  2169  2256 D TaskPersister: removeObsoleteFile: deleting file=261_task_thumbnail.png
+12-29 05:48:04.896  2169  2501 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:05.462  4270  4270 D houdini : [4270] Initialize library(version: 5.2.2_y.47738 RELEASE)... successfully.
+12-29 05:48:05.463  2169  2193 I ActivityManager: Start proc 4270:com.tencent.mm:push/u0a70 for service com.tencent.mm/.booter.CoreService
+12-29 05:48:05.477  4270  4270 I ActivityThread: Switching default density from 160 to 240
+12-29 05:48:05.485  2169  2320 W ActivityManager: getRunningAppProcesses: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:05.526  4270  4270 D houdini : [4270] Added shared library /data/data/com.tencent.mm/app_recover_lib/libstlport_shared.so for ClassLoader by Native Bridge.
+12-29 05:48:05.526  4270  4270 E ActivityThread: Failed to find provider info for com.tencent.mm.coolassist.debugprovider
+12-29 05:48:05.528  4270  4270 D houdini : [4270] Added shared library /data/app/com.tencent.mm-1/lib/arm/libwechatxlog.so for ClassLoader by Native Bridge.
+12-29 05:48:05.529  4270  4270 W MicroMsg.xlogger: JNI_Xlog_onCreate
+12-29 05:48:05.571  4270  4270 D houdini : [4270] Added shared library /data/app/com.tencent.mm-1/lib/arm/libMMProtocalJni.so for ClassLoader by Native Bridge.
+12-29 05:48:05.578  4270  4270 D houdini : [4270] Added shared library /data/app/com.tencent.mm-1/lib/arm/libwechatCrashForJni.so for ClassLoader by Native Bridge.
+12-29 05:48:05.578  4270  4270 W jni crash monitor: JNI_OnLoad
+12-29 05:48:05.643  4270  4270 D houdini : [4270] Added shared library /data/app/com.tencent.mm-1/lib/arm/libwechatnetwork.so for ClassLoader by Native Bridge.
+12-29 05:48:05.801  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb0/Android/data/com.cyanogenmod.filemanager/cache/
+12-29 05:48:05.801  4035  4311 W ContextImpl: Failed to ensure directory: /storage/usb0/Android/data/com.cyanogenmod.filemanager/cache
+12-29 05:48:05.802  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb2/Android/data/com.cyanogenmod.filemanager/cache/
+12-29 05:48:05.802  4035  4311 W ContextImpl: Failed to ensure directory: /storage/usb2/Android/data/com.cyanogenmod.filemanager/cache
+12-29 05:48:05.803  1895  1923 E Vold    : Failed to find mounted volume for /storage/usb3/Android/data/com.cyanogenmod.filemanager/cache/
+12-29 05:48:05.803  4035  4311 W ContextImpl: Failed to ensure directory: /storage/usb3/Android/data/com.cyanogenmod.filemanager/cache
+12-29 05:48:05.804  1895  1923 E Vold    : Failed to find mounted volume for /storage/sdcard1/Android/data/com.cyanogenmod.filemanager/cache/
+12-29 05:48:05.804  4035  4311 W ContextImpl: Failed to ensure directory: /storage/sdcard1/Android/data/com.cyanogenmod.filemanager/cache
+12-29 05:48:05.898  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:05.966  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:48:06.346  2169  2188 I ActivityManager: Killing 4150:com.tencent.mtt.x86/u0a64 (adj 9): remove task
+12-29 05:48:06.370  2169  2218 W InputDispatcher: channel '33865366 com.tencent.mtt.x86/com.tencent.mtt.x86.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+12-29 05:48:06.370  2169  2218 E InputDispatcher: channel '33865366 com.tencent.mtt.x86/com.tencent.mtt.x86.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+12-29 05:48:06.370  2169  3042 I WindowState: WIN DEATH: Window{33865366 u0 com.tencent.mtt.x86/com.tencent.mtt.x86.MainActivity}
+12-29 05:48:06.370  2169  3042 W InputDispatcher: Attempted to unregister already unregistered input channel '33865366 com.tencent.mtt.x86/com.tencent.mtt.x86.MainActivity (server)'
+12-29 05:48:06.370  2169  2240 D WifiService: Client connection lost with reason: 4
+12-29 05:48:06.374  2169  2256 D TaskPersister: removeObsoleteFile: deleting file=262_task.xml
+12-29 05:48:06.374  2169  2256 D TaskPersister: removeObsoleteFile: deleting file=262_task_thumbnail.png
+12-29 05:48:06.900  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:07.118  2169  2245 W AudioTrack: AUDIO_OUTPUT_FLAG_FAST denied by client
+12-29 05:48:07.183  7061  7061 I Term    : Bound to TermService
+12-29 05:48:07.183  7061  7061 I TermService: Activity binding to service
+12-29 05:48:07.902  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:08.728  4317  4317 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:48:08.905  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:09.907  2169  2478 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:10.910  2169 15111 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:11.912  2169  3042 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:12.915  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:13.739  4319  4319 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:48:13.917  2169  3018 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:14.517 32005  4320 V CommonParams: cast to int com.baidu.pushservice.sd Exception. 
+12-29 05:48:14.518 32005 32005 V CommonParams: cast to Long com.baidu.pushservice.clt Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-29 05:48:14.518 32005  4320 V CommonParams: cast to Long com.baidu.pushservice.cst Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-29 05:48:14.519 32005 32005 V CommonParams: cast to int com.baidu.pushservice.lsi Exception. 
+12-29 05:48:14.520 32005  4320 V CommonParams: cast to Long com.baidu.pushservice.st Exception. java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+12-29 05:48:14.736 32005 32042 I socket  : msgid:5
+12-29 05:48:14.920  2169  2189 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:15.676  2169  2189 W ActivityManager: getRunningAppProcesses: caller 10070 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:15.923  2169 20952 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:16.925  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:17.928  2169  7588 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:18.750  4322  4322 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:48:18.929  2169 14271 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:19.932  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:20.934  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:21.937  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:22.939  2169  2320 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:23.762  4323  4323 W linker  : [vdso]: unused DT entry: type 0x6ffffef5 arg 0x160
+12-29 05:48:23.942  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output
+12-29 05:48:24.945  2169  2188 W ActivityManager: getTasks: caller 10076 does not hold REAL_GET_TASKS; limiting output

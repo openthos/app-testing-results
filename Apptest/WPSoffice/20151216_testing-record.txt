@@ -1,0 +1,16 @@
+测试时间:
+2015-12-16
+
+测试APP:
+WPS 版本
+
+测试硬件环境:
+机械革命
+MEM: 16GB
+CPU: i7-6700 skylake
+
+软件测试环境：
+1 android-x86-5.1 with linux kernel 4.4-rc4
+
+测试结果:
+在1软件环境中，WPS 启动后崩溃
