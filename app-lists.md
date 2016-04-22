@@ -19,11 +19,11 @@
 
  
 #存在的问题：
-1、qq登录后聊天记录框为灰色状态，即能登录但无法聊天
-2、找一款3D游戏安装在系统上
-3、设置-壁纸-live wallpapers有问题
-4、download无toolbar,
-5、其他bugzilla上未被关闭的已知问题
+1. qq登录后聊天记录框为灰色状态，即能登录但无法聊天
+2. 找一款3D游戏安装在系统上
+3. 设置-壁纸-live wallpapers有问题
+4. download无toolbar,
+5. 其他bugzilla上未被关闭的已知问题
 
 
 
