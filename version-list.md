@@ -1,7 +1,7 @@
 ##20160512版本主要解决了如下问题
 1. 修复WPS在后窗口下方时不显示的问题
 2. 修复Email 后端显示的问题
-3. 
+
 ##20160510版本主要解决了如下问题
 1. 修复notepad,music粗边框 问题
 2. 修复QQ，wandoujia，angrybird顶端toolbar问题
