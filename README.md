@@ -10,7 +10,7 @@ $ dd if=android.iso of=/dev/sdd
 
     方法1）U盘：直接单击即可安装
   
-   方法2）脚本安装。
+    方法2）脚本安装。
   
        A）git clone git://192.168.0.185/openthos-apps 至本地工作机-内含APK包及脚本文件
        
