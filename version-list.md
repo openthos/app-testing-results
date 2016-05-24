@@ -1,5 +1,5 @@
 ##20160524版本主要解决了如下问题
-1. update kernel:fix sleep issue
+1. update kernel:修复睡眠问题。
 
 ##20160523版本主要解决了如下问题
 1. 修复WPS，CZfielmanager菜单显示位置
