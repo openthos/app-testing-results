@@ -1,0 +1,1707 @@
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Initializing cgroup subsys cpu
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Initializing cgroup subsys cpuacct
+Tue Jun 28 17:47:36 CST 2016--<5>[    0.000000] Linux version 4.4.10-android-x86_64 (root@9375d9fd129a) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.1) ) #1 SMP PREEMPT Wed Jun 22 11:27:04 UTC 2016
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Command line: quiet root=/dev/ram0 androidboot.hardware=android_x86_64 SRC=/android-2016-06-27
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] KERNEL supported cpus:
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   Intel GenuineIntel
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   AMD AuthenticAMD
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   Centaur CentaurHauls
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: xstate_offset[3]:  960, xstate_sizes[3]:   64
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: xstate_offset[4]: 1024, xstate_sizes[4]:   64
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: Supporting XSAVE feature 0x01: 'x87 floating point registers'
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: Supporting XSAVE feature 0x02: 'SSE registers'
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: Supporting XSAVE feature 0x04: 'AVX registers'
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: Supporting XSAVE feature 0x08: 'MPX bounds registers'
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: Supporting XSAVE feature 0x10: 'MPX CSR'
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: Enabled xstate features 0x1f, context size is 1088 bytes, using 'standard' format.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/fpu: Using 'eager' FPU context switches.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] e820: BIOS-provided physical RAM map:
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009c7ff] usable
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x000000000009c800-0x000000000009ffff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x00000000000e0000-0x00000000000fffff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000000100000-0x0000000072ef4fff] usable
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000072ef5000-0x0000000072ef5fff] ACPI NVS
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000072ef6000-0x0000000072f1ffff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000072f20000-0x0000000072f73fff] usable
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000072f74000-0x00000000734a4fff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x00000000734a5000-0x00000000768dbfff] usable
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x00000000768dc000-0x0000000077362fff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000077363000-0x000000007750cfff] usable
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x000000007750d000-0x0000000077ba6fff] ACPI NVS
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000077ba7000-0x0000000077ffefff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000077fff000-0x0000000077ffffff] usable
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000078000000-0x00000000780fffff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x00000000e0000000-0x00000000efffffff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x00000000fe000000-0x00000000fe010fff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x00000000ff000000-0x00000000ffffffff] reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] BIOS-e820: [mem 0x0000000100000000-0x0000000283ffffff] usable
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] NX (Execute Disable) protection: active
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] SMBIOS 3.0 present.
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] DMI: THTF THTF T Series/NTSN1413, BIOS N.1.19 04/14/2016
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] e820: last_pfn = 0x284000 max_arch_pfn = 0x400000000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] MTRR default type: write-back
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] MTRR fixed ranges enabled:
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   00000-9FFFF write-back
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   A0000-BFFFF uncachable
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   C0000-FFFFF write-protect
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] MTRR variable ranges enabled:
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   0 base 0080000000 mask 7F80000000 uncachable
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   1 base 007C000000 mask 7FFC000000 uncachable
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   2 base 007A000000 mask 7FFE000000 uncachable
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   3 base 0079000000 mask 7FFF000000 uncachable
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   4 base 0078800000 mask 7FFF800000 uncachable
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   5 disabled
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   6 disabled
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   7 disabled
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   8 disabled
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   9 disabled
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WC  UC- WT
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] e820: last_pfn = 0x78000 max_arch_pfn = 0x400000000
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] found SMP MP-table at [mem 0x000fcbf0-0x000fcbff] mapped at [ffff8800000fcbf0]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] Base memory trampoline at [ffff880000096000] 96000 size 24576
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Using GB pages for direct mapping
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] BRK [0x01ca4000, 0x01ca4fff] PGTABLE
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] BRK [0x01ca5000, 0x01ca5fff] PGTABLE
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] BRK [0x01ca6000, 0x01ca6fff] PGTABLE
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] BRK [0x01ca7000, 0x01ca7fff] PGTABLE
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] BRK [0x01ca8000, 0x01ca8fff] PGTABLE
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] BRK [0x01ca9000, 0x01ca9fff] PGTABLE
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] RAMDISK: [mem 0x72d99000-0x72ee4fff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: Early table checksum verification disabled
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: RSDP 0x00000000000F05B0 000024 (v02 THTFPC)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: XSDT 0x0000000077611090 0000A4 (v01 THTFPC TONGFANG 01072009 AMI  00010013)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: FACP 0x00000000776353C8 00010C (v05 THTFPC TONGFANG 01072009 AMI  00010013)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: DSDT 0x00000000776111D0 0241F3 (v02 THTFPC TONGFANG 01072009 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: FACS 0x0000000077BA6F80 000040
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: APIC 0x00000000776354D8 000084 (v03 THTFPC TONGFANG 01072009 AMI  00010013)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: FPDT 0x0000000077635560 000044 (v01 THTFPC TONGFANG 01072009 AMI  00010013)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: FIDT 0x00000000776355A8 00009C (v01 THTFPC TONGFANG 01072009 AMI  00010013)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: MCFG 0x0000000077635648 00003C (v01 THTFPC TONGFANG 01072009 MSFT 00000097)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: HPET 0x0000000077635688 000038 (v01 THTFPC TONGFANG 01072009 AMI. 0005000B)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: SSDT 0x00000000776356C0 000315 (v01 SataRe SataTabl 00001000 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: DBGP 0x00000000776359D8 000034 (v01 INTEL           00000000 MSFT 0000005F)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: DBG2 0x0000000077635A10 000054 (v00 INTEL           00000000 MSFT 0000005F)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: SLIC 0x0000000077635A68 000176 (v01 THTFPC TONGFANG 01072009 AMI  00010013)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: SSDT 0x0000000077635BE0 0053DC (v02 SaSsdt SaSsdt   00003000 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: UEFI 0x000000007763AFC0 000042 (v01                 00000000      00000000)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: SSDT 0x000000007763B008 000E58 (v02 CpuRef CpuSsdt  00003000 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: SSDT 0x000000007763BE60 00062A (v02 SgRef  SgPch    00001000 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: DMAR 0x000000007763C490 0000A8 (v01 INTEL  SKL      00000001 INTL 00000001)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] ACPI: SSDT 0x000000007763C538 001762 (v01 OptRef OptTabl  00001000 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] ACPI: Local APIC address 0xfee00000
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Zone ranges:
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   DMA32    [mem 0x0000000001000000-0x00000000ffffffff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   Normal   [mem 0x0000000100000000-0x0000000283ffffff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Movable zone start for each node
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Early memory node ranges
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009bfff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   node   0: [mem 0x0000000000100000-0x0000000072ef4fff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   node   0: [mem 0x0000000072f20000-0x0000000072f73fff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   node   0: [mem 0x00000000734a5000-0x00000000768dbfff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   node   0: [mem 0x0000000077363000-0x000000007750cfff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   node   0: [mem 0x0000000077fff000-0x0000000077ffffff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000]   node   0: [mem 0x0000000100000000-0x0000000283ffffff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x0000000283ffffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] On node 0 totalpages: 2073798
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   DMA zone: 56 pages used for memmap
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   DMA zone: 21 pages reserved
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   DMA zone: 3995 pages, LIFO batch:0
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   DMA32 zone: 6571 pages used for memmap
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   DMA32 zone: 480555 pages, LIFO batch:31
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   Normal zone: 21728 pages used for memmap
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000]   Normal zone: 1589248 pages, LIFO batch:31
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Reserving Intel graphics stolen memory at 0x79000000-0x7affffff
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] ACPI: Local APIC address 0xfee00000
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x02] high edge lint[0x1])
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] IOAPIC[0]: apic_id 2, version 32, address 0xfec00000, GSI 0-119
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] ACPI: IRQ0 used by override.
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] ACPI: IRQ9 used by override.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Using ACPI (MADT) for SMP configuration information
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] ACPI: HPET id: 0x8086a701 base: 0xfed00000
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] smpboot: Allowing 4 CPUs, 0 hotplug CPUs
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] e820: [mem 0x7b000000-0xdfffffff] available for PCI devices
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 1910969940391419 ns
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] setup_percpu: NR_CPUS:8 nr_cpumask_bits:8 nr_cpu_ids:4 nr_node_ids:1
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] PERCPU: Embedded 32 pages/cpu @ffff880283c00000 s91352 r8192 d31528 u524288
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] pcpu-alloc: s91352 r8192 d31528 u524288 alloc=1*2097152
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] pcpu-alloc: [0] 0 1 2 3
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 2045422
+Tue Jun 28 17:47:36 CST 2016--<5>[    0.000000] Kernel command line: quiet root=/dev/ram0 androidboot.hardware=android_x86_64 SRC=/android-2016-06-27
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Dentry cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Inode-cache hash table entries: 524288 (order: 10, 4194304 bytes)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Memory: 8085048K/8295192K available (5831K kernel code, 908K rwdata, 3280K rodata, 936K init, 824K bss, 210144K reserved, 0K cma-reserved)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Preemptible hierarchical RCU implementation.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] 	Build-time adjustment of leaf fanout to 64.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] 	RCU restricting CPUs from NR_CPUS=8 to nr_cpu_ids=4.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=64, nr_cpu_ids=4
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] NR_IRQS:4352 nr_irqs:1024 16
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] spurious 8259A interrupt: IRQ7.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] Console: colour VGA+ 80x25
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] console [tty0] enabled
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] clocksource: hpet: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 79635855245 ns
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.000000] hpet clockevent registered
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.000000] tsc: Unable to calibrate against PIT
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] tsc: using HPET reference calibration
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000000] tsc: Detected 2400.217 MHz processor
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000002] Calibrating delay loop (skipped), value calculated using timer frequency.. 4800.43 BogoMIPS (lpj=2400217)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000004] pid_max: default: 32768 minimum: 301
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.000008] ACPI: Core revision 20150930
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.026681] ACPI: 6 ACPI AML tables successfully acquired and loaded
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.026699] Security Framework initialized
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.026771] Mount-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.026773] Mountpoint-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.026984] Initializing cgroup subsys freezer
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.026986] Initializing cgroup subsys debug
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.027012] CPU: Physical Processor ID: 0
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.027012] CPU: Processor Core ID: 0
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.027016] ENERGY_PERF_BIAS: Set to 'normal', was 'performance'
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.027017] ENERGY_PERF_BIAS: View and update with x86_energy_perf_policy(8)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.028786] mce: CPU supports 8 MCE banks
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.028800] CPU0: Thermal monitoring enabled (TM1)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.028808] process: using mwait in idle threads
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.028810] Last level iTLB entries: 4KB 64, 2MB 8, 4MB 8
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.028811] Last level dTLB entries: 4KB 64, 2MB 0, 4MB 0, 1GB 4
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.028916] Freeing SMP alternatives memory: 24K (ffffffff81bcf000 - ffffffff81bd5000)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.032180] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=0 pin2=0
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.042187] TSC deadline timer enabled
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042192] smpboot: CPU0: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz (family: 0x6, model: 0x4e, stepping: 0x3)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042210] Performance Events: PEBS fmt3+, 32-deep LBR, Skylake events, full-width counters, Intel PMU driver.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042235] ... version:                4
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042236] ... bit width:              48
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042237] ... generic registers:      4
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042238] ... value mask:             0000ffffffffffff
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042239] ... max period:             0000ffffffffffff
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042239] ... fixed-purpose events:   3
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.042240] ... event mask:             000000070000000f
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.051332] x86: Booting SMP configuration:
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.051334] .... node  #0, CPUs:      #1
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.055530] NMI watchdog: enabled on all CPUs, permanently consumes one hw-PMU counter.
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.058548]  #2 #3
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.069820] x86: Booted up 1 node, 4 CPUs
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.069825] smpboot: Total of 4 processors activated (19201.73 BogoMIPS)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.072837] PM: Registering ACPI NVS region [mem 0x72ef5000-0x72ef5fff] (4096 bytes)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.072840] PM: Registering ACPI NVS region [mem 0x7750d000-0x77ba6fff] (6922240 bytes)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.072990] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 1911260446275000 ns
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.073050] pinctrl core: initialized pinctrl subsystem
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.073225] RTC time:  9:36:07, date: 06/28/16
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.073325] NET: Registered protocol family 16
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.077628] cpuidle: using governor ladder
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.082653] cpuidle: using governor menu
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.082725] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.082726] ACPI: bus type PCI registered
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.082727] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.082783] PCI: Using configuration type 1 for base access
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.089942] ACPI: Added _OSI(Module Device)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.089944] ACPI: Added _OSI(Processor Device)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.089945] ACPI: Added _OSI(3.0 _SCP Extensions)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.089947] ACPI: Added _OSI(Processor Aggregator Device)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.096774] ACPI: Executed 21 blocks of module-level executable AML code
+Tue Jun 28 17:47:36 CST 2016--<5>[    0.102289] [Firmware Bug]: ACPI: BIOS _OSI(Linux) query ignored
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.105077] ACPI: Dynamic OEM Table Load:
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.105085] ACPI: SSDT 0xFFFF88027AEF7800 00061E (v02 PmRef  Cpu0Ist  00003000 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.105842] ACPI: _PR_.CPU0: _OSC native thermal LVT Acked
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.107031] ACPI: Dynamic OEM Table Load:
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.107035] ACPI: SSDT 0xFFFF880282A7F000 00037F (v02 PmRef  Cpu0Cst  00003001 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.108263] ACPI: Dynamic OEM Table Load:
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.108267] ACPI: SSDT 0xFFFF88027AEF7000 0005AA (v02 PmRef  ApIst    00003000 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.109178] ACPI: Dynamic OEM Table Load:
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.109181] ACPI: SSDT 0xFFFF880282B3DA00 000119 (v02 PmRef  ApCst    00003000 INTL 20120913)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.111499] ACPI : EC: EC started
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.113520] ACPI: Interpreter enabled
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.113529] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [_S1_] (20150930/hwxface-580)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.113535] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [_S2_] (20150930/hwxface-580)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.113546] ACPI: (supports S0 S3 S5)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.113547] ACPI: Using IOAPIC for interrupt routing
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.113577] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.115269] ACPI: Power Resource [PG00] (on)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.115522] ACPI: Power Resource [PG01] (on)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.115788] ACPI: Power Resource [PG02] (on)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.116229] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.116481] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.116770] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.117011] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.117256] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.117313] ACPI: Power Resource [PC09] (on)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.117890] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.118131] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.118379] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.118624] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.118865] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.119118] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.119376] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.119616] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.119856] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.120124] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.120370] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.120610] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.120850] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.121116] ACPI: Power Resource [WRST] (off)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130135] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130140] acpi PNP0A08:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130206] acpi PNP0A08:00: _OSC: not requesting OS control; OS requires [ExtendedConfig ASPM ClockPM MSI]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130653] PCI host bridge to bus 0000:00
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130655] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130657] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130658] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130660] pci_bus 0000:00: root bus resource [mem 0x7b000000-0xdfffffff window]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130661] pci_bus 0000:00: root bus resource [mem 0xfd000000-0xfe7fffff window]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.130662] pci_bus 0000:00: root bus resource [bus 00-fe]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.130670] pci 0000:00:00.0: [8086:1904] type 00 class 0x060000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.130919] pci 0000:00:02.0: [8086:1916] type 00 class 0x030000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.130932] pci 0000:00:02.0: reg 0x10: [mem 0xdd000000-0xddffffff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.130938] pci 0000:00:02.0: reg 0x18: [mem 0xb0000000-0xbfffffff 64bit pref]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.130943] pci 0000:00:02.0: reg 0x20: [io  0xf000-0xf03f]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131105] pci 0000:00:14.0: [8086:9d2f] type 00 class 0x0c0330
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131132] pci 0000:00:14.0: reg 0x10: [mem 0xdf310000-0xdf31ffff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131184] pci 0000:00:14.0: PME# supported from D3hot D3cold
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.131273] pci 0000:00:14.0: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131310] pci 0000:00:14.2: [8086:9d31] type 00 class 0x118000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131337] pci 0000:00:14.2: reg 0x10: [mem 0xdf32e000-0xdf32efff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131482] pci 0000:00:16.0: [8086:9d3a] type 00 class 0x078000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131514] pci 0000:00:16.0: reg 0x10: [mem 0xdf32d000-0xdf32dfff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131573] pci 0000:00:16.0: PME# supported from D3hot
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131697] pci 0000:00:17.0: [8086:9d03] type 00 class 0x010601
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131717] pci 0000:00:17.0: reg 0x10: [mem 0xdf328000-0xdf329fff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131723] pci 0000:00:17.0: reg 0x14: [mem 0xdf32c000-0xdf32c0ff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131730] pci 0000:00:17.0: reg 0x18: [io  0xf090-0xf097]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131737] pci 0000:00:17.0: reg 0x1c: [io  0xf080-0xf083]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131743] pci 0000:00:17.0: reg 0x20: [io  0xf060-0xf07f]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131750] pci 0000:00:17.0: reg 0x24: [mem 0xdf32b000-0xdf32b7ff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131777] pci 0000:00:17.0: PME# supported from D3hot
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131895] pci 0000:00:1c.0: [8086:9d10] type 01 class 0x060400
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.131944] pci 0000:00:1c.0: PME# supported from D0 D3hot D3cold
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.132037] pci 0000:00:1c.0: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132076] pci 0000:00:1c.4: [8086:9d14] type 01 class 0x060400
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132124] pci 0000:00:1c.4: PME# supported from D0 D3hot D3cold
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.132215] pci 0000:00:1c.4: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132253] pci 0000:00:1d.0: [8086:9d19] type 01 class 0x060400
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132306] pci 0000:00:1d.0: PME# supported from D0 D3hot D3cold
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.132397] pci 0000:00:1d.0: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132455] pci 0000:00:1f.0: [8086:9d48] type 00 class 0x060100
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132649] pci 0000:00:1f.2: [8086:9d21] type 00 class 0x058000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132662] pci 0000:00:1f.2: reg 0x10: [mem 0xdf324000-0xdf327fff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132811] pci 0000:00:1f.3: [8086:9d70] type 00 class 0x040300
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132845] pci 0000:00:1f.3: reg 0x10: [mem 0xdf320000-0xdf323fff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132876] pci 0000:00:1f.3: reg 0x20: [mem 0xdf300000-0xdf30ffff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.132912] pci 0000:00:1f.3: PME# supported from D3hot D3cold
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.133032] pci 0000:00:1f.3: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133067] pci 0000:00:1f.4: [8086:9d23] type 00 class 0x0c0500
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133120] pci 0000:00:1f.4: reg 0x10: [mem 0xdf32a000-0xdf32a0ff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133189] pci 0000:00:1f.4: reg 0x20: [io  0xf040-0xf05f]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133410] pci 0000:01:00.0: [10de:1140] type 00 class 0x030200
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133436] pci 0000:01:00.0: reg 0x10: [mem 0xde000000-0xdeffffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133449] pci 0000:01:00.0: reg 0x14: [mem 0xc0000000-0xcfffffff 64bit pref]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133463] pci 0000:01:00.0: reg 0x1c: [mem 0xd0000000-0xd1ffffff 64bit pref]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133473] pci 0000:01:00.0: reg 0x24: [io  0xe000-0xe07f]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.133483] pci 0000:01:00.0: reg 0x30: [mem 0xdf000000-0xdf07ffff pref]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.133559] pci 0000:01:00.0: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.136350] pci 0000:00:1c.0: PCI bridge to [bus 01]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.136355] pci 0000:00:1c.0:   bridge window [io  0xe000-0xefff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.136357] pci 0000:00:1c.0:   bridge window [mem 0xde000000-0xdf0fffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.136362] pci 0000:00:1c.0:   bridge window [mem 0xc0000000-0xd1ffffff 64bit pref]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.136454] pci 0000:02:00.0: [10ec:b723] type 00 class 0x028000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.136488] pci 0000:02:00.0: reg 0x10: [io  0xd000-0xd0ff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.136517] pci 0000:02:00.0: reg 0x18: [mem 0xdf200000-0xdf203fff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.136591] pci 0000:02:00.0: supports D1 D2
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.136592] pci 0000:02:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.136641] pci 0000:02:00.0: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.139368] pci 0000:00:1c.4: PCI bridge to [bus 02]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139371] pci 0000:00:1c.4:   bridge window [io  0xd000-0xdfff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139373] pci 0000:00:1c.4:   bridge window [mem 0xdf200000-0xdf2fffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139465] pci 0000:03:00.0: [10ec:5287] type 00 class 0xff0000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139498] pci 0000:03:00.0: reg 0x10: [mem 0xdf115000-0xdf115fff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139558] pci 0000:03:00.0: reg 0x30: [mem 0xdf100000-0xdf10ffff pref]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139600] pci 0000:03:00.0: supports D1 D2
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139601] pci 0000:03:00.0: PME# supported from D1 D2 D3hot D3cold
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.139652] pci 0000:03:00.0: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139691] pci 0000:03:00.1: [10ec:8168] type 00 class 0x020000
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139724] pci 0000:03:00.1: reg 0x10: [io  0xc000-0xc0ff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139750] pci 0000:03:00.1: reg 0x18: [mem 0xdf114000-0xdf114fff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139767] pci 0000:03:00.1: reg 0x20: [mem 0xdf110000-0xdf113fff 64bit]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139819] pci 0000:03:00.1: supports D1 D2
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.139820] pci 0000:03:00.1: PME# supported from D0 D1 D2 D3hot D3cold
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.139842] pci 0000:03:00.1: System wakeup disabled by ACPI
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.142395] pci 0000:00:1d.0: PCI bridge to [bus 03]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.142397] pci 0000:00:1d.0:   bridge window [io  0xc000-0xcfff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.142400] pci 0000:00:1d.0:   bridge window [mem 0xdf100000-0xdf1fffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.142415] pci_bus 0000:00: on NUMA node 0
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.143874] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 *11 12 14 15)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.143916] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 *10 11 12 14 15)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.143956] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.143995] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 10 *11 12 14 15)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144033] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 *11 12 14 15)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144072] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 *11 12 14 15)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144110] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 10 *11 12 14 15)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144149] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 *11 12 14 15)
+Tue Jun 28 17:47:36 CST 2016--<4>[    0.144799] ACPI: Enabled 5 GPEs in block 00 to 7F
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144878] ACPI : EC: GPE = 0x4f, I/O: command/status = 0x66, data = 0x62
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144960] vgaarb: setting as boot device: PCI:0000:00:02.0
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144962] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144965] vgaarb: loaded
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.144966] vgaarb: bridge control possible 0000:00:02.0
+Tue Jun 28 17:47:36 CST 2016--<5>[    0.145033] SCSI subsystem initialized
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.145075] libata version 3.00 loaded.
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145085] ACPI: bus type USB registered
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145107] usbcore: registered new interface driver usbfs
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145115] usbcore: registered new interface driver hub
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145127] usbcore: registered new device driver usb
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145149] media: Linux media interface: v0.10
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145157] Linux video capture interface: v2.00
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145239] PCI: Using ACPI for IRQ routing
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.145241] PCI: pci_cache_line_size set to 64 bytes
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.145289] e820: reserve RAM buffer [mem 0x0009c800-0x0009ffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.145290] e820: reserve RAM buffer [mem 0x72ef5000-0x73ffffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.145291] e820: reserve RAM buffer [mem 0x72f74000-0x73ffffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.145292] e820: reserve RAM buffer [mem 0x768dc000-0x77ffffff]
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.145293] e820: reserve RAM buffer [mem 0x7750d000-0x77ffffff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145588] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0, 0, 0, 0, 0
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.145592] hpet0: 8 comparators, 64-bit 24.000000 MHz counter
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.147638] clocksource: Switched to clocksource hpet
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.151301] pnp: PnP ACPI init
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.151507] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.151636] pnp 00:01: Plug and Play ACPI device, IDs STU1b06 PNP0f13 (active)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.151949] system 00:02: [io  0x0680-0x069f] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.151955] system 00:02: [io  0xffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.151957] system 00:02: [io  0xffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.151959] system 00:02: [io  0xffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.151961] system 00:02: [io  0x1800-0x18fe] could not be reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.151962] system 00:02: [io  0x164e-0x164f] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.151967] system 00:02: Plug and Play ACPI device, IDs PNP0c02 (active)
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.152032] pnp 00:03: Plug and Play ACPI device, IDs PNP0b00 (active)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152081] system 00:04: [io  0x1854-0x1857] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.152084] system 00:04: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152219] system 00:05: [mem 0xfed10000-0xfed17fff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152220] system 00:05: [mem 0xfed18000-0xfed18fff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152222] system 00:05: [mem 0xfed19000-0xfed19fff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152224] system 00:05: [mem 0xe0000000-0xefffffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152225] system 00:05: [mem 0xfed20000-0xfed3ffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152228] system 00:05: [mem 0xfed90000-0xfed93fff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152230] system 00:05: [mem 0xfed45000-0xfed8ffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152231] system 00:05: [mem 0xff000000-0xffffffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152233] system 00:05: [mem 0xfee00000-0xfeefffff] could not be reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152235] system 00:05: [mem 0xdffe0000-0xdfffffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.152257] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152292] system 00:06: [mem 0xfd000000-0xfdabffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152294] system 00:06: [mem 0xfdad0000-0xfdadffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152296] system 00:06: [mem 0xfdb00000-0xfdffffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152297] system 00:06: [mem 0xfe000000-0xfe01ffff] could not be reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152299] system 00:06: [mem 0xfe036000-0xfe03bfff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152301] system 00:06: [mem 0xfe03d000-0xfe3fffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152303] system 00:06: [mem 0xfe410000-0xfe7fffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.152305] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.152516] system 00:07: [io  0xff00-0xfffe] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.152518] system 00:07: Plug and Play ACPI device, IDs PNP0c02 (active)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.153349] system 00:08: [mem 0xfe029000-0xfe029fff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.153351] system 00:08: [mem 0xfe028000-0xfe028fff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.153353] system 00:08: [mem 0xfdaf0000-0xfdafffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.153354] system 00:08: [mem 0xfdae0000-0xfdaeffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.153356] system 00:08: [mem 0xfdac0000-0xfdacffff] has been reserved
+Tue Jun 28 17:47:36 CST 2016--<7>[    0.153358] system 00:08: Plug and Play ACPI device, IDs PNP0c02 (active)
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.154400] pnp: PnP ACPI: found 9 devices
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.160412] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.160435] pci 0000:00:1c.0: PCI bridge to [bus 01]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.160438] pci 0000:00:1c.0:   bridge window [io  0xe000-0xefff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.160441] pci 0000:00:1c.0:   bridge window [mem 0xde000000-0xdf0fffff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.160444] pci 0000:00:1c.0:   bridge window [mem 0xc0000000-0xd1ffffff 64bit pref]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.160448] pci 0000:00:1c.4: PCI bridge to [bus 02]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.160450] pci 0000:00:1c.4:   bridge window [io  0xd000-0xdfff]
+Tue Jun 28 17:47:36 CST 2016--<6>[    0.160454] pci 0000:00:1c.4:   bridge window [mem 0xdf200000-0xdf2fffff]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.160459] pci 0000:00:1d.0: PCI bridge to [bus 03]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.160461] pci 0000:00:1d.0:   bridge window [io  0xc000-0xcfff]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.160464] pci 0000:00:1d.0:   bridge window [mem 0xdf100000-0xdf1fffff]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160471] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160472] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160474] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160475] pci_bus 0000:00: resource 7 [mem 0x7b000000-0xdfffffff window]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160476] pci_bus 0000:00: resource 8 [mem 0xfd000000-0xfe7fffff window]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160478] pci_bus 0000:01: resource 0 [io  0xe000-0xefff]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160479] pci_bus 0000:01: resource 1 [mem 0xde000000-0xdf0fffff]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160480] pci_bus 0000:01: resource 2 [mem 0xc0000000-0xd1ffffff 64bit pref]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160482] pci_bus 0000:02: resource 0 [io  0xd000-0xdfff]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160483] pci_bus 0000:02: resource 1 [mem 0xdf200000-0xdf2fffff]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160484] pci_bus 0000:03: resource 0 [io  0xc000-0xcfff]
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.160485] pci_bus 0000:03: resource 1 [mem 0xdf100000-0xdf1fffff]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.160608] NET: Registered protocol family 2
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.160824] TCP established hash table entries: 65536 (order: 7, 524288 bytes)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.160925] TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.161171] TCP: Hash tables configured (established 65536 bind 65536)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.161193] UDP hash table entries: 4096 (order: 5, 131072 bytes)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.161226] UDP-Lite hash table entries: 4096 (order: 5, 131072 bytes)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.161352] NET: Registered protocol family 1
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.161367] pci 0000:00:02.0: Video device with shadowed ROM
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.161892] PCI: CLS 0 bytes, default 64
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.161927] Trying to unpack rootfs image as initramfs...
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.181346] Freeing initrd memory: 1328K (ffff880072d99000 - ffff880072ee5000)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.181355] PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.181357] software IO TLB [mem 0x6ed99000-0x72d99000] (64MB) mapped at [ffff88006ed99000-ffff880072d98fff]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.184442] futex hash table entries: 1024 (order: 4, 65536 bytes)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.184474] audit: initializing netlink subsys (disabled)
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.184492] audit: type=2000 audit(1467106567.181:1): initialized
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.185069] VFS: Disk quotas dquot_6.6.0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.185116] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.185449] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.185561] fuse init (API version 7.23)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.187838] io scheduler noop registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.187840] io scheduler deadline registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.187889] io scheduler cfq registered (default)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.188370] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.188399] intel_idle: MWAIT substates: 0x11142120
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.188400] intel_idle: v0.4.1 model 0x4E
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.188401] intel_idle: lapic_timer_reliable_states 0xffffffff
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.289769] power_supply AC0: uevent
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.289772] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289780] ACPI: AC Adapter [AC0] (on-line)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289863] input: Sleep Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289868] ACPI: Sleep Button [SLPB]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289912] input: Lid Switch as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0D:00/input/input1
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289924] ACPI: Lid Switch [LID1]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289957] input: Power Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input2
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289959] ACPI: Power Button [PWRB]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289990] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input3
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.289992] ACPI: Power Button [PWRF]
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.291371] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.291973] Linux agpgart interface v0.103
+Tue Jun 28 17:47:37 CST 2016--<3>[    0.292019] Failed to find cpu0 device node
+Tue Jun 28 17:47:37 CST 2016--<4>[    0.292102] Unable to detect cache hierarchy from DT for CPU 0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.295078] brd: module loaded
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.296500] loop: module loaded
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.296542] hv_vmbus: registering driver hv_storvsc
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.296606] ahci 0000:00:17.0: version 3.0
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.299739] power_supply AC0: power_supply_changed
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.299754] power_supply AC0: power_supply_changed_work
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.307861] ahci 0000:00:17.0: AHCI 0001.0301 32 slots 3 ports 6 Gbps 0x7 impl SATA mode
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.307866] ahci 0000:00:17.0: flags: 64bit ncq pm led clo only pio slum part deso sadm sds apst
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.308562] scsi host0: ahci
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.308883] scsi host1: ahci
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309102] scsi host2: ahci
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309148] ata1: SATA max UDMA/133 abar m2048@0xdf32b000 port 0xdf32b100 irq 120
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309157] ata2: SATA max UDMA/133 abar m2048@0xdf32b000 port 0xdf32b180 irq 120
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309159] ata3: SATA max UDMA/133 abar m2048@0xdf32b000 port 0xdf32b200 irq 120
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309388] tun: Universal TUN/TAP device driver, 1.6
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309389] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309438] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309442] ehci-pci: EHCI PCI platform driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309479] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309482] ohci-pci: OHCI PCI platform driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309492] uhci_hcd: USB Universal Host Controller Interface driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309776] xhci_hcd 0000:00:14.0: xHCI Host Controller
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.309797] xhci_hcd 0000:00:14.0: new USB bus registered, assigned bus number 1
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.310939] xhci_hcd 0000:00:14.0: hcc params 0x200077c1 hci version 0x100 quirks 0x00109810
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.310944] xhci_hcd 0000:00:14.0: cache line size of 64 is not supported
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.311197] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.311200] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.311202] usb usb1: Product: xHCI Host Controller
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.311204] usb usb1: Manufacturer: Linux 4.4.10-android-x86_64 xhci-hcd
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.311205] usb usb1: SerialNumber: 0000:00:14.0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.311317] hub 1-0:1.0: USB hub found
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.311371] hub 1-0:1.0: 12 ports detected
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317126] xhci_hcd 0000:00:14.0: xHCI Host Controller
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317145] xhci_hcd 0000:00:14.0: new USB bus registered, assigned bus number 2
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317170] usb usb2: New USB device found, idVendor=1d6b, idProduct=0003
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317172] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317173] usb usb2: Product: xHCI Host Controller
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317175] usb usb2: Manufacturer: Linux 4.4.10-android-x86_64 xhci-hcd
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317176] usb usb2: SerialNumber: 0000:00:14.0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317248] hub 2-0:1.0: USB hub found
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.317265] hub 2-0:1.0: 6 ports detected
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320033] usbcore: registered new interface driver usb-storage
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320041] usbcore: registered new interface driver ums-alauda
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320050] usbcore: registered new interface driver ums-cypress
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320058] usbcore: registered new interface driver ums-datafab
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320066] usbcore: registered new interface driver ums_eneub6250
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320074] usbcore: registered new interface driver ums-freecom
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320082] usbcore: registered new interface driver ums-isd200
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320090] usbcore: registered new interface driver ums-jumpshot
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320099] usbcore: registered new interface driver ums-onetouch
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320118] usbcore: registered new interface driver ums-realtek
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320129] usbcore: registered new interface driver ums-sddr09
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320141] usbcore: registered new interface driver ums-sddr55
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320151] usbcore: registered new interface driver ums-usbat
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.320209] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f13:AVC1] at 0x60,0x64 irq 1,12
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.332043] serio: i8042 KBD port at 0x60,0x64 irq 1
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.332067] serio: i8042 AUX port at 0x60,0x64 irq 12
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.332148] hv_vmbus: registering driver hyperv_keyboard
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.332190] mousedev: PS/2 mouse device common for all mice
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.332340] rtc_cmos 00:03: RTC can wake from S4
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.332719] rtc rtc0: alarm rollover: day
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.332896] rtc rtc0: rtc_cmos: dev (254:0)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.332899] rtc_cmos 00:03: rtc core: registered rtc_cmos as rtc0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.333032] rtc_cmos 00:03: alarms up to one month, y3k, 242 bytes nvram, hpet irqs
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.333042] IR Sharp protocol handler initialized
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.333044] IR XMP protocol handler initialized
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.333096] device-mapper: uevent: version 1.0.3
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.333149] device-mapper: ioctl: 4.34.0-ioctl (2015-10-28) initialised: dm-devel@redhat.com
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.333398] Intel P-state driver initializing.
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.333402] intel_pstate: HWP enabled
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.334171] sdhci: Secure Digital Host Controller Interface driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.334172] sdhci: Copyright(c) Pierre Ossman
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.334226] sdhci-pltfm: SDHCI platform and OF driver helper
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.334986] hidraw: raw HID events driver (C) Jiri Kosina
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335035] usbcore: registered new interface driver usbhid
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335036] usbhid: USB HID core driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335093] ashmem: initialized
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335251] oprofile: using NMI interrupt.
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335288] GACT probability NOT on
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335292] Mirror/redirect action on
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335303] u32 classifier
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335304]     Actions configured
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335309] Netfilter messages via NETLINK v0.30.
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335322] nf_conntrack version 0.5.0 (65536 buckets, 262144 max)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335507] ctnetlink v0.93: registering with nfnetlink.
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335817] xt_time: kernel timezone is -0000
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335923] ip_tables: (C) 2000-2006 Netfilter Core Team
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335958] arp_tables: (C) 2002 David S. Miller
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.335968] Initializing XFRM netlink socket
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.336183] NET: Registered protocol family 10
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.336449] mip6: Mobile IPv6
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.336469] ip6_tables: (C) 2000-2006 Netfilter Core Team
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.336520] sit: IPv6 over IPv4 tunneling driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.336852] NET: Registered protocol family 17
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.336860] NET: Registered protocol family 15
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.336868] NET: Registered protocol family 35
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.337163] microcode: CPU0 sig=0x406e3, pf=0x80, revision=0x33
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.337168] microcode: CPU1 sig=0x406e3, pf=0x80, revision=0x33
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.337190] microcode: CPU2 sig=0x406e3, pf=0x80, revision=0x33
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.337207] microcode: CPU3 sig=0x406e3, pf=0x80, revision=0x33
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.337225] microcode: Microcode Update Driver: v2.01 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.337350] registered taskstats version 1
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.338308]   Magic number: 4:638:627
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.338616] rtc_cmos 00:03: setting system clock to 2016-06-28 09:36:07 UTC (1467106567)
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.528040] power_supply BAT0: uevent
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.528048] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.613872] ata3: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.613912] ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.614200] ata3.00: ATA-9: LITEON CV1-8B128, G872101, max UDMA/133
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.614207] ata3.00: 250069680 sectors, multi 2: LBA48 NCQ (depth 31/32), AA
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.615212] ata1.00: ATA-8: HGST HTS721010A9E630, JB0OA3J0, max UDMA/133
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.615221] ata1.00: 1953525168 sectors, multi 16: LBA48 NCQ (depth 31/32), AA
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.615238] ata3.00: configured for UDMA/133
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.615640] ata2: SATA link down (SStatus 4 SControl 300)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.616827] ata1.00: configured for UDMA/133
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.628977] power_supply AC0: power_supply_update_gen_leds 1
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.628996] power_supply AC0: uevent
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.629001] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.669928] usb 1-2: new full-speed USB device number 2 using xhci_hcd
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.779954] ACPI: Battery Slot [BAT0] (battery present)
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780034] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780046] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780056] power_supply BAT0: power_supply_update_bat_leds 4
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780070] power_supply BAT0: uevent
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780075] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780085] power_supply BAT0: prop STATUS=Full
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780093] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780100] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780108] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780115] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780123] power_supply BAT0: prop VOLTAGE_NOW=12549000
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780129] power_supply BAT0: prop CURRENT_NOW=0
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780135] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780140] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780146] power_supply BAT0: prop CHARGE_NOW=4400000
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780153] power_supply BAT0: prop CAPACITY=100
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780161] power_supply BAT0: prop CAPACITY_LEVEL=Full
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780168] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780174] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.780180] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.780381] scsi 0:0:0:0: Direct-Access     ATA      HGST HTS721010A9 A3J0 PQ: 0 ANSI: 5
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.780914] sd 0:0:0:0: Attached scsi generic sg0 type 0
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.781024] sd 0:0:0:0: [sda] 1953525168 512-byte logical blocks: (1.00 TB/932 GiB)
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.781032] sd 0:0:0:0: [sda] 4096-byte physical blocks
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.781259] scsi 2:0:0:0: Direct-Access     ATA      LITEON CV1-8B128 101  PQ: 0 ANSI: 5
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.781271] sd 0:0:0:0: [sda] Write Protect is off
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.781277] sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.781386] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.781793] sd 2:0:0:0: Attached scsi generic sg1 type 0
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.781817] sd 2:0:0:0: [sdb] 250069680 512-byte logical blocks: (128 GB/119 GiB)
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.782115] sd 2:0:0:0: [sdb] Write Protect is off
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.782121] sd 2:0:0:0: [sdb] Mode Sense: 00 3a 00 00
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.782198] sd 2:0:0:0: [sdb] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.782980]  sdb: sdb1
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.783639] sd 2:0:0:0: [sdb] Attached SCSI disk
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.821358]  sda: sda1
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.822202] sd 0:0:0:0: [sda] Attached SCSI disk
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.823708] Freeing unused kernel memory: 936K (ffffffff81ae5000 - ffffffff81bcf000)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.823712] Write protecting the kernel read-only data: 10240k
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.824188] Freeing unused kernel memory: 304K (ffff8800015b4000 - ffff880001600000)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.827473] Freeing unused kernel memory: 816K (ffff880001934000 - ffff880001a00000)
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.835770] usb 1-2: New USB device found, idVendor=0bda, idProduct=b723
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.835773] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.835776] usb 1-2: Product: Bluetooth Radio
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.835777] usb 1-2: Manufacturer: Realtek
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.835778] usb 1-2: SerialNumber: 00e04c000001
+Tue Jun 28 17:47:37 CST 2016--<5>[    0.836065] random: mdev urandom read with 18 bits of entropy available
+Tue Jun 28 17:47:37 CST 2016--<3>[    0.858051] VFS: could not find a valid V7 on sda.
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.880672] power_supply AC0: prop ONLINE=1
+Tue Jun 28 17:47:37 CST 2016--<3>[    0.881040] EXT4-fs (sda1): couldn't mount as ext3 due to feature incompatibilities
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.881059] power_supply AC0: uevent
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.881061] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.901976] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+Tue Jun 28 17:47:37 CST 2016--<7>[    0.981680] power_supply AC0: prop ONLINE=1
+Tue Jun 28 17:47:37 CST 2016--<6>[    0.988606] usb 1-7: new high-speed USB device number 3 using xhci_hcd
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.027715] EXT4-fs (sda1): re-mounted. Opts: (null)
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.181636] tsc: Refined TSC clocksource calibration: 2400.000 MHz
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.181640] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x22983777dd9, max_idle_ns: 440795300422 ns
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.192359] usb 1-7: New USB device found, idVendor=5986, idProduct=069e
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.192362] usb 1-7: New USB device strings: Mfr=3, Product=1, SerialNumber=2
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.192363] usb 1-7: Product: HD Webcam
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.192365] usb 1-7: Manufacturer: Generic
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.192366] usb 1-7: SerialNumber: 200901010001
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.400932] Bluetooth: Core ver 2.21
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.400949] NET: Registered protocol family 31
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.400950] Bluetooth: HCI device and connection manager initialized
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.400955] Bluetooth: HCI socket layer initialized
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.400957] Bluetooth: L2CAP socket layer initialized
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.400963] Bluetooth: SCO socket layer initialized
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.427966] Bluetooth: HCI UART driver ver 2.3
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.427972] Bluetooth: HCI UART protocol H4 registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.427975] Bluetooth: HCI UART protocol BCSP registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.427978] Bluetooth: HCI UART protocol LL registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.427980] Bluetooth: HCI UART protocol ATH3K registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.427983] Bluetooth: HCI UART protocol Three-wire (H5) registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.428031] Bluetooth: HCI UART protocol Intel registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.428062] Bluetooth: HCI UART protocol BCM registered
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.428064] Bluetooth: HCI UART protocol QCA registered
+Tue Jun 28 17:47:37 CST 2016--<5>[    1.857983] random: nonblocking pool is initialized
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.858715] wmi: Mapper loaded
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.959151] [drm] Initialized drm 1.1.0 20060810
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.981208] [drm] Memory usable by graphics device = 4096M
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.981216] [drm] Replacing VGA console driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.983006] Console: switching to colour dummy device 80x25
+Tue Jun 28 17:47:37 CST 2016--<4>[    1.987737] i915 0000:00:02.0: Direct firmware load for i915/skl_dmc_ver1.bin failed with error -2
+Tue Jun 28 17:47:37 CST 2016--<3>[    1.987823] [drm:finish_csr_load [i915]] *ERROR* failed to load firmware i915/skl_dmc_ver1.bin (0)
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.989049] [drm] Supports vblank timestamp caching Rev 2 (21.10.2013).
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.989054] [drm] Driver supports precise vblank timestamp query.
+Tue Jun 28 17:47:37 CST 2016--<6>[    1.991627] vgaarb: device changed decodes: PCI:0000:00:02.0,olddecodes=io+mem,decodes=io+mem:owns=io+mem
+Tue Jun 28 17:47:37 CST 2016--<4>[    1.998639] i915 0000:00:02.0: Direct firmware load for i915/skl_guc_ver4.bin failed with error -2
+Tue Jun 28 17:47:37 CST 2016--<3>[    1.998738] [drm:intel_guc_ucode_init [i915]] *ERROR* Failed to fetch GuC firmware from i915/skl_guc_ver4.bin (error -2)
+Tue Jun 28 17:47:37 CST 2016--<3>[    2.002450] [drm:i915_gem_init_hw [i915]] *ERROR* Failed to initialize GuC, error -5 (ignored)
+Tue Jun 28 17:47:37 CST 2016--<6>[    2.009120] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Tue Jun 28 17:47:37 CST 2016--<6>[    2.009536] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:00/input/input4
+Tue Jun 28 17:47:37 CST 2016--<0>[    2.009614] ACPI Exception: AE_NOT_FOUND, Evaluating _DOD (20150930/video-1216)
+Tue Jun 28 17:47:37 CST 2016--<6>[    2.009619] ACPI: Video Device [PEGP] (multi-head: no  rom: yes  post: no)
+Tue Jun 28 17:47:37 CST 2016--<6>[    2.009667] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:23/LNXVIDEO:01/input/input5
+Tue Jun 28 17:47:37 CST 2016--<6>[    2.009730] [drm] Initialized i915 1.6.0 20151010 for 0000:00:02.0 on minor 0
+Tue Jun 28 17:47:37 CST 2016--<6>[    2.180084] fbcon: inteldrmfb (fb0) is primary device
+Tue Jun 28 17:47:37 CST 2016--<6>[    2.181678] clocksource: Switched to clocksource tsc
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.225224] Console: switching to colour frame buffer device 240x67
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.233269] i915 0000:00:02.0: fb0: inteldrmfb frame buffer device
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.296924] shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.403614] snd_hda_intel 0000:00:1f.3: bound 0000:00:02.0 (ops i915_audio_component_bind_ops [i915])
+Tue Jun 28 17:47:37 CST 2016--<0>[    3.424684] ACPI Warning: SystemIO range 0x000000000000F040-0x000000000000F05F conflicts with OpRegion 0x000000000000F040-0x000000000000F04F (_SB_.PCI0.SBUS.SMBI) (20150930/utaddress-254)
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.424700] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.463904] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VC: line_outs=1 (0x14/0x0/0x0/0x0/0x0) type:speaker
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.463909] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.463912] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x15/0x0/0x0/0x0/0x0)
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.463914] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x17
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.463916] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.463919] snd_hda_codec_realtek hdaudioC0D0:      Mic=0x18
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.463921] snd_hda_codec_realtek hdaudioC0D0:      Internal Mic=0x12
+Tue Jun 28 17:47:37 CST 2016--<0>[    3.501548] MXM: GUID detected in BIOS
+Tue Jun 28 17:47:37 CST 2016--<0>[    3.501641] ACPI Warning: _SB_.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20150930/nsarguments-95)
+Tue Jun 28 17:47:37 CST 2016--<0>[    3.501758] ACPI Warning: _SB_.PCI0.RP01.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20150930/nsarguments-95)
+Tue Jun 28 17:47:37 CST 2016--<0>[    3.501985] ACPI Warning: _SB_.PCI0.RP01.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20150930/nsarguments-95)
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.502230] pci 0000:01:00.0: optimus capabilities: enabled, status dynamic power, hda bios codec supported
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.502237] VGA switcheroo: detected Optimus DSM method _SB_.PCI0.RP01.PEGP handle
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.502537] nouveau 0000:01:00.0: NVIDIA GF117 (0d7000a2)
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.506855] input: HDA Intel PCH Mic as /devices/pci0000:00/0000:00:1f.3/sound/card0/input6
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.506974] input: HDA Intel PCH Headphone as /devices/pci0000:00/0000:00:1f.3/sound/card0/input7
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.507086] input: HDA Intel PCH HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:1f.3/sound/card0/input8
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.523440] nouveau 0000:01:00.0: bios: version 75.17.88.00.03
+Tue Jun 28 17:47:37 CST 2016--<6>[    3.705706] [drm] RC6 on
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.022073] nouveau 0000:01:00.0: fb: 2048 MiB DDR3
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.663557] vga_switcheroo: enabled
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.663760] [TTM] Zone  kernel: Available graphics memory: 4044228 kiB
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.663762] [TTM] Zone   dma32: Available graphics memory: 2097152 kiB
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.663763] [TTM] Initializing pool allocator
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.663770] [TTM] Initializing DMA pool allocator
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.663796] nouveau 0000:01:00.0: DRM: VRAM: 2048 MiB
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.663797] nouveau 0000:01:00.0: DRM: GART: 1048576 MiB
+Tue Jun 28 17:47:37 CST 2016--<3>[    4.663800] nouveau 0000:01:00.0: DRM: Pointer to TMDS table invalid
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.663801] nouveau 0000:01:00.0: DRM: DCB version 4.0
+Tue Jun 28 17:47:37 CST 2016--<3>[    4.663803] nouveau 0000:01:00.0: DRM: Pointer to flat panel table invalid
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.790530] nouveau 0000:01:00.0: DRM: MM: using COPY0 for buffer copies
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.790536] [drm] Initialized nouveau 1.3.1 20120801 for 0000:01:00.0 on minor 1
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.920362] rtl8723be: Using firmware rtlwifi/rtl8723befw.bin
+Tue Jun 28 17:47:37 CST 2016--<7>[    4.922336] ieee80211 phy0: Selected rate control algorithm 'rtl_rc'
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.922771] rtlwifi: rtlwifi: wireless switch is on
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.938076] rtsx_pci 0000:03:00.0: rtsx_pci_acquire_irq: pcr->msi_en = 1, pci->irq = 125
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.968175] r8169 Gigabit Ethernet driver 2.3LK-NAPI loaded
+Tue Jun 28 17:47:37 CST 2016--<4>[    4.968191] r8169 0000:03:00.1: can't disable ASPM; OS doesn't have ASPM control
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.971478] r8169 0000:03:00.1 eth0: RTL8411 at 0xffffc9000067c000, b0:25:aa:12:87:15, XID 1c800800 IRQ 126
+Tue Jun 28 17:47:37 CST 2016--<6>[    4.971489] r8169 0000:03:00.1 eth0: jumbo features [frames: 9200 bytes, tx checksumming: ko]
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.038247] input: PC Speaker as /devices/platform/pcspkr/input/input9
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.067851] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input10
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.095372] usbcore: registered new interface driver btusb
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.098246] Bluetooth: hci0: rtl: examining hci_ver=06 hci_rev=000b lmp_ver=06 lmp_subver=8723
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.098255] Bluetooth: hci0: rtl: loading rtl_bt/rtl8723b_fw.bin
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.105330] Bluetooth: hci0: rom_version status=0 version=1
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.149745] uvcvideo: Found UVC 1.00 device HD Webcam (5986:069e)
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.152503] input: HD Webcam as /devices/pci0000:00/0000:00:14.0/usb1/1-7/1-7:1.0/input/input13
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.153311] usbcore: registered new interface driver uvcvideo
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.153317] USB Video Class driver (1.1.1)
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.209899] asus_wmi: Asus Management GUID not found
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.222894] EXT4-fs (sda1): re-mounted. Opts: (null)
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.346299] asus_wmi: Asus Management GUID not found
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.353516] power_supply BAT0: uevent
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.353521] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.359982] AVX2 version of gcm_enc/dec engaged.
+Tue Jun 28 17:47:37 CST 2016--<6>[    5.359984] AES CTR mode by8 optimization enabled
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529244] power_supply BAT0: prop STATUS=Full
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529258] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529267] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529274] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529284] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529291] power_supply BAT0: prop VOLTAGE_NOW=12549000
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529297] power_supply BAT0: prop CURRENT_NOW=0
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529303] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529309] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529315] power_supply BAT0: prop CHARGE_NOW=4400000
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529332] power_supply BAT0: prop CAPACITY=100
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529339] power_supply BAT0: prop CAPACITY_LEVEL=Full
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529345] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529352] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.529358] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.536748] power_supply AC0: uevent
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.536758] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:47:37 CST 2016--<7>[    5.647420] power_supply AC0: prop ONLINE=1
+Tue Jun 28 17:47:37 CST 2016--<11>[    5.658275] init: /dev/hw_random not found
+Tue Jun 28 17:47:37 CST 2016--<13>[    5.943366] init: /sbin/modprobe fs-binfmt_misc
+Tue Jun 28 17:47:37 CST 2016--<11>[    5.999632] init: /dev/hw_random not found
+Tue Jun 28 17:47:37 CST 2016--<14>[    6.000151] fs_mgr: __mount(source=none,target=/cache,type=tmpfs)=0
+Tue Jun 28 17:47:37 CST 2016--<11>[    6.068866] init: Unable to read property file '/system/default.prop'
+Tue Jun 28 17:47:37 CST 2016--<11>[    6.068883] init: Unable to read property file '/vendor/build.prop'
+Tue Jun 28 17:47:37 CST 2016--<11>[    6.068893] init: Unable to read property file '/factory/factory.prop'
+Tue Jun 28 17:47:37 CST 2016--<11>[    6.068904] init: Unable to read property file '/data/local.prop'
+Tue Jun 28 17:47:37 CST 2016--<6>[    6.097437] binder: 1731:1731 transaction failed 29189, size 0-0
+Tue Jun 28 17:47:37 CST 2016--<6>[    6.144719] psmouse serio1: sentelic: Finger Sensing Pad, hw: 14.7.4, sn: 0, sw: 1.1.0-K
+Tue Jun 28 17:47:37 CST 2016--<3>[    6.174963] psmouse serio1: sentelic: Unable to enable 4 bytes packet format.
+Tue Jun 28 17:47:37 CST 2016--<11>[    6.377001] init: cannot find '/system/bin/install-recovery.sh', disabling 'flash_recovery'
+Tue Jun 28 17:47:37 CST 2016--<38>[    6.378465] logd.auditd: start
+Tue Jun 28 17:47:37 CST 2016--<6>[    6.644866] input: ImPS/2 Sentelic FingerSensingPad as /devices/platform/i8042/serio1/input/input12
+Tue Jun 28 17:47:37 CST 2016--<12>[    7.098082] healthd: BatteryHealthPath not found
+Tue Jun 28 17:47:37 CST 2016--<12>[    7.098096] healthd: BatteryTemperaturePath not found
+Tue Jun 28 17:47:37 CST 2016--<6>[    7.241203] input: Android Power Button as /devices/virtual/input/input14
+Tue Jun 28 17:47:37 CST 2016--<3>[    9.264787] x_tables: ip_tables: owner match: used from hooks INPUT, but only valid from OUTPUT/POSTROUTING
+Tue Jun 28 17:47:37 CST 2016--<3>[    9.265644] x_tables: ip6_tables: owner match: used from hooks INPUT, but only valid from OUTPUT/POSTROUTING
+Tue Jun 28 17:47:37 CST 2016--<13>[    9.409628] init: /sbin/modprobe net-pf-16-proto-5
+Tue Jun 28 17:47:37 CST 2016--<11>[    9.432151] init: Couldn't probe module 'net-pf-16-proto-5'
+Tue Jun 28 17:47:37 CST 2016--<0>[    9.789871] ACPI Warning: _SB_.PCI0.RP01.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20150930/nsarguments-95)
+Tue Jun 28 17:47:37 CST 2016--<6>[    9.790187] ACPI: _SB_.PCI0.RP01.PEGP: failed to evaluate _DSM
+Tue Jun 28 17:47:37 CST 2016--<0>[    9.790202] ACPI Warning: _SB_.PCI0.RP01.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20150930/nsarguments-95)
+Tue Jun 28 17:47:37 CST 2016--<6>[    9.790436] nouveau 0000:01:00.0: DRM: evicting buffers...
+Tue Jun 28 17:47:37 CST 2016--<6>[    9.790443] nouveau 0000:01:00.0: DRM: waiting for kernel channels to go idle...
+Tue Jun 28 17:47:37 CST 2016--<6>[    9.790557] nouveau 0000:01:00.0: DRM: suspending client object trees...
+Tue Jun 28 17:47:37 CST 2016--<6>[    9.790957] nouveau 0000:01:00.0: DRM: suspending kernel object tree...
+Tue Jun 28 17:47:37 CST 2016--<6>[   17.951575] capability: warning: `main' uses 32-bit capabilities (legacy support in use)
+Tue Jun 28 17:47:37 CST 2016--<12>[   52.563142] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<6>[   53.361019] lowmemorykiller: lowmem_shrink: convert oom_adj to oom_score_adj:
+Tue Jun 28 17:47:37 CST 2016--<6>[   53.361027] lowmemorykiller: oom_adj 0 => oom_score_adj 0
+Tue Jun 28 17:47:37 CST 2016--<6>[   53.361031] lowmemorykiller: oom_adj 1 => oom_score_adj 58
+Tue Jun 28 17:47:37 CST 2016--<6>[   53.361035] lowmemorykiller: oom_adj 2 => oom_score_adj 117
+Tue Jun 28 17:47:37 CST 2016--<6>[   53.361038] lowmemorykiller: oom_adj 3 => oom_score_adj 176
+Tue Jun 28 17:47:37 CST 2016--<6>[   53.361040] lowmemorykiller: oom_adj 9 => oom_score_adj 529
+Tue Jun 28 17:47:37 CST 2016--<6>[   53.361043] lowmemorykiller: oom_adj 15 => oom_score_adj 1000
+Tue Jun 28 17:47:37 CST 2016--<6>[   54.477028] r8169 0000:03:00.1 eth0: link down
+Tue Jun 28 17:47:37 CST 2016--<6>[   54.477118] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+Tue Jun 28 17:47:37 CST 2016--<12>[   67.344124] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  127.339736] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  187.335316] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  247.326732] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  307.321065] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  367.316022] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  427.311213] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  487.305876] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<6>[  503.141092] snd_hda_intel 0000:00:1f.3: IRQ timing workaround is activated for card #0. Suggest a bigger bdl_pos_adj.
+Tue Jun 28 17:47:37 CST 2016--<12>[  547.301702] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  607.297313] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:47:37 CST 2016--<12>[  667.291613] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:48:14 CST 2016--<12>[  727.283479] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:49:14 CST 2016--<12>[  787.276650] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:50:14 CST 2016--<12>[  847.272252] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+Tue Jun 28 17:51:14 CST 2016--<12>[  907.266786] healthd: battery l=100 v=12526 t=0.0 h=1 st=5 c=0 chg=a
+start nouveau test
+Tue Jun 28 17:51:52 CST 2016--<7>[  944.793506] power_supply AC0: uevent
+Tue Jun 28 17:51:52 CST 2016--<7>[  944.793526] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:51:52 CST 2016--<7>[  944.895319] power_supply AC0: prop ONLINE=0
+Tue Jun 28 17:51:52 CST 2016--<12>[  945.295709] healthd: battery l=100 v=12526 t=0.0 h=1 st=3 c=821 chg=
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402164] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402173] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402178] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402187] power_supply BAT0: uevent
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402189] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402194] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402197] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402201] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402204] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402208] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402211] power_supply BAT0: prop VOLTAGE_NOW=12526000
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402215] power_supply BAT0: prop CURRENT_NOW=821000
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402218] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402221] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402225] power_supply BAT0: prop CHARGE_NOW=4400000
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402228] power_supply BAT0: prop CAPACITY=100
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402232] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402235] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402239] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:51:52 CST 2016--<7>[  945.402242] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:51:52 CST 2016--<12>[  945.503274] healthd: battery l=100 v=12526 t=0.0 h=1 st=3 c=821 chg=
+Tue Jun 28 17:52:53 CST 2016--<12>[ 1005.808764] healthd: battery l=100 v=12355 t=0.0 h=1 st=3 c=1456 chg=
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1011.932208] power_supply AC0: uevent
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1011.932212] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.034232] power_supply AC0: prop ONLINE=0
+Tue Jun 28 17:52:59 CST 2016--<12>[ 1012.288629] healthd: battery l=100 v=12355 t=0.0 h=1 st=3 c=1466 chg=
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541224] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541240] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541252] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541273] power_supply BAT0: uevent
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541275] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541287] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541292] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541295] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541297] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541299] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541301] power_supply BAT0: prop VOLTAGE_NOW=12355000
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541303] power_supply BAT0: prop CURRENT_NOW=1505000
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541305] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541307] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541309] power_supply BAT0: prop CHARGE_NOW=4356000
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541313] power_supply BAT0: prop CAPACITY=99
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541317] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541319] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541323] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:52:59 CST 2016--<7>[ 1012.541325] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:53:00 CST 2016--<12>[ 1012.879376] healthd: battery l=99 v=12355 t=0.0 h=1 st=3 c=1505 chg=
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880128] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880136] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880141] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880149] power_supply BAT0: uevent
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880151] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880157] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880160] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880163] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880165] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880168] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880170] power_supply BAT0: prop VOLTAGE_NOW=12355000
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880173] power_supply BAT0: prop CURRENT_NOW=1505000
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880175] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880177] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880180] power_supply BAT0: prop CHARGE_NOW=4356000
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880183] power_supply BAT0: prop CAPACITY=99
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880185] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880188] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880190] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:53:00 CST 2016--<7>[ 1012.880193] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:53:00 CST 2016--<12>[ 1012.981250] healthd: battery l=99 v=12355 t=0.0 h=1 st=3 c=1505 chg=
+Tue Jun 28 17:54:00 CST 2016--<12>[ 1073.267790] healthd: battery l=99 v=12284 t=0.0 h=1 st=3 c=1476 chg=
+Tue Jun 28 17:54:48 CST 2016--<7>[ 1121.505437] power_supply AC0: uevent
+Tue Jun 28 17:54:48 CST 2016--<7>[ 1121.505449] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:54:48 CST 2016--<7>[ 1121.606408] power_supply AC0: prop ONLINE=0
+Tue Jun 28 17:54:49 CST 2016--<12>[ 1122.010579] healthd: battery l=98 v=12308 t=0.0 h=1 st=3 c=1485 chg=
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111184] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111192] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111197] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111206] power_supply BAT0: uevent
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111209] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111214] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111217] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111220] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111223] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111226] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111230] power_supply BAT0: prop VOLTAGE_NOW=12308000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111234] power_supply BAT0: prop CURRENT_NOW=1485000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111238] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111241] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111245] power_supply BAT0: prop CHARGE_NOW=4312000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111249] power_supply BAT0: prop CAPACITY=98
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111253] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111257] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111261] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.111265] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:54:49 CST 2016--<12>[ 1122.449506] healthd: battery l=98 v=12308 t=0.0 h=1 st=3 c=1485 chg=
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450326] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450352] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450366] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450385] power_supply BAT0: uevent
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450388] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450401] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450407] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450411] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450414] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450417] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450420] power_supply BAT0: prop VOLTAGE_NOW=12308000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450423] power_supply BAT0: prop CURRENT_NOW=1485000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450426] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450428] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450431] power_supply BAT0: prop CHARGE_NOW=4312000
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450434] power_supply BAT0: prop CAPACITY=98
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450437] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450439] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450442] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:54:49 CST 2016--<7>[ 1122.450445] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:54:49 CST 2016--<12>[ 1122.551217] healthd: battery l=98 v=12308 t=0.0 h=1 st=3 c=1485 chg=
+Tue Jun 28 17:55:50 CST 2016--<12>[ 1182.855773] healthd: battery l=98 v=12236 t=0.0 h=1 st=3 c=1476 chg=
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.084752] power_supply AC0: uevent
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.084761] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.185732] power_supply AC0: prop ONLINE=0
+Tue Jun 28 17:56:36 CST 2016--<12>[ 1229.587690] healthd: battery l=97 v=12236 t=0.0 h=1 st=3 c=1456 chg=
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.689489] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.689496] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.689500] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.689507] power_supply BAT0: uevent
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.689509] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:56:36 CST 2016--<7>[ 1229.689513] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689516] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689519] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689521] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689524] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689526] power_supply BAT0: prop VOLTAGE_NOW=12236000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689528] power_supply BAT0: prop CURRENT_NOW=1456000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689531] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689533] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689535] power_supply BAT0: prop CHARGE_NOW=4268000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689538] power_supply BAT0: prop CAPACITY=97
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689541] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689544] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689547] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1229.689550] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:56:37 CST 2016--<12>[ 1230.026831] healthd: battery l=97 v=12236 t=0.0 h=1 st=3 c=1456 chg=
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027591] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027620] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027636] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027659] power_supply BAT0: uevent
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027662] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027679] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027684] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027689] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027693] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027698] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027701] power_supply BAT0: prop VOLTAGE_NOW=12236000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027704] power_supply BAT0: prop CURRENT_NOW=1456000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027709] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027711] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027713] power_supply BAT0: prop CHARGE_NOW=4268000
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027719] power_supply BAT0: prop CAPACITY=97
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027723] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027728] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027738] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:56:37 CST 2016--<7>[ 1230.027741] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:56:37 CST 2016--<12>[ 1230.129780] healthd: battery l=97 v=12236 t=0.0 h=1 st=3 c=1456 chg=
+Tue Jun 28 17:57:37 CST 2016--<12>[ 1290.401047] healthd: battery l=97 v=12213 t=0.0 h=1 st=3 c=1427 chg=
+Tue Jun 28 17:58:23 CST 2016--<7>[ 1336.665803] power_supply AC0: uevent
+Tue Jun 28 17:58:23 CST 2016--<7>[ 1336.665807] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1336.766813] power_supply AC0: prop ONLINE=0
+Tue Jun 28 17:58:24 CST 2016--<12>[ 1337.170071] healthd: battery l=96 v=12189 t=0.0 h=1 st=3 c=1456 chg=
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271841] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271859] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271868] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271887] power_supply BAT0: uevent
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271889] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271900] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271903] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271906] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271908] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271910] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271912] power_supply BAT0: prop VOLTAGE_NOW=12189000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271914] power_supply BAT0: prop CURRENT_NOW=1456000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271917] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271919] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271921] power_supply BAT0: prop CHARGE_NOW=4224000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271923] power_supply BAT0: prop CAPACITY=96
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271926] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271929] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271932] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.271934] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:58:24 CST 2016--<12>[ 1337.607816] healthd: battery l=96 v=12189 t=0.0 h=1 st=3 c=1456 chg=
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608063] power_supply BAT0: power_supply_changed
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608069] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608072] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608078] power_supply BAT0: uevent
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608080] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608083] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608085] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608088] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608090] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608092] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608094] power_supply BAT0: prop VOLTAGE_NOW=12189000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608097] power_supply BAT0: prop CURRENT_NOW=1456000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608099] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608101] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608103] power_supply BAT0: prop CHARGE_NOW=4224000
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608105] power_supply BAT0: prop CAPACITY=96
+Tue Jun 28 17:58:24 CST 2016--<7>[ 1337.608107] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 17:58:25 CST 2016--<7>[ 1337.608109] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 17:58:25 CST 2016--<7>[ 1337.608111] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 17:58:25 CST 2016--<7>[ 1337.608114] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 17:58:25 CST 2016--<12>[ 1337.708737] healthd: battery l=96 v=12189 t=0.0 h=1 st=3 c=1456 chg=
+Tue Jun 28 17:59:25 CST 2016--<12>[ 1397.961308] healthd: battery l=96 v=12171 t=0.0 h=1 st=3 c=1466 chg=
+Tue Jun 28 18:00:25 CST 2016--<12>[ 1458.222875] healthd: battery l=95 v=12148 t=0.0 h=1 st=3 c=1466 chg=
+Tue Jun 28 18:01:25 CST 2016--<12>[ 1518.513701] healthd: battery l=95 v=12124 t=0.0 h=1 st=3 c=1485 chg=
+Tue Jun 28 18:01:52 CST 2016--<12>[ 1545.492163] healthd: battery l=95 v=12100 t=0.0 h=1 st=3 c=1495 chg=
+Tue Jun 28 18:02:53 CST 2016--<12>[ 1605.737735] healthd: battery l=94 v=12076 t=0.0 h=1 st=3 c=1534 chg=
+Tue Jun 28 18:03:53 CST 2016--<12>[ 1666.001064] healthd: battery l=93 v=12059 t=0.0 h=1 st=3 c=1515 chg=
+Tue Jun 28 18:04:53 CST 2016--<12>[ 1726.305869] healthd: battery l=93 v=12029 t=0.0 h=1 st=3 c=1534 chg=
+Tue Jun 28 18:05:53 CST 2016--<12>[ 1786.562428] healthd: battery l=92 v=12011 t=0.0 h=1 st=3 c=1485 chg=
+Tue Jun 28 18:06:54 CST 2016--<12>[ 1846.820663] healthd: battery l=92 v=11981 t=0.0 h=1 st=3 c=1485 chg=
+Tue Jun 28 18:07:54 CST 2016--<12>[ 1907.081234] healthd: battery l=91 v=11964 t=0.0 h=1 st=3 c=1485 chg=
+Tue Jun 28 18:08:20 CST 2016--<4>[ 1932.804090] perf interrupt took too long (2521 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
+Tue Jun 28 18:08:54 CST 2016--<12>[ 1967.359799] healthd: battery l=91 v=11940 t=0.0 h=1 st=3 c=1485 chg=
+Tue Jun 28 18:09:54 CST 2016--<12>[ 2027.608611] healthd: battery l=90 v=11904 t=0.0 h=1 st=3 c=1515 chg=
+Tue Jun 28 18:10:55 CST 2016--<12>[ 2087.914847] healthd: battery l=89 v=11892 t=0.0 h=1 st=3 c=1593 chg=
+Tue Jun 28 18:11:52 CST 2016--<12>[ 2145.437669] healthd: battery l=89 v=11887 t=0.0 h=1 st=3 c=1534 chg=
+Tue Jun 28 18:12:53 CST 2016--<12>[ 2205.738441] healthd: battery l=88 v=11845 t=0.0 h=1 st=3 c=1515 chg=
+Tue Jun 28 18:13:53 CST 2016--<12>[ 2266.034888] healthd: battery l=88 v=11821 t=0.0 h=1 st=3 c=1534 chg=
+Tue Jun 28 18:14:53 CST 2016--<12>[ 2326.333324] healthd: battery l=87 v=11815 t=0.0 h=1 st=3 c=1525 chg=
+Tue Jun 28 18:15:53 CST 2016--<12>[ 2386.611866] healthd: battery l=86 v=11792 t=0.0 h=1 st=3 c=1534 chg=
+Tue Jun 28 18:16:54 CST 2016--<12>[ 2446.918778] healthd: battery l=86 v=11756 t=0.0 h=1 st=3 c=1525 chg=
+Tue Jun 28 18:17:54 CST 2016--<12>[ 2507.176053] healthd: battery l=85 v=11726 t=0.0 h=1 st=3 c=1525 chg=
+Tue Jun 28 18:18:54 CST 2016--<12>[ 2567.475807] healthd: battery l=85 v=11720 t=0.0 h=1 st=3 c=1544 chg=
+Tue Jun 28 18:19:55 CST 2016--<12>[ 2627.748098] healthd: battery l=84 v=11697 t=0.0 h=1 st=3 c=1534 chg=
+Tue Jun 28 18:20:55 CST 2016--<12>[ 2688.050866] healthd: battery l=84 v=11655 t=0.0 h=1 st=3 c=1544 chg=
+Tue Jun 28 18:21:52 CST 2016--<12>[ 2745.385416] healthd: battery l=83 v=11649 t=0.0 h=1 st=3 c=1622 chg=
+Tue Jun 28 18:22:53 CST 2016--<12>[ 2805.689916] healthd: battery l=82 v=11608 t=0.0 h=1 st=3 c=1632 chg=
+Tue Jun 28 18:23:53 CST 2016--<12>[ 2865.996823] healthd: battery l=82 v=11602 t=0.0 h=1 st=3 c=1534 chg=
+Tue Jun 28 18:24:53 CST 2016--<12>[ 2926.257227] healthd: battery l=81 v=11590 t=0.0 h=1 st=3 c=1525 chg=
+Tue Jun 28 18:25:53 CST 2016--<12>[ 2986.515597] healthd: battery l=81 v=11566 t=0.0 h=1 st=3 c=1564 chg=
+Tue Jun 28 18:26:54 CST 2016--<12>[ 3046.796390] healthd: battery l=80 v=11536 t=0.0 h=1 st=3 c=1544 chg=
+Tue Jun 28 18:27:54 CST 2016--<12>[ 3107.096644] healthd: battery l=79 v=11536 t=0.0 h=1 st=3 c=1564 chg=
+Tue Jun 28 18:28:54 CST 2016--<12>[ 3167.399242] healthd: battery l=79 v=11518 t=0.0 h=1 st=3 c=1622 chg=
+Tue Jun 28 18:29:55 CST 2016--<12>[ 3227.685084] healthd: battery l=78 v=11465 t=0.0 h=1 st=3 c=1573 chg=
+Tue Jun 28 18:30:55 CST 2016--<12>[ 3287.990331] healthd: battery l=78 v=11447 t=0.0 h=1 st=3 c=1583 chg=
+Tue Jun 28 18:31:52 CST 2016--<12>[ 3345.328119] healthd: battery l=77 v=11418 t=0.0 h=1 st=3 c=1573 chg=
+Tue Jun 28 18:32:53 CST 2016--<12>[ 3405.631701] healthd: battery l=76 v=11418 t=0.0 h=1 st=3 c=1593 chg=
+Tue Jun 28 18:33:53 CST 2016--<12>[ 3465.898513] healthd: battery l=76 v=11394 t=0.0 h=1 st=3 c=1593 chg=
+Tue Jun 28 18:34:53 CST 2016--<12>[ 3526.204016] healthd: battery l=75 v=11376 t=0.0 h=1 st=3 c=1603 chg=
+Tue Jun 28 18:35:53 CST 2016--<12>[ 3586.481517] healthd: battery l=75 v=11346 t=0.0 h=1 st=3 c=1554 chg=
+Tue Jun 28 18:36:54 CST 2016--<12>[ 3646.761917] healthd: battery l=74 v=11328 t=0.0 h=1 st=3 c=1603 chg=
+Tue Jun 28 18:37:54 CST 2016--<12>[ 3707.068685] healthd: battery l=73 v=11305 t=0.0 h=1 st=3 c=1593 chg=
+Tue Jun 28 18:38:54 CST 2016--<12>[ 3767.375198] healthd: battery l=73 v=11305 t=0.0 h=1 st=3 c=1612 chg=
+Tue Jun 28 18:39:09 CST 2016--<4>[ 3782.155612] perf interrupt took too long (5041 > 5000), lowering kernel.perf_event_max_sample_rate to 25000
+Tue Jun 28 18:39:55 CST 2016--<12>[ 3827.681713] healthd: battery l=72 v=11281 t=0.0 h=1 st=3 c=1612 chg=
+Tue Jun 28 18:40:55 CST 2016--<12>[ 3887.988320] healthd: battery l=72 v=11257 t=0.0 h=1 st=3 c=1632 chg=
+Tue Jun 28 18:41:52 CST 2016--<12>[ 3945.275115] healthd: battery l=71 v=11257 t=0.0 h=1 st=3 c=1612 chg=
+Tue Jun 28 18:42:53 CST 2016--<12>[ 4005.577600] healthd: battery l=70 v=11233 t=0.0 h=1 st=3 c=1622 chg=
+Tue Jun 28 18:43:53 CST 2016--<12>[ 4065.874969] healthd: battery l=70 v=11210 t=0.0 h=1 st=3 c=1622 chg=
+Tue Jun 28 18:44:53 CST 2016--<12>[ 4126.178482] healthd: battery l=69 v=11186 t=0.0 h=1 st=3 c=1622 chg=
+Tue Jun 28 18:45:53 CST 2016--<12>[ 4186.438074] healthd: battery l=68 v=11133 t=0.0 h=1 st=3 c=1612 chg=
+Tue Jun 28 18:46:54 CST 2016--<12>[ 4246.684605] healthd: battery l=68 v=11138 t=0.0 h=1 st=3 c=1612 chg=
+Tue Jun 28 18:47:54 CST 2016--<12>[ 4306.944187] healthd: battery l=67 v=11120 t=0.0 h=1 st=3 c=1642 chg=
+Tue Jun 28 18:48:54 CST 2016--<12>[ 4367.207709] healthd: battery l=67 v=11091 t=0.0 h=1 st=3 c=1642 chg=
+Tue Jun 28 18:49:55 CST 2016--<12>[ 4427.512443] healthd: battery l=66 v=11091 t=0.0 h=1 st=3 c=1661 chg=
+Tue Jun 28 18:50:55 CST 2016--<12>[ 4487.819092] healthd: battery l=65 v=11067 t=0.0 h=1 st=3 c=1652 chg=
+Tue Jun 28 18:51:52 CST 2016--<12>[ 4545.222956] healthd: battery l=65 v=11067 t=0.0 h=1 st=3 c=1661 chg=
+Tue Jun 28 18:52:53 CST 2016--<12>[ 4605.487366] healthd: battery l=64 v=11043 t=0.0 h=1 st=3 c=1642 chg=
+Tue Jun 28 18:53:53 CST 2016--<12>[ 4665.794023] healthd: battery l=64 v=11020 t=0.0 h=1 st=3 c=1661 chg=
+Tue Jun 28 18:54:53 CST 2016--<12>[ 4726.079238] healthd: battery l=63 v=10996 t=0.0 h=1 st=3 c=1652 chg=
+Tue Jun 28 18:55:53 CST 2016--<12>[ 4786.341773] healthd: battery l=62 v=10977 t=0.0 h=1 st=3 c=1671 chg=
+Tue Jun 28 18:56:54 CST 2016--<12>[ 4846.602327] healthd: battery l=62 v=10948 t=0.0 h=1 st=3 c=1671 chg=
+Tue Jun 28 18:57:54 CST 2016--<12>[ 4906.903107] healthd: battery l=61 v=10948 t=0.0 h=1 st=3 c=1652 chg=
+Tue Jun 28 18:58:54 CST 2016--<12>[ 4967.187621] healthd: battery l=60 v=10925 t=0.0 h=1 st=3 c=1661 chg=
+Tue Jun 28 18:59:55 CST 2016--<12>[ 5027.495278] healthd: battery l=60 v=10901 t=0.0 h=1 st=3 c=1632 chg=
+Tue Jun 28 19:00:55 CST 2016--<12>[ 5087.745851] healthd: battery l=59 v=10901 t=0.0 h=1 st=3 c=1681 chg=
+Tue Jun 28 19:01:52 CST 2016--<12>[ 5145.167521] healthd: battery l=59 v=10906 t=0.0 h=1 st=3 c=1671 chg=
+Tue Jun 28 19:02:53 CST 2016--<12>[ 5205.417186] healthd: battery l=58 v=10882 t=0.0 h=1 st=3 c=1671 chg=
+Tue Jun 28 19:03:53 CST 2016--<12>[ 5265.724419] healthd: battery l=57 v=10835 t=0.0 h=1 st=3 c=1671 chg=
+Tue Jun 28 19:04:53 CST 2016--<12>[ 5325.970964] healthd: battery l=57 v=10835 t=0.0 h=1 st=3 c=1661 chg=
+Tue Jun 28 19:05:53 CST 2016--<12>[ 5386.215502] healthd: battery l=56 v=10811 t=0.0 h=1 st=3 c=1681 chg=
+Tue Jun 28 19:06:54 CST 2016--<12>[ 5446.515308] healthd: battery l=55 v=10835 t=0.0 h=1 st=3 c=1652 chg=
+Tue Jun 28 19:07:54 CST 2016--<12>[ 5506.806847] healthd: battery l=55 v=10782 t=0.0 h=1 st=3 c=1671 chg=
+Tue Jun 28 19:08:54 CST 2016--<12>[ 5567.113105] healthd: battery l=54 v=10782 t=0.0 h=1 st=3 c=1681 chg=
+Tue Jun 28 19:09:55 CST 2016--<12>[ 5627.418983] healthd: battery l=53 v=10787 t=0.0 h=1 st=3 c=1681 chg=
+Tue Jun 28 19:10:55 CST 2016--<12>[ 5687.726470] healthd: battery l=53 v=10764 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:11:52 CST 2016--<12>[ 5745.114353] healthd: battery l=52 v=10735 t=0.0 h=1 st=3 c=1681 chg=
+Tue Jun 28 19:12:53 CST 2016--<12>[ 5805.413590] healthd: battery l=52 v=10716 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:13:53 CST 2016--<12>[ 5865.668369] healthd: battery l=51 v=10711 t=0.0 h=1 st=3 c=1691 chg=
+Tue Jun 28 19:14:53 CST 2016--<12>[ 5925.919702] healthd: battery l=50 v=10716 t=0.0 h=1 st=3 c=1710 chg=
+Tue Jun 28 19:15:53 CST 2016--<12>[ 5986.196386] healthd: battery l=50 v=10716 t=0.0 h=1 st=3 c=1720 chg=
+Tue Jun 28 19:16:54 CST 2016--<12>[ 6046.489972] healthd: battery l=49 v=10692 t=0.0 h=1 st=3 c=1720 chg=
+Tue Jun 28 19:17:54 CST 2016--<12>[ 6106.787546] healthd: battery l=48 v=10692 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:18:54 CST 2016--<12>[ 6167.085875] healthd: battery l=48 v=10669 t=0.0 h=1 st=3 c=1691 chg=
+Tue Jun 28 19:19:55 CST 2016--<12>[ 6227.379514] healthd: battery l=47 v=10645 t=0.0 h=1 st=3 c=1661 chg=
+Tue Jun 28 19:20:55 CST 2016--<12>[ 6287.628227] healthd: battery l=46 v=10645 t=0.0 h=1 st=3 c=1691 chg=
+Tue Jun 28 19:21:52 CST 2016--<12>[ 6345.059782] healthd: battery l=46 v=10626 t=0.0 h=1 st=3 c=1720 chg=
+Tue Jun 28 19:22:53 CST 2016--<12>[ 6405.360528] healthd: battery l=45 v=10621 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 19:23:53 CST 2016--<12>[ 6465.666866] healthd: battery l=45 v=10626 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:24:53 CST 2016--<12>[ 6525.975690] healthd: battery l=44 v=10597 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:25:54 CST 2016--<12>[ 6586.279900] healthd: battery l=43 v=10597 t=0.0 h=1 st=3 c=1671 chg=
+Tue Jun 28 19:26:54 CST 2016--<12>[ 6646.571748] healthd: battery l=43 v=10579 t=0.0 h=1 st=3 c=1691 chg=
+Tue Jun 28 19:27:54 CST 2016--<12>[ 6706.827050] healthd: battery l=42 v=10568 t=0.0 h=1 st=3 c=1671 chg=
+Tue Jun 28 19:28:54 CST 2016--<12>[ 6767.122591] healthd: battery l=41 v=10555 t=0.0 h=1 st=3 c=1739 chg=
+Tue Jun 28 19:29:55 CST 2016--<12>[ 6827.422354] healthd: battery l=41 v=10573 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:30:55 CST 2016--<12>[ 6887.727691] healthd: battery l=40 v=10560 t=0.0 h=1 st=3 c=1691 chg=
+Tue Jun 28 19:31:52 CST 2016--<12>[ 6945.003953] healthd: battery l=39 v=10560 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 19:32:53 CST 2016--<12>[ 7005.309317] healthd: battery l=39 v=10555 t=0.0 h=1 st=3 c=1739 chg=
+Tue Jun 28 19:33:53 CST 2016--<12>[ 7065.581730] healthd: battery l=38 v=10526 t=0.0 h=1 st=3 c=1681 chg=
+Tue Jun 28 19:34:53 CST 2016--<12>[ 7125.885119] healthd: battery l=37 v=10536 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:35:53 CST 2016--<12>[ 7186.177853] healthd: battery l=37 v=10507 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:36:54 CST 2016--<12>[ 7246.483218] healthd: battery l=36 v=10502 t=0.0 h=1 st=3 c=1691 chg=
+Tue Jun 28 19:37:54 CST 2016--<12>[ 7306.745784] healthd: battery l=35 v=10478 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:38:54 CST 2016--<12>[ 7367.008352] healthd: battery l=35 v=10484 t=0.0 h=1 st=3 c=1710 chg=
+Tue Jun 28 19:39:55 CST 2016--<12>[ 7427.263195] healthd: battery l=34 v=10478 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:40:55 CST 2016--<12>[ 7487.569665] healthd: battery l=33 v=10460 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 19:41:52 CST 2016--<12>[ 7544.951235] healthd: battery l=33 v=10455 t=0.0 h=1 st=3 c=1808 chg=
+Tue Jun 28 19:42:53 CST 2016--<12>[ 7605.231730] healthd: battery l=32 v=10465 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 19:43:53 CST 2016--<12>[ 7665.537321] healthd: battery l=32 v=10436 t=0.0 h=1 st=3 c=1700 chg=
+Tue Jun 28 19:44:53 CST 2016--<12>[ 7725.784903] healthd: battery l=31 v=10431 t=0.0 h=1 st=3 c=1739 chg=
+Tue Jun 28 19:45:53 CST 2016--<12>[ 7786.080363] healthd: battery l=30 v=10431 t=0.0 h=1 st=3 c=1730 chg=
+Tue Jun 28 19:46:54 CST 2016--<12>[ 7846.343001] healthd: battery l=30 v=10412 t=0.0 h=1 st=3 c=1730 chg=
+Tue Jun 28 19:47:54 CST 2016--<12>[ 7906.620518] healthd: battery l=29 v=10407 t=0.0 h=1 st=3 c=1730 chg=
+Tue Jun 28 19:48:54 CST 2016--<12>[ 7966.926416] healthd: battery l=28 v=10412 t=0.0 h=1 st=3 c=1730 chg=
+Tue Jun 28 19:49:55 CST 2016--<12>[ 8027.190587] healthd: battery l=28 v=10388 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 19:50:55 CST 2016--<12>[ 8087.496435] healthd: battery l=27 v=10388 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 19:51:52 CST 2016--<12>[ 8144.896150] healthd: battery l=26 v=10388 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 19:52:53 CST 2016--<12>[ 8205.198767] healthd: battery l=26 v=10388 t=0.0 h=1 st=3 c=1759 chg=
+Tue Jun 28 19:53:53 CST 2016--<12>[ 8265.498013] healthd: battery l=25 v=10388 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 19:54:53 CST 2016--<12>[ 8325.781831] healthd: battery l=24 v=10365 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 19:55:54 CST 2016--<12>[ 8386.086386] healthd: battery l=24 v=10336 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 19:56:54 CST 2016--<12>[ 8446.390703] healthd: battery l=23 v=10336 t=0.0 h=1 st=3 c=1759 chg=
+Tue Jun 28 19:57:54 CST 2016--<12>[ 8506.637235] healthd: battery l=22 v=10341 t=0.0 h=1 st=3 c=1759 chg=
+Tue Jun 28 19:58:54 CST 2016--<12>[ 8566.895246] healthd: battery l=22 v=10317 t=0.0 h=1 st=3 c=1739 chg=
+Tue Jun 28 19:59:55 CST 2016--<12>[ 8627.195323] healthd: battery l=21 v=10317 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 20:00:55 CST 2016--<12>[ 8687.451105] healthd: battery l=20 v=10298 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:01:52 CST 2016--<12>[ 8744.840906] healthd: battery l=20 v=10270 t=0.0 h=1 st=3 c=1798 chg=
+Tue Jun 28 20:02:53 CST 2016--<12>[ 8805.111530] healthd: battery l=19 v=10270 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 20:03:53 CST 2016--<12>[ 8865.403016] healthd: battery l=18 v=10270 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 20:04:53 CST 2016--<12>[ 8925.659286] healthd: battery l=18 v=10246 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:05:53 CST 2016--<12>[ 8985.960095] healthd: battery l=17 v=10222 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:06:54 CST 2016--<12>[ 9046.216474] healthd: battery l=16 v=10222 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 20:07:54 CST 2016--<12>[ 9106.523353] healthd: battery l=16 v=10198 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 20:08:54 CST 2016--<12>[ 9166.830483] healthd: battery l=15 v=10175 t=0.0 h=1 st=3 c=1739 chg=
+Tue Jun 28 20:09:55 CST 2016--<12>[ 9227.135011] healthd: battery l=14 v=10175 t=0.0 h=1 st=3 c=1759 chg=
+Tue Jun 28 20:10:55 CST 2016--<12>[ 9287.399866] healthd: battery l=14 v=10175 t=0.0 h=1 st=3 c=1808 chg=
+Tue Jun 28 20:11:52 CST 2016--<12>[ 9344.785742] healthd: battery l=13 v=10151 t=0.0 h=1 st=3 c=1798 chg=
+Tue Jun 28 20:12:53 CST 2016--<12>[ 9405.047253] healthd: battery l=12 v=10132 t=0.0 h=1 st=3 c=1876 chg=
+Tue Jun 28 20:13:53 CST 2016--<12>[ 9465.300769] healthd: battery l=12 v=10132 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 20:14:53 CST 2016--<12>[ 9525.606242] healthd: battery l=11 v=10108 t=0.0 h=1 st=3 c=1808 chg=
+Tue Jun 28 20:15:23 CST 2016--<7>[ 9555.845264] power_supply AC0: uevent
+Tue Jun 28 20:15:23 CST 2016--<7>[ 9555.845267] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:15:23 CST 2016--<7>[ 9555.946409] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:15:24 CST 2016--<12>[ 9556.201478] healthd: battery l=10 v=10079 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452205] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452212] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452216] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452223] power_supply BAT0: uevent
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452224] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452229] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452231] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452234] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452236] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452238] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452241] power_supply BAT0: prop VOLTAGE_NOW=10079000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452243] power_supply BAT0: prop CURRENT_NOW=1749000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452245] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452247] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452250] power_supply BAT0: prop CHARGE_NOW=440000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452253] power_supply BAT0: prop CAPACITY=10
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452256] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452259] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452261] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.452263] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:15:24 CST 2016--<12>[ 9556.788288] healthd: battery l=10 v=10079 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788569] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788576] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788581] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788589] power_supply BAT0: uevent
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788591] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788595] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788598] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788602] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788604] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788607] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788610] power_supply BAT0: prop VOLTAGE_NOW=10079000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788613] power_supply BAT0: prop CURRENT_NOW=1749000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788615] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788618] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788621] power_supply BAT0: prop CHARGE_NOW=440000
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788624] power_supply BAT0: prop CAPACITY=10
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788626] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788629] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788632] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:15:24 CST 2016--<7>[ 9556.788634] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:15:24 CST 2016--<12>[ 9556.891504] healthd: battery l=10 v=10079 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 20:15:44 CST 2016--<7>[ 9576.764544] power_supply AC0: uevent
+Tue Jun 28 20:15:44 CST 2016--<7>[ 9576.764558] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:15:44 CST 2016--<7>[ 9576.866485] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:15:45 CST 2016--<12>[ 9577.119792] healthd: battery l=9 v=10079 t=0.0 h=1 st=3 c=1857 chg=
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372323] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372329] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372333] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372340] power_supply BAT0: uevent
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372341] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372345] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372347] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372350] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372352] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372354] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372356] power_supply BAT0: prop VOLTAGE_NOW=10079000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372358] power_supply BAT0: prop CURRENT_NOW=1857000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372360] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372362] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372364] power_supply BAT0: prop CHARGE_NOW=396000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372366] power_supply BAT0: prop CAPACITY=9
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372368] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372371] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372373] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.372375] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:15:45 CST 2016--<12>[ 9577.709688] healthd: battery l=9 v=10079 t=0.0 h=1 st=3 c=1857 chg=
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.709944] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.709965] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.709976] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.709997] power_supply BAT0: uevent
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710000] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710015] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710021] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710027] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710030] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710033] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710036] power_supply BAT0: prop VOLTAGE_NOW=10079000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710039] power_supply BAT0: prop CURRENT_NOW=1857000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710042] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710045] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710048] power_supply BAT0: prop CHARGE_NOW=396000
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710052] power_supply BAT0: prop CAPACITY=9
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710056] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710061] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710064] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:15:45 CST 2016--<7>[ 9577.710066] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:15:45 CST 2016--<12>[ 9577.811638] healthd: battery l=9 v=10079 t=0.0 h=1 st=3 c=1857 chg=
+Tue Jun 28 20:16:28 CST 2016--<7>[ 9620.594584] power_supply AC0: uevent
+Tue Jun 28 20:16:28 CST 2016--<7>[ 9620.594589] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:16:28 CST 2016--<7>[ 9620.695486] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:16:29 CST 2016--<12>[ 9621.097428] healthd: battery l=8 v=10079 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198363] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198370] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198374] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198380] power_supply BAT0: uevent
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198382] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198386] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198388] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198391] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198393] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198395] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198398] power_supply BAT0: prop VOLTAGE_NOW=10079000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198400] power_supply BAT0: prop CURRENT_NOW=1779000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198402] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198404] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198406] power_supply BAT0: prop CHARGE_NOW=352000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198408] power_supply BAT0: prop CAPACITY=8
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198410] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198413] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198415] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.198417] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:16:29 CST 2016--<12>[ 9621.533792] healthd: battery l=8 v=10079 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534309] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534337] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534345] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534370] power_supply BAT0: uevent
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534376] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534387] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534394] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534401] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534407] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534413] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534417] power_supply BAT0: prop VOLTAGE_NOW=10079000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534422] power_supply BAT0: prop CURRENT_NOW=1779000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534429] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534435] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534442] power_supply BAT0: prop CHARGE_NOW=352000
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534447] power_supply BAT0: prop CAPACITY=8
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534451] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534453] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534455] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:16:29 CST 2016--<7>[ 9621.534457] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:16:29 CST 2016--<12>[ 9621.636673] healthd: battery l=8 v=10079 t=0.0 h=1 st=3 c=1779 chg=
+Tue Jun 28 20:17:29 CST 2016--<12>[ 9681.941854] healthd: battery l=8 v=10079 t=0.0 h=1 st=3 c=1749 chg=
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.253564] power_supply AC0: uevent
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.253577] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.354583] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:17:56 CST 2016--<12>[ 9708.757765] healthd: battery l=7 v=10066 t=0.0 h=1 st=3 c=1866 chg=
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859428] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859434] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859438] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859445] power_supply BAT0: uevent
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859446] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859450] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859452] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859455] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859456] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859458] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859460] power_supply BAT0: prop VOLTAGE_NOW=10066000
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859462] power_supply BAT0: prop CURRENT_NOW=1866000
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859464] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859466] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859468] power_supply BAT0: prop CHARGE_NOW=308000
+Tue Jun 28 20:17:56 CST 2016--<7>[ 9708.859470] power_supply BAT0: prop CAPACITY=7
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9708.859472] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9708.859474] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9708.859476] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9708.859478] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:17:57 CST 2016--<12>[ 9709.196817] healthd: battery l=7 v=10066 t=0.0 h=1 st=3 c=1866 chg=
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197041] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197072] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197084] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197110] power_supply BAT0: uevent
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197113] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197127] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197131] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197136] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197139] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197142] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197146] power_supply BAT0: prop VOLTAGE_NOW=10066000
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197149] power_supply BAT0: prop CURRENT_NOW=1866000
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197151] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197155] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197158] power_supply BAT0: prop CHARGE_NOW=308000
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197161] power_supply BAT0: prop CAPACITY=7
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197166] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197172] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197177] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:17:57 CST 2016--<7>[ 9709.197180] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:17:57 CST 2016--<12>[ 9709.299666] healthd: battery l=7 v=10066 t=0.0 h=1 st=3 c=1866 chg=
+Tue Jun 28 20:18:57 CST 2016--<12>[ 9769.575254] healthd: battery l=7 v=10013 t=0.0 h=1 st=3 c=1818 chg=
+Tue Jun 28 20:19:57 CST 2016--<12>[ 9829.879840] healthd: battery l=7 v=10018 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:20:35 CST 2016--<7>[ 9867.634052] power_supply AC0: uevent
+Tue Jun 28 20:20:35 CST 2016--<7>[ 9867.634056] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:20:35 CST 2016--<7>[ 9867.735300] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:20:36 CST 2016--<12>[ 9867.985331] healthd: battery l=6 v=9984 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235140] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235164] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235176] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235195] power_supply BAT0: uevent
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235198] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235210] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235213] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235216] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235218] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235220] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235223] power_supply BAT0: prop VOLTAGE_NOW=9984000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235225] power_supply BAT0: prop CURRENT_NOW=1788000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235228] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235230] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235232] power_supply BAT0: prop CHARGE_NOW=264000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235235] power_supply BAT0: prop CAPACITY=6
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235237] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235241] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235243] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.235246] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:20:36 CST 2016--<12>[ 9868.571996] healthd: battery l=6 v=9984 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572551] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572571] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572580] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572596] power_supply BAT0: uevent
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572598] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572611] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572617] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572621] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572624] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572627] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572629] power_supply BAT0: prop VOLTAGE_NOW=9984000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572631] power_supply BAT0: prop CURRENT_NOW=1788000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572633] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572635] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572637] power_supply BAT0: prop CHARGE_NOW=264000
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572639] power_supply BAT0: prop CAPACITY=6
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572642] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572644] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572647] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:20:36 CST 2016--<7>[ 9868.572649] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:20:36 CST 2016--<12>[ 9868.674260] healthd: battery l=6 v=9984 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:21:37 CST 2016--<12>[ 9928.979818] healthd: battery l=6 v=9984 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:21:52 CST 2016--<12>[ 9944.735135] healthd: battery l=6 v=9965 t=0.0 h=1 st=3 c=1818 chg=
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.291104] power_supply AC0: uevent
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.291109] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.393265] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:22:03 CST 2016--<12>[ 9955.645505] healthd: battery l=5 v=9965 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.896221] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.896250] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.896261] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.896281] power_supply BAT0: uevent
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.896284] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.896300] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:22:03 CST 2016--<7>[ 9955.896305] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896308] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896311] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896317] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896319] power_supply BAT0: prop VOLTAGE_NOW=9965000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896322] power_supply BAT0: prop CURRENT_NOW=1837000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896325] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896327] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896330] power_supply BAT0: prop CHARGE_NOW=220000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896335] power_supply BAT0: prop CAPACITY=5
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896340] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896344] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896348] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9955.896350] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:22:04 CST 2016--<12>[ 9955.998121] healthd: battery l=5 v=9965 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238464] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238471] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238475] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238481] power_supply BAT0: uevent
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238482] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238486] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238489] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238491] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238493] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238495] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238498] power_supply BAT0: prop VOLTAGE_NOW=9965000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238500] power_supply BAT0: prop CURRENT_NOW=1837000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238502] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238504] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238506] power_supply BAT0: prop CHARGE_NOW=220000
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238508] power_supply BAT0: prop CAPACITY=5
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238510] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238512] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238515] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:22:04 CST 2016--<7>[ 9956.238517] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:22:04 CST 2016--<12>[ 9956.340099] healthd: battery l=5 v=9965 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:23:04 CST 2016--<12>[10016.636880] healthd: battery l=5 v=9942 t=0.0 h=1 st=3 c=1827 chg=
+Tue Jun 28 20:23:27 CST 2016--<7>[10038.965784] power_supply AC0: uevent
+Tue Jun 28 20:23:27 CST 2016--<7>[10038.965792] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.066632] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:23:27 CST 2016--<12>[10039.317556] healthd: battery l=4 v=9937 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568492] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568498] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568503] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568509] power_supply BAT0: uevent
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568511] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568515] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568518] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568520] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568522] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568525] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568527] power_supply BAT0: prop VOLTAGE_NOW=9937000
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568530] power_supply BAT0: prop CURRENT_NOW=1788000
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568532] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568534] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568536] power_supply BAT0: prop CHARGE_NOW=176000
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568538] power_supply BAT0: prop CAPACITY=4
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568541] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568543] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568546] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.568548] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:23:27 CST 2016--<12>[10039.905895] healthd: battery l=4 v=9937 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.906452] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.906482] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:23:27 CST 2016--<7>[10039.906492] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906518] power_supply BAT0: uevent
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906526] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906547] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906556] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906564] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906569] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906575] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906580] power_supply BAT0: prop VOLTAGE_NOW=9937000
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906586] power_supply BAT0: prop CURRENT_NOW=1788000
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906594] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906600] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906606] power_supply BAT0: prop CHARGE_NOW=176000
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906615] power_supply BAT0: prop CAPACITY=4
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906618] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906621] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906624] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:23:28 CST 2016--<7>[10039.906628] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:23:28 CST 2016--<12>[10040.008668] healthd: battery l=4 v=9937 t=0.0 h=1 st=3 c=1788 chg=
+Tue Jun 28 20:24:28 CST 2016--<12>[10100.313033] healthd: battery l=4 v=9894 t=0.0 h=1 st=3 c=1818 chg=
+Tue Jun 28 20:24:52 CST 2016--<7>[10124.631080] power_supply AC0: uevent
+Tue Jun 28 20:24:52 CST 2016--<7>[10124.631099] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:24:52 CST 2016--<7>[10124.732972] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:24:53 CST 2016--<12>[10125.133993] healthd: battery l=4 v=9875 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234760] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234767] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234771] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234778] power_supply BAT0: uevent
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234779] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234783] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234786] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234788] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234790] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234793] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234795] power_supply BAT0: prop VOLTAGE_NOW=9875000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234797] power_supply BAT0: prop CURRENT_NOW=1837000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234799] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234801] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234803] power_supply BAT0: prop CHARGE_NOW=132000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234805] power_supply BAT0: prop CAPACITY=3
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234808] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234810] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234812] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.234814] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:24:53 CST 2016--<12>[10125.573127] healthd: battery l=3 v=9875 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573344] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573370] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573386] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573408] power_supply BAT0: uevent
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573411] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573420] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573424] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573428] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573431] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573433] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573436] power_supply BAT0: prop VOLTAGE_NOW=9875000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573439] power_supply BAT0: prop CURRENT_NOW=1837000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573441] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573444] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573446] power_supply BAT0: prop CHARGE_NOW=132000
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573451] power_supply BAT0: prop CAPACITY=3
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573454] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573458] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573461] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:24:53 CST 2016--<7>[10125.573463] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:24:53 CST 2016--<12>[10125.675100] healthd: battery l=3 v=9875 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:25:54 CST 2016--<12>[10185.979312] healthd: battery l=3 v=9875 t=0.0 h=1 st=3 c=1798 chg=
+Tue Jun 28 20:26:19 CST 2016--<7>[10211.292189] power_supply AC0: uevent
+Tue Jun 28 20:26:19 CST 2016--<7>[10211.292198] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:26:19 CST 2016--<7>[10211.393089] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:26:19 CST 2016--<12>[10211.797014] healthd: battery l=2 v=9823 t=0.0 h=1 st=3 c=1808 chg=
+Tue Jun 28 20:26:19 CST 2016--<7>[10211.897932] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:26:19 CST 2016--<7>[10211.897954] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:26:19 CST 2016--<7>[10211.898021] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898027] power_supply BAT0: uevent
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898029] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898033] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898035] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898038] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898040] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898042] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898044] power_supply BAT0: prop VOLTAGE_NOW=9823000
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898046] power_supply BAT0: prop CURRENT_NOW=1808000
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898049] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898051] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898053] power_supply BAT0: prop CHARGE_NOW=88000
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898055] power_supply BAT0: prop CAPACITY=2
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898057] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898059] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898061] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:26:20 CST 2016--<7>[10211.898064] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:26:20 CST 2016--<12>[10212.234260] healthd: battery l=2 v=9823 t=0.0 h=1 st=3 c=1808 chg=
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234485] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234511] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234518] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234541] power_supply BAT0: uevent
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234543] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234552] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234556] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234559] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234561] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234563] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234567] power_supply BAT0: prop VOLTAGE_NOW=9823000
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234569] power_supply BAT0: prop CURRENT_NOW=1808000
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234571] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234573] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234575] power_supply BAT0: prop CHARGE_NOW=88000
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234578] power_supply BAT0: prop CAPACITY=2
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234580] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234582] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234585] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:26:20 CST 2016--<7>[10212.234588] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:26:20 CST 2016--<12>[10212.336200] healthd: battery l=2 v=9823 t=0.0 h=1 st=3 c=1808 chg=
+Tue Jun 28 20:27:20 CST 2016--<12>[10272.637732] healthd: battery l=2 v=9775 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:28:21 CST 2016--<12>[10332.946123] healthd: battery l=2 v=9728 t=0.0 h=1 st=3 c=1857 chg=
+Tue Jun 28 20:28:23 CST 2016--<7>[10335.804729] power_supply AC0: uevent
+Tue Jun 28 20:28:23 CST 2016--<7>[10335.804733] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:28:24 CST 2016--<7>[10335.905754] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:28:24 CST 2016--<12>[10336.155728] healthd: battery l=1 v=9732 t=0.0 h=1 st=3 c=1808 chg=
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405620] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405628] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405633] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405641] power_supply BAT0: uevent
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405643] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405649] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405652] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405655] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405658] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405662] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405665] power_supply BAT0: prop VOLTAGE_NOW=9732000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405668] power_supply BAT0: prop CURRENT_NOW=1866000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405671] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405673] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405676] power_supply BAT0: prop CHARGE_NOW=44000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405679] power_supply BAT0: prop CAPACITY=1
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405682] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405685] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405688] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.405692] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:28:24 CST 2016--<12>[10336.742126] healthd: battery l=1 v=9732 t=0.0 h=1 st=3 c=1866 chg=
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742282] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742301] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742307] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742325] power_supply BAT0: uevent
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742327] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742337] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742342] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742345] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742347] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742349] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742353] power_supply BAT0: prop VOLTAGE_NOW=9732000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742355] power_supply BAT0: prop CURRENT_NOW=1866000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742357] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742359] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742362] power_supply BAT0: prop CHARGE_NOW=44000
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742364] power_supply BAT0: prop CAPACITY=1
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742367] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742371] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742374] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:28:24 CST 2016--<7>[10336.742376] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:28:24 CST 2016--<12>[10336.843959] healthd: battery l=1 v=9732 t=0.0 h=1 st=3 c=1866 chg=
+Tue Jun 28 20:29:25 CST 2016--<12>[10397.099213] healthd: battery l=1 v=9661 t=0.0 h=1 st=3 c=1837 chg=
+Tue Jun 28 20:29:29 CST 2016--<4>[10401.100812] perf interrupt took too long (10087 > 9615), lowering kernel.perf_event_max_sample_rate to 13000
+Tue Jun 28 20:29:47 CST 2016--<7>[10419.478315] power_supply AC0: uevent
+Tue Jun 28 20:29:47 CST 2016--<7>[10419.478325] power_supply AC0: POWER_SUPPLY_NAME=AC0
+Tue Jun 28 20:29:47 CST 2016--<7>[10419.579299] power_supply AC0: prop ONLINE=0
+Tue Jun 28 20:29:48 CST 2016--<12>[10419.982445] healthd: battery l=1 v=9613 t=0.0 h=1 st=3 c=1866 chg=
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083040] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083131] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083135] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083142] power_supply BAT0: uevent
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083143] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083147] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083149] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083152] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083154] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083156] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083158] power_supply BAT0: prop VOLTAGE_NOW=9613000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083160] power_supply BAT0: prop CURRENT_NOW=1866000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083163] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083165] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083167] power_supply BAT0: prop CHARGE_NOW=0
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083169] power_supply BAT0: prop CAPACITY=0
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083171] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083173] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083175] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.083178] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:29:48 CST 2016--<12>[10420.419330] healthd: battery l=0 v=9613 t=0.0 h=1 st=3 c=1866 chg=
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.420962] power_supply BAT0: power_supply_changed
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421037] power_supply BAT0: power_supply_changed_work
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421050] power_supply BAT0: power_supply_update_bat_leds 2
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421074] power_supply BAT0: uevent
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421078] power_supply BAT0: POWER_SUPPLY_NAME=BAT0
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421095] power_supply BAT0: prop STATUS=Discharging
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421100] power_supply BAT0: prop PRESENT=1
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421104] power_supply BAT0: prop TECHNOLOGY=Li-ion
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421107] power_supply BAT0: prop CYCLE_COUNT=0
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421109] power_supply BAT0: prop VOLTAGE_MIN_DESIGN=10800000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421113] power_supply BAT0: prop VOLTAGE_NOW=9613000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421116] power_supply BAT0: prop CURRENT_NOW=1866000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421118] power_supply BAT0: prop CHARGE_FULL_DESIGN=4400000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421120] power_supply BAT0: prop CHARGE_FULL=4400000
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421123] power_supply BAT0: prop CHARGE_NOW=0
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421129] power_supply BAT0: prop CAPACITY=0
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421134] power_supply BAT0: prop CAPACITY_LEVEL=Normal
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421138] power_supply BAT0: prop MODEL_NAME=standard
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421140] power_supply BAT0: prop MANUFACTURER=OEM
+Tue Jun 28 20:29:48 CST 2016--<7>[10420.421142] power_supply BAT0: prop SERIAL_NUMBER=00001
+Tue Jun 28 20:29:48 CST 2016--<12>[10420.523391] healthd: battery l=0 v=9613 t=0.0 h=1 st=3 c=1866 chg=
+Tue Jun 28 20:29:49 CST 2016--<0>[10420.921521] ACPI Error: [_TZ_.TZ01] Namespace lookup failure, AE_NOT_FOUND (20150930/psargs-359)
+Tue Jun 28 20:29:49 CST 2016--<0>[10420.921542] ACPI Error: Method parse/execution failed [_SB.PCI0.LPCB.EC0._Q27] (Node ffff8802828c3b58), AE_NOT_FOUND (20150930/psparse-542)
