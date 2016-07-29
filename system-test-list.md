@@ -13,20 +13,20 @@
 ### multiwin
 
 序号|名称 | 备注|时间阶段|说明
-------------- | ------------- | ------------- |-------------| -------------|
+------------- | ------------- | ------------- |-------------| -------------
 1|multiwin-4.4|passed|201512-201602|前期测试 for OTO based on android-x86-4.4
-2|multiwin-5.1|passed|201603-~~|Passed|for OTO based on android-x86-5.1
-3|multiwin-6.0|devel|201607-~~|devel|for OTO based on android-x86-6.0
+2|multiwin-5.1|passed|201603-~~|for OTO based on android-x86-5.1
+3|multiwin-6.0|devel|201607-~~|for OTO based on android-x86-6.0
 
 ### Printer
 序号|名称 | 备注|时间阶段|说明
-------------- | ------------- | ------------- |-------------| -------------|
-1|printer-5.1|passed|201603-~~|Passed|for OTO based on android-x86-5.1
+------------- | ------------- | ------------- |-------------| -------------
+1|printer-5.1|passed|201603-~~|for OTO based on android-x86-5.1
 
 ### EFI Bootloader
 序号|名称 | 备注|时间阶段|说明
-------------- | ------------- | ------------- |-------------| -------------|
-1|boto-5.1|passed|201606-~~|Passed|for OTO based on android-x86-5.1
+------------- | ------------- | ------------- |-------------| -------------
+1|boto-5.1|passed|201606-~~|for OTO based on android-x86-5.1
 
 
 
