@@ -18,7 +18,7 @@
 6）无法自动进入到系统，必须 F10，进入菜单选择。手动选择刚安装的硬盘。如：UEFI OF（P2：LITEON CV1-8B128）
 
 7）安装后有ubuntu,android两个图标，点ubuntu图标也进入 openthos系统，但进入的是之前安装好的系统，非新安装的系统。怪异
-
+   原因：sda硬盘上有两个系统，一个ubuntu,一个android.扫描到ubuntu，但安装android时安装了grub ,替换掉了ubuntu grub。导致的此问题
 8）
 
 
