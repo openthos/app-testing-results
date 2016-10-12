@@ -2,7 +2,7 @@
 1. 必须 UEFI ,关闭 secure boot
 
 
-###操作步骤：
+###自动安装操作步骤：
 1）安装without extract
 
 2) auto install (说明文本中有单词错误 will -> wilal;;erase->EARSE，需修改)
@@ -19,6 +19,8 @@
 
 7）安装后有ubuntu,android两个图标，点ubuntu图标也进入 openthos系统，但进入的是之前安装好的系统，非新安装的系统。怪异
    原因：sda硬盘上有两个系统，一个ubuntu,一个android.扫描到ubuntu，但安装android时安装了grub ,替换掉了ubuntu grub。导致的此问题
-8）
+   
 
-
+###手动安装操作步骤：
+1） oto install without extract
+    oto install with extract []
