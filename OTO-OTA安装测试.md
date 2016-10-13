@@ -22,6 +22,5 @@
    
 
 ###手动安装操作步骤：
-1） oto install without extract
-
-    oto install with extract []
+1）安装到硬盘时有两个选项 oto install without extract，    oto install with extract 用户无法体会到区别。
+2） oto install with extract 选项进入 后 安装 需要三个分区，提示需要二个，需修改
