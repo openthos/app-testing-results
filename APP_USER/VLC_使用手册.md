@@ -13,10 +13,11 @@
    
     - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/video.png)
 
-   -3 点击视频，可以进入播放
+   - 3 点击展示出来的视频列表，可以进入视频播放
+   
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/video_play.png)
 
-
-
+   - 4 点击
 - 点击VLC打开（出现视频窗口）  
 
 ##选择视频音频播放  
