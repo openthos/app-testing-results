@@ -45,6 +45,18 @@
    
    ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
    
+   - 11 点击关于项，可以对f
+   
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
+   
+   - 10 点击设置项，可以设置本机的配置，具体内容如图
+   
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
+   
+   - 10 点击设置项，可以设置本机的配置，具体内容如图
+   
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
+   
    
 - 点击VLC打开（出现视频窗口）  
 
