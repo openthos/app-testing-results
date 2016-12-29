@@ -45,13 +45,15 @@
    
    ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
    
-   - 11 点击关于项，可以对f
+   - 11 点击关于项，可以查看本应用的信息
    
-   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/about.png)
    
-   - 10 点击设置项，可以设置本机的配置，具体内容如图
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/permission.png)
    
-   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
+   - 12 点击放大镜，可以进行搜索功能
+   
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/search.png)
    
    - 10 点击设置项，可以设置本机的配置，具体内容如图
    
