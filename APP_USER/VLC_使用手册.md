@@ -21,9 +21,17 @@
    
    - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/music.png)
    
-   - 5 点击
+   - 5 点击目录项，可以进入本地自己选择视频路径
    
-   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/music.png)
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/list.png)
+   
+   - 6 例如，查找本地movies下的文件，查找到以后点击可以播放
+   
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/list_video.png)
+   
+   - 7 点击，可以进入本地自己选择视频路径
+   
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/list.png)
    
 - 点击VLC打开（出现视频窗口）  
 
