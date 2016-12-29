@@ -31,17 +31,17 @@
    
    - 7 点击本地网络项，可以查看本地网络的视频
    
-   ！[](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
    
-   - 8 点击流，可以通过输入视频的地址来观看网络上的图片
+   - 8 点击流项，可以输入视频的网络地址来播放视频
    
    ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net_stream.png)
    
-   - 7 点击本地网络，可以查看本地网络的视频
+   - 9 点击历史项，可以查看播放的视频的历史记录
    
    ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
    
-   - 7 点击本地网络，可以查看本地网络的视频
+   - 10 点击，可以查看本地网络的视频
    
    ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
    
