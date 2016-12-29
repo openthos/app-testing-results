@@ -5,6 +5,7 @@
 
 ## VLC功能点
 
+## VLC基本操作说明
    - 1 点击左上角图标，可以查看软件的功能结构
    
     ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/struct.png)
