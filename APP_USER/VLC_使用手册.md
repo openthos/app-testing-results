@@ -55,9 +55,9 @@
    
    ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/search.png)
    
-   - 10 点击设置项，可以设置本机的配置，具体内容如图
+   - 13 点击最右侧的三点，可以进行刷新操作
    
-   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/refresh.png)
    
    
 - 点击VLC打开（出现视频窗口）  
