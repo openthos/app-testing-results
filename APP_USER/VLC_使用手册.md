@@ -17,7 +17,14 @@
    
    - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/video_play.png)
 
-   - 4 点击
+   - 4 点击音频项，会自动搜索本机的音频文件，并且展示出来
+   
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/music.png)
+   
+   - 5 点击
+   
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/music.png)
+   
 - 点击VLC打开（出现视频窗口）  
 
 ##选择视频音频播放  
