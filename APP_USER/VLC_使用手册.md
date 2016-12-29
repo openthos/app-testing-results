@@ -1,9 +1,22 @@
 #VLC使用说明书
 
 ##VLC效果图
-- ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/VLC.png)
+- ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/video.png)
 
-## VLC使用方法
+## VLC功能点
+
+   - 1 点击左上角图标，可以查看软件的功能结构
+   
+    - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/struct.png)
+        
+   - 2 选择视频项，会自动搜索本机的视频，并且显示出来
+   
+    - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/video.png)
+
+   -3 点击视频，可以进入播放
+
+
+
 - 点击VLC打开（出现视频窗口）  
 
 ##选择视频音频播放  
