@@ -25,13 +25,26 @@
    
    - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/list.png)
    
-   - 6 例如，查找本地movies下的文件，查找到以后点击可以播放
+   - 6 例如，查找本地movies下的文件，可以通过点击目录，找到movie查找到以后点击可以播放
    
    - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/list_video.png)
    
-   - 7 点击，可以进入本地自己选择视频路径
+   - 7 点击本地网络项，可以查看本地网络的视频
    
-   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/list.png)
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
+   
+   - 8 点击流，可以通过输入视频的地址来观看网络上的图片
+   
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net_stream.png)
+   
+   - 7 点击本地网络，可以查看本地网络的视频
+   
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
+   
+   - 7 点击本地网络，可以查看本地网络的视频
+   
+   - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
+   
    
 - 点击VLC打开（出现视频窗口）  
 
