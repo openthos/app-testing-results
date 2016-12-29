@@ -39,11 +39,11 @@
    
    - 9 点击历史项，可以查看播放的视频的历史记录
    
-   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/history.png)
    
    - 10 点击，可以查看本地网络的视频
    
-   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/net.png)
+   ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/setting.png)
    
    
 - 点击VLC打开（出现视频窗口）  
