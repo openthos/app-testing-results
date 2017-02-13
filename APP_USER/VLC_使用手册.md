@@ -4,7 +4,7 @@
 - ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/video.png)
 
 ## VLC功能点
-  - 1 支持mpg，mp4,avi,swf,3gp,mpeg4格式的视频播放
+  - 1 支持mpg,mp4,avi,swf,3gp,mpeg4格式的视频播放
   - 2 支持从指定目录查找视频
   - 3 每次启动时支持自动扫描本地视频文件功能，并显示
   - 4 支持视频搜索功能，点击视图中的放大镜，会弹出搜索框
