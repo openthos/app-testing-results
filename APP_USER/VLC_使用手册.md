@@ -1,7 +1,7 @@
 # VLC使用说明书
 
 ## VLC效果图
-- ![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/video.png)
+![](https://github.com/openthos/app-testing-results/blob/master/IMGview/vlc_pic/video.png)
 
 ## VLC功能点
   - 001 支持mpg,mp4,avi,swf,3gp,mpeg4格式的视频播放;
