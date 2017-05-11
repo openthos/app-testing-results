@@ -7,4 +7,3 @@
   - 会在/sdcard/tsing_recovery生成配置文件
 ## 检验文件完整性
   - 将 windows.wim 和 efi.tar 拷贝到 /sdcard/tsing_recovery/下
-  - 打开app，点击本地的windows 10 专业版，开始检验
