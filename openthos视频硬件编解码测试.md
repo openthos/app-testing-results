@@ -1,4 +1,4 @@
-# 1.同步openthos测试代码并编译之。
+# 1.同步openthos测试代码并编译之
 
 - mkdir WORKING_DIRECTORY
 
