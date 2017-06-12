@@ -45,8 +45,8 @@ $ dd if=android.iso of=/dev/sdd
      12)硬件兼容性           对台式机、笔记本、网卡、声卡、显卡、无线等硬件的兼容性测试
      
  6、查看当前分辨率
- wm size
-
+- wm size
+- 调整1366投影：setprop debug.drm.mode.force 1366x768@60
 
 
 
