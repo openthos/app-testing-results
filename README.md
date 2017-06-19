@@ -50,6 +50,7 @@ $ dd if=android.iso of=/dev/sdd
 
 
 7、自研应用包及activity
+
     com.openthos.filemanager/com.openthos.filemanager.MainActivity
     adb shell monkey -p com.openthos.filemanager
 
