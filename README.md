@@ -49,4 +49,22 @@ $ dd if=android.iso of=/dev/sdd
 - 调整1366投影：setprop debug.drm.mode.force 1366x768@60
 
 
+7、自研应用包及activity
+    com.openthos.filemanager/com.openthos.filemanager.MainActivity
+    adb shell monkey -p com.openthos.filemanager
+
+    appstore:
+    (name=com.openthos.appstore/com.openthos.appstore.MainActivity)
+    adb shell monkey -p com.openthos.appstore -v -v -v 1000 --throttle 3000
+
+    ota:
+    (name=com.openthos.ota/com.openthos.ota.MainActivity）
+    adb shell monkey -p com.openthos.ota -v -v -v 1000 --throttle 3000
+
+    fennec:
+    (name=org.mozilla.fennec_root/org.mozilla.fennec_root.App)
+    adb shell monkey -p org.mozilla.fennec_root -v -v -v 1000 --throttle 3000
+
+
+
 
