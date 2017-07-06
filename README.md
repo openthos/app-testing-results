@@ -1,4 +1,4 @@
-#系统测试流程
+# 系统测试流程
 1、制作ISO到U盘
 $ dd if=android.iso of=/dev/sdd
 
@@ -43,13 +43,17 @@ $ dd if=android.iso of=/dev/sdd
      11)软件兼容性           安装第三方应用，如利用APK包安装或豌豆夹安装第三方应用
 
      12)硬件兼容性           对台式机、笔记本、网卡、声卡、显卡、无线等硬件的兼容性测试
-     
- 6、查看当前分辨率
+ 
+ #
+ 
+ 
+ # 小技巧
+1. 查看当前分辨率
 - wm size
 - 调整1366投影：setprop debug.drm.mode.force 1366x768@60
 
 
-7、自研应用包及activity
+2. 自研应用包及activity
 
     com.openthos.filemanager/com.openthos.filemanager.MainActivity
     adb shell monkey -p com.openthos.filemanager
