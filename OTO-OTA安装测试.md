@@ -1,8 +1,8 @@
-###注意事项
+### 注意事项
 1. 必须 UEFI ,关闭 secure boot
 
 
-###自动安装操作步骤：
+### 自动安装操作步骤：
 1）安装without extract
 
 2) auto install (说明文本中有单词错误 will -> wilal;;erase->EARSE，需修改)
@@ -21,12 +21,12 @@
    原因：sda硬盘上有两个系统，一个ubuntu,一个android.扫描到ubuntu，但安装android时安装了grub ,替换掉了ubuntu grub。导致的此问题
    
 
-###手动安装操作步骤：
+### 手动安装操作步骤：
 1）安装到硬盘时有两个选项 oto install without extract，    oto install with extract 用户无法体会到区别。
 2） oto install with extract 选项进入 后 安装 需要三个分区，提示需要二个，需修改
 
 
-###测试机(安装过oto-ota)安装新版本（主分支-legacy）部署
+### 测试机(安装过oto-ota)安装新版本（主分支-legacy）部署
     ###搭建自动安装后想重新安装新版本，有如下注意事项 ：
     1)  UEFI,切换为legacy
     2) security 切换为enable
@@ -37,3 +37,5 @@
   折腾了好久，记录下来。为方便后期测试 
 
 建议及意见： oto-ota 分支上的代码同步主分支代码，这样安装完后的版本也可作为新版本测试使用。否则要重新安装主分支版本，切换起来比较复杂。
+### 版本号定义：
+https://github.com/openthos/community-analysis/blob/master/%E7%89%88%E6%9C%AC%E5%8F%B7%E5%AE%9A%E4%B9%89.md
