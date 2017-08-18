@@ -37,6 +37,7 @@ git push devorg multiwindow:refs/heads/multiwindow
 ```
 ### 8. 编译
 ```
+make update-api frameworks/base （仅第一次编译时执行）
 source build/envsetup.sh
 lunch aosp_x86_64-eng
 make -j<cups>
