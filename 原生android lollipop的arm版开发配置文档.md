@@ -39,15 +39,15 @@ git push devorg multiwindow:refs/heads/multiwindow
 ```
 make update-api frameworks/base （仅第一次编译时执行）
 source build/envsetup.sh
-lunch aosp_x86_64-eng 或 aosp_arm-eng
+lunch aosp_arm-eng
 make -j<cups>
-镜像目录；out/target/product/generic_x86_64/system.img
+镜像目录；out/target/product/generic/system.img
 ```
 ### 9. 下载Ｓdk (服务器上：scp lh@192.168.0.180:~/sdk/5.1.tar.gz ./)
   - cd 5.1/tools
   - ./android avd
   - 创建模拟器：openthos
-  - 推荐参数：Ｎexus10, Android5.1.1 , Intel Atom(x86_64)或arm, noSkin RAM大小设定为2048
+  - 推荐参数：Ｎexus10, Android5.1.1 , arm, noSkin RAM大小设定为2048
   ![image](https://github.com/openthos/app-testing-results/blob/master/%E5%8F%82%E6%95%B0demo.png)
   
   - 启动：./emulator -avd openthos -system ../../../android_iso_img/system.img    (后面是：system.img的路径)
