@@ -44,8 +44,9 @@ make -j<cups>
 镜像目录；out/target/product/generic_x86_64/system.img
 ```
 ### 9. 下载Ｓdk (服务器上：scp lh@192.168.0.180:~/sdk/5.1.tar.gz ./)
+  - cd 5.1/tools
+  - ./android avd
   - 创建模拟器：openthos
-  - cd tools
   - 推荐参数：Ｎexus10, Android5.1.1 , Intel Atom(x86_64). noSkin RAM大小设定为2048，
   - 启动：./emulator -avd openthos -system ../../../android_iso_img/system.img    (后面是：system.img的路径)
   - (如果启动的镜像修改处没有改变，则选择添加　-data ../../../android_iso_img/userdata.img)
