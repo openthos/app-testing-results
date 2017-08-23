@@ -47,7 +47,9 @@ make -j<cups>
   - cd 5.1/tools
   - ./android avd
   - 创建模拟器：openthos
-  - 推荐参数：Ｎexus10, Android5.1.1 , Intel Atom(x86_64). noSkin RAM大小设定为2048，
+  - 推荐参数：Ｎexus10, Android5.1.1 , Intel Atom(x86_64). noSkin RAM大小设定为2048
+  ![image](https://github.com/openthos/app-testing-results/blob/master/%E5%8F%82%E6%95%B0demo.png)
+  
   - 启动：./emulator -avd openthos -system ../../../android_iso_img/system.img    (后面是：system.img的路径)
   - (如果启动的镜像修改处没有改变，则选择添加　-data ../../../android_iso_img/userdata.img)
   
