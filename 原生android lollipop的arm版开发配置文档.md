@@ -39,7 +39,7 @@ git push devorg multiwindow:refs/heads/multiwindow
 ```
 make update-api frameworks/base （仅第一次编译时执行）
 source build/envsetup.sh
-lunch aosp_x86_64-eng
+lunch aosp_x86_64-eng 或 aosp_arm-eng
 make -j<cups>
 镜像目录；out/target/product/generic_x86_64/system.img
 ```
@@ -47,7 +47,7 @@ make -j<cups>
   - cd 5.1/tools
   - ./android avd
   - 创建模拟器：openthos
-  - 推荐参数：Ｎexus10, Android5.1.1 , Intel Atom(x86_64). noSkin RAM大小设定为2048
+  - 推荐参数：Ｎexus10, Android5.1.1 , Intel Atom(x86_64)或arm, noSkin RAM大小设定为2048
   ![image](https://github.com/openthos/app-testing-results/blob/master/%E5%8F%82%E6%95%B0demo.png)
   
   - 启动：./emulator -avd openthos -system ../../../android_iso_img/system.img    (后面是：system.img的路径)
