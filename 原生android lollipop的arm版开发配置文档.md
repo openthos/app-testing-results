@@ -1,3 +1,6 @@
+### 原文档连接：https://github.com/openthos/systemui-analysis/blob/master/%E5%8E%9F%E7%94%9Fandroid%20lollipop%E7%9A%84arm%E7%89%88%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE%E6%96%87%E6%A1%A3.md
+
+
 ### Start
 ### 1. 下载ｒｅpo 工具(在docker中则不需要)
 ```
