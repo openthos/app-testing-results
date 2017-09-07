@@ -30,9 +30,10 @@
     
     ` mount -t vfat /dev/block/sdb1 /mnt/tmp/disk      对于T45而言ssd是sdb， 如系统是安装在机械硬盘上，则为sda1.`
     
-    ` vi /mnt/tmp/disk/OpenThos/boto_linux.conf 为相应的引导选项加上参数mem=1G`
-   在第一行的quiet前加上mem=1G 
-   `"OpenThos" "mem=1G quiet`
+    ` vi /mnt/tmp/disk/OpenThos/boto_linux.conf 为相应的引导选项加上参数mem=1G`   
+    
+     T45在第一行的quiet前加上mem=1G ,添加后的结果如下
+    `"OpenThos" "mem=1G quiet androidboot.h...`
   
   ## 20170906测试结果
   机器|swapoff|swapon+内存限制|
