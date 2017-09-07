@@ -38,3 +38,4 @@
   ----|----|----|
   T45|pcmark：8112<br>3dmark：运行其他应用情况下会崩溃，无其他应用在运行2588|pcmark：7847<br>3dmark：2537|
   T43U|pcmark：8108<br>3dmark：2443|pcmark：6389<br>3dmark：2096|
+  T43U|pcmark：崩溃无法运行<br>3dmark：崩溃无法运行|pcmark：8218<br>3dmark：1765|
