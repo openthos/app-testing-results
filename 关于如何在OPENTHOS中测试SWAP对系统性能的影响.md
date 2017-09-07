@@ -36,4 +36,4 @@
   机器|swapoff|swapon+内存限制|
   ----|----|----|
   T45|pcmark：8112<br>3dmark：运行其他应用情况下会崩溃，无其他应用在运行2588|pcmark：7847<br>3dmark：2537|
-  T43U|pcmark：8108<br>3dmark：2443|pcmark：7972<br>3dmark：2341|
+  T43U|pcmark：8108<br>3dmark：2443|pcmark：6389<br>3dmark：2096|
