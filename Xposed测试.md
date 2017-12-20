@@ -8,3 +8,5 @@
 - 重启OPENTHOS系统
 - 安装XposedInstaller_3.1.4.apk
 - 启动Xposed Installer
+- 打开http://repo.xposed.info/
+- 下载fakelocation
