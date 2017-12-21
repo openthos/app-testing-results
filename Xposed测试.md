@@ -2,6 +2,7 @@
 
 - 打开终端，进入root模式
 - 解压xposed_x86_64-by_David_chan_2017-12-18.zip
+   - 需要在/data下面解压，否则flash-script无可执行权限
    - unzip xposed_x86_64-by_David_chan_2017-12-18.zip
 - 进入xposed_x86_64-by_David_chan_2017-12-18目录
 - 执行./flash-script.sh
