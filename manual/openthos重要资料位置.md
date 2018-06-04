@@ -8,3 +8,8 @@
    - 微信文字聊天记录：  
       - /data/com.tencent.mm/MicroMsg/1f4a7be4e8...
       - 可直接将这个目录替换到/data/data/com.tencent.mm/MicroMsg/1f4a7be4e8...
+
+## 游戏数据
+   - 狂野飚车8：
+      - 游戏资料包：/media/0/Android/data/com.gameloft.android.ANMP.GloftA8CN.UC
+      - 用户数据及进度：
