@@ -5,7 +5,10 @@
 |pcmark|7678|7606|
 |3dmark|1782|2197|
 
+关smt:  
 ![](../picture/pc01_nosmt_gfx1.png)  
+
+开smt:  
 ![](../picture/pc01_havesmt_gfx1.png)
 ***
 
