@@ -13,7 +13,7 @@
 ||关smt|开smt|
 |-----|-----|-----|
 |pcmark|7939|7952|
-|3dmark|1855||
+|3dmark|1855|2233|
 |gfxbench|![](../picture/t45_nosmt_gfx1.png)|![](../picture/t45_smt_gfx1.png)|
 
 ***
