@@ -5,7 +5,8 @@
 |pcmark|7678|7606|
 |3dmark|1782|2197|
 
-![](../picture/pc01_nosmt_gfx1.png)
+![](../picture/pc01_nosmt_gfx1.png)  
+![](../picture/pc01_havesmt_gfx1.png)
 ***
 
 清华同方台式机精锐X500-B107，u盘启动
@@ -22,3 +23,5 @@ s6笔记本，安装到硬盘
 |-----|-----|-----|
 |pcmark|||
 |3dmark|||
+
+![](../picture/pc02_nosmt_gfx1.png)
