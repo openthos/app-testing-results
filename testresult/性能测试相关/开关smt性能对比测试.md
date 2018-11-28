@@ -5,8 +5,8 @@ s6笔记本，u盘启动，通过菜单选择是否开启smt
 |-----|-----|-----|
 |pcmark|9609||
 |3dmark|3036||
-
-![](../picture/pc02_nosmt_gfx1.png)
+关smt:  
+![](../picture/s6_nosmt_gfx1.png)
 
 ***
 
