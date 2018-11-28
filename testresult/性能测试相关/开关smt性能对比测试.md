@@ -22,6 +22,6 @@
 
 ||关smt|开smt|
 |-----|-----|-----|
-|pcmark|6873||
+|pcmark|6873|6790|
 |3dmark|4031 有异常亮点  ![](../picture/b107_nosmt_3dmarklight.png)||
 |gfxbench|![](../picture/b107_nosmt_gfx1.png)|![](../picture/b107_smt_gfx1.png)|
