@@ -1,0 +1,233 @@
+[12/13/18 13:49:13] seaf-daemon.c(491): starting seafile client 6.2.8
+[12/13/18 13:49:14] seafile-session.c(382): client id = 05337ad69725d652e3d94f8f700fed965abb8a23, client_name = unknown
+[12/13/18 13:49:17] seaf-daemon.c(491): starting seafile client 6.2.8
+[12/13/18 13:49:17] seafile-session.c(382): client id = 05337ad69725d652e3d94f8f700fed965abb8a23, client_name = unknown
+[12/13/18 13:49:17] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS ServerLockedFiles (repo_id TEXT, path TEXT, locked_by_me INTEGER);
+[12/13/18 13:49:17] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS server_locked_files_repo_id_idx ON ServerLockedFiles (repo_id);
+[12/13/18 13:49:17] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS ServerLockedFilesTimestamp (repo_id TEXT, timestamp INTEGER, PRIMARY KEY (repo_id));
+[12/13/18 13:49:17] Couldn't prepare query, error:5->'database is locked'
+	SELECT repo_id, path, locked_by_me FROM ServerLockedFiles
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS Repo (repo_id TEXT PRIMARY KEY);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS DeletedRepo (repo_id TEXT PRIMARY KEY);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoBranch (repo_id TEXT PRIMARY KEY, branch_name TEXT);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS DeletedRepo (repo_id TEXT PRIMARY KEY);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoBranch (repo_id TEXT PRIMARY KEY, branch_name TEXT);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoLanToken (repo_id TEXT PRIMARY KEY, token TEXT);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoTmpToken (repo_id TEXT, peer_id TEXT, token TEXT, timestamp INTEGER, PRIMARY KEY (repo_id, peer_id));
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoPasswd (repo_id TEXT PRIMARY KEY, passwd TEXT NOT NULL);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoKeys (repo_id TEXT PRIMARY KEY, key TEXT NOT NULL, iv TEXT NOT NULL);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoProperty (repo_id TEXT, key TEXT, value TEXT);
+[12/13/18 13:49:19] SQL error: 1 - no such table: main.RepoProperty
+:	CREATE INDEX IF NOT EXISTS RepoIndex ON RepoProperty (repo_id);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS MergeInfo (repo_id TEXT PRIMARY KEY, in_merge INTEGER, branch TEXT);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS CommonAncestor (repo_id TEXT PRIMARY KEY, ca_id TEXT, head_id TEXT);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS GarbageRepos (repo_id TEXT PRIMARY KEY);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS LockedFiles (repo_id TEXT, path TEXT, operation TEXT, old_mtime INTEGER, file_id TEXT, new_path TEXT, PRIMARY KEY (repo_id, path));
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderUserPerms (repo_id TEXT, path TEXT, permission TEXT);
+[12/13/18 13:49:19] SQL error: 1 - no such table: main.FolderUserPerms
+:	CREATE INDEX IF NOT EXISTS folder_user_perms_repo_id_idx ON FolderUserPerms (repo_id);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderGroupPerms (repo_id TEXT, path TEXT, permission TEXT);
+[12/13/18 13:49:19] SQL error: 1 - no such table: main.FolderGroupPerms
+:	CREATE INDEX IF NOT EXISTS folder_group_perms_repo_id_idx ON FolderGroupPerms (repo_id);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderPermTimestamp (repo_id TEXT, timestamp INTEGER, PRIMARY KEY (repo_id));
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS ServerProperty (server_url TEXT, key TEXT, value TEXT, PRIMARY KEY (server_url, key));
+[12/13/18 13:49:19] SQL error: 1 - no such table: main.ServerProperty
+:	CREATE INDEX IF NOT EXISTS ServerIndex ON ServerProperty (server_url);
+[12/13/18 13:49:19] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FileSyncError (id INTEGER PRIMARY KEY AUTOINCREMENT, repo_id TEXT, repo_name TEXT, path TEXT, err_id INTEGER, timestamp INTEGER);
+[12/13/18 13:49:19] Couldn't prepare query, error:1->'no such table: DeletedRepo'
+	SELECT repo_id FROM DeletedRepo
+[12/13/18 13:49:19] repo-mgr.c(6601): Error removing deleted repos.
+[12/13/18 13:49:24] seaf-daemon.c(518): rpc server started.
+[12/13/18 13:49:24] ../common/rpc-service.c(1093): Got an exit command. Now exiting
+[12/13/18 13:49:25] seaf-daemon.c(491): starting seafile client 6.2.8
+[12/13/18 13:49:25] seafile-session.c(382): client id = 05337ad69725d652e3d94f8f700fed965abb8a23, client_name = unknown
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS Repo (repo_id TEXT PRIMARY KEY);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS DeletedRepo (repo_id TEXT PRIMARY KEY);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoBranch (repo_id TEXT PRIMARY KEY, branch_name TEXT);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoLanToken (repo_id TEXT PRIMARY KEY, token TEXT);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoTmpToken (repo_id TEXT, peer_id TEXT, token TEXT, timestamp INTEGER, PRIMARY KEY (repo_id, peer_id));
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoPasswd (repo_id TEXT PRIMARY KEY, passwd TEXT NOT NULL);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoKeys (repo_id TEXT PRIMARY KEY, key TEXT NOT NULL, iv TEXT NOT NULL);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoProperty (repo_id TEXT, key TEXT, value TEXT);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS RepoIndex ON RepoProperty (repo_id);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS MergeInfo (repo_id TEXT PRIMARY KEY, in_merge INTEGER, branch TEXT);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS CommonAncestor (repo_id TEXT PRIMARY KEY, ca_id TEXT, head_id TEXT);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS GarbageRepos (repo_id TEXT PRIMARY KEY);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS LockedFiles (repo_id TEXT, path TEXT, operation TEXT, old_mtime INTEGER, file_id TEXT, new_path TEXT, PRIMARY KEY (repo_id, path));
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderUserPerms (repo_id TEXT, path TEXT, permission TEXT);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS folder_user_perms_repo_id_idx ON FolderUserPerms (repo_id);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderGroupPerms (repo_id TEXT, path TEXT, permission TEXT);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS folder_group_perms_repo_id_idx ON FolderGroupPerms (repo_id);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderPermTimestamp (repo_id TEXT, timestamp INTEGER, PRIMARY KEY (repo_id));
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS ServerProperty (server_url TEXT, key TEXT, value TEXT, PRIMARY KEY (server_url, key));
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS ServerIndex ON ServerProperty (server_url);
+[12/13/18 13:49:25] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FileSyncError (id INTEGER PRIMARY KEY AUTOINCREMENT, repo_id TEXT, repo_name TEXT, path TEXT, err_id INTEGER, timestamp INTEGER);
+[12/13/18 13:49:25] Couldn't prepare query, error:5->'database is locked'
+	SELECT repo_id FROM DeletedRepo
+[12/13/18 13:49:25] repo-mgr.c(6601): Error removing deleted repos.
+[12/13/18 13:49:25] seaf-daemon.c(518): rpc server started.
+[12/13/18 13:49:30] Couldn't prepare query, error:1->'no such table: DeletedRepo'
+	SELECT repo_id FROM DeletedRepo
+[12/13/18 13:49:30] repo-mgr.c(6601): Error removing deleted repos.
+[12/13/18 13:49:30] seaf-daemon.c(518): rpc server started.
+[12/13/18 13:51:54] SQL error: 1 - no such table: DeletedRepo
+:	DELETE FROM DeletedRepo WHERE repo_id = '4fb2bdac-980f-4161-85f4-cd84b149a078'
+[12/13/18 13:51:55] clone-mgr.c(715): Transition clone state for 4fb2bdac from [init] to [check server].
+[12/13/18 13:51:55] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/13/18 13:51:55] clone-mgr.c(715): Transition clone state for 4fb2bdac from [check server] to [fetch].
+[12/13/18 13:51:55] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/13/18 13:51:55] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/13/18 13:51:55] SQL error: 1 - no such table: DeletedRepo
+:	DELETE FROM DeletedRepo WHERE repo_id = 'ac2e9b4f-aa34-41de-a204-0a8650c400fa'
+[12/13/18 13:51:55] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/13/18 13:51:56] clone-mgr.c(715): Transition clone state for ac2e9b4f from [init] to [check server].
+[12/13/18 13:51:56] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'init') --> ('normal', 'check')
+[12/13/18 13:51:56] clone-mgr.c(715): Transition clone state for ac2e9b4f from [check server] to [fetch].
+[12/13/18 13:51:56] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'check') --> ('normal', 'commit')
+[12/13/18 13:51:56] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'commit') --> ('normal', 'fs')
+[12/13/18 13:51:56] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'fs') --> ('normal', 'data')
+[12/13/18 13:52:02] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'data') --> ('finished', 'finished')
+[12/13/18 13:52:03] SQL error: 1 - no such table: RepoBranch
+:	REPLACE INTO RepoBranch VALUES ('ac2e9b4f-aa34-41de-a204-0a8650c400fa', 'local')
+[12/13/18 13:52:04] clone-mgr.c(715): Transition clone state for ac2e9b4f from [fetch] to [done].
+[12/13/18 13:52:06] sync-mgr.c(1350): File syncing protocol version on server http://dev.openthos.org is 2. Client file syncing protocol version is 2. Use version 2.
+[12/13/18 13:52:07] sync-mgr.c(560): Repo '.UserConfig' sync state transition from 'synchronized' to 'committing'.
+[12/13/18 13:52:07] repo-mgr.c(3799): All events are processed for repo ac2e9b4f-aa34-41de-a204-0a8650c400fa.
+[12/13/18 13:52:07] sync-mgr.c(560): Repo '.UserConfig' sync state transition from 'committing' to 'initializing'.
+[12/13/18 13:52:07] sync-mgr.c(891): Removing blocks for repo .UserConfig(ac2e9b4f).
+[12/13/18 13:55:22] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/13/18 13:55:23] SQL error: 1 - no such table: RepoBranch
+:	REPLACE INTO RepoBranch VALUES ('4fb2bdac-980f-4161-85f4-cd84b149a078', 'local')
+[12/13/18 13:55:24] clone-mgr.c(715): Transition clone state for 4fb2bdac from [fetch] to [done].
+[12/13/18 13:55:25] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/13/18 13:55:25] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/13/18 13:55:25] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'initializing'.
+[12/13/18 13:55:25] sync-mgr.c(891): Removing blocks for repo DATA(4fb2bdac).
+[12/13/18 14:00:23] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'init') --> ('normal', 'check')
+[12/13/18 14:00:23] sync-mgr.c(560): Repo '.UserConfig' sync state transition from 'initializing' to 'downloading'.
+[12/13/18 14:00:23] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'check') --> ('normal', 'commit')
+[12/13/18 14:00:23] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'commit') --> ('normal', 'fs')
+[12/13/18 14:00:24] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'fs') --> ('normal', 'data')
+[12/13/18 14:00:25] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'data') --> ('finished', 'finished')
+[12/13/18 14:00:25] sync-mgr.c(560): Repo '.UserConfig' sync state transition from 'downloading' to 'synchronized'.
+[12/13/18 14:00:27] sync-mgr.c(560): Repo '.UserConfig' sync state transition from 'synchronized' to 'committing'.
+[12/13/18 14:00:27] repo-mgr.c(3799): All events are processed for repo ac2e9b4f-aa34-41de-a204-0a8650c400fa.
+[12/13/18 14:00:27] sync-mgr.c(560): Repo '.UserConfig' sync state transition from 'committing' to 'synchronized'.
+[12/13/18 14:02:14] http-tx-mgr.c(1070): libcurl failed to POST http://dev.openthos.org/seafhttp/repo/head-commits-multi/: Couldn't resolve host name.
+[12/13/18 14:06:25] seaf-daemon.c(491): starting seafile client 6.2.8
+[12/13/18 14:06:26] seafile-session.c(382): client id = 05337ad69725d652e3d94f8f700fed965abb8a23, client_name = unknown
+[12/13/18 14:06:29] seaf-daemon.c(518): rpc server started.
+[12/13/18 14:11:15] clone-mgr.c(715): Transition clone state for 8e010cc0 from [init] to [check server].
+[12/13/18 14:11:15] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'init') --> ('normal', 'check')
+[12/13/18 14:11:15] clone-mgr.c(715): Transition clone state for 8e010cc0 from [check server] to [fetch].
+[12/13/18 14:11:15] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'check') --> ('normal', 'commit')
+[12/13/18 14:11:15] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'commit') --> ('normal', 'fs')
+[12/13/18 14:11:16] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'fs') --> ('normal', 'data')
+[12/13/18 14:13:51] clone-mgr.c(1013): Worktree path conflict with repo DATA.
+[12/13/18 14:13:57] clone-mgr.c(1013): Worktree path conflict with repo .UserConfig.
+[12/13/18 14:17:53] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'data') --> ('finished', 'finished')
+[12/13/18 14:17:54] clone-mgr.c(715): Transition clone state for 8e010cc0 from [fetch] to [done].
+[12/13/18 14:17:55] sync-mgr.c(1350): File syncing protocol version on server http://dev.openthos.org is 2. Client file syncing protocol version is 2. Use version 2.
+[12/13/18 14:17:56] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/13/18 14:18:00] repo-mgr.c(2562): Creating partial commit after adding .
+[12/13/18 14:18:00] repo-mgr.c(2578): Remain files for .
+[12/13/18 14:18:00] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'uploading'.
+[12/13/18 14:18:00] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'init') --> ('normal', 'check')
+[12/13/18 14:18:01] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'check') --> ('normal', 'commit')
+[12/13/18 14:18:01] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'commit') --> ('normal', 'fs')
+[12/13/18 14:18:01] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'fs') --> ('normal', 'data')
+[12/13/18 14:18:04] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'data') --> ('normal', 'update-branch')
+[12/13/18 14:18:04] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'update-branch') --> ('finished', 'finished')
+[12/13/18 14:18:04] sync-mgr.c(560): Repo 'DATA' sync state transition from 'uploading' to 'initializing'.
+[12/13/18 14:18:04] sync-mgr.c(891): Removing blocks for repo DATA(8e010cc0).
+[12/13/18 14:18:06] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'committing'.
+[12/13/18 14:18:06] repo-mgr.c(2597): Adding remaining files for .
+[12/13/18 14:18:07] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'uploading'.
+[12/13/18 14:18:07] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'init') --> ('normal', 'check')
+[12/13/18 14:18:07] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'check') --> ('normal', 'commit')
+[12/13/18 14:18:07] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'commit') --> ('normal', 'fs')
+[12/13/18 14:18:07] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'fs') --> ('normal', 'data')
+[12/13/18 14:18:08] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'data') --> ('normal', 'update-branch')
+[12/13/18 14:18:08] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'update-branch') --> ('finished', 'finished')
+[12/13/18 14:18:08] sync-mgr.c(560): Repo 'DATA' sync state transition from 'uploading' to 'initializing'.
+[12/13/18 14:18:08] sync-mgr.c(891): Removing blocks for repo DATA(8e010cc0).
+[12/13/18 14:18:08] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/13/18 14:18:08] repo-mgr.c(3657): All events are processed for repo 8e010cc0-c584-4b01-91ec-eb1d941753da.
+[12/13/18 14:18:08] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'synchronized'.
+[12/13/18 14:18:15] clone-mgr.c(1013): Worktree path conflict with repo DATA.
+[12/13/18 14:18:15] clone-mgr.c(1013): Worktree path conflict with repo .UserConfig.
+[12/13/18 14:22:15] clone-mgr.c(1013): Worktree path conflict with repo DATA.
+[12/13/18 14:22:16] clone-mgr.c(1013): Worktree path conflict with repo .UserConfig.
+[12/13/18 14:24:00] seaf-daemon.c(491): starting seafile client 6.2.8
+[12/13/18 14:24:01] seafile-session.c(382): client id = 05337ad69725d652e3d94f8f700fed965abb8a23, client_name = unknown
+[12/13/18 14:24:02] seaf-daemon.c(518): rpc server started.
+[12/13/18 14:24:04] sync-mgr.c(1350): File syncing protocol version on server http://dev.openthos.org is 2. Client file syncing protocol version is 2. Use version 2.
+[12/13/18 14:24:04] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/13/18 14:24:05] repo-mgr.c(3799): All events are processed for repo 8e010cc0-c584-4b01-91ec-eb1d941753da.
+[12/13/18 14:24:06] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'uploading'.
+[12/13/18 14:24:06] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'init') --> ('normal', 'check')
+[12/13/18 14:24:07] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'check') --> ('normal', 'commit')
+[12/13/18 14:24:07] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'commit') --> ('normal', 'fs')
+[12/13/18 14:24:07] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'fs') --> ('normal', 'data')
+[12/13/18 14:24:07] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'data') --> ('normal', 'update-branch')
+[12/13/18 14:24:08] http-tx-mgr.c(1181): Transfer repo '8e010cc0': ('normal', 'update-branch') --> ('finished', 'finished')
+[12/13/18 14:24:09] sync-mgr.c(560): Repo 'DATA' sync state transition from 'uploading' to 'initializing'.
+[12/14/18 02:39:17] seaf-daemon.c(491): starting seafile client 6.2.8
+[12/14/18 02:39:17] seafile-session.c(382): client id = 05337ad69725d652e3d94f8f700fed965abb8a23, client_name = unknown
+[12/14/18 02:39:18] seaf-daemon.c(518): rpc server started.
+[12/14/18 02:39:20] sync-mgr.c(1350): File syncing protocol version on server http://dev.openthos.org is 2. Client file syncing protocol version is 2. Use version 2.
+[12/14/18 02:39:21] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/14/18 02:39:21] repo-mgr.c(3799): All events are processed for repo 8e010cc0-c584-4b01-91ec-eb1d941753da.
+[12/14/18 02:39:21] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'initializing'.
+[12/14/18 06:03:44] clone-mgr.c(1013): Worktree path conflict with repo DATA.
+[12/14/18 06:03:44] clone-mgr.c(1013): Worktree path conflict with repo .UserConfig.
+[12/14/18 06:05:48] clone-mgr.c(1013): Worktree path conflict with repo DATA.
+[12/14/18 06:05:48] clone-mgr.c(1013): Worktree path conflict with repo .UserConfig.
+[12/14/18 06:07:31] http-tx-mgr.c(1070): libcurl failed to POST http://dev.openthos.org/seafhttp/repo/head-commits-multi/: Couldn't resolve host name.
+[12/14/18 06:08:01] http-tx-mgr.c(1070): libcurl failed to POST http://dev.openthos.org/seafhttp/repo/head-commits-multi/: Couldn't resolve host name.
+[12/14/18 06:08:50] clone-mgr.c(1013): Worktree path conflict with repo DATA.
+[12/14/18 06:08:50] clone-mgr.c(1013): Worktree path conflict with repo .UserConfig.
+[12/14/18 06:11:31] http-tx-mgr.c(1070): libcurl failed to POST http://dev.openthos.org/seafhttp/repo/head-commits-multi/: Couldn't resolve host name.
