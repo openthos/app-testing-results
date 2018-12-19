@@ -1,0 +1,196 @@
+[12/19/18 02:55:40] seaf-daemon.c(491): starting seafile client 6.2.8
+[12/19/18 02:55:41] seafile-session.c(382): client id = 0dbfa4d0c17d00405b03522948a54adcac9b3534, client_name = unknown
+[12/19/18 02:55:42] seaf-daemon.c(491): starting seafile client 6.2.8
+[12/19/18 02:55:42] seafile-session.c(382): client id = 0dbfa4d0c17d00405b03522948a54adcac9b3534, client_name = unknown
+[12/19/18 02:55:42] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS Branch (name TEXT, repo_id TEXT, commit_id TEXT);
+[12/19/18 02:55:42] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS ServerLockedFiles (repo_id TEXT, path TEXT, locked_by_me INTEGER);
+[12/19/18 02:55:42] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS server_locked_files_repo_id_idx ON ServerLockedFiles (repo_id);
+[12/19/18 02:55:42] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS ServerLockedFilesTimestamp (repo_id TEXT, timestamp INTEGER, PRIMARY KEY (repo_id));
+[12/19/18 02:55:42] Couldn't prepare query, error:5->'database is locked'
+	SELECT repo_id, path, locked_by_me FROM ServerLockedFiles
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS Repo (repo_id TEXT PRIMARY KEY);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS DeletedRepo (repo_id TEXT PRIMARY KEY);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoBranch (repo_id TEXT PRIMARY KEY, branch_name TEXT);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoLanToken (repo_id TEXT PRIMARY KEY, token TEXT);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoTmpToken (repo_id TEXT, peer_id TEXT, token TEXT, timestamp INTEGER, PRIMARY KEY (repo_id, peer_id));
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoPasswd (repo_id TEXT PRIMARY KEY, passwd TEXT NOT NULL);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoKeys (repo_id TEXT PRIMARY KEY, key TEXT NOT NULL, iv TEXT NOT NULL);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS RepoProperty (repo_id TEXT, key TEXT, value TEXT);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS RepoIndex ON RepoProperty (repo_id);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS MergeInfo (repo_id TEXT PRIMARY KEY, in_merge INTEGER, branch TEXT);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS CommonAncestor (repo_id TEXT PRIMARY KEY, ca_id TEXT, head_id TEXT);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS GarbageRepos (repo_id TEXT PRIMARY KEY);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS LockedFiles (repo_id TEXT, path TEXT, operation TEXT, old_mtime INTEGER, file_id TEXT, new_path TEXT, PRIMARY KEY (repo_id, path));
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderUserPerms (repo_id TEXT, path TEXT, permission TEXT);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS folder_user_perms_repo_id_idx ON FolderUserPerms (repo_id);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderGroupPerms (repo_id TEXT, path TEXT, permission TEXT);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS folder_group_perms_repo_id_idx ON FolderGroupPerms (repo_id);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FolderPermTimestamp (repo_id TEXT, timestamp INTEGER, PRIMARY KEY (repo_id));
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS ServerProperty (server_url TEXT, key TEXT, value TEXT, PRIMARY KEY (server_url, key));
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE INDEX IF NOT EXISTS ServerIndex ON ServerProperty (server_url);
+[12/19/18 02:55:44] SQL error: 5 - database is locked
+:	CREATE TABLE IF NOT EXISTS FileSyncError (id INTEGER PRIMARY KEY AUTOINCREMENT, repo_id TEXT, repo_name TEXT, path TEXT, err_id INTEGER, timestamp INTEGER);
+[12/19/18 02:55:44] Couldn't prepare query, error:5->'database is locked'
+	SELECT repo_id FROM DeletedRepo
+[12/19/18 02:55:44] repo-mgr.c(6601): Error removing deleted repos.
+[12/19/18 02:55:48] seaf-daemon.c(518): rpc server started.
+[12/19/18 02:55:57] seaf-daemon.c(518): rpc server started.
+[12/19/18 03:01:01] clone-mgr.c(715): Transition clone state for 4fb2bdac from [init] to [check server].
+[12/19/18 03:01:02] clone-mgr.c(715): Transition clone state for ac2e9b4f from [init] to [check server].
+[12/19/18 03:01:02] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 03:01:02] clone-mgr.c(715): Transition clone state for 4fb2bdac from [check server] to [fetch].
+[12/19/18 03:01:03] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 03:01:03] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 03:01:03] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 03:01:03] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 03:01:03] clone-mgr.c(715): Transition clone state for ac2e9b4f from [check server] to [fetch].
+[12/19/18 03:01:04] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 03:01:04] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 03:01:04] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 03:01:21] http-tx-mgr.c(1181): Transfer repo 'ac2e9b4f': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 03:01:22] clone-mgr.c(715): Transition clone state for ac2e9b4f from [fetch] to [done].
+[12/19/18 03:01:23] sync-mgr.c(1350): File syncing protocol version on server http://dev.openthos.org is 2. Client file syncing protocol version is 2. Use version 2.
+[12/19/18 03:01:24] sync-mgr.c(560): Repo '.UserConfig' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 03:01:24] repo-mgr.c(3799): All events are processed for repo ac2e9b4f-aa34-41de-a204-0a8650c400fa.
+[12/19/18 03:01:24] sync-mgr.c(560): Repo '.UserConfig' sync state transition from 'committing' to 'initializing'.
+[12/19/18 03:01:24] sync-mgr.c(891): Removing blocks for repo .UserConfig(ac2e9b4f).
+[12/19/18 03:09:23] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 03:09:24] clone-mgr.c(715): Transition clone state for 4fb2bdac from [fetch] to [done].
+[12/19/18 03:09:25] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 03:09:25] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 03:09:25] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'initializing'.
+[12/19/18 03:09:25] sync-mgr.c(891): Removing blocks for repo DATA(4fb2bdac).
+[12/19/18 03:21:17] http-tx-mgr.c(808): libcurl failed to GET http://dev.openthos.org/seafhttp/repo/ac2e9b4f-aa34-41de-a204-0a8650c400fa/commit/HEAD: Couldn't resolve host name.
+[12/19/18 03:21:17] sync-mgr.c(648): Repo '.UserConfig' sync state transition from initializing to 'error': 'Failed to get sync info from server.'.
+[12/19/18 03:21:17] http-tx-mgr.c(808): libcurl failed to GET http://dev.openthos.org/seafhttp/repo/4fb2bdac-980f-4161-85f4-cd84b149a078/commit/HEAD: Couldn't resolve host name.
+[12/19/18 03:21:17] sync-mgr.c(648): Repo 'DATA' sync state transition from initializing to 'error': 'Failed to get sync info from server.'.
+[12/19/18 03:21:27] http-tx-mgr.c(1070): libcurl failed to POST http://dev.openthos.org/seafhttp/repo/head-commits-multi/: Couldn't resolve host name.
+[12/19/18 03:21:48] http-tx-mgr.c(808): libcurl failed to GET http://dev.openthos.org/seafhttp/repo/4fb2bdac-980f-4161-85f4-cd84b149a078/commit/HEAD: Couldn't resolve host name.
+[12/19/18 03:21:48] sync-mgr.c(648): Repo 'DATA' sync state transition from initializing to 'error': 'Failed to get sync info from server.'.
+[12/19/18 03:21:48] http-tx-mgr.c(808): libcurl failed to GET http://dev.openthos.org/seafhttp/repo/ac2e9b4f-aa34-41de-a204-0a8650c400fa/commit/HEAD: Couldn't resolve host name.
+[12/19/18 03:21:48] sync-mgr.c(648): Repo '.UserConfig' sync state transition from initializing to 'error': 'Failed to get sync info from server.'.
+[12/19/18 03:21:57] http-tx-mgr.c(1070): libcurl failed to POST http://dev.openthos.org/seafhttp/repo/head-commits-multi/: Couldn't resolve host name.
+[12/19/18 05:31:32] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:31:32] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'downloading'.
+[12/19/18 05:31:33] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:31:33] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:31:33] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:31:33] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 05:31:34] sync-mgr.c(560): Repo 'DATA' sync state transition from 'downloading' to 'synchronized'.
+[12/19/18 05:31:35] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 05:31:35] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 05:31:35] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'synchronized'.
+[12/19/18 05:33:08] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:33:08] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'downloading'.
+[12/19/18 05:33:09] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:33:09] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:33:09] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:33:09] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 05:33:09] sync-mgr.c(560): Repo 'DATA' sync state transition from 'downloading' to 'synchronized'.
+[12/19/18 05:33:11] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 05:33:11] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 05:33:11] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'synchronized'.
+[12/19/18 05:33:42] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:33:42] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'downloading'.
+[12/19/18 05:33:42] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:33:42] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:33:42] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:33:42] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 05:33:43] sync-mgr.c(560): Repo 'DATA' sync state transition from 'downloading' to 'synchronized'.
+[12/19/18 05:33:44] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 05:33:44] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 05:33:44] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'synchronized'.
+[12/19/18 05:34:15] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:34:15] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'downloading'.
+[12/19/18 05:34:15] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:34:16] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:34:16] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:34:21] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 05:34:21] sync-mgr.c(560): Repo 'DATA' sync state transition from 'downloading' to 'synchronized'.
+[12/19/18 05:34:23] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 05:34:23] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 05:34:23] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'synchronized'.
+[12/19/18 05:42:33] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 05:42:33] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 05:42:33] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'uploading'.
+[12/19/18 05:42:33] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:42:34] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:42:34] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:42:35] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:42:36] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('normal', 'update-branch')
+[12/19/18 05:42:36] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'update-branch') --> ('finished', 'finished')
+[12/19/18 05:42:36] sync-mgr.c(560): Repo 'DATA' sync state transition from 'uploading' to 'initializing'.
+[12/19/18 05:42:36] sync-mgr.c(891): Removing blocks for repo DATA(4fb2bdac).
+[12/19/18 05:44:06] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'downloading'.
+[12/19/18 05:44:06] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:44:06] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:44:06] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:44:06] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:44:07] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 05:44:07] sync-mgr.c(560): Repo 'DATA' sync state transition from 'downloading' to 'synchronized'.
+[12/19/18 05:44:09] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 05:44:09] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 05:44:09] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'synchronized'.
+[12/19/18 05:44:28] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 05:44:28] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 05:44:29] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'uploading'.
+[12/19/18 05:44:29] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:44:29] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:44:29] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:44:29] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:44:30] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('normal', 'update-branch')
+[12/19/18 05:44:30] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'update-branch') --> ('finished', 'finished')
+[12/19/18 05:44:30] sync-mgr.c(560): Repo 'DATA' sync state transition from 'uploading' to 'initializing'.
+[12/19/18 05:44:31] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:44:31] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'downloading'.
+[12/19/18 05:44:40] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:44:40] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:44:40] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:44:41] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 05:44:41] sync-mgr.c(560): Repo 'DATA' sync state transition from 'downloading' to 'synchronized'.
+[12/19/18 05:46:02] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:46:02] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'downloading'.
+[12/19/18 05:46:09] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:46:09] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:46:10] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:46:11] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 05:46:11] sync-mgr.c(560): Repo 'DATA' sync state transition from 'downloading' to 'synchronized'.
+[12/19/18 05:46:13] sync-mgr.c(560): Repo 'DATA' sync state transition from 'synchronized' to 'committing'.
+[12/19/18 05:46:13] repo-mgr.c(3799): All events are processed for repo 4fb2bdac-980f-4161-85f4-cd84b149a078.
+[12/19/18 05:46:13] sync-mgr.c(560): Repo 'DATA' sync state transition from 'committing' to 'synchronized'.
+[12/19/18 05:53:34] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'init') --> ('normal', 'check')
+[12/19/18 05:53:34] sync-mgr.c(560): Repo 'DATA' sync state transition from 'initializing' to 'downloading'.
+[12/19/18 05:53:34] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'check') --> ('normal', 'commit')
+[12/19/18 05:53:34] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'commit') --> ('normal', 'fs')
+[12/19/18 05:53:35] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'fs') --> ('normal', 'data')
+[12/19/18 05:53:35] repo-mgr.c(5087): Failed to open dir /data/seafile/qqqdev1201@openthos.org/DATA/Documents/dslkajflsadj: Error opening directory '/data/seafile/qqqdev1201@openthos.org/DATA/Documents/dslkajflsadj': No such file or directory.
+[12/19/18 05:53:35] repo-mgr.c(5087): Failed to open dir /data/seafile/qqqdev1201@openthos.org/DATA/Documents/version: Error opening directory '/data/seafile/qqqdev1201@openthos.org/DATA/Documents/version': No such file or directory.
+[12/19/18 05:53:35] repo-mgr.c(5087): Failed to open dir /data/seafile/qqqdev1201@openthos.org/DATA/Documents/新建文件夹: Error opening directory '/data/seafile/qqqdev1201@openthos.org/DATA/Documents/新建文件夹': No such file or directory.
+[12/19/18 05:53:35] repo-mgr.c(5087): Failed to open dir /data/seafile/qqqdev1201@openthos.org/DATA/Documents/自动化测试点: Error opening directory '/data/seafile/qqqdev1201@openthos.org/DATA/Documents/自动化测试点': No such file or directory.
+[12/19/18 05:53:35] repo-mgr.c(5087): Failed to open dir /data/seafile/qqqdev1201@openthos.org/DATA/Documents/问题记录: Error opening directory '/data/seafile/qqqdev1201@openthos.org/DATA/Documents/问题记录': No such file or directory.
+[12/19/18 05:53:35] http-tx-mgr.c(1181): Transfer repo '4fb2bdac': ('normal', 'data') --> ('finished', 'finished')
+[12/19/18 05:53:36] sync-mgr.c(560): Repo 'DATA' sync state transition from 'downloading' to 'synchronized'.
