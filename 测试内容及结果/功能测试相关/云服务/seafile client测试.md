@@ -4,4 +4,4 @@
 ![](../../picture/seafile_clientvideo.png)
 - 登录页面图标没有居中放置(手机上也是这样，seafile app图标居中)
 ![](../../picture/seafile_clientmiddle.png)
-- 华为mate8手机上，点击地址输入栏崩溃（刚开始时点击一次就崩溃，后面可以通过长按输入栏出全选菜单后再单击一次稳定复现，seafile app本身也如此。andorid_x86和小米手机上正常）
+- 华为mate8手机上，点击地址输入栏崩溃（刚开始时点击一次就崩溃，稳定复现方法：长按输入栏，出全选菜单后再单击一次。seafile app本身也如此。andorid_x86和小米手机上正常）
