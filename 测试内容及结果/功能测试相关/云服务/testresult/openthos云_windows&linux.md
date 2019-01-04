@@ -15,4 +15,6 @@
 - 10. 对应左侧窗体资料库的右键菜单去掉“打开云端文件浏览器”
 
 ## linux
-- 1. 可以正常上传下载，界面ui未替换
+- 1. 可以正常上传下载，界面ui未替换  
+![](../../../picture/seafile_linux1.png)  
+![](../../../picture/seafile_linux2.png)
