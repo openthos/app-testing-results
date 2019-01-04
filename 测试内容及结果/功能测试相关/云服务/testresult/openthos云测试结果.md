@@ -1,5 +1,5 @@
 ## windows
-可以正常使用，待ui替换
+可以正常使用，未完成ui替换、未移除不需要的仓库
 - 1. 初次启动时界面不在屏幕中心  
 ![](../../../picture/seafile_clientinit.png)
 - 2. 界面UI未替换
@@ -11,7 +11,7 @@
 ![](../../../picture/seafile_clienticon2.png)
 
 ## linux
-可以正常使用，待ui替换  
+可以正常使用，未完成主界面布局、ui替换、固定登录服务器地址为dev.openthos.org 
 ![](../../../picture/seafile_linux1.jpg)  
 ![](../../../picture/seafile_linux2.jpg)
 
