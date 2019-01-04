@@ -1,4 +1,5 @@
 ## windows
+可以正常使用，待ui替换
 - 1. 初次启动时界面不在屏幕中心  
 ![](../../../picture/seafile_clientinit.png)
 - 2. 界面UI未替换
@@ -10,11 +11,12 @@
 ![](../../../picture/seafile_clienticon2.png)
 
 ## linux
-- 1. 可以正常上传下载，界面ui未替换  
+可以正常使用，待ui替换  
 ![](../../../picture/seafile_linux1.jpg)  
 ![](../../../picture/seafile_linux2.jpg)
 
-## android手机
+## android
+可以正常使用，手机版ui已替换，待桌面版
 - 1. 登陆的时候服务器名称不应该是\*.openthos.**com**，而应该是\*.openthos.**org**
 - 2. 登陆界面的“邮箱或用户名”应该指的是用户的**注册邮箱**或**注册的用户名**，而这两者均无法登陆。“用户名＠openthos.org" 这样的登陆名与网页端和电脑端的登陆方式不一致。
 - 3. 登陆的时候如果输入错误的用户名和密码没有相应的错误提示。
