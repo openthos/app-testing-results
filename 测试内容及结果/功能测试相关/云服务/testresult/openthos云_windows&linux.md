@@ -16,5 +16,5 @@
 
 ## linux
 - 1. 可以正常上传下载，界面ui未替换  
-![](../../../picture/seafile_linux1.png)  
-![](../../../picture/seafile_linux2.png)
+![](../../../picture/seafile_linux1.jpg)  
+![](../../../picture/seafile_linux2.jpg)
