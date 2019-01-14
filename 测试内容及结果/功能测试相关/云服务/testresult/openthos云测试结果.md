@@ -2,17 +2,18 @@
 可以正常使用，未完成小图标的ui替换、未移除不需要的仓库
 - 1. 初次启动时界面不在屏幕中心  
 ![](../../../picture/seafile_clientinit.png)
-- 2. 界面UI未替换
-- 3. 点击“在线帮助”后会进入seafile的页面，且内容为page not found，是否要换为openthos的云服务帮助文档  
+- 2. 点击“在线帮助”后会进入seafile的页面，且内容为page not found，是否要换为openthos的云服务帮助文档  
 ![](../../../picture/seafile_clienthelp.png)
-- 4. 任务栏图标：直接启动时的图标与固定到任务栏时的图标不一致  
+- 3. 任务栏图标：直接启动时的图标与固定到任务栏时的图标不一致  
 ![](../../../picture/seafile_clienticon1.png)
-- 5. 点击窗口右上角的x关闭程序后，状态栏的图标不消失，此时再通过exe文件打开会多出一个图标  
+- 4. 点击窗口右上角的x关闭程序后，状态栏的图标不消失，此时再通过exe文件打开会多出一个图标  
 ![](../../../picture/seafile_clienticon2.png)
 
 ## linux
 可以正常使用，未完成小图标的ui替换、未移除不需要的仓库
+- 1. 初次启动时界面不在屏幕中心  
 ![](../../../picture/seafile_ubuntu1.png)  
+- 2. 点击窗口右上角的x关闭程序后，状态栏的图标不消失，此时再打开会多出一个图标 
 ![](../../../picture/seafile_ubuntu_icon.png)
 
 ## android
