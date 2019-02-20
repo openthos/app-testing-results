@@ -11,3 +11,4 @@ UI显示&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 
 ### 其它问题
    - cloud服务器无法上传下载文件，可能和ssl证书验证失败有关，dev服务器的正常
+   - 手机版右上角显示两个菜单按钮
