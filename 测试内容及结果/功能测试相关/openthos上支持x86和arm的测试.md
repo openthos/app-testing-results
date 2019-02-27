@@ -1,4 +1,4 @@
-支持x86，经测试，编译生成的镜像基本可以运行
+支持x86，单窗口
 
 ```
 repo init -u git://192.168.0.115/android-desktop/manifest -b android-desktop-oreo-mr1 --repo-url=git://192.168.0.115/tools/repo
@@ -11,6 +11,26 @@ make iso_img -j32
 # 在电脑上设置从U盘启动
 # 登入系统
 ```
+
+支持x86，多窗口
+
+```
+# 前提是已安装x86的单窗口代码，否则不执行对.repo目录的操作
+mv .repo _repo
+repo init -u git://192.168.0.115/android-desktop/manifest -b multiwindow-oreo-mr1 --repo-url=git://192.168.0.115/tools/repo
+mv _repo/manifest*s .repo
+rm -rf _repo out
+repo sync -f -j1
+source build/envsetup.sh
+lunch generic_pc-userdebug
+make iso_img -j32
+
+# 将生成的镜像刻入U盘
+# 在电脑上设置从U盘启动
+# 登入系统
+```
+
+
 
 支持arm Pixel C
 
