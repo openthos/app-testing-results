@@ -1,4 +1,4 @@
-支持x86，单窗口
+#### 支持x86，单窗口
 
 ```
 repo init -u git://192.168.0.115/android-desktop/manifest -b android-desktop-oreo-mr1 --repo-url=git://192.168.0.115/tools/repo
@@ -12,13 +12,13 @@ make iso_img -j32
 # 登入系统
 ```
 
-支持x86，多窗口
+#### 支持x86，多窗口
 
 ```
 # 前提是已安装x86的单窗口代码，否则不执行对.repo目录的操作
 mv .repo _repo
 repo init -u git://192.168.0.115/android-desktop/manifest -b multiwindow-oreo-mr1 --repo-url=git://192.168.0.115/tools/repo
-mv _repo/manifest*s .repo
+mv _repo/project*s .repo
 rm -rf _repo out
 repo sync -f -j1
 source build/envsetup.sh
@@ -30,9 +30,29 @@ make iso_img -j32
 # 登入系统
 ```
 
+#### 支持GoogleTV机顶盒
+
+```
+repo init -u git://192.168.0.115/android-desktop/manifest -b multiwindow-oreo-mr1-temp --repo-url=git://192.168.0.115/tools/repo
+repo sync -f -j1
+./build/envsetup.sh
+lunch aosp-fugu_userdebug
+make -j32
+
+# Google TV连接电脑
+adb devices 	# 确认已连接
+adb reboot recovery	# 重启进入recovery模式
+fastboot devices	# 确认已连接
+fastboot flash boot boot.img
+fastboot flash recovery ercovery.img
+fastboot flash system system.img
+fastboot -w
+fastboot reboot
+```
 
 
-支持arm Pixel C
+
+#### 支持arm Pixel C
 
 ```
 repo init -u git://192.168.0.115/android-desktop/manifest -b multiwindow-oreo-mr1-temp --repo-url=git://192.168.0.115/tools/repo
