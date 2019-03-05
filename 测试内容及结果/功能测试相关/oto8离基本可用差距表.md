@@ -38,7 +38,7 @@
 
 #### 设置
 - 休眠后无法唤醒------------暂时使用临时方案：默认用不休眠；根本解决方案需要等待系统组配合
-- 以太网、蓝牙、休眠、分辨率、云服务、打印等功能均未移植  
+- 以太网、蓝牙、休眠、分辨率、云服务、打印等功能均未移植 -----------肖、张、苗在做 
 
 #### systemUI
 - alt+tab快捷键-----------基本完成，正在添加新feature以及修改bug
@@ -75,22 +75,14 @@
 ***
 ## 按工程师分类
 #### 肖络元
-- 对工程师的openthos项目源码，部署在：185服务器，git.openthos.com服务器，github服务，保证三服务器的同步正确-----------已完成
-- 协助马青青修改更新openthos.com网站的页面，本周网站更新了开发成员名单，更新截屏的图片-----------已完成
+- musl-libc对openthos的支持试验，以太网系统底层支持，蓝牙系统底层支持------------在做
 - Project Quota移植代码整理------------延后
 - 管理内部git、github、来广营服务器，multiwindow不涉密的源码放在github上-----------等待xposed和refind源码梳理完
 
 #### 张善民
 - openthos8.1
-   - android-desktop kernel更新到5.0rc8-----------已完成
+   - 分辨率，云服务、打印移植的系统底层支持------------在做
    - 适配openthos8.1到中国移动全互联计算机，缺少驱动，协调中-----------未完成
-- arm和x86分离---[编译方法](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E7%B3%BB%E7%BB%9F%26%E7%A1%AC%E4%BB%B6%E7%9B%B8%E5%85%B3/openthos%E4%B8%8A%E6%94%AF%E6%8C%81%E6%96%B0%E7%A1%AC%E4%BB%B6%E7%9A%84%E7%BC%96%E8%AF%91%E6%B5%8B%E8%AF%95.md)
-   - 能在pixel c上运行-----------已完成---[测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E7%B3%BB%E7%BB%9F%26%E7%A1%AC%E4%BB%B6%E7%9B%B8%E5%85%B3/openthos_on_pixelC_20190227.md)
-   - 能在nexus player上运行-----------已完成---[测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E7%B3%BB%E7%BB%9F%26%E7%A1%AC%E4%BB%B6%E7%9B%B8%E5%85%B3/openthos_on_hugu_20190228.md)
-   - 能在generic pc上运行-----------已完成---[测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E7%B3%BB%E7%BB%9F%26%E7%A1%AC%E4%BB%B6%E7%9B%B8%E5%85%B3/openthos_on_X86-64_ZSM%E4%BF%AE%E6%94%B9%E7%89%88_20190228.md)
-   - 能在rockchip上运行-----------已完成
-- openthos8/9需求分析和工作计划-----------已完成
-- 帮MDX下载编译chromium-----------已完成
 - 梳理xposed和refind源码-----------暂停
 
 #### 刘晓旭
@@ -167,12 +159,10 @@
    - 设计文档1.0-----------已提交，待刘总确认
    
 #### 苗德行
-- 抓取google play的应用
-   - 新增邮件日志功能，断点续接功能-----------已完成
-- chromium的移植
-  - 完成了源码的下载、编译-----------已完成
+- oto8休眠问题，蓝牙系统底层-----------在做
+- chromium的移植-----------延后
   - 设置浏览器的默认页为openthos.org-----------30％
-- oto8相机
+- oto8相机-----------延后
 
 #### 陈威
 - 更新用户手册[安装部分](https://github.com/openthos/userguide-analysis/blob/master/%E4%B8%80.%E5%AE%89%E8%A3%85.md)
