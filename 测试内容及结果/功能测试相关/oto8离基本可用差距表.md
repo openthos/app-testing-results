@@ -75,7 +75,9 @@
 ***
 ## 按工程师分类
 #### 肖络元
-- musl-libc对openthos的支持试验，以太网系统底层支持，蓝牙系统底层支持------------在做
+- musl-libc对openthos的支持试验
+- 以太网系统底层支持
+- 蓝牙系统底层支持
 - Project Quota移植代码整理------------延后
 - 管理内部git、github、来广营服务器，multiwindow不涉密的源码放在github上-----------等待xposed和refind源码梳理完
 
