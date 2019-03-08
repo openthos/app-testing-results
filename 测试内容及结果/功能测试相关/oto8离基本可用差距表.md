@@ -73,6 +73,7 @@
 - mopria打印功能未移植  
 - 打开vpn后通知中心不断打开，提示google play服务请求，之后弹出google play屡次停止运行的提示
 - 自带的chrome浏览器在github上无法提交文档的修改，提示不支持浏览器
+- 无法通过adb命令连接到其它android设备（但可以ping通）
 
 ***
 ## 按工程师分类
