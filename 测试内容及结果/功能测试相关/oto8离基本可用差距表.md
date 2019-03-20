@@ -75,7 +75,9 @@
 - 无法通过adb命令连接到其它android设备（但可以ping通）-----------2019-03-08新增
 - multiwindow合并到android8.1
    - 去掉ubuntu style initrd.img，直接从andriod init启动-----------可以启动,但屏幕无显示,正在分析原因
-
+   
+#### openthos cloud-----------[OPENTHOS云安卓端未完成项目列表](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E4%BA%91%E6%9C%8D%E5%8A%A1/OPENTHOS_CLOUD/android%E7%AB%AF%E6%9C%AA%E5%AE%8C%E6%88%90%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8.md)
+- 左侧资料库的右键菜单位置界面等仍需调整，此外点击“个人”选项应用会崩溃-----------待完成基本功能后再修改
 ***
 ## 按工程师分类
 #### 肖络元
