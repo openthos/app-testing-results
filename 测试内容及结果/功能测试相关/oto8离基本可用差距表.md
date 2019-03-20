@@ -73,6 +73,8 @@
 - 打开vpn后通知中心不断打开，提示google play服务请求，之后弹出google play屡次停止运行的提示-----------2019-03-08新增
 - 自带的chrome浏览器在github上无法提交文档的修改，提示不支持浏览器-----------2019-03-08新增
 - 无法通过adb命令连接到其它android设备（但可以ping通）-----------2019-03-08新增
+- multiwindow合并到android8.1
+   - 去掉ubuntu style initrd.img，直接从andriod init启动-----------可以启动,但屏幕无显示,正在分析原因
 
 ***
 ## 按工程师分类
