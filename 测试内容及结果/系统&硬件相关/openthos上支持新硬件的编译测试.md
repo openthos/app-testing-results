@@ -20,6 +20,7 @@ mv .repo _repo
 repo init -u git://192.168.0.115/android-desktop/manifest -b multiwindow-oreo-mr1 --repo-url=git://192.168.0.115/tools/repo
 mv _repo/project*s .repo
 rm -rf _repo out
+rm -rf *		# 注：由于目前对源码的修改较为激进，每次编译前都需要重新删除所有的源码并重新同步
 repo sync -f -j1
 source build/envsetup.sh
 lunch generic_pc-userdebug
