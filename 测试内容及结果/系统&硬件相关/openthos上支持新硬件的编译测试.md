@@ -3,7 +3,7 @@
 ```
 repo init -u git://192.168.0.115/android-desktop/manifest -b android-desktop-oreo-mr1 --repo-url=git://192.168.0.115/tools/repo
 repo sync -f -j1
-./build/envsetup.sh
+. build/envsetup.sh
 lunch generic_pc-userdebug
 make iso_img -j32
 
@@ -31,12 +31,29 @@ make iso_img -j32
 # 登入系统
 ```
 
+#### android-desktop-pie
+
+```
+repo init -u git://192.168.0.115/android-desktop/manifest -b multiwindow-oreo-mr1 --repo-url=git://192.168.0.115/tools/repo
+repo sync -f -j1
+
+# 注：由于目前相关的软件仓库还没更新，需要从cwhuang的目录把相关仓库复制过来
+rm -rf external/ffmpeg external/stagefright-plugins
+cp -r -t external/ $HOME/cwhuang/external/ffmpeg $HOME/cwhuang/external/stagefright-plugins
+
+. build/envsetup.sh
+lunch generic_pc-userdebug
+make iso_img -j32
+```
+
+
+
 #### 支持GoogleTV机顶盒
 
 ```
 repo init -u git://192.168.0.115/android-desktop/manifest -b multiwindow-oreo-mr1-temp --repo-url=git://192.168.0.115/tools/repo
 repo sync -f -j1
-./build/envsetup.sh
+. build/envsetup.sh
 lunch aosp-fugu_userdebug
 make -j32
 
@@ -58,7 +75,7 @@ fastboot reboot
 ```
 repo init -u git://192.168.0.115/android-desktop/manifest -b multiwindow-oreo-mr1-temp --repo-url=git://192.168.0.115/tools/repo
 repo sync -f -j1
-./build/envsetup.sh
+. build/envsetup.sh
 lunch aosp_dragon-userdebug
 make -j32
 
