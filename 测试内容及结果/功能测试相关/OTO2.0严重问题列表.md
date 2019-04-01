@@ -13,8 +13,6 @@
 ![](../picture/notification_wrongposition.jpg)
 
 ## google相关
-- 自从在系统中加入google服务，第一次打开日历的时候会卡在登陆google帐号页面（老问题，最近有用户遇到在问，建议修改）
-![](https://github.com/openthos/app-testing-results/blob/master/testresult/picture/calendar_1.png)
 - 首次配置安装应用阶段弹出是否允许google定期检查安全问题的提示，如果没来得及点接受的话，提示会消失，之后首次配置会一直卡在安装xposed步骤(8.1也存在，只有在eng和userdebug中有，user版正常)  
 ![](../picture/firstconfig_googlesecurity.png)
 
