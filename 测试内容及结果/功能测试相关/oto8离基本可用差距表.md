@@ -140,8 +140,15 @@
 - oto8：更新设计文稿
 
 #### 董鹏
-- openthos cloud-----------[OPENTHOS云安卓端未完成项目列表](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E4%BA%91%E6%9C%8D%E5%8A%A1/OPENTHOS_CLOUD/android%E7%AB%AF%E6%9C%AA%E5%AE%8C%E6%88%90%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8.md)
-
+- openthos cloud
+   - 正常下载文件
+   - 工具栏按钮功能实现
+   - 右键菜单功能实现
+   - UI显示-----------还差右键菜单、右边文件传输进度、左下角可用容量、登录界面
+   - 底栏的四个功能，包括文件、最近、传输、我的
+   - 登录界面：去掉选择服务器、增加忘记密码、输入错误时的提示
+   - bug
+      - 单击左侧资料库->个人时崩溃
 ***
 
 ## 已解决
