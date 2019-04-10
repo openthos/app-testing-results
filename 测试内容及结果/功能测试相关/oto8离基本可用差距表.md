@@ -1,7 +1,7 @@
 # oto8离基本可用差距表
 - **目标：六月前完成oto8**
 - 根据UX和刘总的沟通结果，目前oto8的工作以移植为主，暂不考虑大的改动
-
+- [oto8项目进度表](https://github.com/openthos/app-testing-results/blob/master/list/%E5%8A%9F%E8%83%BD%E7%82%B9%E5%88%97%E8%A1%A8/oto8%E9%A1%B9%E7%9B%AE%E8%BF%9B%E5%BA%A6%E8%A1%A8.md)
 
 ***
 
