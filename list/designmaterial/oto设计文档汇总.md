@@ -1,5 +1,11 @@
 ## 系统
 
+- [DisplayMirror的设计与实现](https://github.com/openthos/system-analysis/blob/master/display/DisplayMirror.md)
+- [vold对移动存储多分区的支持](https://github.com/openthos/system-analysis/blob/master/display/vold.md)
+- [system+kernel功能的设计与实现](https://github.com/openthos/system-analysis/blob/master/kernel-related/kernel-devel-summary-20160728.md)
+- [系统维护功能的设计与实现](https://github.com/openthos/system-analysis/blob/master/maintain/develop-maintain.md)
+- [虚拟设备权限的设计](https://github.com/openthos/system-analysis/blob/master/VirtualPermission/%E5%BA%94%E7%94%A8%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88%E8%AE%A8%E8%AE%BA.md)
+
 ## 多窗口
   - [Android8.1多窗口初步设计及实现](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/Android8.1%E5%A4%9A%E7%AA%97%E5%8F%A3%E5%88%9D%E6%AD%A5%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E7%8E%B0.md)
   - [Android 8.1多窗口之DecorCaption功能需求与实现文档](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/liuxx/Android%208.1%E5%A4%9A%E7%AA%97%E5%8F%A3%E4%B9%8BDecorCaption%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82%E4%B8%8E%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3.md)
@@ -12,7 +18,7 @@
   - [multiwin部分移植问题](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/lh/multiwin%E9%83%A8%E5%88%86%E7%A7%BB%E6%A4%8D%E9%97%AE%E9%A2%98.txt)
   - [窗口缩放相关分析和测试](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/lh/%E7%AA%97%E5%8F%A3%E7%BC%A9%E6%94%BE%E7%9B%B8%E5%85%B3%E5%88%86%E6%9E%90%E5%92%8C%E6%B5%8B%E8%AF%95.txt)
   - [ActivityRecord、TaskRecord、ActivityStack分析](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/liuxx/6-29%207.1%20ActivityRecord%E3%80%81TaskRecord%E3%80%81ActivityStack%E5%88%86%E6%9E%90.md)
-  
+
 ## 系统设置
 - Settings功能需求与设计实现
    - [在系统上添加新应用以及注意点](https://github.com/openthos/setting-analysis/blob/master/InstallApp.md)
