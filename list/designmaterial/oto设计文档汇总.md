@@ -28,6 +28,8 @@
 
 ## 文件管理器
 - [FileManager设计与实现](https://github.com/openthos/oto-filemanager-analysis/blob/master/doc/summary/FileManager%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+- [FileManager系统结构](https://github.com/openthos/oto-filemanager-analysis/blob/master/doc/summary/%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84.md)
+- [FileManager的几个基本功能流程图](https://github.com/openthos/oto-filemanager/blob/master/doc/summary/%E6%B5%81%E7%A8%8B%E5%9B%BE.md)
 - [FileManager代码结构及说明](https://github.com/openthos/oto-filemanager-analysis/blob/master/doc/summary/FileManager%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84%E5%8F%8A%E8%AF%B4%E6%98%8E.md)
 - [Samba Server技术实现与问题汇总](https://github.com/openthos/oto-filemanager-analysis/blob/master/Samba%20Server%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB)
 
@@ -49,6 +51,7 @@
 
 ## openthos云服务
 - [云服务工作流程图](https://github.com/openthos/multiwin-analysis/tree/master/seafile)
+- [seafile功能实现流程(文件管理器部分)](https://github.com/openthos/oto-filemanager-analysis/blob/master/doc/summary/seafile%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0%E6%B5%81%E7%A8%8B.md)
 - [容量quota需求、实现文档](https://github.com/openthos/multiwin-analysis/blob/master/seafile/Seafile%20project%20quota%20implementation.md)
 - [openthos云（android端）设计文档](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/dongpeng/seafile_requirements_document.md)
 /Product_Requirements_Document_20190104.md)
