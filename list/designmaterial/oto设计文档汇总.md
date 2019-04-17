@@ -22,10 +22,12 @@
 
 ## 文件管理器
 - [FileManager设计与实现](https://github.com/openthos/oto-filemanager-analysis/blob/master/doc/summary/FileManager%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+- [FileManager代码结构及说明](https://github.com/openthos/oto-filemanager-analysis/blob/master/doc/summary/FileManager%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84%E5%8F%8A%E8%AF%B4%E6%98%8E.md)
 - [Samba Server技术实现与问题汇总](https://github.com/openthos/oto-filemanager-analysis/blob/master/Samba%20Server%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB)
 
 ## 桌面
-
+- [Desktop设计与实现](https://github.com/openthos/desktop-analysis/blob/master/doc/Desktop%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+- [Desktop代码结构说明.md](https://github.com/openthos/desktop-analysis/blob/master/doc/Desktop%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E.md)
 
 ## SystemUI
 - [开始菜单设计文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/StartupMenu%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
