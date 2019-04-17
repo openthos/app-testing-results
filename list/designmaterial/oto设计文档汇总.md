@@ -1,10 +1,9 @@
 ## 系统
-
-- [DisplayMirror的设计与实现](https://github.com/openthos/system-analysis/blob/master/display/DisplayMirror.md)
-- [vold对移动存储多分区的支持](https://github.com/openthos/system-analysis/blob/master/display/vold.md)
 - [system+kernel功能的设计与实现](https://github.com/openthos/system-analysis/blob/master/kernel-related/kernel-devel-summary-20160728.md)
 - [系统维护功能的设计与实现](https://github.com/openthos/system-analysis/blob/master/maintain/develop-maintain.md)
 - [虚拟设备权限的设计](https://github.com/openthos/system-analysis/blob/master/VirtualPermission/%E5%BA%94%E7%94%A8%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88%E8%AE%A8%E8%AE%BA.md)
+- [DisplayMirror的设计与实现](https://github.com/openthos/system-analysis/blob/master/display/DisplayMirror.md)
+- [vold对移动存储多分区的支持](https://github.com/openthos/system-analysis/blob/master/display/vold.md)
 
 ## 多窗口
   - [Android8.1多窗口初步设计及实现](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/Android8.1%E5%A4%9A%E7%AA%97%E5%8F%A3%E5%88%9D%E6%AD%A5%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E7%8E%B0.md)
