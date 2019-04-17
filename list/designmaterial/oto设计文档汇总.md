@@ -41,7 +41,10 @@
 - [openthos云（windows、linux、macOS端）设计文档]
 
 ## 应用商店
+- [AppStore设计文档][https://github.com/openthos/appstore-ota-analysis/blob/master/AppStore%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md]
 - [应用商店抓取 设计文档](https://github.com/Midysen/googleplay/blob/master/详细设计.md)
+- [应用商店代码结构](https://github.com/openthos/appstore-ota-analysis/blob/master/design_document/%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.md)
+- [具体功能实现](https://github.com/openthos/appstore-ota-analysis/tree/master/design_document)
 
 ## 首次配置
 
