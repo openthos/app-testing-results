@@ -48,7 +48,7 @@
 - [openthos云（windows、linux、macOS端）设计文档]
 
 ## 应用商店
-- [AppStore设计文档][https://github.com/openthos/appstore-ota-analysis/blob/master/AppStore%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md]
+- [AppStore设计文档](https://github.com/openthos/appstore-ota-analysis/blob/master/AppStore%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
 - [应用商店主体结构](https://github.com/openthos/appstore-ota-analysis/blob/master/design_document/%E4%B8%BB%E4%BD%93%E7%BB%93%E6%9E%84.md)
 - [应用商店代码结构](https://github.com/openthos/appstore-ota-analysis/blob/master/design_document/%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.md)
 - [AppStore服务端的实现](https://github.com/openthos/appstore-ota-analysis/blob/master/Server/README.md)
