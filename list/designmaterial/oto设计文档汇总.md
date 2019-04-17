@@ -16,9 +16,8 @@
 ## 系统设置
 - [系统升级设计及需求分析文档](https://github.com/openthos/setting-analysis/blob/master/%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7%E8%AE%BE%E8%AE%A1%E5%8F%8A%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%96%87%E6%A1%A3.md)
 
-
-
-
+## OTA系统升级
+- [OTA实现](https://github.com/openthos/appstore-ota-analysis/blob/master/Server/OTA.md)
 
 ## 文件管理器
 - [FileManager设计与实现](https://github.com/openthos/oto-filemanager-analysis/blob/master/doc/summary/FileManager%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
@@ -30,8 +29,16 @@
 - [Desktop代码结构说明.md](https://github.com/openthos/desktop-analysis/blob/master/doc/Desktop%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E.md)
 
 ## SystemUI
-- [开始菜单设计文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/StartupMenu%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
-- [Openthos8.1设计文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/Openthos8.1/Openthos8.1%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+- Systemui-analysis－5.1
+   - [最初需求文档](https://github.com/openthos/systemui-analysis/blob/master/dongpeng/systemui_Design_and_implementation.md)
+   - [StartupMenu设计文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/StartupMenu%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+   - [StatusBar设计文档](https://github.com/openthos/systemui-analysis/blob/master/CYR/Openthos-5.1/%E6%9C%80%E5%88%9DStatusBar%E9%80%BB%E8%BE%91%E6%B5%81%E7%A8%8B.md)
+   - [Notification设计文档](https://github.com/openthos/systemui-analysis/blob/master/CYR/Openthos-5.1/%E6%9C%80%E7%BB%88%E9%80%9A%E7%9F%A5%E6%A0%8F%E9%80%BB%E8%BE%91.md)
+   - [TextEdito分析文档](https://github.com/openthos/systemui-analysis/blob/master/CYR/Openthos-5.1/TextEditor%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%88%86%E6%9E%90.md)
+   - [OtoTaskManager分析文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3.md)
+
+- Systemui-analysis-8.1
+   - [Openthos-8.1的StartupMenu和StatusBar的最初设计](https://github.com/openthos/systemui-analysis/blob/master/LJH/Openthos8.1/Openthos8.1%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
 
 ## openthos云服务
 - [云服务工作流程图](https://github.com/openthos/multiwin-analysis/tree/master/seafile)
@@ -42,8 +49,10 @@
 
 ## 应用商店
 - [AppStore设计文档][https://github.com/openthos/appstore-ota-analysis/blob/master/AppStore%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md]
-- [应用商店抓取 设计文档](https://github.com/Midysen/googleplay/blob/master/详细设计.md)
+- [应用商店主体结构](https://github.com/openthos/appstore-ota-analysis/blob/master/design_document/%E4%B8%BB%E4%BD%93%E7%BB%93%E6%9E%84.md)
 - [应用商店代码结构](https://github.com/openthos/appstore-ota-analysis/blob/master/design_document/%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.md)
+- [AppStore服务端的实现](https://github.com/openthos/appstore-ota-analysis/blob/master/Server/README.md)
+- [应用商店抓取 设计文档](https://github.com/Midysen/googleplay/blob/master/详细设计.md)
 - [具体功能实现](https://github.com/openthos/appstore-ota-analysis/tree/master/design_document)
 
 ## 首次配置
@@ -55,3 +64,4 @@
 
 ## 浏览器
 
+## 终端命令行
