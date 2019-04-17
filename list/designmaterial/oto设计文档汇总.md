@@ -15,10 +15,10 @@
   
 ## 系统设置
 - Settings功能需求与设计实现
-   - [在系统上添加新应用以及注意点.md](https://github.com/openthos/setting-analysis/blob/master/InstallApp.md)
+   - [在系统上添加新应用以及注意点](https://github.com/openthos/setting-analysis/blob/master/InstallApp.md)
    - [Settings整体代码结构以及语法格式特点](https://github.com/openthos/setting-analysis/blob/master/specialIntroduce.md)
    - [Settings各个模块的代码结构](https://github.com/openthos/setting-analysis/blob/master/setting_modules.md)   
-   - [往settings中追加新项目](https://github.com/openthos/setting-analysis/blob/master/如何在Settings实现一个运行模式功能的布局V0.3.docx)
+   - [往settings中追加新项目.docx](https://github.com/openthos/setting-analysis/blob/master/如何在Settings实现一个运行模式功能的布局V0.3.docx)
    - [在settings中隐藏已存在项目](https://github.com/openthos/setting-analysis/blob/master/setting_hide_menu.md)
    - [在Settings中定位代码以及代码分析经验](https://github.com/openthos/setting-analysis/blob/master/experience.md)
 
