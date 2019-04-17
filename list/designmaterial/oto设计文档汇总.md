@@ -73,7 +73,7 @@
 - [具体功能实现](https://github.com/openthos/appstore-ota-analysis/tree/master/design_document)
 
 ### 首次配置
-- [首次配置设计实现文档](https://github.com/openthos/app-testing-results/blob/master/list/designmaterial/oto%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3%E6%B1%87%E6%80%BB.md)
+- [首次配置设计实现文档](https://github.com/openthos/firtboot-config-analysis/blob/master/doc/summary/firstboot_on_july.md)
 
 ### 任务管理器
 - [任务管理器设计实现文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3.md)
