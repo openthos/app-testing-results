@@ -16,20 +16,37 @@
 ## 系统设置
 - [系统升级设计及需求分析文档](https://github.com/openthos/setting-analysis/blob/master/%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7%E8%AE%BE%E8%AE%A1%E5%8F%8A%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%96%87%E6%A1%A3.md)
 
-## 首次配置
 
-## 浏览器
+
+
 
 ## 文件管理器
+- [FileManager设计与实现](https://github.com/openthos/oto-filemanager-analysis/blob/master/doc/summary/FileManager%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+- [Samba Server技术实现与问题汇总](https://github.com/openthos/oto-filemanager-analysis/blob/master/Samba%20Server%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB)
 
 ## 桌面
 
-## 应用商店
 
 ## SystemUI
+- [开始菜单设计文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/StartupMenu%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+- [Openthos8.1设计文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/Openthos8.1/Openthos8.1%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+
+## openthos云服务
+- [云服务工作流程图](https://github.com/openthos/multiwin-analysis/tree/master/seafile)
+- [容量quota需求、实现文档](https://github.com/openthos/multiwin-analysis/blob/master/seafile/Seafile%20project%20quota%20implementation.md)
+- [openthos云（android端）设计文档](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/dongpeng/seafile_requirements_document.md)
+/Product_Requirements_Document_20190104.md)
+- [openthos云（windows、linux、macOS端）设计文档]
+
+## 应用商店
+- [应用商店抓取 设计文档](https://github.com/Midysen/googleplay/blob/master/详细设计.md)
+
+## 首次配置
 
 ## 任务管理器
+- [任务管理器设计实现文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3.md)
 
 ## 权限管理器
 
-## openthos云
+## 浏览器
+
