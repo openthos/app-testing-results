@@ -14,6 +14,31 @@
   - [ActivityRecord、TaskRecord、ActivityStack分析](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/liuxx/6-29%207.1%20ActivityRecord%E3%80%81TaskRecord%E3%80%81ActivityStack%E5%88%86%E6%9E%90.md)
   
 ## 系统设置
+- Settings功能需求与设计实现
+## 如何在系统上添加一个新的应用以及注意点（类似与追加打印机、文件管理器及桌面应用等）
+
+请查看：[InstallApp.md](https://github.com/openthos/setting-analysis/edit/master/InstallApp.md)
+
+## Settings整体代码结构以及语法格式特点
+
+请查看：[specialIntroduce.md](https://github.com/openthos/setting-analysis/edit/master/specialIntroduce.md)
+
+## Settings各个模块的代码结构
+
+请查看：[setting_modules.md](https://github.com/openthos/setting-analysis/blob/master/setting_modules.md)   
+
+## 如何往settings中追加新的一个项目（类似于运行模式）
+
+请查看：[文档](https://github.com/openthos/setting-analysis/edit/master/如何在Settings实现一个运行模式功能的布局V0.3.docx)
+
+
+## 如何在settings中隐藏已经存在的某些项目
+
+请查看：[setting_hide_menu.md](https://github.com/openthos/setting-analysis/blob/master/setting_hide_menu.md)
+
+## 如何在在Settings中顺利定位要操作的代码位置，以及代码分析经验
+
+请查看：[experience.md](https://github.com/openthos/setting-analysis/edit/master/experience.md)
 - [系统升级设计及需求分析文档](https://github.com/openthos/setting-analysis/blob/master/%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7%E8%AE%BE%E8%AE%A1%E5%8F%8A%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%96%87%E6%A1%A3.md)
 
 ## OTA系统升级
