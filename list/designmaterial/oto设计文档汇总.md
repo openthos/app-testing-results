@@ -1,3 +1,16 @@
+## UI
+
+- 完成框架，还需进一步完善
+
+## 安全启动
+
+- CW今日不在，尚不清楚
+
+## 测试
+
+- 自动化测试的设计与实现
+- 用户手册
+
 ## 系统
 
 - [DisplayMirror的设计与实现](https://github.com/openthos/system-analysis/blob/master/display/DisplayMirror.md)
