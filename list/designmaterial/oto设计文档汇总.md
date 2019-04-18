@@ -1,6 +1,6 @@
 ## UI
 
-- 完成框架，还需进一步完善
+- 完成大致内容，还需进一步完善
 
 ## 安全启动
 
@@ -8,8 +8,8 @@
 
 ## 测试
 
-- 自动化测试的设计与实现
-- 用户手册
+- [自动化测试的设计与实现](https://github.com/openthos/app-testing-results/blob/master/list/designmaterial/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+- [用户手册](https://github.com/openthos/userguide-analysis/blob/master/SUMMARY.md)
 
 ## 系统类
 - [system+kernel功能的设计与实现](https://github.com/openthos/system-analysis/blob/master/kernel-related/kernel-devel-summary-20160728.md)
