@@ -4,19 +4,19 @@
 
 ## 安全启动
 
-- CW今日不在，尚不清楚
+- 
 
 ## 测试
 
-- [自动化测试的设计与实现](https://github.com/openthos/app-testing-results/blob/master/list/designmaterial/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
-- [用户手册](https://github.com/openthos/userguide-analysis/blob/master/SUMMARY.md)
+- [自动化测试的设计与实现](https://github.com/openthos/app-testing-results/blob/master/list/designmaterial/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md):SZX提交初稿
+- [用户手册](https://github.com/openthos/userguide-analysis/blob/master/SUMMARY.md)：完成
 
 ## 系统类
 - [system+kernel功能的设计与实现](https://github.com/openthos/system-analysis/blob/master/kernel-related/kernel-devel-summary-20160728.md)
-- [系统维护功能的设计与实现](https://github.com/openthos/system-analysis/blob/master/maintain/develop-maintain.md)
-- [虚拟设备权限的设计](https://github.com/openthos/system-analysis/blob/master/VirtualPermission/%E5%BA%94%E7%94%A8%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88%E8%AE%A8%E8%AE%BA.md)
+- [系统维护功能的设计与实现](https://github.com/openthos/system-analysis/blob/master/maintain/develop-maintain.md):XLY提交初稿
+- [虚拟设备权限的设计](https://github.com/openthos/system-analysis/blob/master/VirtualPermission/%E5%BA%94%E7%94%A8%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88%E8%AE%A8%E8%AE%BA.md)：MDX提交初稿
 - [DisplayMirror的设计与实现](https://github.com/openthos/system-analysis/blob/master/display/DisplayMirror.md)
-- [vold对移动存储多分区的支持](https://github.com/openthos/system-analysis/blob/master/display/vold.md)
+- [vold对移动存储多分区的支持](https://github.com/openthos/system-analysis/blob/master/display/vold.md):XLY提交初稿
 
 ## 多窗口类
   - [Android8.1多窗口初步设计及实现](https://github.com/openthos/multiwin-analysis/blob/master/multiwindow/Android8.1%E5%A4%9A%E7%AA%97%E5%8F%A3%E5%88%9D%E6%AD%A5%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E7%8E%B0.md)
@@ -63,11 +63,13 @@
    - [StartupMenu设计文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/StartupMenu%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
    - [StatusBar设计文档](https://github.com/openthos/systemui-analysis/blob/master/CYR/Openthos-5.1/%E6%9C%80%E5%88%9DStatusBar%E9%80%BB%E8%BE%91%E6%B5%81%E7%A8%8B.md)
    - [Notification设计文档](https://github.com/openthos/systemui-analysis/blob/master/CYR/Openthos-5.1/%E6%9C%80%E7%BB%88%E9%80%9A%E7%9F%A5%E6%A0%8F%E9%80%BB%E8%BE%91.md)
-   - [TextEdito分析文档](https://github.com/openthos/systemui-analysis/blob/master/CYR/Openthos-5.1/TextEditor%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%88%86%E6%9E%90.md)
+   - [TextEdito分析文档](https://github.com/openthos/systemui-analysis/blob/master/LuNing/TextEditor%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3-%E6%9B%B4%E6%96%B0.md):LN提交初稿
    - [OtoTaskManager分析文档](https://github.com/openthos/systemui-analysis/blob/master/LJH/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3.md)
 
 - Systemui-analysis-8.1
+
    - [Openthos-8.1的StartupMenu和StatusBar的最初设计](https://github.com/openthos/systemui-analysis/blob/master/LJH/Openthos8.1/Openthos8.1%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+   - [8.1SystemUI设计文档-更新.md](https://github.com/openthos/systemui-analysis/blob/master/LuNing/8.1SystemUI%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3-%E6%9B%B4%E6%96%B0.md):LN提交初稿
 
 ### openthos云服务
 - [云服务工作流程图](https://github.com/openthos/multiwin-analysis/tree/master/seafile)
