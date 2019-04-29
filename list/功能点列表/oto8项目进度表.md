@@ -1,6 +1,6 @@
 # oto8项目进度表
 
-- 总进度：932.7 / 25 = 37.308 %
+- 总进度：965.95 / 25 = 38.638 %
 - [oto8离基本可用差距表](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/oto8%E7%A6%BB%E5%9F%BA%E6%9C%AC%E5%8F%AF%E7%94%A8%E5%B7%AE%E8%B7%9D%E8%A1%A8.md)
 - [本周工作任务](https://github.com/openthos/community-analysis/blob/master/weekly%20report/work-progress/20190423-201904029%E5%91%A8%E4%BB%BB%E5%8A%A1%E8%BF%9B%E5%BA%A6.md)
 
@@ -14,9 +14,9 @@
 ||||||
 U盘启动|||肖||整体：100 %|
 ||||||
-Linux GNU常用命令工具|||肖||整体：0 %|
+Linux GNU常用命令工具|||肖||整体：30 %|
 ||||||
-UI界面|设计||赵|50 %|整体：23 %|
+UI界面|设计||赵|70 %|整体：26.25 %|
 ||窗口样式|换图片|多窗口组|100 %||
 |||修改按钮和菜单布局|多窗口组|50 %||
 |||半透明|多窗口组|0 %||
