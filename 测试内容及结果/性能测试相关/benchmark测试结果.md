@@ -11,11 +11,13 @@
    - 文档编写：11126
    - 图片编辑：27809
    - 数据操作：6977
+   - ![](screenshot/e500-work2.png)
 - 计算机视觉
    - 总分：11618
    - TensorFlow：112.2
    - ZXing：8.36
    - Tesseract：679.75
+   - ![](screenshot/e500-version.png)
 - 存储
    - 总分：17224
    - 内部存储顺序读取949.81 MB/s
@@ -30,6 +32,7 @@
    - SQLite更新：1000 /OPS
    - SQLite插入：666 /OPS
    - SQLite删除：1000 /OPS
+   - ![](screenshot/e500-storage.png)
 - sling shot extreme
    - 总分：7746
    - 显卡分数：8690
@@ -39,6 +42,8 @@
    - 物理测试第1部分（FPS）：60.00
    - 物理测试第2部分（FPS）：59.90
    - 物理测试第3部分（FPS）：34.70
+   - ![](screenshot/e500-slingshotextreme1.png)
+   - ![](screenshot/e500-slingshotextreme2.png)
 
 #### 2. 笔记本 S6
 - 工作2.0
@@ -48,11 +53,13 @@
    - 文档编写：11684
    - 图片编辑：24287
    - 数据操作：6982
+   - ![](screenshot/s6-work2.png)
 - 计算机视觉
    - 总分：11040
    - TensorFlow：94.9
    - ZXing：11.71
    - Tesseract：694.75
+   - ![](screenshot/s6-version.png)
 - 存储
    - 总分：4680
    - 内部存储顺序读取503.09 MB/s
@@ -67,6 +74,7 @@
    - SQLite更新：100 /OPS
    - SQLite插入：83 /OPS
    - SQLite删除：100 /OPS
+   - ![](screenshot/s6-storage.png)
 - sling shot extreme
    - 总分：3699
    - 显卡分数：3456
@@ -76,4 +84,6 @@
    - 物理测试第1部分（FPS）：59.90
    - 物理测试第2部分（FPS）：55.90
    - 物理测试第3部分（FPS）：28.60
+   - ![](screenshot/s6-slingshotextreme1.png)
+   - ![](screenshot/s6-slingshotextreme2.png)
 #### 3. 笔记本 t45
