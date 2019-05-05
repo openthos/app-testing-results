@@ -1,7 +1,8 @@
 ## benchmark测试结果
-<p>
-测试设备列表：https://github.com/openthos/app-testing-results/blob/master/list/%E6%B5%8B%E8%AF%95%E8%AE%BE%E5%A4%87%E5%88%97%E8%A1%A8.md
 
+### 测试设备列表
+ - https://github.com/openthos/app-testing-results/blob/master/list/%E6%B5%8B%E8%AF%95%E8%AE%BE%E5%A4%87%E5%88%97%E8%A1%A8.md
+### 20190505
 |设备名称||工作2.0|计算机视觉|存储|sling shot extreme|
 |-----|-----|-----|-----|-----|-----|
 |台式机<p>超越E500-63548||总分：10908<p>网络浏览：11558<p>视频编辑：6189<p>文档编写：11126<p>图片编辑：27809<p>数据操作：6977|总分：11618<p>TensorFlow：112.2<p>ZXing：8.36<p>Tesseract：679.75|总分：17224<p>内部存储顺序读取949.81 MB/s<p>内部存储随机读取：42.53 MB/s<p>内部存储顺序写入：733.9 MB/s<p>内部存储随机写入：15.5 MB/s<p>外部存储顺序读取：374.8 MB/s<p>外部存储随机读取：35.72 MB/s<p>外部存储顺序写入：492.78 MB/s<p>外部存储随机写入：15.59 MB/s<p>SQLite读取：11811 /OPS<p>SQLite更新：1000 /OPS<p>SQLite插入：666 /OPS<p>SQLite删除：1000 /OPS|总分：7746<p>显卡分数：8690<p>显卡测试1（FPS）：45.20<p>显卡测试2（FPS）:32.40<p>物理分数：5613<p>物理测试第1部分（FPS）：60.00<p>物理测试第2部分（FPS）：59.90<p>物理测试第3部分（FPS）：34.70|
