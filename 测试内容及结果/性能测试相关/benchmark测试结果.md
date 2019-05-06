@@ -87,3 +87,12 @@
    - ![](screenshot/s6-slingshotextreme1.png)
    - ![](screenshot/s6-slingshotextreme2.png)
 #### 3. 笔记本 t45
+- 工作2.0
+   - ![](screenshot/t45-work2.png)
+- 计算机视觉
+   - ![](screenshot/t45-version.png)
+- 存储
+   - ![](screenshot/t45-storage.png)
+- sling shot extreme
+   - ![](screenshot/t45-slingshotextreme1.png)
+   - ![](screenshot/t45-slingshotextreme2.png)
