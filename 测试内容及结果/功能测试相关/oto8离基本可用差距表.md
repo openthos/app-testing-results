@@ -120,6 +120,7 @@
 #### 浏览器
 - 基于chrome的浏览器，要达到和基于firefox的相同效果
    - 需要将所有指向google.com的链接改为openthos的网站（比如首次打开出现的隐私条款等）
+   - chrome和chromium的关键字是否需要改为openthso浏览器之类的
    - 设置浏览器的默认页为openthos.org-----------30％
    - 打开网页速度很慢（相同环境下chrome要快很多）
    - 无法播放视频和音频（相同环境下chrome可以）
