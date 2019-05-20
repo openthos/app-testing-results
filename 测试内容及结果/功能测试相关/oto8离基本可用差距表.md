@@ -2,7 +2,7 @@
 - **目标：六月前完成oto8**
 - 根据UX和刘总的沟通结果，目前oto8的工作以移植为主，暂不考虑大的改动
 - [oto8项目进度表](https://github.com/openthos/app-testing-results/blob/master/list/%E5%8A%9F%E8%83%BD%E7%82%B9%E5%88%97%E8%A1%A8/oto8%E9%A1%B9%E7%9B%AE%E8%BF%9B%E5%BA%A6%E8%A1%A8.md)
-- [本周工作任务](https://github.com/openthos/community-analysis/blob/master/weekly%20report/work-progress/20190430-20190506%E5%91%A8%E4%BB%BB%E5%8A%A1%E8%BF%9B%E5%BA%A6.md)
+- [本周工作任务](https://github.com/openthos/community-analysis/blob/master/weekly%20report/work-progress/20190514-20190520%E5%91%A8%E4%BB%BB%E5%8A%A1%E8%BF%9B%E5%BA%A6.md)
 - [oto8测试点列表](https://github.com/openthos/app-testing-results/tree/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/oto8)
 
 ***
@@ -14,14 +14,10 @@
 
 ***
 ## 本周新增问题
-- qq在后台运行一段时间后报停止运行错误，多台电脑可以复现，[点击查看log](../log/qqcrash.txt)
-- 在U盘中拷贝粘贴文件时进行卸载或格式化操作会有冲突，建议设置这类操作和复制粘贴功能互斥。
-- 相机/摄像头
-   - 微信的视频功能只有第一次能用，之后会无法显示自己这方的画面
-   - qq无法进行视频操作，进入视频模式会立刻跳出
-   - 美颜相机无法使用，提示没有相机权限，但实际上在设置里面已经给权限了
-   - 激萌相机图像显示倒置
-   - 微信和激萌相机一开始会将摄像头设置为后置摄像头，而在oto2的微信上强制只用前置摄像头
+- chromium浏览器：需要将所有指向google.com的链接改为openthos的网站（比如首次打开出现的隐私条款等）
+- chromium浏览器：chrome和chromium的关键字是否需要改为openthso浏览器之类的
+- chromium浏览器：手机版无法输入验证码
+- 由于原生的chrome浏览器无法下载文件且无法编辑github，建议屏蔽
    
 ***
 
