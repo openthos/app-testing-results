@@ -1,6 +1,6 @@
 # oto8项目进度表
 
-- 总进度：1022.73 / 25 = 40.9 %
+- 总进度：1047.73 / 25 = 41.9 %
 - [oto8离基本可用差距表](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/oto8%E7%A6%BB%E5%9F%BA%E6%9C%AC%E5%8F%AF%E7%94%A8%E5%B7%AE%E8%B7%9D%E8%A1%A8.md)
 - [本周工作任务](https://github.com/openthos/community-analysis/blob/master/weekly%20report/work-progress/20190430-20190506%E5%91%A8%E4%BB%BB%E5%8A%A1%E8%BF%9B%E5%BA%A6.md)
 
@@ -83,10 +83,10 @@ SystemUI|基本功能移植||卢|100 %|整体：58 %|
 ||||||
 任务管理器|||||整体：0 %|
 ||||||
-权限管理器|camera部分||苗|100 %|整体：40 %|
-||GPS部分||苗|10 %||
+权限管理器|camera部分||苗|100 %|整体：65 %|
+||GPS部分||善|10 %||
 ||audio部分||苗|50 %|
-||应用部分||刘|0 %|
+||应用部分||刘|100 %|
 ||||||
 录音机|||王||整体：100 %|
 ||||||
