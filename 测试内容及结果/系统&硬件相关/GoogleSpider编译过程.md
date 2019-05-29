@@ -1,18 +1,3 @@
-已实现功能：
-
-- 从Google Play获取应用。
-- 自动解析apk中的所需信息，存入数据库中，并可读取数据库的信息。
-- 可以将应用商店所需信息上传到服务器。
-- 可以在应用商店里看到获取的应用。
-
-实际应用中面临的问题：
-
-- 脚本对VPN网络要求较高，只有早上(约9点之前)和下午(约3点之后)网络较好
-- 不是完全的自动化，下载的应用需要手动复制到指定位置，之后才能上传到应用商店
-- 下载的过程是多个脚本的综合，有一个脚本执行失败，整个自动化过程即失败。
-- 不能在服务器上运行此脚本，需要占用单独的计算机。
-- 目前只下载了游戏，没有下载其它应用。
-
 #### 环境准备
 
 ```
@@ -21,7 +6,7 @@ apt install python3 node
 
 ＃ 需要安装mongodb,robo3t
 
-# 需要一个运行在x86上的安卓系统，目前是vmvare + PhoenixOS(PhoenixOS上要安装googleplay且登陆)
+# 需要一个运行在x86上的安卓系统
 
 # 本机需要能连接到googleplay
 ```
@@ -33,9 +18,9 @@ apt install python3 node
 ```
 # 注：需要修改源文件中的脚本中的路径，以与本机相符
 # 注：需要修改脚本里googleplay的账户和密码
-git clone https://github.com/Midysen/googleplay.git
-cd googleplay/Test
-tar xf apkinfo_v1.1.5.tar.bz2
+git clone //192.168.0.185/openthos/oto-GooglePlayspider
+cd oto-GooglePlayspider
+tar xf apkinfo_v1.1.6.tar.bz2
 
 sudo apt install python3-scrapy
 sudo apt install mongodb
@@ -53,8 +38,8 @@ sudo apt install mongodb
 解压apkinfo_v1.1.5.tar.bz2，进入apkinfo_v1.1-CN 目录下，运行 scrapy crawl google， 首先抓取google play上应用程序的信息
 
 ```
-cd apkinfo_v1.1-CN
-scrapy crawl google
+cd apkinfo_v1.1-CN/apkinfo
+scrapy crawl google		# 注意要在apkinfo目录下，且连接vPN才可成功运行
 python3 DuplicateRemoval.py
 ```
 
