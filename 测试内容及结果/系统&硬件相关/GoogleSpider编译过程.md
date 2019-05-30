@@ -48,6 +48,8 @@ python3 DuplicateRemoval.py
 ```
 cd AppStore
 node down_main_all.js 		# 大量timeoutError，对网络要求较高
+	# 如“Cannot find module xxx”，则"npm i xxx"
+	# 修改account和password，还有邮件接收者
 mkdir image
 python3 download_img.py
 ```
