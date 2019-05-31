@@ -22,6 +22,7 @@
    - [浏览器](#浏览器)
    - [其它应用](#其它应用)
    - [外接设备](#外接设备)
+   - [其它](#其它)
 - [已解决](#已解决)
 
 ***
@@ -162,6 +163,18 @@
    - 文件管理器、设置和首次配置的UI功能移植For those who are using maven build structures, checkout the project from maven branch.
    - seafile demo及其依赖库移植到aosp8.1-----------已完成，需要王之旭修改UI才能开始测试
    - 用C重新实现seaf-cli-----------已完成，需要王之旭修改UI才能开始测试
+   - 网页版云服务：
+      - 1. 网址是cloud.openthos.com，但页面标题显示的是dev.openthos.org，注册界面输入用户名下方的提示也是dev的
+      - 2. cloud.openthos.com注册时提示无法发送邮件到e-mail
+      - 3. 发来的e-mail邮件显示发送人为肖络元，最好换成官方一些的名称
+      - 4. 进入忘记密码页面后，输入完邮箱提示无法发送邮件
+      - 5. 注册成功后也无法登陆
+      - 6. 修改密码完成页面左侧的导航区域两个按钮点击后不是正常的页面
+      - 7. 退出登陆后弹出如下提示：
+```
+    Warning: session_destroy(): Session callback expects true/false return value 在 user_logout() (行 178 在 /shared/html/id/modules/user/user.pages.inc).
+    Warning: session_destroy(): Session object destruction failed 在 user_logout() (行 178 在 /shared/html/id/modules/user/user.pages.inc).
+```
 - 图片管理器
    - 无法正常查看图片，一直显示同一张图片
 - 首次配置
