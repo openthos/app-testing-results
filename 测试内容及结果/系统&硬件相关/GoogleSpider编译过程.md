@@ -33,25 +33,22 @@ sudo apt install mongodb
 
 #### 分步执行
 
-##### 1 抓取google play上的信息
-
-解压apkinfo_v1.1.5.tar.bz2，进入apkinfo_v1.1-CN 目录下，运行 scrapy crawl google， 首先抓取google play上应用程序的信息
+##### 1 抓取google play上的信息，保存在数据库里
 
 ```
+tar xf apkinfo*.tar.bz2
 cd apkinfo_v1.1-CN/apkinfo
 scrapy crawl google		# 注意要在apkinfo目录下，且连接vPN才可成功运行
-python3 DuplicateRemoval.py
+python3 DuplicateRemoval.py	# app信息去重
 ```
 
-##### 2 运行down_main_all.js
+##### 2 运行down_main_all.js下载所有apk
 
 ```
 cd AppStore
 node down_main_all.js 		# 大量timeoutError，对网络要求较高
 	# 如“Cannot find module xxx”，则"npm i xxx"
 	# 修改account和password，还有邮件接收者
-mkdir image
-python3 download_img.py
 ```
 
 ##### 3 拷贝虚拟机里/data/app目录到本地的目录
@@ -66,7 +63,10 @@ sudo vmvare-mount -x
 ##### 4 应用信息写入数据库
 
 ```
-python3 aggregate.py
+mkdir image
+python3 download_img.py		# 下载所有apk的图标
+python3 aapt.py				# 解析出openthos应用商店需要的信息
+python3 aggregate.py		# 生成应用商店需要的all文件和game文件
 ```
 
 ##### 5 上传apk到应用商店
