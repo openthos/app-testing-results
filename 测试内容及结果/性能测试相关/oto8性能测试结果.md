@@ -29,4 +29,6 @@
 ||SQLite 插入|64 IOPS|90 IOPS|
 ||SQLite 删除|76 IOPS|111 IOPS|
 ||操作系统版本|8.1.0|8.1.0|
-
+|3DMark-Sling Shot Extreme - OpenGL ES 3.1|总体分数|3 092|3 112| 
+||显卡分数|3 117|3 126|
+||物理分数|3 007|3 062|
