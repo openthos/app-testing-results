@@ -28,7 +28,8 @@
 ## 本周新增问题
 - 1366分辨率的电脑图标显示模糊
 - 1366分辨率的电脑按alt+f1进不了命令行
-- 其它问题:https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%9520190604.md
+- 其它问题:
+- [全面测试20190604](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%9520190604.md)
    
 ***
 
@@ -171,7 +172,7 @@
 ```
 - 图片管理器
    - 无法正常查看图片，一直显示同一张图片
-- 首次配置
+- 首次配置未
    - 当前原生的首次配置无法输入wifi密码
 - 相机/摄像头
    - 微信的视频功能只有第一次能用，之后会无法显示自己这方的画面
