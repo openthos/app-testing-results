@@ -54,6 +54,7 @@
    - 文件管理器、桌面，拷贝较大的视频时，alert框显示的是上一次拷贝的内容
    - 窗口较小时，弹出的右键菜单位置有些别扭
    - 文件管理器工具栏中的开启共享功能第二次点击才生效，第一次只是给权限
+- 云视听悦厅最小化后自动关闭，[log](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/log/20190610-yunshitingcrash.txt)
 #### 其它
 - [全面测试20190604](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%9520190604.md)
 - [性能测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/oto8%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C.md#20190606)
@@ -262,6 +263,7 @@
 - qq在后台运行一段时间后报停止运行错误，多台电脑可以复现，[点击查看log](../log/qqcrash.txt)
 - 办公软件
    - 没有特别合适的文档编辑软件，WPS文档页面特别大，无法缩小，且打印的文字有深有浅；Microsoft的word每次使用都要联网，否则很多文字会显示不出来，之前连过也没用，打印时也必须联外网，否则会卡在正在获取准备打印的文件页面。
+- 云视听悦厅最小化后自动关闭，[log](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/log/20190610-yunshitingcrash.txt)
    
 #### 外接设备
 - 打印
