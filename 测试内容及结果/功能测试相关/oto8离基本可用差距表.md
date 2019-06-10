@@ -54,7 +54,8 @@
    - 窗口较小时，弹出的右键菜单位置有些别扭
    - 文件管理器工具栏中的开启共享功能第二次点击才生效，第一次只是给权限
 - [全面测试20190604](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%9520190604.md)
-   
+- [性能测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/oto8%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C.md#20190606)
+
 ***
 
 ## 所有问题列表
