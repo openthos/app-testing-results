@@ -39,6 +39,7 @@ sudo apt install mongodb
 tar xf apkinfo*.tar.bz2
 cd apkinfo_v1.1-CN/apkinfo
 scrapy crawl google		# 注意要在apkinfo目录下，且连接vPN才可成功运行
+	# 如碰到“不能解码”的错误，可删除代码里对应的注释符号
 python3 DuplicateRemoval.py	# app信息去重
 ```
 
