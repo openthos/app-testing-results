@@ -18,7 +18,8 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | ---------- | -------------------------- |
 | addpart    | 告诉内核一个指定分区的存在 |
 | blkdiscard | 丢弃设备上扇区的内容       |
-|            |                            |
+| chcon      | 改变文件的安全上下文       |
+| chcpu      | 修改CPU的状态              |
 
 
 
@@ -35,26 +36,24 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | blkid | 列出块设备的信息 | 通过 |
 | blkzone | 报告给定设备的zone信息 | **错误**。提示：unable to determine zone size。注：Ubuntu下无此命令 |
 | blockdev | 打印所有设备的报告 | **错误**。不能打印出设备的信息。 |
-| cal | | |
-| cat | | |
-| chcon | | |
-| chcpu | | |
-| chgrp | | |
-| chmem | | |
-| chmod | | |
-| choom | | |
-| chown | | |
-| chroot | | |
-| chrt | | |
-| cksum | | |
-| col | | |
-| colcrt | | |
-| colrm | | |
-| column | | |
-| comm | | |
-| cp | | |
-| csplit | | |
-| ctrlaltdel | | |
+| cal | 打印日历 | 通过 |
+| cat | 显示文件内容 | 通过 |
+| chgrp | 修改文件属组 | 通过 |
+| chmem | | **错误**。chmem: Failed to read /sys/devices/system/memory: No such file or directory |
+| chmod | 为一个无执行权的脚本增加执行权限 | 通过 |
+| choom | 列出指定进程的OOM score | 通过。注：Ubuntu下无此命令 |
+| chown | 修改文件属主 | 通过 |
+| chroot | 将根目录切换到一个Linux分区 | 通过 |
+| chrt | 获取init进程的实时调试属性 | 通过 |
+| cksum | 打印检验和并统计字节数 | 通过 |
+| col | 在标准输入中去掉backspaces | 通过 |
+| colcrt | 过滤标准输入进行crt预览 | 通过 |
+| colrm | 从标准输入中过滤掉指定的列 | 通过 |
+| column | 将输入格式化为多个列 | 通过 |
+| comm | 对两个排好序的文件进行比较 | 通过 |
+| cp | 复制文件和文件夹 | 通过 |
+| csplit | 使用正规表达式分割文件 | 通过 |
+| ctrlaltdel | 执行重启 | **错误**。重启无效。 |
 | cut | | |
 | date | | |
 | dd | | |
@@ -64,7 +63,7 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | dircolors | | |
 | dirname | | |
 | dmesg | | |
-| du | | |
+| du | *3 | |
 | echo | | |
 | eject | | |
 | env | | |
@@ -74,7 +73,7 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | fallocate | | |
 | false | | |
 | fdformat | | |
-| fdisk | | |
+| fdisk | *4 | |
 | fincore | | |
 | findfs | | |
 | findmnt | | |
