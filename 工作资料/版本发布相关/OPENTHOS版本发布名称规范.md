@@ -24,9 +24,6 @@
 - 链接：https://pan.baidu.com/
 - 创建日期目录，将镜像、OTA升级按tuna相同目录结构上传
 
-## OneDrive
-- 内容与tuna、百度网盘保持一致
-
 ## fosshub
 - 链接：https://devzone.fosshub.com
 - 内容与tuna、百度网盘保持一致
