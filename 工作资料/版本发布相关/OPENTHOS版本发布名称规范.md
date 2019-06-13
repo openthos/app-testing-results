@@ -23,3 +23,7 @@
 
 ## OneDrive
 - 内容与tuna、百度网盘保持一致
+
+## fosshub
+- 链接：https://devzone.fosshub.com
+- 内容与tuna、百度网盘保持一致
