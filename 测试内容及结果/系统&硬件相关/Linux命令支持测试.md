@@ -20,6 +20,11 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | blkdiscard | 丢弃设备上扇区的内容       |
 | chcon      | 改变文件的安全上下文       |
 | chcpu      | 修改CPU的状态              |
+| delpart    | 告诉内核忘记一个分区       |
+| eject      | 弹出设备                   |
+| fdformat   | 格式化软盘                 |
+| flock      | 等待，直到获得锁才执行命令 |
+| fsck.minix | 检查Minix文件系统的一致性  |
 
 
 
@@ -53,47 +58,42 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | comm | 对两个排好序的文件进行比较 | 通过 |
 | cp | 复制文件和文件夹 | 通过 |
 | csplit | 使用正规表达式分割文件 | 通过 |
-| ctrlaltdel | 执行重启 | **错误**。重启无效。 |
-| cut | | |
-| date | | |
-| dd | | |
-| delpart | | |
-| df | | |
-| dir | | |
-| dircolors | | |
-| dirname | | |
-| dmesg | | |
-| du | *3 | |
-| echo | | |
-| eject | | |
-| env | | |
-| expand | | |
-| expr | | |
-| factor | | |
-| fallocate | | |
-| false | | |
-| fdformat | | |
-| fdisk | *4 | |
-| fincore | | |
-| findfs | | |
-| findmnt | | |
-| flock | | |
-| fmt | | |
-| fold | | |
-| fsck | | |
-| fsck.minix | | |
-| fsfreeze | | |
-| fstrim | | |
+| ctrlaltdel | 执行soft和hard重启 | **错误**。重启无效。 |
+| cut | 选取指定的字符和域 | 通过 |
+| date | 打印日期 | 通过 |
+| dd | 创建指定大小的文件 | 通过 |
+| df | 报告硬盘占用情况 | 通过 |
+| dir | 显示文件详情 | 通过 |
+| dircolors | 输出默认设置 | 通过 |
+| dirname | 给出pwd所在目录 | 通过 |
+| dmesg | 打印出ring buffer中的内容 | 通过 |
+| du | 统计文件的空间占用情况 | 通过 |
+| echo | 字符串打印到标准输出 | 通过 |
+| env | 在指定的环境中运行程序，列出所有环境变量 | 通过 |
+| expand | 将tab转化为空格 | 通过 |
+| expr | 计算表达式的值 | 通过 |
+| factor | 分解素因子 | 通过 |
+| fallocate | 为文件预分配10G空间 | 通过 |
+| false | 返回表示错误的退出码 | 通过 |
+| fdisk | 列出所有设备的分区表 | **错误**。不能正确识别分区表的位置，但能识别指定设备。 |
+| fincore | 列出文件在内存中的占用情况 | 通过。注：Ubuntu中无此命令。 |
+| findfs | 通过标签和UUID查找文件系统 | 通过 |
+| findmnt | 列出所有已挂载的文件系统 | 通过 |
+| fmt | 输出行宽为2 | 通过 |
+| fold | 输出行宽为16 | 通过 |
+| fsck | 检查指定文件系统 | **错误**。fsck: error 2 (m) while executing fsck.ext4 for /dev/block/nvme0n1p2 |
+| fsfreeze | 挂起文件系统 | 通过 |
+| fstrim | 丢弃文件系统上不用的块 | 通过 |
 | getlimits | | |
 | getopt | | |
 | ginstall | | |
-| groups | | |
-| head | | |
-| hexdump | | |
-| hwclock | | |
-| id | | |
+| groups | 列出当前用户所在组的成员 | 通过 |
+| head | 打印出前2行的内容 | 通过 |
+| hexdump | hex+ASCII显示文件 | 通过 |
+| hwclock | 显示硬件时钟 | 通过 |
+| id | 列出当前用户的组信息 | 通过 |
 | ionice | | |
-| ipcmk | | |
+| ipcmk | *2 | |
 | ipcrm | | |
 | ipcs | | |
 | isosize | | |
