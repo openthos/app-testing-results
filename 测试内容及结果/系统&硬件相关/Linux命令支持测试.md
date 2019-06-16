@@ -44,7 +44,7 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | cal | 打印日历 | 通过 |
 | cat | 显示文件内容 | 通过 |
 | chgrp | 修改文件属组 | 通过 |
-| chmem | | **错误**。chmem: Failed to read /sys/devices/system/memory: No such file or directory |
+| chmem | 设置一块内存在线或离线 | **错误**。chmem: Failed to read /sys/devices/system/memory: No such file or directory |
 | chmod | 为一个无执行权的脚本增加执行权限 | 通过 |
 | choom | 列出指定进程的OOM score | 通过。注：Ubuntu下无此命令 |
 | chown | 修改文件属主 | 通过 |
@@ -85,7 +85,7 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | fsfreeze | 挂起文件系统 | 通过 |
 | fstrim | 丢弃文件系统上不用的块 | 通过 |
 | getlimits | | |
-| getopt | | |
+| getopt | 分析一段参数化的字符串 | |
 | ginstall | | |
 | groups | 列出当前用户所在组的成员 | 通过 |
 | head | 打印出前2行的内容 | 通过 |
@@ -98,40 +98,40 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | ipcs | | |
 | isosize | | |
 | join | | |
-| kill | | |
+| kill | 结束一个进程 | |
 | ldattach | | |
-| link | | |
-| ln | | |
+| link | 创建到一个文件的链接 | |
+| ln | 创建一个符号链接 | |
 | logger | | |
 | logname | | |
 | look | | |
 | losetup | | |
-| ls | | |
-| lsblk | | |
-| lscpu | | |
+| ls | 列出文件的信息 | |
+| lsblk | 列出块设备的信息 | |
+| lscpu | 列出cpu信息 | |
 | lsipc | | |
 | lslocks | | |
-| lsmem | | |
+| lsmem | 列出内存信息 | |
 | lsns | | |
 | make-prime-list | | |
 | mcookie | | |
-| md5sum | | |
-| mesg | | |
-| mkdir | | |
+| md5sum | 打印md5校验和 | |
+| mesg | 显示或不显示其他用户的消息 | |
+| mkdir | 创建目录 | |
 | mkfifo | | |
-| mkfs | | |
-| mkfs.bfs | | |
-| mkfs.minix | | |
+| mkfs | 创建文件系统 | |
+| mkfs.bfs | 创建一个SCO bfs文件系统 | |
+| mkfs.minix | 创建一个minix文件系统 | |
 | mknod | | |
-| mkswap | | |
+| mkswap | 在设备或文件上创建交换区域 | |
 | mktemp | | |
-| mount | | |
-| mountpoint | | |
-| mv | | |
-| namei | | |
+| mount | 挂载一个文件系统 | |
+| mountpoint | 检查一个目录或文件是否是一个挂载点 | |
+| mv | 重命名或移动文件 | |
+| namei | 列出路径中的所有成份 | |
 | nice | | |
-| nl | | |
-| nohup | | |
+| nl | 文件内容附加行号输出到标准输出 | |
+| nohup | 运行一个不受hangups影响的命令 | |
 | nologin | | |
 | nproc | | |
 | nsenter | | |
@@ -143,78 +143,78 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | pinky | | |
 | pivot_root | | |
 | pr | | |
-| printenv | | |
-| printf | | |
+| printenv | 打印环境变量 | |
+| printf | 打印格式化的数据 | |
 | prlimit | | |
 | ptx | | |
-| pwd | | |
+| pwd | 打印当前工作目录 | |
 | raw | | |
 | readlink | | |
 | readprofile | | |
 | realpath | | |
-| rename | | |
+| rename | 重命名文件 | |
 | renice | | |
 | resizepart | | |
 | rev | | |
 | rfkill | | |
-| rm | | |
-| rmdir | | |
+| rm | 删除文件或目录 | |
+| rmdir | 删除空目录 | |
 | rtcwake | | |
 | runcon | | |
 | script | | |
 | scriptreplay | | |
-| seq | | |
+| seq | 打印出一列数字 | |
 | setarch | | |
 | setsid | | |
-| sfdisk | | |
-| sha1sum | | |
-| sha224sum | | |
-| sha256sum | | |
-| sha384sum | | |
-| sha512sum | | |
+| sfdisk | 显示或管理磁盘分区 | |
+| sha1sum | 打印sha1校验和 | |
+| sha224sum | 打印sha224校验和 | |
+| sha256sum | 打印sha256校验和 | |
+| sha384sum | 打印sha384校验和 | |
+| sha512sum | 打印sha512校验和 | |
 | shred | | |
 | shuf | | |
-| sleep | | |
-| sort | | |
-| split | | |
-| stat | | |
+| sleep | 暂停一段时间 | |
+| sort | 对文件中的内容排序 | |
+| split | 分割文件 | |
+| stat | 显示文件或文件系统的状态 | |
 | stdbuf | | |
 | stty | | |
-| sum | | |
-| swaplabel | | |
-| swapoff | | |
-| swapon | | |
+| sum | 打印校验和与块数量 | |
+| swaplabel | 显示或改变交换区域的标签或UUID | |
+| swapoff | 关闭交换 | |
+| swapon | 开启交换 | |
 | switch_root | | |
-| sync | | |
+| sync | 内存中的缓存数据写入持久存储 | |
 | tac | | |
-| tail | | |
+| tail | 输出文件的最后部分 | |
 | taskset | | |
-| tee | | |
-| test | | |
+| tee | 将标准输入输出到文件和标准输出 | |
+| test | 检查文件类型和比较两个值 | |
 | timeout | | |
-| touch | | |
+| touch | 将文件的访问时间和修改时间设为当前时间 | |
 | tr | | |
-| true | | |
+| true | 返回成功值 | |
 | truncate | | |
 | tsort | | |
-| tty | | |
-| umount | | |
-| uname | | |
-| unexpand | | |
+| tty | 打印出连接到标准输入的终端的名称 | |
+| umount | 解除对文件系统的挂载 | |
+| uname | 打印出某个系统的信息 | |
+| unexpand | 将空格轮换为tabs | |
 | uniq | | |
-| unlink | | |
+| unlink | 调用unlink函数来删除指定文件 | |
 | unshare | | |
 | uptime | | |
-| users | | |
-| uuidd | | |
-| uuidgen | | |
-| uuidparse | | |
+| users | 显示当前登陆系统的用户列表 | |
+| uuidd | 生成UUID的守护进程 | |
+| uuidgen | 创建一个UUID值 | |
+| uuidparse | 解析uuid | |
 | vdir | | |
-| wc | | |
+| wc | 文件内容统计 | |
 | wdctl | | |
-| whereis | | |
-| who | | |
-| whoami | | |
+| whereis | 定位二进制，源和手册的位置 | |
+| who | 打印出已登陆用户的信息 | |
+| whoami | 打印出当前用户的用户名 | |
 | wipefs | | |
-| yes | | |
+| yes | 重复打印一串字符 | |
 | zramctl | | |
