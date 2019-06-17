@@ -30,3 +30,4 @@
 ## 其它
 - 接入U盘时偶尔系统硬重启
 - 任务管理器有些没有打开窗口的应用会显示在前台，比如openthos云，而有些有打开窗口的应用会显示在后台，比如微信
+- 升级后微信多次提示停止运行，[点击查看log](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/log/20190617-wechatcrash.txt)
