@@ -84,54 +84,54 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | fsck | 检查指定文件系统 | **错误**。fsck: error 2 (m) while executing fsck.ext4 for /dev/block/nvme0n1p2 |
 | fsfreeze | 挂起文件系统 | 通过 |
 | fstrim | 丢弃文件系统上不用的块 | 通过 |
-| getlimits | | |
-| getopt | 分析一段参数化的字符串 | |
-| ginstall | | |
+| getlimits | 输出与平台相关的限制条件 | 通过 |
+| getopt | 分析一段参数化的字符串 | 通过 |
+| ginstall | 将文件复制到目标位置 | 通过 |
 | groups | 列出当前用户所在组的成员 | 通过 |
 | head | 打印出前2行的内容 | 通过 |
 | hexdump | hex+ASCII显示文件 | 通过 |
 | hwclock | 显示硬件时钟 | 通过 |
 | id | 列出当前用户的组信息 | 通过 |
 | ionice | | |
-| ipcmk | *2 | |
+| ipcmk |  | |
 | ipcrm | | |
 | ipcs | | |
 | isosize | | |
 | join | | |
-| kill | 结束一个进程 | |
+| kill | 结束一个进程 | 通过 |
 | ldattach | | |
-| link | 创建到一个文件的链接 | |
-| ln | 创建一个符号链接 | |
+| link | 创建到一个文件的链接 | 通过 |
+| ln | 创建一个符号链接 | 通过 |
 | logger | | |
 | logname | | |
 | look | | |
 | losetup | | |
-| ls | 列出文件的信息 | |
-| lsblk | 列出块设备的信息 | |
-| lscpu | 列出cpu信息 | |
+| ls | 列出文件的信息 | 通过 |
+| lsblk | 列出块设备的信息 | 通过 |
+| lscpu | 列出cpu信息 | 通过 |
 | lsipc | | |
 | lslocks | | |
-| lsmem | 列出内存信息 | |
+| lsmem | 列出内存信息 | **错误**。This system does not support memory blocks |
 | lsns | | |
 | make-prime-list | | |
 | mcookie | | |
-| md5sum | 打印md5校验和 | |
-| mesg | 显示或不显示其他用户的消息 | |
-| mkdir | 创建目录 | |
+| md5sum | 打印md5校验和 | 通过 |
+| mesg | 显示或不显示其他用户的消息 | 通过 |
+| mkdir | 创建目录 | 通过 |
 | mkfifo | | |
-| mkfs | 创建文件系统 | |
-| mkfs.bfs | 创建一个SCO bfs文件系统 | |
-| mkfs.minix | 创建一个minix文件系统 | |
+| mkfs | 创建文件系统 | 通过 |
+| mkfs.bfs | 创建一个SCO bfs文件系统 | 通过 |
+| mkfs.minix | 创建一个minix文件系统 | 通过 |
 | mknod | | |
-| mkswap | 在设备或文件上创建交换区域 | |
+| mkswap | 在设备或文件上创建交换区域 | 通过 |
 | mktemp | | |
-| mount | 挂载一个文件系统 | |
-| mountpoint | 检查一个目录或文件是否是一个挂载点 | |
-| mv | 重命名或移动文件 | |
-| namei | 列出路径中的所有成份 | |
+| mount | 挂载一个文件系统 | 通过 |
+| mountpoint | 检查一个目录或文件是否是一个挂载点 | 通过 |
+| mv | 重命名或移动文件 | 通过 |
+| namei | 列出路径中的所有成份 | 通过 |
 | nice | | |
-| nl | 文件内容附加行号输出到标准输出 | |
-| nohup | 运行一个不受hangups影响的命令 | |
+| nl | 文件内容附加行号输出到标准输出 | 通过 |
+| nohup | 运行一个不受hangups影响的命令 | **错误**。FORTIFY: umask: called with invalid mask -601 |
 | nologin | | |
 | nproc | | |
 | nsenter | | |
@@ -143,78 +143,78 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | pinky | | |
 | pivot_root | | |
 | pr | | |
-| printenv | 打印环境变量 | |
-| printf | 打印格式化的数据 | |
+| printenv | 打印环境变量 | 通过 |
+| printf | 打印格式化的数据 | 通过 |
 | prlimit | | |
 | ptx | | |
-| pwd | 打印当前工作目录 | |
+| pwd | 打印当前工作目录 | 通过 |
 | raw | | |
 | readlink | | |
 | readprofile | | |
 | realpath | | |
-| rename | 重命名文件 | |
+| rename | 重命名文件 | 通过 |
 | renice | | |
 | resizepart | | |
 | rev | | |
 | rfkill | | |
-| rm | 删除文件或目录 | |
-| rmdir | 删除空目录 | |
+| rm | 删除文件或目录 | 通过 |
+| rmdir | 删除空目录 | 通过 |
 | rtcwake | | |
 | runcon | | |
 | script | | |
 | scriptreplay | | |
-| seq | 打印出一列数字 | |
+| seq | 打印出一列数字 | 通过 |
 | setarch | | |
 | setsid | | |
-| sfdisk | 显示或管理磁盘分区 | |
-| sha1sum | 打印sha1校验和 | |
-| sha224sum | 打印sha224校验和 | |
-| sha256sum | 打印sha256校验和 | |
-| sha384sum | 打印sha384校验和 | |
-| sha512sum | 打印sha512校验和 | |
+| sfdisk | 显示或管理磁盘分区 | **错误**。不能正确识别分区表的位置，但能识别指定设备。 |
+| sha1sum | 打印sha1校验和 | 通过 |
+| sha224sum | 打印sha224校验和 | 通过 |
+| sha256sum | 打印sha256校验和 | 通过 |
+| sha384sum | 打印sha384校验和 | 通过 |
+| sha512sum | 打印sha512校验和 | 通过 |
 | shred | | |
 | shuf | | |
-| sleep | 暂停一段时间 | |
-| sort | 对文件中的内容排序 | |
-| split | 分割文件 | |
-| stat | 显示文件或文件系统的状态 | |
+| sleep | 暂停一段时间 | 通过 |
+| sort | 对文件中的内容排序 | **错误**。cannot read: abc.txt: Invalid argument |
+| split | 分割文件 | 通过 |
+| stat | 显示文件或文件系统的状态 | 通过 |
 | stdbuf | | |
 | stty | | |
-| sum | 打印校验和与块数量 | |
-| swaplabel | 显示或改变交换区域的标签或UUID | |
-| swapoff | 关闭交换 | |
-| swapon | 开启交换 | |
+| sum | 打印校验和与块数量 | 通过 |
+| swaplabel | 显示或改变交换区域的标签或UUID | 通过 |
+| swapoff | 关闭交换 | **无法判断**。因为swapon不能生效。 |
+| swapon | 开启交换 | **错误**。failed to parse /etc/fstab: No such file or directory |
 | switch_root | | |
-| sync | 内存中的缓存数据写入持久存储 | |
+| sync | 内存中的缓存数据写入持久存储 | 通过 |
 | tac | | |
-| tail | 输出文件的最后部分 | |
+| tail | 输出文件的最后部分 | 通过 |
 | taskset | | |
-| tee | 将标准输入输出到文件和标准输出 | |
-| test | 检查文件类型和比较两个值 | |
+| tee | 将标准输入输出到文件和标准输出 | 通过 |
+| test | 检查文件类型和比较两个值 | 通过 |
 | timeout | | |
-| touch | 将文件的访问时间和修改时间设为当前时间 | |
+| touch | 将文件的访问时间和修改时间设为当前时间 | 通过 |
 | tr | | |
-| true | 返回成功值 | |
+| true | 返回成功值 | 通过 |
 | truncate | | |
 | tsort | | |
-| tty | 打印出连接到标准输入的终端的名称 | |
-| umount | 解除对文件系统的挂载 | |
-| uname | 打印出某个系统的信息 | |
-| unexpand | 将空格轮换为tabs | |
+| tty | 打印出连接到标准输入的终端的名称 | 通过 |
+| umount | 解除对文件系统的挂载 | 通过 |
+| uname | 打印出某个系统的信息 | 通过 |
+| unexpand | 将空格轮换为tabs | 通过 |
 | uniq | | |
-| unlink | 调用unlink函数来删除指定文件 | |
+| unlink | 调用unlink函数来删除指定文件 | 通过 |
 | unshare | | |
 | uptime | | |
-| users | 显示当前登陆系统的用户列表 | |
-| uuidd | 生成UUID的守护进程 | |
-| uuidgen | 创建一个UUID值 | |
-| uuidparse | 解析uuid | |
+| users | 显示当前登陆系统的用户列表 | **错误**。无输出 |
+| uuidd | 生成UUID的守护进程 | **错误**。cannot open /usr/var/run/uuidd/uuidd.pid: No such file or directory |
+| uuidgen | 创建一个UUID值 | 通过 |
+| uuidparse | 解析uuid | 通过 |
 | vdir | | |
-| wc | 文件内容统计 | |
+| wc | 文件内容统计 | 通过 |
 | wdctl | | |
-| whereis | 定位二进制，源和手册的位置 | |
-| who | 打印出已登陆用户的信息 | |
-| whoami | 打印出当前用户的用户名 | |
+| whereis | 定位二进制，源和手册的位置 | 通过 |
+| who | 打印出已登陆用户的信息 | **错误**。无输出 |
+| whoami | 打印出当前用户的用户名 | 通过 |
 | wipefs | | |
-| yes | 重复打印一串字符 | |
+| yes | 重复打印一串字符 | 通过 |
 | zramctl | | |
