@@ -94,7 +94,7 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | **hexdump** | hex+ASCII显示文件 | 通过 |
 | **hwclock** | 显示硬件时钟 | 通过 |
 | **id** | 列出当前用户的组信息 | 通过 |
-| **ionice** | | |
+| **ionice** | 显示进程信息 | |
 | ipcmk |  | |
 | ipcrm | | |
 | ipcs | | |
@@ -105,9 +105,9 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | link | 创建到一个文件的链接 | 通过 |
 | **ln** | 创建一个符号链接 | 通过 |
 | logger | | |
-| **logname** | | |
+| **logname** | 打印当前的登陆用户 | |
 | look | | |
-| **losetup** | | |
+| **losetup** | 设备loop设备 | |
 | **ls** | 列出文件的信息 | 通过 |
 | lsblk | 列出块设备的信息 | 通过 |
 | lscpu | 列出cpu信息 | 通过 |
@@ -120,18 +120,18 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | **md5sum** | 打印md5校验和 | 通过 |
 | **mesg** | 显示或不显示其他用户的消息 | 通过 |
 | **mkdir** | 创建目录 | 通过 |
-| **mkfifo** | | |
+| **mkfifo** | 创建命名管道 | |
 | **mkfs** | 创建文件系统 | 通过 |
 | mkfs.bfs | 创建一个SCO bfs文件系统 | 通过 |
 | mkfs.minix | 创建一个minix文件系统 | 通过 |
-| **mknod** | | |
+| **mknod** | 创建字符或块设备文件 | |
 | **mkswap** | 在设备或文件上创建交换区域 | 通过 |
-| **mktemp** | | |
+| **mktemp** | 创建临时文件 | |
 | **mount** | 挂载一个文件系统 | 通过 |
 | **mountpoint** | 检查一个目录或文件是否是一个挂载点 | 通过 |
 | **mv** | 重命名或移动文件 | 通过 |
 | namei | 列出路径中的所有成份 | 通过 |
-| **nice** | | |
+| **nice** | 为命令指定优先级 | |
 | **nl** | 文件内容附加行号输出到标准输出 | 通过 |
 | **nohup** | 运行一个不受hangups影响的命令 | **错误**。FORTIFY: umask: called with invalid mask -601 |
 | nologin | | |
@@ -193,20 +193,20 @@ S1笔记本，android-desktop-oreo-generic_pc-190611.iso
 | **taskset** | | |
 | **tee** | 将标准输入输出到文件和标准输出 | 通过 |
 | **test** | 检查文件类型和比较两个值 | 通过 |
-| **timeout** | | |
+| **timeout** | 指定进程运行时间 | |
 | **touch** | 将文件的访问时间和修改时间设为当前时间 | 通过 |
-| **tr** | | |
+| **tr** | 转换或删除字符 | |
 | **true** | 返回成功值 | 通过 |
-| **truncate** | | |
+| **truncate** | 修改文件大小 | |
 | tsort | | |
 | **tty** | 打印出连接到标准输入的终端的名称 | 通过 |
 | **umount** | 解除对文件系统的挂载 | 通过 |
 | **uname** | 打印出某个系统的信息 | 通过 |
 | **unexpand** | 将空格轮换为tabs | 通过 |
-| **uniq** | | |
+| **uniq** | 过滤重复的行 | |
 | unlink | 调用unlink函数来删除指定文件 | 通过 |
 | unshare | | |
-| **uptime** | | |
+| **uptime** | 报告系统运行时间 | |
 | users | 显示当前登陆系统的用户列表 | **错误**。无输出 |
 | uuidd | 生成UUID的守护进程 | **错误**。cannot open /usr/var/run/uuidd/uuidd.pid: No such file or directory |
 | uuidgen | 创建一个UUID值 | 通过 |
