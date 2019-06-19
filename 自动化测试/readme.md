@@ -1,1 +1,1 @@
-自动化测试请看testing-analysis下的内容
+自动化测试请看testing-analysis仓库下的内容
