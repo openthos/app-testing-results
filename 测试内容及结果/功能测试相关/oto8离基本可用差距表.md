@@ -59,6 +59,8 @@
 - 无法通过adb命令连接到其它android设备（但可以ping通）-----------2019-03-08新增
 - oto8 for AOSP-----------已合并到2019-04-02的multiwindow
 - oto8的多个应用通过鼠标滚轮下拉页面会自动跳回到页面最上方，有时鼠标单击也不灵敏
+- 启动时有字符
+- 一台电脑安装两个openthos系统，比如一个2.0一个8.0，如果引导文件装在一个efi分区中，后安装的会覆盖之前的，安装是选择不覆盖也没有用
 
 #### 权限管理
 [测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86.md)
