@@ -97,7 +97,6 @@
    - [学习强国测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%85%B6%E5%AE%83%E5%BA%94%E7%94%A8/oto8%E9%A6%96%E6%89%B9%E9%80%82%E9%85%8D%E5%BA%94%E7%94%A8.md)
 
 #### 云服务
-- Openthos Cloud 用有线网不显示资料库列表，无线网可以显示。
 - 文件管理器、设置和首次配置的UI功能移植For those who are using maven build structures, checkout the project from maven branch.
 - seafile demo及其依赖库移植到aosp8.1-----------已完成，需要王之旭修改UI才能开始测试
 - 用C重新实现seaf-cli-----------已完成，需要王之旭修改UI才能开始测试
@@ -113,6 +112,7 @@
     Warning: session_destroy(): Session callback expects true/false return value 在 user_logout() (行 178 在 /shared/html/id/modules/user/user.pages.inc).
     Warning: session_destroy(): Session object destruction failed 在 user_logout() (行 178 在 /shared/html/id/modules/user/user.pages.inc).
 ```
+- [openthos云app](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E4%BA%91%E6%9C%8D%E5%8A%A1/OPENTHOS_CLOUD/%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E5%88%97%E8%A1%A8.md)
 
 #### 设置
 ###### 重要
