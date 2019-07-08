@@ -49,8 +49,9 @@
 #### 权限管理
 [测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86.md)
 - audio部分-----------已完成
-- camera部分-----------由于没有假图像，关闭权限时应用仍会崩溃或提示无法运行
-- gps部分-----------与/device/generic/common下的源码冲突，需删除对应源码，需要和刘总讨论
+- camera部分-----------在微信等第三方app中无法正常使用
+- gps部分
+   - 需要在hal层能区分是哪个app发出的请求，并根据配置选择合适的虚拟驱动或真实驱动
 
 
 #### oto8界面
