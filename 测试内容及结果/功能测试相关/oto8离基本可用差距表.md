@@ -105,9 +105,6 @@
    - 时钟计时器功能完成计时后崩溃
    - 学堂在线横屏打开时播放视频页面显示空白
    - [学习强国测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%85%B6%E5%AE%83%E5%BA%94%E7%94%A8/oto8%E9%A6%96%E6%89%B9%E9%80%82%E9%85%8D%E5%BA%94%E7%94%A8.md)
-- 网易云音乐：我的 → 最新电音 → 关于DI FM  → 返回 → 返回，退到我的页面，页面freeze
-- 印象笔记：最底端的笔记鼠标滚轮不能滚动到最低端，进行拖拽可以显示最后一条笔记。
-- 3D Mark: 运行结果电池电量和FPS的图不能通过滚轮滚动显示全，但是拖拽可以显示全。
 
 #### 云服务
 - 文件管理器、设置和首次配置的UI功能移植For those who are using maven build structures, checkout the project from maven branch.
@@ -321,7 +318,9 @@
    - 学习中心的视频不能播放
    - 钉钉社区的文章右侧显示不全
 - [微信各个版本测试结果](https://github.com/openthos/app-testing-results/blob/master/%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E5%8F%8A%E7%BB%93%E6%9E%9C/%E5%85%B6%E5%AE%83%E5%BA%94%E7%94%A8/%E5%BE%AE%E4%BF%A1%E9%97%AE%E9%A2%98.md)
-
+- 网易云音乐：我的 → 最新电音 → 关于DI FM  → 返回 → 返回，退到我的页面，页面freeze
+- 印象笔记：最底端的笔记鼠标滚轮不能滚动到最低端，进行拖拽可以显示最后一条笔记。
+- 3D Mark: 运行结果电池电量和FPS的图不能通过滚轮滚动显示全，但是拖拽可以显示全。
    
 #### 外接设备
 ###### 重要
