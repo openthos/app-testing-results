@@ -1,7 +1,6 @@
 # oto8离基本可用差距表
 - **目标：六月前完成oto8**
-- [oto8项目进度表](https://github.com/openthos/app-testing-results/blob/master/list/%E5%8A%9F%E8%83%BD%E7%82%B9%E5%88%97%E8%A1%A8/oto8%E9%A1%B9%E7%9B%AE%E8%BF%9B%E5%BA%A6%E8%A1%A8.md)
-- [本周工作任务](https://github.com/openthos/community-analysis/blob/master/weekly%20report/work-progress/20190702-20190708%E5%91%A8%E4%BB%BB%E5%8A%A1%E8%BF%9B%E5%BA%A6.md)
+- [本周工作任务](https://github.com/openthos/community-analysis/blob/master/weekly%20report/work-progress/20190715-20190719%E5%91%A8%E4%BB%BB%E5%8A%A1%E8%BF%9B%E5%BA%A6.md)
 ***
 
 ## 目录
