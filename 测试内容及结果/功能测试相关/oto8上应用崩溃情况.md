@@ -19,7 +19,7 @@
 |哔哩哔哩|pass|Pass|
 |AutoCAD|pass|样例不能下载|
 |亚马逊购物HD|pass|加购物车，浏览商品时崩溃|
-|3DMark|pass|Pass|
+|3DMark|运行完测试后会报停止运行错误，不过没有崩|Pass|
 |QQ|pass|使用中崩溃|
 |钉钉|pass|启动时崩溃|
 |网易云音乐|pass|启动崩溃，关闭之后崩溃|
