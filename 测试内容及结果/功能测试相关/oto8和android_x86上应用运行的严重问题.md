@@ -1,4 +1,4 @@
-## oto8上应用崩溃情况
+## oto8和android_x86上应用运行的严重问题
 
 |应用名称|oto8|android_x86|
 |-----|-----|-----|
@@ -12,7 +12,7 @@
 |Podcast Addict|pass|Pass|
 |亚马逊Kindle|pass|启动时崩溃|
 |IT之家|pass|启动时崩溃，重新打开后可以正常使用|
-|GFXBench GL|pass|不能连接到服务器|
+|GFXBench GL|没崩，但是不能连接到服务器|没崩，但是不能连接到服务器|
 |Gamepad Tester|pass|Pass|
 |央视影音|启动时崩溃|启动时崩溃|
 |佳能打印|启动时崩溃|启动时崩溃|
