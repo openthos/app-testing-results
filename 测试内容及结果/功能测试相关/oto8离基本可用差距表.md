@@ -1,6 +1,6 @@
 # oto8离基本可用差距表
 - **目标：六月前完成oto8**
-- [本周工作任务](https://github.com/openthos/community-analysis/blob/master/weekly%20report/work-progress/20190722-20190726%E5%91%A8%E4%BB%BB%E5%8A%A1%E8%BF%9B%E5%BA%A6.md)
+- [本周工作任务](https://github.com/openthos/community-analysis/blob/master/weekly%20report/work-progress/20190729-20190802%E5%91%A8%E4%BB%BB%E5%8A%A1%E8%BF%9B%E5%BA%A6.md)
 ***
 
 ## 目录
